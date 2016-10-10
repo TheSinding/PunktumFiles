@@ -1,0 +1,4453 @@
+{
+   "1001360787461904844": {
+      "message": "$TARGET$ için diğer seçenekler",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1008774365351112026": {
+      "message": "\"$REL_NO_FOLLOW$\" özelliğini ekle ($LINK_START$Daha fazla bilgi edinin$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normal"
+   },
+   "1026450251988549367": {
+      "message": "Yakın zamanda değiştirildi"
+   },
+   "1035476379650787996": {
+      "message": "İsteğiniz tamamlanamıyor"
+   },
+   "1035734413919296": {
+      "message": "Müzik ekle"
+   },
+   "1044946868924904798": {
+      "message": "Bağlantı yok"
+   },
+   "1046700819368184074": {
+      "message": "İndirme klasörü"
+   },
+   "1047094450854611275": {
+      "message": "Mini oynatıcıyı kullanarak müzik çalmayı tarayıcı penceresinin dışında kontrol edebilir, şarkıları beğenebilir ve Kendimi Şanslı Hissediyorum radyo istasyonunu dinleyebilirsiniz."
+   },
+   "1052242579040192537": {
+      "message": "Kanada Yerli"
+   },
+   "10524368647766690": {
+      "message": "#"
+   },
+   "1054861724689881963": {
+      "message": "Ücretsiz Radyoyu Başlat"
+   },
+   "1061567929494389534": {
+      "message": "Radyo kanalları alınamadı. Lütfen bekleyin."
+   },
+   "1061598772078003048": {
+      "message": "Satır Arası Ek Açıklama Sonlandırıcı"
+   },
+   "1065557748112539713": {
+      "message": "Müzik indirme işlemi duraklatılıyor"
+   },
+   "108743912460085743": {
+      "message": "Soldan Sağa Bindirme"
+   },
+   "1091846413708174942": {
+      "message": "Podcast'leriniz"
+   },
+   "1099947980448260765": {
+      "message": "Üst Sıralar listesine git"
+   },
+   "1105024870503318889": {
+      "message": "Müziklerimi ekle"
+   },
+   "113306301971655652": {
+      "message": "Soldan Sağa İşaretleme"
+   },
+   "1143190206278116157": {
+      "message": "Tarih: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1144407473317535723": {
+      "message": "Abone Ol"
+   },
+   "1144614654642966892": {
+      "message": "Bir sonraki faturadan önce iptal edin. O zamana kadar dinlemeye devam edin."
+   },
+   "1145877575671354635": {
+      "message": "Kitaplığı yenile"
+   },
+   "1147358182484006761": {
+      "message": "Mağaza"
+   },
+   "1150285978886683433": {
+      "message": "Tekrarlama modunu, kapalı, tüm ve bir modları arasında geçiş yapacak şekilde değiştir."
+   },
+   "1152313922995021532": {
+      "message": "64 bit .rpm (Fedora/openSUSE için)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 şarkı eklendi}other{ {NUM_TRANSFERRED_TRACKS_2} şarkı eklendi}}"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dakika}other{{TEXT} dakika}}"
+   },
+   "1181311234668957012": {
+      "message": "Otomatik şarkı listesi"
+   },
+   "1182611188595867762": {
+      "message": "2. Yükleyici açıldığında Müzik Yönetici'nin kurulumu için talimatları uygulayın."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 şarkı silindi}other{# şarkı silindi}}"
+   },
+   "1189933439482480473": {
+      "message": "Şarkı sınırına ulaşıldı."
+   },
+   "1207788277335800169": {
+      "message": "Tüm $ARTIST_NAME$ videolarını görüntüle",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1220984280262077870": {
+      "message": "Ücretsizler ve satın alınanlar"
+   },
+   "1227051853106034748": {
+      "message": "Önizlemede çalma konumu değiştirilemez"
+   },
+   "1229167447861422460": {
+      "message": "Aynı anda iki cihazda birden müzik çalınamaz"
+   },
+   "1233161892151828431": {
+      "message": "İtalik"
+   },
+   "1238358838717941284": {
+      "message": "Örnek"
+   },
+   "1248987958177161816": {
+      "message": "HTML kaynağını düzenle"
+   },
+   "1249846405947826980": {
+      "message": "Önceki bölüm"
+   },
+   "1257583932123379891": {
+      "message": "Şu kaynaktan poscast'leri görüntüle:"
+   },
+   "1275783181441501836": {
+      "message": "Paragraf Ayırıcı"
+   },
+   "128003684539571261": {
+      "message": "Para birimi"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcast}=1{1 podcast}other{# podcast}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Uygulama klasörünüzü açın ve Müzik Yönetici'yi çift tıklayın."
+   },
+   "1291021741111868686": {
+      "message": "64 bit .deb (Debian/Ubuntu için)"
+   },
+   "1291623607736913474": {
+      "message": "Şu kaynaktan istasyonlara göz at:"
+   },
+   "1294292881529533213": {
+      "message": "Google Play Müzik logosu"
+   },
+   "1295614462098694869": {
+      "message": "Önizle"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "129923171865835166": {
+      "message": "Kendimi Şanslı Hissediyorum radyosu"
+   },
+   "1303647473723340887": {
+      "message": "Mevcut seçimin üzerindeki öğeyi seç"
+   },
+   "131636849522359023": {
+      "message": "$XXX$ altında sağlanmaktadır",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1330646976582013113": {
+      "message": "kapat"
+   },
+   "1341185708905265042": {
+      "message": "Disk no"
+   },
+   "1345511732360402048": {
+      "message": "Eski Türkçe"
+   },
+   "1348774649041038169": {
+      "message": "Gezinme"
+   },
+   "1370021378292702047": {
+      "message": "\"$SONG_TITLE$\" yanlış eşleşme olarak işaretlendi.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Karışık modunu açık ve kapalı olarak değiştir."
+   },
+   "1372788343021542418": {
+      "message": "Mini oynatıcıyı kullanmak için web üzerinden Google Play Müzik'te oturum açın."
+   },
+   "1382005717519484629": {
+      "message": "Boşluk"
+   },
+   "1393837337557373364": {
+      "message": "Albüm"
+   },
+   "1404225614691686373": {
+      "message": "Google Play'den$START_BREAK$Sınırsız Müzik",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$, seçmek için tıklayın.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1418504114877368118": {
+      "message": "Yazan: $LYRICIST_LIST_JOINED$",
+      "placeholders": {
+         "LYRICIST_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Giriş için özel renk. Ör. pembe, #F00, #D015FF veya rgb(100, 50, 25)"
+   },
+   "1429336442713571177": {
+      "message": "Şarkı listeleri"
+   },
+   "1430061825590893722": {
+      "message": "Bu bağlantıyı yeni bir pencerede aç"
+   },
+   "1433391846042476830": {
+      "message": "Dün"
+   },
+   "1435809990540516997": {
+      "message": "Müzik ekleniyor"
+   },
+   "1444145448465775598": {
+      "message": "İptal"
+   },
+   "1453708590388513852": {
+      "message": "Teknik"
+   },
+   "1464072562214937907": {
+      "message": "Yıl"
+   },
+   "147527058386222778": {
+      "message": "Akış Kalitesi"
+   },
+   "1483596119706515744": {
+      "message": "Bugi"
+   },
+   "1486857306659217748": {
+      "message": "Atla"
+   },
+   "1487523984872879956": {
+      "message": "Büyük Kare"
+   },
+   "1490665788833937521": {
+      "message": "Mini oynatıcıyı edinin"
+   },
+   "1494946186465201682": {
+      "message": "İptal"
+   },
+   "1501458973427096787": {
+      "message": "Çevrimdışı olarak her şeyi dinleyin"
+   },
+   "1504214836895903832": {
+      "message": "Bağlanılamadı"
+   },
+   "1517865562673472241": {
+      "message": "1. Yükleyicinin işlemi tamamlamasını bekleyin."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ 1 şarkı indirilemiyor}other{ {NUM_FAILURES_2} şarkı indirilemiyor}}"
+   },
+   "1558113021895652337": {
+      "message": "Dosya DRM korumalı"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1567787058497621332": {
+      "message": "Müziğinizi tek bir yerde depolayın. Akıllı telefonunuzdan, tabletinizden veya web üzerinden dinleyin."
+   },
+   "1573657685592390905": {
+      "message": "Klasör seç..."
+   },
+   "1575810254412583888": {
+      "message": "Parçalar"
+   },
+   "1595478688335662057": {
+      "message": "Bir Google Kullanıcısı"
+   },
+   "1598061158801514509": {
+      "message": "Müzik indirme işlemi devam ettiriliyor"
+   },
+   "1607904075839741217": {
+      "message": "Bilgisayarınızdan seçin"
+   },
+   "1615800076127848008": {
+      "message": "Tai Le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{# saat içinde}=1{# saat içinde}other{# saat içinde}}"
+   },
+   "1635932785663944786": {
+      "message": "Sayı"
+   },
+   "1658346838703079243": {
+      "message": "Değiştir"
+   },
+   "1664100143082435029": {
+      "message": "İptal"
+   },
+   "1666765550993208796": {
+      "message": "Bu şarkıların eşleştirilmeleri hatalı mı?"
+   },
+   "1673135862760647009": {
+      "message": "Sınırsız şarkı atlamalı reklamsız radyo"
+   },
+   "1676480944844752785": {
+      "message": "Otomatik şarkı listeleri"
+   },
+   "1686917835491599951": {
+      "message": "Yakın zamanda Kitaplığım'a eklendi"
+   },
+   "1689044830718067443": {
+      "message": "Yükleme birkaç saniye içinde otomatik olarak başlayacaktır. $START_LINK$Yardım$END_LINK$ istiyor musunuz?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1689448196820298645": {
+      "message": "Yaklaşan konserler"
+   },
+   "1698114086921246480": {
+      "message": "Abonelikten çık"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Müzik"
+   },
+   "1709114386311494800": {
+      "message": "Bağlantı oluştur"
+   },
+   "1712333098917352630": {
+      "message": "Radyo"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Siz zaten abonesiniz. Kuponlar şu anda yalnızca yeni kullanıcılar için sunulmaktadır."
+   },
+   "1722592106949807025": {
+      "message": "Hata Ayıklama Günlüklerini Kaydet"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Hakkında"
+   },
+   "1729815731089690989": {
+      "message": "İnternet'e bağlı olduğunuzdan emin olun"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ - Podcast içerir",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1751129087972897649": {
+      "message": "İmparatorluk Aramicesi"
+   },
+   "1763795268257640974": {
+      "message": "Şarkı listesi aboneliğinden çıkılamadı. Lütfen tekrar deneyin."
+   },
+   "1765521785433616250": {
+      "message": "İndirme işleminiz kısa süre içinde başlayacaktır. Başlamazsa lütfen $START_SPAN$burayı tıklayın$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Bilinmeyen Sanatçı"
+   },
+   "1790640569414740156": {
+      "message": "Türler"
+   },
+   "1796702769044958723": {
+      "message": "32 bit .deb (Debian/Ubuntu için)"
+   },
+   "1800865039213871505": {
+      "message": "Şu bağlantıya git: "
+   },
+   "1803865475179910876": {
+      "message": "$PLATFORM$ üzerinde Chrome için Google Play Müzik",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1819368767424033007": {
+      "message": "Tarihi"
+   },
+   "1823843876735462104": {
+      "message": "Şarkı Listeleri"
+   },
+   "182621168783940405": {
+      "message": "Sağdan Sola İşaretleme"
+   },
+   "1831178715211281116": {
+      "message": "Maalesef yalnızca belirli Chrome OS cihazlar bu promosyondan yararlanabilir. Yine de sınırsız müzik istiyor musunuz?"
+   },
+   "183429683821106611": {
+      "message": "Tamam"
+   },
+   "1838639948466909028": {
+      "message": "Bu sayfa, tarayıcınızla uyumlu değil. $START_LINK$Desteklenen tarayıcılardan$END_LINK$ birini kullanın.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "184252996364058487": {
+      "message": "0 dakika"
+   },
+   "1850859858333664648": {
+      "message": "Tüm müzikler"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Sınırsız atlamalı radyo keyfi$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Müzik Sembolü Cümle Sonu"
+   },
+   "1865818889600889051": {
+      "message": "Your account has changed. Please refresh the page to continue."
+   },
+   "1867674656927443481": {
+      "message": "Tüm yeni sürümler"
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mix}=1{1 mix}other{# mix}}"
+   },
+   "1869588215425319728": {
+      "message": "Gezinme çekmecesini kapat."
+   },
+   "1872101028863972302": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ şarkı indirildi",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Mevcut seçimin altındaki öğeyi seç"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1914372876923825240": {
+      "message": "Bağlantı hedefi:"
+   },
+   "192481666606780833": {
+      "message": "Müzik çalınamıyor"
+   },
+   "193503854366151748": {
+      "message": "Mevcut şarkıyı beğenilmedi olarak işaretle"
+   },
+   "1945037339176024290": {
+      "message": "İliştirilmiş"
+   },
+   "1947306462789680361": {
+      "message": "$NUM$ dakika önce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Müzik Sembolü Cümle Başı"
+   },
+   "1962559411793600980": {
+      "message": "Avestan"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ bilgisayar",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "Han 9 Çizgili Radikaller"
+   },
+   "1981857715812460988": {
+      "message": "İlgili sanatçılar"
+   },
+   "1984987229407697795": {
+      "message": "Podcast'ler"
+   },
+   "1989564869397178334": {
+      "message": "Başlık"
+   },
+   "1996585593795647892": {
+      "message": "Bağlantı ekle veya kaldır"
+   },
+   "2006786763920466492": {
+      "message": "Silinme tarihi"
+   },
+   "2028747142234068875": {
+      "message": "Sizin için önerildi"
+   },
+   "2029980907058777630": {
+      "message": "Hizmet Şartları"
+   },
+   "2032972931560484213": {
+      "message": "Oluşturan: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2035790691811675095": {
+      "message": "Google Play Müzik'e abone olun ve bu şarkı listesinin yanı sıra milyonlarca şarkı dinleyin. İlk ay ücretsizdir."
+   },
+   "2038339465785978681": {
+      "message": "Boşluksuz"
+   },
+   "2038618429165152799": {
+      "message": "Adsız"
+   },
+   "2080060559104348538": {
+      "message": "Güney Asya Alfabeleri"
+   },
+   "2085941577249285555": {
+      "message": "Abone ol"
+   },
+   "2088175644103984799": {
+      "message": "Kmerce Sesli Harf Doğal Aq"
+   },
+   "2093026227428526289": {
+      "message": "Bu teklif yalnızca, Google Play Müzik abonelik hizmetinin $START_LINK$sunulduğu$END_LINK$ ülkelerdeki yeni Chromebook'larda geçerlidir.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "Orta Çizgi"
+   },
+   "2101525118384454593": {
+      "message": "Şarkı karıştırmayı kapat"
+   },
+   "2102825898069375693": {
+      "message": "Menü"
+   },
+   "2107375315384298887": {
+      "message": "Alt simge"
+   },
+   "2109622269343579329": {
+      "message": "Geçersiz e-posta adresi"
+   },
+   "2139100152161431685": {
+      "message": "Müziğiniz bu cihazda geçici olarak kullanılamıyor. Lütfen daha sonra tekrar deneyin. $START_LINK$Yardım$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Kapat"
+   },
+   "2145060893030204211": {
+      "message": "Size daha fazla bilgi sağlayamıyoruz. Lütfen daha sonra tekrar deneyin."
+   },
+   "2149165958319691680": {
+      "message": "Satın al"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 şarkı}=1{1 şarkı}other{{NUM_SONGS_2} şarkı}}"
+   },
+   "2152998011161774228": {
+      "message": "g ardından h"
+   },
+   "2158830056128036057": {
+      "message": "Müzik dosyalarınız işleniyor..."
+   },
+   "2159130950882492111": {
+      "message": "İptal"
+   },
+   "216513153459932308": {
+      "message": "Kesirler/İlgili"
+   },
+   "2173312720188441245": {
+      "message": "Kıpti"
+   },
+   "2187022653493279712": {
+      "message": "g ardından e"
+   },
+   "2203397136690479355": {
+      "message": "Dosya işlenemiyor"
+   },
+   "2205522058604794595": {
+      "message": "Afrika Alfabeleri"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2214224657661107347": {
+      "message": "Hediye gönder"
+   },
+   "2220879710364134067": {
+      "message": "Seçili olan şarkıları düzenler"
+   },
+   "2239551688895104696": {
+      "message": "Şarkı listesi menüsünü açıp kapatın"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Müzik: Medya Klasörlerini Seçin"
+   },
+   "2252825622480483246": {
+      "message": "Meroe El Yazısı"
+   },
+   "2256597604224604671": {
+      "message": "Duraklat: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2262446869382672016": {
+      "message": "Google Play Müzik sevdiğiniz müzikleri akıllı telefonunuzdan, tabletinizden ve web üzerinden dinlemenizi kolaylaştırır."
+   },
+   "2270666830264677427": {
+      "message": "Bir kerede en çok $MAX_TRACKS_IN_ZIP$ şarkı indirilebilir. Lütfen daha az şarkı seçin ve tekrar deneyin.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2272173107172176330": {
+      "message": "$STATION_TITLE$ radyo istasyonunu çal",
+      "placeholders": {
+         "STATION_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Mevcut şarkıyı beğenildi olarak işaretle"
+   },
+   "2280774384387096759": {
+      "message": "Kitaplığınıza müzik eklemek için şarkıları veya klasörleri buraya sürükleyin."
+   },
+   "2296431514706414883": {
+      "message": "1. İndirilenler penceresinde MusicManager.dmg'yi çift tıklayın."
+   },
+   "229748758179155728": {
+      "message": "Maalesef Google Play Müzik ülkenizde kullanılamıyor."
+   },
+   "2299183036960756600": {
+      "message": "$NUM$ gün içinde",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2303154715443443305": {
+      "message": "Müzik Yönetici indiriliyor..."
+   },
+   "2303727423829841771": {
+      "message": "Hata. Tarayıcınızda JavaScript'inizin kapalı olduğu görünüyor. Google Play'in düzgün çalışması için JavaScript'in açık olması gerekir."
+   },
+   "2304955983019633604": {
+      "message": "$ARTIST$ adlı sanatçının $TITLE$ albümüne benzer albümlerden şarkılar dinleyin",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "2309808536212982229": {
+      "message": "Etkinlikler"
+   },
+   "2309894433432831059": {
+      "message": "Dikey Uzun Çizgi İçin Sunu Formu"
+   },
+   "2311151671924532713": {
+      "message": "Şarkı listesinden kaldır"
+   },
+   "2312110731653597036": {
+      "message": "%$PERCENTAGE_COMPLETE$",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "231679111972850796": {
+      "message": "Eklendi"
+   },
+   "2321398646644344846": {
+      "message": "Yarın"
+   },
+   "2328554046256236832": {
+      "message": "Desteklenmeyen FLAC dosyası"
+   },
+   "2328629775851907569": {
+      "message": "Google Play Müzik, sevdiğiniz müzikleri Android'de, iOS'de ve web'de dinlemeyi kolaylaştırır."
+   },
+   "2329070756809480856": {
+      "message": "Albüm: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2339250039074511222": {
+      "message": "Bu bağlantı test edilemiyor."
+   },
+   "2339750206850776348": {
+      "message": "Likya"
+   },
+   "2357805327369816634": {
+      "message": "Reklamlar olmadan tüm müziğe abone olun"
+   },
+   "2359922567074115383": {
+      "message": "Albüm kapağını temizle"
+   },
+   "2372448112806402757": {
+      "message": "Sonraki bölüm"
+   },
+   "2376735487384008742": {
+      "message": "Dalgalı Çizgi"
+   },
+   "2378357177170124823": {
+      "message": "Ondalık"
+   },
+   "2382000105167193834": {
+      "message": "Gucerat"
+   },
+   "2383360664777254925": {
+      "message": "Gezinme menüsünü aç/kapat"
+   },
+   "2390557292924554291": {
+      "message": "Sıfır Genişlik Birleştirici"
+   },
+   "2407755817901433243": {
+      "message": "Google Play Müzik aboneliği için kupon kodu kullanın."
+   },
+   "2434131766046654438": {
+      "message": "Doğrusal B"
+   },
+   "2443885011055165607": {
+      "message": "Lütfen indirmek istediğiniz paketi seçin:"
+   },
+   "2447745837421769983": {
+      "message": "En iyi indirme deneyimi için Chrome için Google Play Müzik'i edinin."
+   },
+   "2461177781520343478": {
+      "message": "Bilinmeyen parça"
+   },
+   "247847652023697955": {
+      "message": "Müzik Sembolü Bağ Başı"
+   },
+   "2483680006830369490": {
+      "message": "g ardından p"
+   },
+   "249032153569378306": {
+      "message": "$NUM$ saat önce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2492300395471245755": {
+      "message": "Sanatçı"
+   },
+   "250478839881665936": {
+      "message": "g ardından s"
+   },
+   "2506718393130237030": {
+      "message": "Desteklenmeyen biçim"
+   },
+   "2512060739274636260": {
+      "message": "Yeni Tai Lue"
+   },
+   "2513370824993175045": {
+      "message": "$NUM$ gün içinde",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Müzik Sembolü Birleştirme Sonu"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "E-posta adresi"
+   },
+   "2534296837124481552": {
+      "message": "Ödeme yönteminizi değiştirin. $START_LINK$Daha fazla bilgi edinin$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2537475974842549685": {
+      "message": "Reklamı Kapat"
+   },
+   "2538866057253567409": {
+      "message": "Deseret"
+   },
+   "2540334409214949805": {
+      "message": "Sizi bekleyen Chrome Hediyelerinizin olup olmadığını öğrenmek için $START_LINK$oturum açın$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Şartlar"
+   },
+   "2550362371114851075": {
+      "message": "Normal"
+   },
+   "2558836909854550547": {
+      "message": "Normal"
+   },
+   "2565011230196288502": {
+      "message": "$NUM$ dakika içinde",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2567679469483426925": {
+      "message": "Bu ekstra her zaman kullanılamayabilir."
+   },
+   "2570105377175439523": {
+      "message": "SATIN AL"
+   },
+   "2570991997865478028": {
+      "message": "$ARTIST_NAME$ için tüm albümleri görüntüle",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2597193119810674616": {
+      "message": "Google Play Müzik'e abone olun ve $OFFER_LENGTH_DAYS$ gün ücretsiz yararlanın.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Önerilen: $FIRST$ / $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "26023870081082032": {
+      "message": "Konum: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2610851846609508423": {
+      "message": "ASCII Tabanlı"
+   },
+   "2626751888211361777": {
+      "message": "Diğer popüler şarkıları göster"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ yeni)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Google Play Müzik Yöneticisi yalnızca Windows, Mac ve Linux'ta kullanılabilir."
+   },
+   "2655732800763953732": {
+      "message": "$TITLE$ Anında Mix'i",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Yorum"
+   },
+   "2665785172586453916": {
+      "message": "Geçerli sesli reklamla ilgili reklam görüntüsü"
+   },
+   "2671314447505154224": {
+      "message": "En iyiler"
+   },
+   "2673412443855817873": {
+      "message": "Beğenmediğinizi belirtin"
+   },
+   "2697517010706562809": {
+      "message": "35 milyondan fazla şarkıya ve sınırsız radyoya erişin."
+   },
+   "2707074873770010705": {
+      "message": "Cihazınız bu tanıtım için uygun değil. Ancak merak etmeyin, yine de Google Play Müzik'i deneyerek sınırsız müziğe ulaşabilirsiniz. 30 gün süreyle ücretsizdir."
+   },
+   "2714752802779336020": {
+      "message": "Google Play Müzik"
+   },
+   "2721786517672194900": {
+      "message": "İndirme işlemlerinde $START_SPAN$Chrome için Google Play Müzik$END_SPAN$'i kullandığınızda bu sınırlama geçerli değildir.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "272553825640256879": {
+      "message": "Tam Genişlikte Kısa Çizgi - Eksi"
+   },
+   "2728721019095728485": {
+      "message": "Yüksek"
+   },
+   "2732888649509914313": {
+      "message": "Moğolca"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Hesapta çok fazla dosya var"
+   },
+   "2777498733015254880": {
+      "message": "Yardım ve geri bildirim"
+   },
+   "2787148143326073325": {
+      "message": "Ses Arama"
+   },
+   "2801094315807039135": {
+      "message": "Tai Viet"
+   },
+   "280973959199634338": {
+      "message": "YouTube videosunu göster"
+   },
+   "2809945145618753350": {
+      "message": "Uzun Birim Başına Dört Boşluk"
+   },
+   "2811509810457668932": {
+      "message": "Fonetik (X-IPA)"
+   },
+   "2826705908408853328": {
+      "message": "Kurulumu tamamlamak için Google Play'e gitmeniz gerekiyor. İşlem tamamlandığında tekrar Play Müzik'e döneceksiniz."
+   },
+   "2834324594183341424": {
+      "message": "Mevcut müzik koleksiyonunuzu Google Play'e ekleyin"
+   },
+   "2840006222747077107": {
+      "message": "Kitaplığım boş"
+   },
+   "2856670286248433202": {
+      "message": "Reklam"
+   },
+   "2857356182021649243": {
+      "message": "Şarkılarıma git"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{# dakika önce}=1{# dakika önce}other{# dakika önce}}"
+   },
+   "2881621988818346391": {
+      "message": "Evet"
+   },
+   "2881776379326317082": {
+      "message": "Her zaman bu konumu kullan"
+   },
+   "2896688457548770791": {
+      "message": "Alıntı"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 istasyon}=1{1 istasyon}other{# istasyon}}"
+   },
+   "2910989560121976550": {
+      "message": "Bu bağlantıyı test et"
+   },
+   "2918448970074432239": {
+      "message": "HTML'yi düzenle"
+   },
+   "2933981780439742153": {
+      "message": "Mini oynatıcıyı göster"
+   },
+   "2941843189430218247": {
+      "message": "Üst karakter q"
+   },
+   "29485262661698811": {
+      "message": "Arapça Ayah'ın Sonu"
+   },
+   "2954874827338778826": {
+      "message": "Web adresi"
+   },
+   "2968801718595938980": {
+      "message": "Hangıl"
+   },
+   "2972470287059252937": {
+      "message": "Dar Aralıksız Boşluk"
+   },
+   "2973169743818593793": {
+      "message": "Han 5 Çizgili Radikaller"
+   },
+   "29734255682325103": {
+      "message": "Sağa hizala"
+   },
+   "2980847012388128321": {
+      "message": "Sıfır Genişlikli Boşluk"
+   },
+   "2980960654248329234": {
+      "message": "Çok İnce Boşluk"
+   },
+   "2982463607788408741": {
+      "message": "Google hesabınızın oturumu kapatıldı. Tekrar oturum açmak için lütfen sayfayı yenileyin."
+   },
+   "2983216790003568156": {
+      "message": "Güvenli bağlantı oluşturulamıyor"
+   },
+   "3010015422095710725": {
+      "message": "Satın alınan müzikler ve Google Play Müzik aboneliğim üzerinden eklediklerim dahil olmak üzere tüm kitaplığımı sil ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Teklifi kullan"
+   },
+   "3054851848337350805": {
+      "message": "Üst simge"
+   },
+   "305815942371229357": {
+      "message": "Öneri Yok"
+   },
+   "3067310196368927236": {
+      "message": "İbranice Noktalama Magaf"
+   },
+   "3072935047674817211": {
+      "message": "Kitaplığım"
+   },
+   "308732574543176489": {
+      "message": "Şarkı listesinde değişiklik yapılamadı. Lütfen tekrar deneyin."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} saat}other{{TEXT} saat}}"
+   },
+   "3092124279252305673": {
+      "message": "320 kb/sn., uyarlamalı."
+   },
+   "309901418176428732": {
+      "message": "Podcast'ler"
+   },
+   "3099596419835786769": {
+      "message": "Orta Matematik Boşluk"
+   },
+   "3099741642167775297": {
+      "message": "İndir"
+   },
+   "310152014457055522": {
+      "message": "İstediğiniz şarkıyı veya albümü çalmak için abone olun"
+   },
+   "3117706868107348105": {
+      "message": "Veya şu bağlantıyı kopyalayıp yapıştırın:"
+   },
+   "3125342991297920614": {
+      "message": "Albüm açılamadı. Lütfen tekrar deneyin."
+   },
+   "3138864086144358473": {
+      "message": "Han 11...17 Çizgili Radikaller"
+   },
+   "314582171813087287": {
+      "message": "Aralıksız Kısa Çizgi"
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Sanatçılarıma git"
+   },
+   "31530890844887887": {
+      "message": "İlerleme durumunu izleyin"
+   },
+   "3154951825194528737": {
+      "message": "Müzik indirme işlemi iptal ediliyor"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Kutuya ne yazacağınızdan emin değil misiniz?$END_BOLD$ Önce, bağlantı vermek istediğiniz sayfayı web’de bulun. (Bunun için bir $SEARCH_ENGINE_LINK$arama motorundan$END_LINK$ yararlanabilirsiniz.) Ardından, tarayıcınızın adres çubuğundaki kutudan web adresini kopyalayın ve yukarıdaki kutuya yapıştırın.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3163044740176820503": {
+      "message": "Başlayın"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Seçilen şarkıyı silmek istediğinizden emin misiniz?}other{Seçilen şarkıları silmek istediğinizden emin misiniz?}}"
+   },
+   "3167418181223330667": {
+      "message": "Değiştirici"
+   },
+   "3176546103367076011": {
+      "message": "$ARTIST_NAME$ için tüm popüler şarkıları göster",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3182977091552629211": {
+      "message": "Lütfen karakter adını görmek için hücrelerin üzerine gelin."
+   },
+   "3185279424082070029": {
+      "message": "Lütfen bu şarkıyı sakladığınız bilgisayarda Müzik Yöneticisi'nin çalıştığından ve bilgisayarın İnternet'e bağlı olduğundan emin olun. Şarkı ertesi gün tekrar yüklenecektir."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{# gün önce}=1{# gün önce}other{# gün önce}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 şarkı}=1{1 şarkı}other{# şarkı}}"
+   },
+   "3196641196902208501": {
+      "message": "E-posta adresine bağla"
+   },
+   "3198123723060667787": {
+      "message": "Aktarım hatası zamanı"
+   },
+   "3213972439514824911": {
+      "message": "Beğen"
+   },
+   "3220162149541031829": {
+      "message": "Şarkı Sözleri"
+   },
+   "3225804441370198247": {
+      "message": "Tüm şarkılarım - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing / Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "$NUM$ dakika içinde",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Yok"
+   },
+   "3237206613586329862": {
+      "message": "Lidya"
+   },
+   "3242312278127054660": {
+      "message": "Matematik Alfa-sayısal"
+   },
+   "3244003434432113241": {
+      "message": "Çal"
+   },
+   "3245264696956198335": {
+      "message": "Biçim"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Bilgisayarınıza indirmek için hiç şarkı seçmediniz.}=1{Seçilen şarkıyı bilgisayarınıza indirmek istediğinizden emin misiniz?}other{Seçilen şarkıları bilgisayarınıza indirmek istediğinizden emin misiniz?}}"
+   },
+   "3255560926299154386": {
+      "message": "iTunes müziklerinizi yanınızda taşıyın"
+   },
+   "32574714261860078": {
+      "message": "Çal"
+   },
+   "3277700190370010726": {
+      "message": "$START_BOLD$$USER_EMAIL$$END_BOLD$ için Google Play müzik tanıtımı geçici olarak kullanılamamaktadır. Lütfen daha sonra tekrar deneyin.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3299099956700438963": {
+      "message": "Amerikan Alfabeleri"
+   },
+   "3307635842875172003": {
+      "message": "Mix'lerim listesine git"
+   },
+   "3310099093781584673": {
+      "message": "g ardından m"
+   },
+   "3311269073804742952": {
+      "message": "Şimdi Dinle"
+   },
+   "3323193679372503780": {
+      "message": "Hayır, teşekkürler"
+   },
+   "3325286951950012705": {
+      "message": "Bilet Bul"
+   },
+   "3326102734049980036": {
+      "message": "$DURATION$ kaldı",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Tüm şarkı listesi arama sonuçlarını göster"
+   },
+   "3335728816495350082": {
+      "message": "$ARTIST_NAME$ - en popüler şarkıları",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Ana oynatıcıyı göster"
+   },
+   "3377006691156456363": {
+      "message": "Paylaşılabilir bağlantı"
+   },
+   "3381844160250536550": {
+      "message": "Chrome'da oturum açın"
+   },
+   "3389797949812522362": {
+      "message": "İbranice"
+   },
+   "3390725557414108843": {
+      "message": "Han 4 Çizgili Radikaller"
+   },
+   "3410315382362912156": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ şu an gizli. Bu şarkı listesini paylaşmak için herkese açık yapın.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Çöp Kutusu"
+   },
+   "3419681791450150574": {
+      "message": "İlerleme durumu"
+   },
+   "342127282404571667": {
+      "message": "Chrome OS için Google Play Müzik"
+   },
+   "3431116501598202644": {
+      "message": "Bilinmeyen albüm"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Bu bağlantı hangi URL'ye gitmeli?"
+   },
+   "3445096196133856884": {
+      "message": "Kmerce Sesli Harf Doğal Aa"
+   },
+   "3462013384451950074": {
+      "message": "$NUM$ saat içinde",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "Hazırlayan: $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Tüm müziklerinizi dinleyin. İstediğiniz yerden. Bunun için bilgisayarınızdan Google Play'e müzik eklemeniz yeterli."
+   },
+   "3479964965156370621": {
+      "message": "Noktalama"
+   },
+   "3483193414050571677": {
+      "message": "Beğenmedim"
+   },
+   "3483958460407305290": {
+      "message": "Üstü çizili"
+   },
+   "3491417595697100862": {
+      "message": "$XXX$ tarafından sağlanmaktadır",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Oynatıcının sesini azalt"
+   },
+   "3519190023725081398": {
+      "message": "g ardından b"
+   },
+   "352192086869301337": {
+      "message": "$NUM_TOTAL_TRACKS$ parçadan $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ tanesi eklendi",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Google Play Müzik kuponunu kullanma"
+   },
+   "3532209277261496348": {
+      "message": "Hata, lütfen tekrar deneyin."
+   },
+   "3545785371861413299": {
+      "message": "Ücretsiz Deneme Sürümünü Başlat"
+   },
+   "3545929198870894557": {
+      "message": "Şarkı listelerim'e git"
+   },
+   "3547729876847212201": {
+      "message": "Boşluk"
+   },
+   "3565556274692077023": {
+      "message": "Uzun Tire"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Her Zaman Yüksek"
+   },
+   "3587102960969248092": {
+      "message": "Önerilen yeni sürümler"
+   },
+   "3599940994748621516": {
+      "message": "Google Play Müzik'e abone olun ve bu şarkının yanı sıra milyonlarca şarkı dinleyin. İlk ay ücretsizdir."
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605470624800934973": {
+      "message": "Seçilen albümü silmek istediğinizden emin misiniz?"
+   },
+   "3605957923037994993": {
+      "message": "Tamam"
+   },
+   "3609204150605625912": {
+      "message": "Beğenilenler"
+   },
+   "3629941396858927174": {
+      "message": "Diğer seçenekleri kapat"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3638177113998814964": {
+      "message": "$TARGET$ yükleniyor",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Aramayı temizle"
+   },
+   "3649938620817393740": {
+      "message": "Küçük"
+   },
+   "3650710698506236041": {
+      "message": "Onaltılık renk"
+   },
+   "3688803517283872334": {
+      "message": "Yarı Genişlikte Hangıl Yer Doldurucu"
+   },
+   "3693467228074689327": {
+      "message": "Devam"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "370216116393129031": {
+      "message": "Sırayı aç"
+   },
+   "3748613043647922063": {
+      "message": "Görünmez Ayırıcı"
+   },
+   "3748893353086104812": {
+      "message": "Yerel önbelleği temizle ve tüm şarkı ve oynatma listesi bilgilerini yenile."
+   },
+   "3762887990641668199": {
+      "message": "Ermenice"
+   },
+   "3768927257183755959": {
+      "message": "Kaydet"
+   },
+   "3770594827970207417": {
+      "message": "Küçük başlık"
+   },
+   "3772706138160001780": {
+      "message": "Yatay Çubuk"
+   },
+   "3774172828626803355": {
+      "message": "Çeroki"
+   },
+   "3782346097595894324": {
+      "message": "Sunucuya bağlanılamadı. Lütfen daha sonra tekrar deneyin."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3789779144889291801": {
+      "message": "Satın aldığınız veya Google Play'e yüklediğiniz müzikleri kolayca indirin."
+   },
+   "3795262960327716692": {
+      "message": "Şarkı eklemek için, ilgili şarkıyı kenar çubuğundaki şarkı listesinin adına sürükleyin"
+   },
+   "3801288115809478084": {
+      "message": "Tamam"
+   },
+   "3807050606425965472": {
+      "message": "Şu pencereler kapatılacak:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolitik"
+   },
+   "3839679337223320857": {
+      "message": "$EMAIL$ olarak oturum açıldı",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "$ITEM_NAME$ Radyosu",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Google Play Müzik'i ziyaret et"
+   },
+   "3861583677596279097": {
+      "message": "Rapor, bir sonraki iş günü içinde bir mühendisin ilgilenmesini gerektiriyor."
+   },
+   "3865248559890962003": {
+      "message": "Önerilen: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Google Play Müzik kuponunuzu kullanın"
+   },
+   "3867367359959377145": {
+      "message": "HATA: \"$COLOR$\" geçerli bir renk değil.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3868119883080041455": {
+      "message": "$TITLE$ Radyosu",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Chrome uygulamasını kullanabilmek için önce web üzerinde Google Play Müzik'te oturum açın."
+   },
+   "3873111853443561979": {
+      "message": "Altı çizili"
+   },
+   "3885497195825665706": {
+      "message": "Sonraki"
+   },
+   "3890078112831612818": {
+      "message": "Lütfen bu şarkıları sakladığınız bilgisayarda Müzik Yöneticisi'nin çalıştığından ve bilgisayarın İnternet'e bağlı olduğundan emin olun. Şarkılar ertesi gün tekrar yüklenecektir."
+   },
+   "3901889124080689046": {
+      "message": "Dosya açılamıyor"
+   },
+   "3904027274600624417": {
+      "message": "Herkes bulabilir ve dinleyebilir. Paylaşım için mükemmel."
+   },
+   "3905289916217023036": {
+      "message": "Satın aldığınız veya yüklediğiniz müziklerin tümünü kalıcı olarak silin."
+   },
+   "3905371920037624514": {
+      "message": "Yaygın Değil"
+   },
+   "3936240281193464170": {
+      "message": "Yenile"
+   },
+   "3941019069704400974": {
+      "message": "Öneriler sağlamak için kullanılan geçmişi kalıcı olarak silmek istediğinizden emin misiniz? Bu işlem, ayrı ayrı parçalara ilişkin kullanıcı oylarınızı ve çalma sayılarınızı kaldırmaz."
+   },
+   "3949911572988594237": {
+      "message": "Şarkı listesi oluştur"
+   },
+   "3973260061047030021": {
+      "message": "Müziği çal veya duraklat"
+   },
+   "3973931101896534797": {
+      "message": "Tarih"
+   },
+   "3975141127799341224": {
+      "message": "Web'de başka bir konumdaki bir sayfaya veya dosyaya bağlantı oluştur"
+   },
+   "3980763395698221887": {
+      "message": "{NUM_SONGS,plural, =1{1 şarkı kitaplığınıza eklendi.}other{# şarkı kitaplığınıza eklendi.}}"
+   },
+   "3981724709755713539": {
+      "message": "Son Şarkı Listeleri"
+   },
+   "3982112843644394207": {
+      "message": "2. Tarayıcınızın İndirilenler bölümünde, musicmanagerinstaller.exe'yi çift tıklayıp açın."
+   },
+   "3988935995558346502": {
+      "message": "Kiril"
+   },
+   "3993484408454658640": {
+      "message": "Parental controls:"
+   },
+   "3996699777412450193": {
+      "message": "Oklar"
+   },
+   "4018574576796390012": {
+      "message": "\"$PLAYLIST_NAME$\" şarkı listesini $START_SPAN$kalıcı olarak silmek$END_SPAN$ istediğinizden emin misiniz?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4032125743169636815": {
+      "message": " &bull; "
+   },
+   "4034257783857644883": {
+      "message": "Han 6 Çizgili Radikaller"
+   },
+   "4044663630621281686": {
+      "message": "Arapça İşaret Safha"
+   },
+   "4055580652532057510": {
+      "message": "adsız"
+   },
+   "405696346909038516": {
+      "message": "Tüm podcast arama sonuçlarını görüntüle"
+   },
+   "4061274470931156807": {
+      "message": "Ol Chiki"
+   },
+   "4063027937991598166": {
+      "message": "Mevcut seçimi sil"
+   },
+   "4071581399160046214": {
+      "message": "Home"
+   },
+   "4075286221500750156": {
+      "message": "Sürüm: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Bilgisayarınız tanımlanamadı."
+   },
+   "4086606389696938932": {
+      "message": "Hesap"
+   },
+   "4087074177670472082": {
+      "message": "Satır Arası Ek Açıklama Bağlayıcı"
+   },
+   "4091426921184034649": {
+      "message": "Aboneliği yeni sürüme geçir"
+   },
+   "4110926661719376304": {
+      "message": "JavaScript'in nasıl açılacağını öğrenin"
+   },
+   "4117020323749523105": {
+      "message": "Son etkinlik"
+   },
+   "4117886182866316912": {
+      "message": "Mevcut şarkıda ileri git"
+   },
+   "4136239927282562599": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ benzeri müzikler yayınlayan radyo dinleyin.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Bu şarkı listesi boş"
+   },
+   "4141582858389779168": {
+      "message": "Ayda yalnızca $OFFER_PRICE$ fiyatla sınırsız müzik için kaydolun ve anında, reklamsız milyonlarca şarkı çalın.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Bu şarkı yanlış eşlenmiş olarak işaretlendi."
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Seçilen şarkı, eşleşen kopya yerine sizin kopyanızı kullanacak.}other{Seçilen şarkılar, eşleşen kopya yerine sizin kopyalarınızı kullanacak.}}"
+   },
+   "4171773891797639122": {
+      "message": "Kelime Birleştirici"
+   },
+   "4183640380235728062": {
+      "message": "Tekrarlama Kapalı. Tekrarlama modunu değiştirmek için tıklayın."
+   },
+   "4204603140063905121": {
+      "message": "Hangıl Jungseong Yer Doldurucu"
+   },
+   "4207298621447602833": {
+      "message": "En iyi eşleşme"
+   },
+   "4210934092144627539": {
+      "message": "Son çalınanlar veya eklenenler"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$İstediğiniz an dinleyebileceğiniz milyonlarca şarkı$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4237178646016840735": {
+      "message": "Google Play Müzik'e abone olun ve bu sanatçının yanı sıra milyonlarca şarkı dinleyin. İlk ay ücretsizdir."
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ x $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4260036130369028456": {
+      "message": "g ardından g"
+   },
+   "4263959392548297550": {
+      "message": "İptal"
+   },
+   "4267092206833736997": {
+      "message": "Radyo İstasyonları"
+   },
+   "4272173055918340921": {
+      "message": "Müzik Kitaplığı yükleniyor&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Her zaman üstte"
+   },
+   "4285216590250755577": {
+      "message": "Cihazınızın bu tanıtıma uygun olup olmadığını kontrol edebilmemiz için önce güncellenmesi gerekiyor."
+   },
+   "4307428996576001111": {
+      "message": "Önceki şarkıya git"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4323912651038951928": {
+      "message": "Bu işlem ayrıca şarkı listelerinizi, radyo istasyonlarınızı, kullanıcı oylarınızı ve tüm çalma sayısı bilgilerinizi siler."
+   },
+   "4326462735503400283": {
+      "message": "Görüntülenecek metin:"
+   },
+   "4329609792835264496": {
+      "message": "İnce Boşluk"
+   },
+   "4330683855002842723": {
+      "message": "Daha fazla seçenek göster"
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Cinsiyet ve Soyla İlgili"
+   },
+   "4340616150909089613": {
+      "message": "\"$SONG_TITLE$\" farklı bir şarkıyla mı eşleşiyor?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "MPEG Layer-3 ses kodlama teknolojisi Fraunhofer IIS ve Thomson tarafından lisanslanmıştır. Gelişmiş Ses Kodlama (Advanced Audio Coding, AAC) Via Lisanslama Şirketi'nin yönetimindeki bir lisans altında kullanılmaktadır. Google Play, bildirim ve/veya ek şartlar ve koşullar gerektiren belirli üçüncü taraf yazılımları içerebilir. Üçüncü taraf yazılımları için bu zorunlu bildirimler ve/veya ek şartlar ve koşullar $START_LINK$üçüncü taraf bilgi ifşa sayfamızda$END_LINK$ bulunmaktadır.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "$SOURCE_LIST$ kaynaklarından müzik ekle",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Block music marked explicit by content providers."
+   },
+   "437655423845564400": {
+      "message": "Şarkı sınırına ulaşıldı. En çok $TRACK_LIMIT$ şarkı yükleyebilirsiniz.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Dikey Orta Çizgi İçin Sunu Formu"
+   },
+   "4383725505132456525": {
+      "message": "Müzik ekleme işlemi duraklatılıyor"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Kendi şarkı listelerinizi oluşturun"
+   },
+   "4396890764725725469": {
+      "message": "Kaydet"
+   },
+   "4405073953395157822": {
+      "message": "CJK Vuruşları"
+   },
+   "4417144592785193889": {
+      "message": "Diğer Doğu Asya Alfabeleri"
+   },
+   "4439965029912183539": {
+      "message": "Latince 1 Ek"
+   },
+   "4440466521156769623": {
+      "message": "Müzik Sembolü Birleştirme Başı"
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 şarkı}=1{1 şarkı}other{{COUNT_2} şarkı}}"
+   },
+   "445149490695787423": {
+      "message": "Tekrar oturum aç"
+   },
+   "4451528286100219680": {
+      "message": "Soldan Sağa Yerleştirilmiş Öğe"
+   },
+   "4452427314943113135": {
+      "message": "Önceki"
+   },
+   "4453762904903445132": {
+      "message": "Şarkı listesine eklenirken hata oluştu."
+   },
+   "4456793125873199230": {
+      "message": "Kendimi şanslı hissediyorum radyosu"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 saniye}=1{1 saniye}other{# saniye}}"
+   },
+   "4462494623248108758": {
+      "message": "Şarkı listesi"
+   },
+   "4476647413225813774": {
+      "message": "$OFFER_LENGTH_DAYS$ günden sonra ayda yalnızca $OFFER_PRICE$ ücretle dinlemeye devam edin.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4478641030934315579": {
+      "message": "Yaygın"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Şarkılarınızdan bazılarının tekrar yüklenmesi gerekiyor."
+   },
+   "4539806158142214585": {
+      "message": "g ardından n"
+   },
+   "4548136982356342217": {
+      "message": "Üst karakter &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Seçili şarkıdan yeni bir anlık mix oluştur"
+   },
+   "4571105317747127957": {
+      "message": "Çift Noktalı Kesme Çizgisi"
+   },
+   "4580988005648117665": {
+      "message": "Ara"
+   },
+   "4584074223811370739": {
+      "message": "Yaptığınız her şey için ücretsiz radyo. Kişisel koleksiyonunuzdan 50.000 parçayı depolayın. 35 milyon şarkı ve çevrimdışı dinleme olanağı için isteğe bağlı erişime abone olun."
+   },
+   "4590981840116960737": {
+      "message": "Biçim ve Boşluk"
+   },
+   "4601938511613873712": {
+      "message": "Cihazlarım"
+   },
+   "4604862300643180159": {
+      "message": "Müzik uzmanları ekibimizin kendi elleriyle hazırladıkları, her tür ruh hali ve aktiviteye yönelik radyo istasyonlarının keyfini çıkarın."
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "46135825491334308": {
+      "message": "Müziğinizin silinmesi kalıcı bir işlemdir."
+   },
+   "4624380622618270977": {
+      "message": "Yeni çıkanlar"
+   },
+   "4624704164651982020": {
+      "message": "Chrome için Google Play Müzik kurulumu yapılıyor..."
+   },
+   "4629398054050196678": {
+      "message": "Müziği şu konuma indir:"
+   },
+   "4645609569705949286": {
+      "message": "Yalnızca ben"
+   },
+   "4648993989034133051": {
+      "message": "Seçilen şarkı için menüyü gösterir"
+   },
+   "46496227337284997": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Google Play'de 50.000 şarkıyı ücretsiz olarak barındırın.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$iTunes, Windows Media Player veya klasörlerdeki koleksiyonunuzu ekleyin.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Kablolarla veya senkronizasyonla uğraşmadan web üzerinden veya mobil cihazlarınızdan dinleyin.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "4658362967039953209": {
+      "message": "Müzik yükle"
+   },
+   "4662613464573260354": {
+      "message": "Önerilen"
+   },
+   "466976558518570343": {
+      "message": "Java Dili"
+   },
+   "4675570050310339063": {
+      "message": "Eklenemedi. Şarkı listelerinde en çok $LIMIT$ şarkı bulunabilir.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4675864222674894697": {
+      "message": "Shaw"
+   },
+   "4687189636655044066": {
+      "message": "Boşluk tuşu"
+   },
+   "4688350353916032040": {
+      "message": "Her Tür Ruh Hali İçin Müzik"
+   },
+   "4688946070631035536": {
+      "message": "Yazım Denetleyici"
+   },
+   "470296860672943171": {
+      "message": "Varyasyon Seçici"
+   },
+   "4706959263210678625": {
+      "message": "Varyasyon Seçici - $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Google Play, müziğinizi hızlı şekilde yükleyebilmek için müzik dosyalarınızı sunucumuzdaki kopyalarla eşleştirir. Bazen, yanlış şarkı eşleştirilebilir. Sorunu buradan bildirin, şarkı tekrar yüklenecektir."
+   },
+   "471816275243265264": {
+      "message": "Konum"
+   },
+   "4718177503702130030": {
+      "message": "Parçanın geçerli süresi: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4722420535011430371": {
+      "message": "YouTube videosu"
+   },
+   "4724245563419948725": {
+      "message": "Bu konumlara yeni müzik eklediğimde Google Play'i güncelle"
+   },
+   "4742770396342457517": {
+      "message": "Google Play Müzik'te dinle"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "Malayalam"
+   },
+   "4769480851867061848": {
+      "message": "Çal: $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Neden"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 tür}=1{1 tür}other{# tür}}"
+   },
+   "4782493710939339680": {
+      "message": "Twitter'da paylaş"
+   },
+   "4815033911915598343": {
+      "message": "Boşluklu"
+   },
+   "4830715100444503860": {
+      "message": "Gandara"
+   },
+   "4836232766167652032": {
+      "message": "Karıştır: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4846792506513649213": {
+      "message": "İstasyonlar"
+   },
+   "4862238057869188402": {
+      "message": "Mix'ler alınamadı. Lütfen tekrar deneyin."
+   },
+   "4862902902120611556": {
+      "message": "Tüm sanatçı arama sonuçlarını göster"
+   },
+   "4867246087786788222": {
+      "message": "Hesap türü:"
+   },
+   "4874337908897060929": {
+      "message": "Müzik ekleme işlemi duraklatıldı"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Seçilen şarkıyı {START_SPAN_1}kalıcı olarak silmek{END_SPAN} istediğinizden emin misiniz?}other{Seçilen şarkıları {START_SPAN_2}kalıcı olarak silmek{END_SPAN} istediğinizden emin misiniz?}}"
+   },
+   "4878527640076219954": {
+      "message": "Tamilce"
+   },
+   "4886126295094352182": {
+      "message": "Chrome için Google Play Müzik"
+   },
+   "4887472194021728050": {
+      "message": "Tayca"
+   },
+   "4902817035128594900": {
+      "message": "Açıklama"
+   },
+   "4916816672463415688": {
+      "message": "Google Play Müzik'i dene"
+   },
+   "4920482241656423227": {
+      "message": "Metin arka plan rengi"
+   },
+   "4920946997448724158": {
+      "message": "Besteci"
+   },
+   "4921096453319030731": {
+      "message": "Süryanice Kısaltma İşareti"
+   },
+   "4924253230856131215": {
+      "message": "Güneydoğu Asya Alfabeleri"
+   },
+   "4930506384627295710": {
+      "message": "Ayarlar"
+   },
+   "4933504665795531092": {
+      "message": "Google Play Müzik aboneliği ile 35 milyondan fazla şarkıya ve sınırsız radyoya erişiminiz olur."
+   },
+   "4945228064546795686": {
+      "message": "Tüm albüm arama sonuçlarını göster"
+   },
+   "4962022175989879342": {
+      "message": "Müstehcen"
+   },
+   "496636435516411982": {
+      "message": "Şarkıya oy verilemedi. Lütfen tekrar deneyin."
+   },
+   "4972659496812307928": {
+      "message": "Müzik indirme işlemi duraklatıldı"
+   },
+   "4980580439123922024": {
+      "message": "Sanatçılar"
+   },
+   "498913874005297914": {
+      "message": "Kalın"
+   },
+   "499152283823240992": {
+      "message": "Samirice"
+   },
+   "4998030835388374541": {
+      "message": "Albüm resmini değiştir"
+   },
+   "5003850562831597565": {
+      "message": "Yakın zamanda abone olundu"
+   },
+   "5004312405043027351": {
+      "message": "Bitti"
+   },
+   "5009878480585609766": {
+      "message": "Han - Diğer"
+   },
+   "5015096128854741514": {
+      "message": "Taşımacılık ve Harita"
+   },
+   "5018227417300461385": {
+      "message": "Küçük Kısa Çizgi - Eksi"
+   },
+   "5029496897209707807": {
+      "message": "Chrome için Google Play Müzik uygulamasının güncellenmesi gerekiyor. Bu işlem otomatik olarak gerçekleşmelidir."
+   },
+   "5030096791460456147": {
+      "message": "Sürüklemeye çalıştığınız resim, barındırma sitesi tarafından engellenen bir resim."
+   },
+   "5032188163864418301": {
+      "message": "Yazıt Pehlevi"
+   },
+   "5043933900720743682": {
+      "message": "Albümler"
+   },
+   "5049432650728491454": {
+      "message": "Yeni çıkanlara, en iyilere, şarkı listelerine ve türlere göz atın"
+   },
+   "504977212575871255": {
+      "message": "Sıra değiştirilemedi. Lütfen tekrar deneyin."
+   },
+   "506090363255226122": {
+      "message": "Döndürülmüş/Yansıtılmış"
+   },
+   "5067818727161314391": {
+      "message": "Google+'da paylaş"
+   },
+   "5071594083516657121": {
+      "message": "Dosya çok büyük"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 albüm}=1{1 albüm}other{# albüm}}"
+   },
+   "5085509606319320198": {
+      "message": "Sırayı kapat"
+   },
+   "5094769877856014729": {
+      "message": "Müzik Sembolü Bağ Sonu"
+   },
+   "5105404398573470156": {
+      "message": "Geometrik Şekiller"
+   },
+   "5113771261593769985": {
+      "message": "Çam"
+   },
+   "5115900738857721327": {
+      "message": "Grafem Birleştirici"
+   },
+   "5119663120731608161": {
+      "message": "En son şarkılarınızı görmek için $START_LINK$Son eklenenler$END_LINK$ şarkı listesini kontrol edin.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{1 şarkı atlama hakkı kaldı}other{# şarkı atlama hakkı kaldı}}"
+   },
+   "5128240607770067472": {
+      "message": "Hakkında…"
+   },
+   "5141725357376719861": {
+      "message": "$NUM_TOTAL_TRACKS$ parçadan $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ tanesi indirildi",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Taranıyor..."
+   },
+   "5154374028369457456": {
+      "message": "Gezinme araç çubuğu"
+   },
+   "5161411570094992408": {
+      "message": "Şimdi değil"
+   },
+   "5170992049958515620": {
+      "message": "Kısa Çizgi"
+   },
+   "5188231675115376764": {
+      "message": "İstasyonlarım'a git"
+   },
+   "5189296983337794287": {
+      "message": "Şu anda resim dosyalarını sürükleyip bırakmak mümkün değildir.\nLütfen web tarayıcınızdan bir resim sürükleyin."
+   },
+   "5199204386348402183": {
+      "message": "Osmanya"
+   },
+   "5219596981664772816": {
+      "message": "Han 3 Çizgili Radikaller"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagh"
+   },
+   "5237204164514638395": {
+      "message": "Bir hediye gönder"
+   },
+   "5256846847077792168": {
+      "message": "Kelimeyi Düzenle"
+   },
+   "5274506773583039432": {
+      "message": "Seçilen oynatma listesini $START_SPAN$kalıcı olarak silmek$END_SPAN$ istediğinizden emin misiniz?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "İfadeler"
+   },
+   "529512324149544235": {
+      "message": "Parental Controls Settings Changed"
+   },
+   "5296780212411063886": {
+      "message": "İstasyonlara göz at"
+   },
+   "5302287499843369186": {
+      "message": "Google Play Müzik kuruluyor"
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5316998074277327666": {
+      "message": "İçeriğin bazı bölümlerinin telif hakkı &copy; Gracenote veya sağlayıcılarına aittir."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Seçilen şarkıyı {START_SPAN_1}kalıcı olarak silmek{END_SPAN} istediğinizden emin misiniz?}other{Seçilen şarkıları {START_SPAN_2}kalıcı olarak silmek{END_SPAN} istediğinizden emin misiniz?}}"
+   },
+   "5326351540290142036": {
+      "message": "Önceki şarkı"
+   },
+   "5348600594194881699": {
+      "message": "Arkanıza yaslanın ve rahatlayın. Google Play Müzik'e zaten abonesiniz!"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5370332239555585516": {
+      "message": "Reklamlar olmadan, yalnızca müzik"
+   },
+   "5373550672011878193": {
+      "message": "Runik"
+   },
+   "5378532290721565403": {
+      "message": "Şarkı başka bir Google Play Müzik hesabıyla satın alınmış"
+   },
+   "5379453108698089622": {
+      "message": "Şimdi Dinle'ye git"
+   },
+   "5393158295657392839": {
+      "message": "Şarkılar yanlış eşleştirilmiş olarak işaretlendi."
+   },
+   "5394607018657314633": {
+      "message": "Satır Ayırıcı"
+   },
+   "5395035563228151731": {
+      "message": "Hesap durumu:"
+   },
+   "5402470227536486835": {
+      "message": "Küçük Geniş Tire"
+   },
+   "5404910277282887798": {
+      "message": "Fenike"
+   },
+   "5407092932504462689": {
+      "message": "Tüm radyo istasyonu arama sonuçlarını göster"
+   },
+   "5408241503383428945": {
+      "message": "Diğer Avrupa Alfabeleri"
+   },
+   "5410695385284979104": {
+      "message": "$TITLE$ Mix",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Aile Ayarları"
+   },
+   "5432330868773114140": {
+      "message": "Radyo başlat"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 bölüm}=1{1 bölüm}other{{COUNT_2} bölüm}}"
+   },
+   "545173546103184657": {
+      "message": "Google Hesabı:"
+   },
+   "5452036681614307719": {
+      "message": "Görünmez Artı"
+   },
+   "5452218284042451605": {
+      "message": "$START_SPAN$$USER_EMAIL$$END_SPAN$ için bir kupon kullanmak üzere aşağıdaki alana kodunuzu girin",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Bilinmeyen Albüm"
+   },
+   "548629550059508920": {
+      "message": "Şu anda iki hesaptan yükleme yaptığınız için yüklenemedi."
+   },
+   "5492320356892382782": {
+      "message": "Kalıcı olarak sil"
+   },
+   "5497512316841934820": {
+      "message": "Kendimi şanslı hissediyorum mix'i"
+   },
+   "5497627646066282315": {
+      "message": "Bağlanılıyor"
+   },
+   "5501301484140201550": {
+      "message": "Kendimi şanslı hissediyorum radyosu"
+   },
+   "550380163414655031": {
+      "message": "Sonra, kendinize uygun müzikleri bulmanıza yardımcı olmak için tarzınız hakkında birkaç soru soracağız."
+   },
+   "5518817744725858296": {
+      "message": "Yakınınızda canlı konser verecek sanatçı"
+   },
+   "5524426195717036850": {
+      "message": "\"{PLAYLIST_TITLE}\" adlı şarkı listesi aboneliği iptal edildi"
+   },
+   "5529194084754296998": {
+      "message": "Uzun Birim Başına Altı Boşluk"
+   },
+   "5535160370665610524": {
+      "message": "Mevcut şarkıda geri git"
+   },
+   "5541835554879897802": {
+      "message": "Bazı parçalar koleksiyona eklenemedi. Lütfen tekrar deneyin."
+   },
+   "5562067436939843837": {
+      "message": "Milyonlarca şarkı içeren kataloğumuzdan istediğiniz müziği reklamsız dinleyin."
+   },
+   "5578390534357178026": {
+      "message": "Chrome'da aynı Google Hesabı ile oturum açtığınızdan emin olun."
+   },
+   "5584189341216439776": {
+      "message": "Müziğinizi ekleyin"
+   },
+   "5584467594910303696": {
+      "message": "Meroe Hiyeroglifleri"
+   },
+   "5586233271963962252": {
+      "message": "Sonraki şarkı"
+   },
+   "5593848105713936399": {
+      "message": "Sıra"
+   },
+   "5594762259680838005": {
+      "message": "Yakın zamanda satın alındı"
+   },
+   "5601530442010506564": {
+      "message": "Tamam"
+   },
+   "5605692130698677333": {
+      "message": "Google Play Müzik Yöneticisi'ni yüklemiş olduğunuz bir bilgisayardan müzik ekleme konusunda yardıma mı ihtiyacınız var?"
+   },
+   "560627050344405345": {
+      "message": "30 saniye ileri atla"
+   },
+   "5607000992339442129": {
+      "message": "Müzik koleksiyonunuzu Google Play'e yüklemeye başlamanız yalnızca birkaç dakikanızı alır."
+   },
+   "5612959352951118540": {
+      "message": "$NUM$ saat içinde",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Biçim"
+   },
+   "5643561794785412000": {
+      "message": "Kullanılamıyor"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Türler alınamadı. Lütfen tekrar deneyin."
+   },
+   "5671499827182863671": {
+      "message": "Bu hesaptaki oturumunuz kapandı. Müziğinize geri dönmek için lütfen aşağıdaki düğmeyi tıklayın."
+   },
+   "5672179805519539136": {
+      "message": "Müziklerinizi tek bir yerde depolayın. Android'de, iOS'de ve web'de dinleyin."
+   },
+   "5674048882417502526": {
+      "message": "Sağdan Sola Bindirme"
+   },
+   "5700613377997995103": {
+      "message": "Kesik Çizgi"
+   },
+   "5728756163322931984": {
+      "message": "Bir albüm fiyatına milyonlarca şarkı dinleyin"
+   },
+   "5729733224544981434": {
+      "message": "Sürükleyip bırakma işlevini etkinleştirmek üzere Chrome için Google Play Müzik'i ekleyin"
+   },
+   "5729741177183241567": {
+      "message": "{NUM_SONGS,plural, =1{Şarkı listesine 1 şarkı eklendi}other{Şarkı listesine # şarkı eklendi}}"
+   },
+   "5755038562791065032": {
+      "message": "Uzun Birim Başına Üç Boşluk"
+   },
+   "5756282190263595941": {
+      "message": "$ARTIST$ adlı sanatçının $TITLE$ şarkısına benzer şarkılar dinleyin",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5761798931116026691": {
+      "message": "MP3'e dönüştürülemedi"
+   },
+   "5769804815976568558": {
+      "message": "İndirme konumunu seç"
+   },
+   "5775493454862732930": {
+      "message": "Ermenice Kesme Çizgisi"
+   },
+   "5779551937076403073": {
+      "message": "Ekle"
+   },
+   "5784007894878825338": {
+      "message": "Bölünmez Boşluk"
+   },
+   "5814708421422669024": {
+      "message": "$PRICE_TEXT$ fiyatla satın al",
+      "placeholders": {
+         "PRICE_TEXT": {
+            "content": "$1"
+         }
+      }
+   },
+   "5821233021244850631": {
+      "message": "Ağ bağlantısının durumundan bağımsız olarak yüksek kaliteli"
+   },
+   "5827343664961087180": {
+      "message": "Abone ol"
+   },
+   "5832435837238304779": {
+      "message": "$TITLE$ şarkı listesini çal",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5854234999824329890": {
+      "message": "Aile ayarlarınızı yönetin"
+   },
+   "585739095777961817": {
+      "message": "sanatçı:"
+   },
+   "5862309805277852777": {
+      "message": "Ad"
+   },
+   "5863523793538309428": {
+      "message": "Müziğiniz siliniyor. Lütfen tüm müziğinizin kaldırılması için birkaç saat zaman tanıyın."
+   },
+   "5888141336325862688": {
+      "message": "İstasyonlara göz atma bölümüne git"
+   },
+   "5889126665299129466": {
+      "message": "Mini oynatıcıyı kullanmak için Chrome'da oturum açmanız gerekir."
+   },
+   "5889904821719049150": {
+      "message": "Müziğinizi, on adede kadar cihazın yanı sıra herhangi bir bilgisayardan dinleyebilirsiniz. Google Play Müzik Yöneticisi veya Chrome için Google Play Müzik uygulamasını kullanarak müzik yüklediğinizde veya indirdiğinizde, kullandığınız cihaz toplam cihaz limitinden düşülür."
+   },
+   "5890243856676178044": {
+      "message": "Bengalce"
+   },
+   "5891064527381218201": {
+      "message": "Ücretsiz"
+   },
+   "5914500973755757025": {
+      "message": "Lao"
+   },
+   "5918806792833250096": {
+      "message": "Çivi Yazısı"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5930857699885919881": {
+      "message": "Desteklenmeyen ALAC dosyası"
+   },
+   "5946473117506990177": {
+      "message": "Google Play Müzik aboneliği hediye edin"
+   },
+   "5966249470835718484": {
+      "message": "$ARTIST_NAME$ adlı sanatçının Kitaplığım'daki tüm albümlerini göster",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "5969115558488445506": {
+      "message": "Alt başlık"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Şarkı listesinde bu şarkılardan biri zaten mevcut.}other{Şarkı listesinde bu şarkılardan bazıları zaten mevcut.}}"
+   },
+   "5971001229987621398": {
+      "message": "Önerilen yeni albüm"
+   },
+   "5973114702086214474": {
+      "message": "İlgili tüm sanatçıları göster"
+   },
+   "5983727894875163426": {
+      "message": "Atlanamadı"
+   },
+   "5987565417212088924": {
+      "message": "Ses arama şarkı listesi"
+   },
+   "5990212441459592050": {
+      "message": "Herkese açık yap"
+   },
+   "599493319699637812": {
+      "message": "Şarkıları karıştır"
+   },
+   "5999484363963634214": {
+      "message": "Mandae Dili"
+   },
+   "6028312506269896318": {
+      "message": "Aşağıdaki cihazın müzik çalma yetkisini kaldırmak istediğinizden emin misiniz?"
+   },
+   "6031749391396582225": {
+      "message": "Hangıl Yer Doldurucu"
+   },
+   "60369026765465265": {
+      "message": "İstasyonu yenile"
+   },
+   "6037216776738907588": {
+      "message": "Türlerime git"
+   },
+   "6042091568356544470": {
+      "message": "Fonksiyon Uygulama"
+   },
+   "6062704261604405084": {
+      "message": "Chrome için Google Play Müzik uygulamasını kurun. Böylece müzik koleksiyonunuzu ekleyebilir, müziğinizi telefonda, tablette ve bilgisayarda dinleyebilirsiniz."
+   },
+   "6062911693359625717": {
+      "message": "Bit hızı: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Şimdi deneyin"
+   },
+   "6075813266646535052": {
+      "message": "Google'da oturum aç"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Bu şarkı listesi şu anda boş"
+   },
+   "6082171864197428613": {
+      "message": "Yükle"
+   },
+   "609463966491943885": {
+      "message": "Klasörleri seçin"
+   },
+   "6096654177023939223": {
+      "message": "Merhaba! Lütfen Google Hesabınızda oturum açın."
+   },
+   "6097429778714195840": {
+      "message": "Yeni sürümler'e git"
+   },
+   "6104044107385556653": {
+      "message": "Kupon kodları büyük/küçük harf duyarlıdır"
+   },
+   "610635793308893528": {
+      "message": "Sağdan Sola Yerleştirilmiş Öğe"
+   },
+   "611472617351658381": {
+      "message": "İstasyon eklenemedi. Lütfen tekrar deneyin."
+   },
+   "6115840172404094036": {
+      "message": "Sonraki şarkıya git"
+   },
+   "6125785068086103357": {
+      "message": "Şarkı kaldırılamadı. Lütfen tekrar deneyin."
+   },
+   "6134905866550808378": {
+      "message": "Tüm şarkılarım - $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Bölüm ayrıntılarına bakın"
+   },
+   "6182267200530067545": {
+      "message": "Müziğin durmaması için, yinelenen aboneliğinizi ayarlayın."
+   },
+   "6202991870072245705": {
+      "message": "Aboneliği iptal et"
+   },
+   "6205568685279927986": {
+      "message": "Rejang"
+   },
+   "6211690508928257569": {
+      "message": "Süryanice"
+   },
+   "6214362172197372800": {
+      "message": "Devam etmeden önce Google Play'den satın aldığınız tüm içeriğin bir kopyasını bilgisayarınıza indirdiğinizden emin olun."
+   },
+   "6227307047241266902": {
+      "message": "diğer seçenekler menüsü"
+   },
+   "6233107584508657559": {
+      "message": "Google'a bağlanılamadı"
+   },
+   "6233799104785293347": {
+      "message": "Yükselt"
+   },
+   "6238576599909606924": {
+      "message": "geçersiz URL"
+   },
+   "6242354668932209396": {
+      "message": "Tüm Şarkılar Tekrarlanıyor. Tekrarlama modunu değiştirmek için tıklayın."
+   },
+   "624368563085644372": {
+      "message": "Görünmez Çarpı"
+   },
+   "624560585652958729": {
+      "message": "Yetkisini kaldır"
+   },
+   "6254019915482435769": {
+      "message": "Disk"
+   },
+   "6263911096488435737": {
+      "message": "Mix'i yenile"
+   },
+   "6264257099423315684": {
+      "message": "Bu, hangi e-posta adresine bağlanmalı?"
+   },
+   "6266962164598137510": {
+      "message": "Beğenme"
+   },
+   "6295780096198935300": {
+      "message": "Tüm şarkı arama sonuçlarını göster"
+   },
+   "630414199054820482": {
+      "message": "Noktalama Boşluğu"
+   },
+   "6321629750851370838": {
+      "message": "Oynatma"
+   },
+   "6334800505555910746": {
+      "message": "$XXX_2$ altında $XXX_1$ tarafından sağlanmaktadır",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Yükleme hatası!"
+   },
+   "6342787164312491730": {
+      "message": "Hava Durumu, Sahneler ve Burç işaretleri"
+   },
+   "6348993545995904615": {
+      "message": "Karıştır"
+   },
+   "6352462755178724841": {
+      "message": "Biçimlendirmeyi kaldır"
+   },
+   "6354300278943883017": {
+      "message": "Şarkı listeleri taşındı!"
+   },
+   "6360340926892934518": {
+      "message": "Klasör ekle"
+   },
+   "6360662632410865665": {
+      "message": "35 milyon şarkıya isteğe bağlı, reklamsız erişim. İnternet bağlantınız olmadığında dinleyebilmek için istediğiniz parçaları indirin. 50.000 şarkı ekleyin ve istediğiniz yerde dinleyin."
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Yalnızca tek bir indirme hakkı kalan hiç şarkı yok.}=1{\"{XXX_1}\" adlı şarkının yalnızca 1 indirme hakkı kaldı.}=2{\"{XXX_1}\" ve \"{XXX_2}\" adlı şarkıların yalnızca 1 indirme hakkı kaldı.}=3{\"{XXX_1},\" \"{XXX_2}\" ve \"{XXX_3}\" adlı şarkıların yalnızca 1 indirme hakkı var.}=4{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3}\" ve diğer 1 şarkının yalnızca 1 indirme hakkı kaldı.}other{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3}\" ve diğer {XXX_4} şarkının yalnızca 1 indirme hakkı kaldı.}}"
+   },
+   "6390744057286457578": {
+      "message": "Ortala"
+   },
+   "6392918669949841614": {
+      "message": "Eklenme tarihi"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Metin rengi"
+   },
+   "6401620758535187625": {
+      "message": "Ödeme bilgilerini güncelle"
+   },
+   "6410017727692959093": {
+      "message": "Etkinlik yeri"
+   },
+   "6419550114275715130": {
+      "message": "Müzik hâlâ çalıyor."
+   },
+   "6425912931786223127": {
+      "message": "öö"
+   },
+   "6426880811380367028": {
+      "message": "Duraklat: $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6427041476637425542": {
+      "message": "Alt simge"
+   },
+   "6439365426343089851": {
+      "message": "Genel"
+   },
+   "6447846965513034625": {
+      "message": "Nesneler"
+   },
+   "6448771309160517960": {
+      "message": "Ücretsiz olarak başlat"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Aramızdaki müzik tutkunlarının yaptığı şarkı listeleri$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "Myanmar"
+   },
+   "6455589326534311330": {
+      "message": "Tüm kitaplığınızı bilgisayarınıza indirmek için $START_SPAN$Google Play Müzik Yöneticisi$END_SPAN$'ni kullandığınızda bu sınırlama geçerli olmaz.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Müstehcen: Çocuklar için uygunsuz olabilecek içerik barındırıyor"
+   },
+   "6479183350424120199": {
+      "message": "Tüm videoları göster"
+   },
+   "6482036697464831271": {
+      "message": "Google Play, müziğinizi hızlı bir şekilde yükleyebilmek için müzik dosyalarınızı sunucumuzdaki kopyalarla karşılaştırır. Ara sıra yanlış şarkı eşleştirilebiliniyor. Sorunu buradan bildirirseniz şarkılar eşleşen kopya yerine kendi kopyalarınızı kullanacak şekilde düzeltilir."
+   },
+   "6482815137654580311": {
+      "message": "Bilgileri düzenle"
+   },
+   "6484073284972331008": {
+      "message": "Çalma sayısı güncellenemedi"
+   },
+   "6485379744416240146": {
+      "message": "Beğenilenler"
+   },
+   "6488707262592852720": {
+      "message": "2. Yükleyici penceresinde, Müzik Yönetici simgesini Uygulamalar klasörü simgesine sürükleyin."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Müzik: İndirilenler Klasörünü Seçin"
+   },
+   "6504449653938065974": {
+      "message": "Önerilen şarkı listesi"
+   },
+   "6510962485068569110": {
+      "message": "Geri al"
+   },
+   "6513265996872955028": {
+      "message": "Kitaplığa ekle"
+   },
+   "6523257069333866790": {
+      "message": "Müzik kitaplığı"
+   },
+   "6531109671848395983": {
+      "message": "Müziğinizi eklemek üzere Chrome için Google Play Müzik uygulamasını yükleyin."
+   },
+   "6531471505721570155": {
+      "message": "Daha fazla al"
+   },
+   "653219508056341533": {
+      "message": "Kişiler ve İfadeler"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6555053572817998410": {
+      "message": "Duraklat"
+   },
+   "6562996658473327600": {
+      "message": "Çalınıyor:"
+   },
+   "6568036879894576496": {
+      "message": "Aşağıdaki klasörlerde bulunan müzikler Google Play Müzik'e eklenecektir"
+   },
+   "6568649140210842427": {
+      "message": "Geri al"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Her şarkı web'de sadece bir defa indirilebilir.}other{ Her şarkı web'de sadece {DOWNLOAD_COUNT_MAX_2} defa indirilebilir.}}"
+   },
+   "6591282200798732887": {
+      "message": "Orta Dörtlü"
+   },
+   "65984904390749158": {
+      "message": "Tamamla"
+   },
+   "66116513409922755": {
+      "message": "Hayır"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6634231960955145278": {
+      "message": "Şarkı"
+   },
+   "6638274938129779637": {
+      "message": "Beğenmeyi geri al"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 şarkı kaldırıldı}other{# şarkı kaldırıldı}}"
+   },
+   "6650633628037596693": {
+      "message": "Tekrar deneyin"
+   },
+   "6650888720096194474": {
+      "message": "Mini oynatıcıyı kullanmak için $START_SPAN$$EMAIL$$END_SPAN$ hesabında Google Play Müzik uygulamasını kurmanız gerekir",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normal"
+   },
+   "6652787256443519035": {
+      "message": "Etiket yok"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{ Google Play'e 1 şarkı eklendi.}other{ Google Play'e {NUM_ADDED_2} şarkı eklendi.}}"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Müziğinizi $START_SPAN_1$Android$END_SPAN$, $START_SPAN_2$iOS$END_SPAN$ ve web'de keyifle dinleyebilirsiniz",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Girintiyi azalt"
+   },
+   "6689623864271696040": {
+      "message": "Yumuşak Kesme Çizgisi"
+   },
+   "6703444928647322448": {
+      "message": "Ad"
+   },
+   "6704452266937792847": {
+      "message": "Kitaplığa ekle"
+   },
+   "6706494172112196654": {
+      "message": "6 kişiye kadar aile üyesinin yararlanabileceği aile planına geçin"
+   },
+   "6711475260919070872": {
+      "message": "Eski Fars"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Sizin için önerilenler"
+   },
+   "6719382961812623394": {
+      "message": "Kurulumla ilgili bir sorun oluştu"
+   },
+   "6722174221321515493": {
+      "message": "Sıfır Genişlikli Bitiştirici"
+   },
+   "6724866564770579816": {
+      "message": "Müzik dinleme yöntemleri"
+   },
+   "6732797853205065184": {
+      "message": "Yoksay"
+   },
+   "6742017901699269182": {
+      "message": "Albümlerime git"
+   },
+   "6747414430222084644": {
+      "message": "Parça uzunluğu: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6750258767236131097": {
+      "message": "Orta Doğu Alfabeleri"
+   },
+   "6768967544887679189": {
+      "message": "Dalgalı Kısa Çizgi"
+   },
+   "6774444826375904566": {
+      "message": "\"{TRACK_TITLE}\" adlı şarkı kitaplığınıza eklendi."
+   },
+   "6790172339432877080": {
+      "message": "Bu L işareti, buradaki içeriğin plak ve video prodüksiyon şirketleri tarafından sağlandığını gösteren bir tescilli ticari marka işaretidir."
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "Tamam"
+   },
+   "6820635381009519748": {
+      "message": "Sıradan kaldır"
+   },
+   "6821274223204126521": {
+      "message": "Müzikal"
+   },
+   "6830152735949448199": {
+      "message": "Google Play Müzik labs tam anlamıyla kullanıma hazır olmayan deneysel özellikler için bir test ortamıdır. Bu özellikler herhangi bir zamanda değişebilir, çalışmayabilir veya kaybolabilir. İyi eğlenceler!"
+   },
+   "6839273670547667172": {
+      "message": "Çeşitli"
+   },
+   "6840919594921167668": {
+      "message": "İndirilen şarkılarınızı görmek için bilgisayarınızın İndirilenler klasörünü kontrol edin."
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. Yükleyici açıldığında Müzik Yönetici'nin kurulumu için talimatları uygulayın."
+   },
+   "686324708947275216": {
+      "message": "İstasyon kaldırılamadı. Lütfen tekrar deneyin."
+   },
+   "6887831882226099905": {
+      "message": "Aşağıdaki cihazın müzik ekleme yetkisini kaldırmak istediğinizden emin misiniz?"
+   },
+   "689233687170647171": {
+      "message": "Yukarıdaki şarkı listesi simgesini tıklayın veya istediğiniz şarkıyı sağa sürükleyerek bir şarkı listesine ekleyin."
+   },
+   "6898179631823558149": {
+      "message": "Dosya kullanılabilir bir biçime dönüştürülemedi"
+   },
+   "6930531446322391145": {
+      "message": "Resim"
+   },
+   "6932671848756303275": {
+      "message": "Düşük"
+   },
+   "6940170973585783277": {
+      "message": "Aile planına geç"
+   },
+   "6941609127174167431": {
+      "message": "10 saniye geri atla"
+   },
+   "6943941659433003765": {
+      "message": "Anında mix başlat"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "6962699013778688473": {
+      "message": "Devam Et"
+   },
+   "6990699195498598876": {
+      "message": "Başlamak için, Müzik Yönetici'yi aşağıdan indirin. Müzik Yönetici, bilgisayarınızdaki müzik dosyalarını Google Müzik'e yüklemenizi sağlayan basit bir uygulamadır."
+   },
+   "699971906528455934": {
+      "message": "Bilinmeyen sanatçı"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7002955679222677443": {
+      "message": "Daha Fazla Bilgi"
+   },
+   "7009828133009731416": {
+      "message": "Google'dan ücretsiz"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7019115336138470191": {
+      "message": "Abone olundu"
+   },
+   "7020161279392960480": {
+      "message": "Biçim"
+   },
+   "7022070615528435141": {
+      "message": "Sil"
+   },
+   "7034479228356652023": {
+      "message": "Han 1 Çizgili Radikaller"
+   },
+   "7035822615949880851": {
+      "message": "Müziğiniz bu cihazda geçici olarak kullanılamıyor. Lütfen daha sonra tekrar deneyin. Hata 442."
+   },
+   "7043080825985118397": {
+      "message": "Silmeyi geri al"
+   },
+   "7049182394855721704": {
+      "message": "Gotik"
+   },
+   "7054091192371222228": {
+      "message": " / "
+   },
+   "7062695654404914711": {
+      "message": "Anında Mix'ler"
+   },
+   "7067908984080925888": {
+      "message": "Devamı"
+   },
+   "7071666053441099517": {
+      "message": "1. Tarayıcı pencerenizin sol alt bölümünde bulunan MusicManager.dmg'yi açın."
+   },
+   "7080245643233785574": {
+      "message": "Chrome için Google Play Müzik bir sorunla karşılaştı ve tekrar oturum açmanızı gerektiriyor."
+   },
+   "7090368974279082159": {
+      "message": "Hata!"
+   },
+   "709740537382334098": {
+      "message": "Satın alınan müzikler dahil olmak üzere tüm kitaplığımı sil ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Hangıl Choseong Yer Doldurucu"
+   },
+   "7100567566985297322": {
+      "message": "Uzun Boşluk"
+   },
+   "7102126384411654213": {
+      "message": "Koleksiyona eklenemedi. Lütfen tekrar deneyin."
+   },
+   "7104210472412766015": {
+      "message": "Satır Arası Ek Açıklama Ayırıcı"
+   },
+   "7105416082849293719": {
+      "message": "Son Etkinlik"
+   },
+   "7111181959300196580": {
+      "message": "Girintiyi artır"
+   },
+   "7116872031464114568": {
+      "message": "Ses Arama'da tanındı"
+   },
+   "7127937208951634191": {
+      "message": "Simge"
+   },
+   "7136816542440442290": {
+      "message": "Radyo istasyonunuz yüklenirken bir sorunla karşılaşıldı."
+   },
+   "7144198039114608569": {
+      "message": "Otomatik şarkı listesi"
+   },
+   "716550293954822096": {
+      "message": "Seylanca"
+   },
+   "7182974689040833178": {
+      "message": "Devam ettir"
+   },
+   "7192513315706728552": {
+      "message": "Sunucu hatası. Daha sonra tekrar deneyin."
+   },
+   "7194376132387780145": {
+      "message": "Zaten on cihazınız olduğundan bu bilgisayar yetkilendirilemedi."
+   },
+   "7200522943394315316": {
+      "message": "32 bit .rpm (Fedora/openSUSE için)"
+   },
+   "7202681158267340446": {
+      "message": "Yazı tipi"
+   },
+   "720381800527728702": {
+      "message": "Sporlar, Kutlamalar ve Etkinlikler"
+   },
+   "7212676589977202933": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ şarkı eklendi",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Çalma listesi açılamadı. Lütfen tekrar deneyin."
+   },
+   "7228343081607279547": {
+      "message": "Sundaca"
+   },
+   "7229202390260081051": {
+      "message": "Çok büyük"
+   },
+   "7249560357803023328": {
+      "message": "Kitaplığı indirin"
+   },
+   "7262284142845767114": {
+      "message": "Beğenilenler"
+   },
+   "7277602889799602415": {
+      "message": "Kitaplığım'ı sil"
+   },
+   "7281847881697831326": {
+      "message": "Silme işlemi geri alınırken hata oluştu."
+   },
+   "7282565673166392948": {
+      "message": "İdeografik Açıklama"
+   },
+   "7283215568776397157": {
+      "message": "Yüklenen şarkılar:"
+   },
+   "7287006426755387074": {
+      "message": "Oynatıcının sesini artır"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 dakika}=1{1 dakika}other{# dakika}}"
+   },
+   "7292902857194439444": {
+      "message": "Cihaz"
+   },
+   "7293921570163366209": {
+      "message": "$NAME$ adlı sanatçının şarkılarına benzer şarkılar dinleyin",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7293925053370285812": {
+      "message": "Geçerli Şarkı Tekrarlanıyor. Tekrarlama modunu değiştirmek için tıklayın."
+   },
+   "730022297859142476": {
+      "message": "Anında mix"
+   },
+   "7305504256207181669": {
+      "message": "Madde işaretli liste"
+   },
+   "7306812086707840437": {
+      "message": "Google Play Müzik'e abone olun ve bu radyo istasyonunun yanı sıra başka milyonlarca şarkı dinleyin. İlk ay ücretsiz."
+   },
+   "731429515932674572": {
+      "message": "Sesi kapat"
+   },
+   "7320133162875658022": {
+      "message": "Yeni şarkılar yükle ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7322373231564004139": {
+      "message": "Bul"
+   },
+   "7331328794127852355": {
+      "message": "Emoji"
+   },
+   "7335080673788704461": {
+      "message": "Taşımacılık, Haritalar ve İşaretler"
+   },
+   "7354536653016090160": {
+      "message": "Üst Sıralar"
+   },
+   "7354691783317064273": {
+      "message": "Chrome uygulaması bağlanıyor."
+   },
+   "7376787658603979700": {
+      "message": "Milyonlarca şarkıdan istediğinizi satın alın, ücretsiz yüzlerce parça edinin."
+   },
+   "7396303606473621591": {
+      "message": "Tümü"
+   },
+   "7410432243549869948": {
+      "message": "Süre"
+   },
+   "7411932913365107274": {
+      "message": "Yılda dört cihazın yetkisini kaldırabilirsiniz."
+   },
+   "741454111929523251": {
+      "message": "Şunu mu demek istediniz? $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Klasör seç..."
+   },
+   "7422152161839392092": {
+      "message": "Google Play Müzik aboneliği hediye edin"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{# gün içinde}=1{# gün içinde}other{# gün içinde}}"
+   },
+   "7437730399353044671": {
+      "message": "Tüm müziği istek üzerine, reklamsız ve çevrimdışı olarak dinlemek için abone olun"
+   },
+   "7437894509168051348": {
+      "message": "Han 7 Çizgili Radikaller"
+   },
+   "744665031629199878": {
+      "message": "$ARTIST_NAME$ için tüm ilgili sanatçıları göster",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7449358949677606364": {
+      "message": "İstediğiniz an dinleyebileceğiniz 35 milyon şarkı"
+   },
+   "7467710920158412786": {
+      "message": "Yalnızca sizin için özel bir şarkı listesi."
+   },
+   "747583939629659293": {
+      "message": "Renk ekle"
+   },
+   "7475857386379593056": {
+      "message": "$ALBUM_NAME$ albümünü çal",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7480960100390206139": {
+      "message": "Çeşitli"
+   },
+   "7502695447103329189": {
+      "message": "Üst karakter &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ adlı sanatçıyı paylaşmak için bağlantıyı kopyalayıp yapıştırın",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Beğendiğiniz sanatçıları seçin"
+   },
+   "7529798479468856973": {
+      "message": "$NUM$ saat önce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7535122927261158198": {
+      "message": "Son eklenenler"
+   },
+   "7536172317066333802": {
+      "message": "Resim ekle"
+   },
+   "7546873952682838388": {
+      "message": "Bu bilgisayardaki müzik klasörleri"
+   },
+   "7559266156388225108": {
+      "message": "Kaithi Rakamlar"
+   },
+   "756024699361489239": {
+      "message": "Karıştır"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Moğolca Sesli Harf Ayırıcı"
+   },
+   "7572946295452220765": {
+      "message": "Yükleme talimatları"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 çalma}=1{1 çalma}other{{COUNT_2} çalma}}"
+   },
+   "7592349062857393820": {
+      "message": "g ardından t"
+   },
+   "7596816553523902619": {
+      "message": "Bugün"
+   },
+   "7598340248282243111": {
+      "message": "Tüm son etkinlikleri göster"
+   },
+   "7599424290971072767": {
+      "message": "Tür"
+   },
+   "7601688284754148415": {
+      "message": "Matematik"
+   },
+   "7604883230326131491": {
+      "message": "$TITLE$ şarkı listesi",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "İndirme işleminiz kısa süre içinde başlayacaktır. Başlamazsa lütfen $START_LINK$burayı tıklayın$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7610552438938511934": {
+      "message": "\"{STATION_TITLE}\" adlı istasyon kitaplığınıza eklendi"
+   },
+   "7617664217221228040": {
+      "message": "Bali"
+   },
+   "7619560701830330401": {
+      "message": "Yükleniyor"
+   },
+   "762389150316771008": {
+      "message": "Kendimi şanslı hissediyorum radyosu"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Bilgisayarınıza indirmek için hiç şarkı seçmediniz.}=1{Seçilen şarkı izin verilen en çok sayıda zaten indirilmiş.}other{Seçilen şarkılar izin verilen en çok sayıda zaten indirilmiş.}}"
+   },
+   "7631480327394084350": {
+      "message": "Resimleri Denetle"
+   },
+   "7638759029296490900": {
+      "message": "Şarkı listelerinizi görüntülemek için şarkı listesi çekmecesini açın."
+   },
+   "763998168115480566": {
+      "message": "Şarkı atlama hakkınız kalmadı. Milyonlarca şarkıya istekte bulunarak ve çevrimdışı erişin."
+   },
+   "7664246845088850317": {
+      "message": "Sunucuya bağlanılamadı. Hata kodu: "
+   },
+   "7669291472367464463": {
+      "message": "Lütfen @google.com e-posta adresinizi girin"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7704516203792990151": {
+      "message": "Geçen Süre"
+   },
+   "7708364972132250264": {
+      "message": "Couldn't clear cached songs, please try again later."
+   },
+   "7709119284546787990": {
+      "message": "Sağdan sola"
+   },
+   "7711713319832787051": {
+      "message": "Eşlendi"
+   },
+   "7730109880037106848": {
+      "message": "Simgeler"
+   },
+   "7736581252844206600": {
+      "message": "Yunan"
+   },
+   "7737642252665507180": {
+      "message": "Onaltılık Giriş"
+   },
+   "7743528314734813641": {
+      "message": "Anında mix'iniz yüklenirken bir sorunla karşılaşıldı."
+   },
+   "7756401573104983978": {
+      "message": "Bilgisayar Uygulaması"
+   },
+   "7760426006262447033": {
+      "message": "Sırada yeterli yer yok"
+   },
+   "776736242214904151": {
+      "message": "Bu şarkıyı ve diğer milyonlarcasını istediğiniz zaman yeniden çalın"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 şarkı}=1{1 şarkı}other{# şarkı}}"
+   },
+   "7774266771623079214": {
+      "message": "Play Müzik"
+   },
+   "7776111286341041808": {
+      "message": "Soldan sağa"
+   },
+   "7783345534551124847": {
+      "message": "Şarkılar"
+   },
+   "779262212811541732": {
+      "message": "Eski Güney Arapçası"
+   },
+   "7800122803571674150": {
+      "message": "Google Play Müzik'e hoş geldiniz"
+   },
+   "7801884781403562273": {
+      "message": "Kod kullan"
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7819314041543176992": {
+      "message": "Kapat"
+   },
+   "7832954852370077811": {
+      "message": "Biraz müzik çalın veya sıranıza eklemek üzere bir albümdeki, şarkıdaki veya şarkı listesindeki $MENU_ICON$ simgesini tıklayın.",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Müzik ekleme işlemi iptal ediliyor"
+   },
+   "7846689234809169417": {
+      "message": "Hayvanlar, Bitkiler ve Yiyecekler"
+   },
+   "7848021326942321162": {
+      "message": "\"{STATION_TITLE}\" adlı istasyon kitaplığınızdan kaldırıldı"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 saat}=1{1 saat}other{# saat}}"
+   },
+   "7878031641910175480": {
+      "message": "Son Seçimler:"
+   },
+   "7886189590148092330": {
+      "message": "Yer: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7888286842234266048": {
+      "message": "İliştirilmiş/Noktalı"
+   },
+   "7898792314887900865": {
+      "message": "Kıbrıs Yunan"
+   },
+   "7927039504440585569": {
+      "message": "Latince"
+   },
+   "7931527771588976000": {
+      "message": "Fonetik (IPA)"
+   },
+   "7933642402079881815": {
+      "message": "The explicit content filtering settings for this account have changed. Please reload for the changes to take effect."
+   },
+   "7941094066137301803": {
+      "message": "Arkadaşlarınızla paylaşmaya başlamak için Google+ sürümüne geçin."
+   },
+   "7943877664425892318": {
+      "message": "Şarkı listesi çekmecesini aç"
+   },
+   "7947294997516635657": {
+      "message": "Her şey güncel"
+   },
+   "7954850519963017242": {
+      "message": "$NUM$ gün önce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arapça Sanah İşareti"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 klasör}=1{1 klasör}other{# klasör}}"
+   },
+   "7980428538910137664": {
+      "message": "Ücretsiz ve satın alınanlar"
+   },
+   "7984622936663451936": {
+      "message": "Klavye ve Kullanıcı Arayüzü"
+   },
+   "7985393396166342590": {
+      "message": "Müzik ekleme işlemi devam ettiriliyor"
+   },
+   "7988520144814845441": {
+      "message": "Devam etmek için oturum açın"
+   },
+   "7996265599642887416": {
+      "message": "Kitaplıktan kaldır"
+   },
+   "8001758142015238809": {
+      "message": "Geçici hata. Yükleme işlemi tekrar denenecek."
+   },
+   "8019982600883750632": {
+      "message": "Yasla"
+   },
+   "8020892463961333112": {
+      "message": "Müzik Sembolü Kaydırma Sonu"
+   },
+   "8024675506077392847": {
+      "message": "Sıradaki şarkı yüklenemedi."
+   },
+   "8030037581414873660": {
+      "message": "Han 2 Çizgili Radikaller"
+   },
+   "803032414305825807": {
+      "message": "Yazı tipi boyutu"
+   },
+   "803376120920513357": {
+      "message": "$NUM$ gün önce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Şarkı listesine abone olunamadı. Lütfen tekrar deneyin."
+   },
+   "8045052194324740729": {
+      "message": "Çöp kutusundaki şarkılar çalınamaz."
+   },
+   "8058956869215275454": {
+      "message": "Facebook'ta paylaş"
+   },
+   "8066747296553908214": {
+      "message": "Çift Eğik Kesme Çizgisi"
+   },
+   "8110367050267853536": {
+      "message": "Diğer seçenekler"
+   },
+   "8110717721846730575": {
+      "message": "Sesi aç"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{İndirme sınırını aşan hiç şarkı yok.}=1{\"{XXX_1}\" zaten {DOWNLOAD_COUNT_MAX} kez indirildi ve artık indirilemez.}=2{\"{XXX_1}\" ve \"{XXX_2}\" zaten {DOWNLOAD_COUNT_MAX} kez indirildi ve artık indirilemez.}=3{\"{XXX_1},\" \"{XXX_2}\" ve \"{XXX_3}\" zaten {DOWNLOAD_COUNT_MAX} kez indirildi ve artık indirilemez.}=4{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3}\" ve seçilen diğer 1 şarkı zaten {DOWNLOAD_COUNT_MAX} kez indirildi ve artık indirilemez.}other{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3}\" ve seçilen diğer {XXX_4} şarkı zaten {DOWNLOAD_COUNT_MAX} kez indirildi ve artık indirilemez.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Google Play Müzik'ten haberler ve teklifler konusunda beni bilgilendir"
+   },
+   "8144474297019493415": {
+      "message": "Son eklenenler"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} gün}other{{TEXT} gün}}"
+   },
+   "8159976291123989327": {
+      "message": "Bağlantıyı Düzenle"
+   },
+   "8164274980045228173": {
+      "message": "Pop Yönlü Biçimlendirme"
+   },
+   "8164897103619368290": {
+      "message": "Numaralı liste"
+   },
+   "8174689178967388837": {
+      "message": "Parça no"
+   },
+   "8191208612330635266": {
+      "message": "Tibet"
+   },
+   "8192298658946835992": {
+      "message": "Sıfır Genişlikli Bölünmez Boşluk"
+   },
+   "8193509313274135818": {
+      "message": "Arapça Dipnot İşareti"
+   },
+   "819996403327805209": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Ayrıca {START_SPAN_1}doğrudan indirebilirsiniz{END_SPAN}, ancak bunu {START_SPAN_2}her şarkı için yalnızca bir defa{END_SPAN} yapabilirsiniz.}other{ Ayrıca {START_SPAN_1}doğrudan indirebilirsiniz{END_SPAN}, ancak bunu {START_SPAN_3}her şarkı için yalnızca {DOWNLOAD_COUNT_MAX_2} defa{END_SPAN} yapabilirsiniz.}}"
+   },
+   "8206726262986846319": {
+      "message": "Açıklama ekleyin..."
+   },
+   "8216772648076666728": {
+      "message": "Allow explicit songs."
+   },
+   "8221494968176924260": {
+      "message": "Şarkı listem"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ 1 şarkı eklenemiyor}other{ {NUM_FAILURES_2} şarkı eklenemiyor}}"
+   },
+   "823405029831570152": {
+      "message": "Etiyopya"
+   },
+   "8235345176344531979": {
+      "message": "g ardından a"
+   },
+   "8239380670132570074": {
+      "message": "Geçici dosya açılamıyor"
+   },
+   "8249329268828083858": {
+      "message": "Katakana - Hiragana Çift Kısa Çizgi"
+   },
+   "8257187280628059022": {
+      "message": "Müziği başka bir cihazda dinlediğiniz anlaşıldığından burada duraklatıldı. $START_LINK$Daha fazla bilgi edinin$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8265500184685762525": {
+      "message": "Biletler"
+   },
+   "8275689791574630480": {
+      "message": "Ogham Boşluk İşareti"
+   },
+   "8277279706638733641": {
+      "message": "Yıldızlar/Asteriskler"
+   },
+   "828700836558117968": {
+      "message": "Google Play Müzik"
+   },
+   "8300572760144032022": {
+      "message": "Seçili şarkıdan radyo istasyonu oluştur"
+   },
+   "8302804816588048941": {
+      "message": "Bu işlem ayrıca şarkı listelerinizi, anında mix'lerinizi, kullanıcı oylarınızı ve tüm çalma sayısı bilgilerinizi siler."
+   },
+   "8325100368677049569": {
+      "message": "Yeni müzikler keşfedin"
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Yinelenen şarkı eklensin mi?}other{Yinelenen şarkılar eklensin mi?}}"
+   },
+   "8338465287076872825": {
+      "message": "Dosyadan müzik okunamıyor"
+   },
+   "8358697777226306085": {
+      "message": "Mısır Hiyeroglifleri"
+   },
+   "8363930857329550333": {
+      "message": "Gürcü"
+   },
+   "838509699315651621": {
+      "message": "Şarkı listesinde bu şarkı zaten mevcut"
+   },
+   "8385464685117997940": {
+      "message": "Yakın zamanda dinlendi"
+   },
+   "8386555666648700714": {
+      "message": "En Çok Satan Şarkılar"
+   },
+   "8395180429531273524": {
+      "message": "Cihazım neden uygun değil?"
+   },
+   "8396767881870375563": {
+      "message": "Tüm etkinlik arama sonuçlarını göster"
+   },
+   "8405156617531647050": {
+      "message": "Google Play Müzik'i zaten denediğiniz anlaşılıyor."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Oturum Aç"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "8421838551605999158": {
+      "message": "1. musicmanagerinstaller.exe'yi kaydedin"
+   },
+   "8424326418312855409": {
+      "message": "Google Play Müzik kurulurken bir sorun oluştu."
+   },
+   "842631328362018283": {
+      "message": "Büyük"
+   },
+   "8437015452970026040": {
+      "message": "Koleksiyon sınırına ulaşıldı. Başka şarkı eklemek istiyorsanız lütfen bazı şarkıları kaldırın."
+   },
+   "8439955599488894226": {
+      "message": "Gizlilik Politikası"
+   },
+   "8440128775129354214": {
+      "message": "Gizlilik"
+   },
+   "8454237498473122184": {
+      "message": "Kısa Çizgi - Eksi"
+   },
+   "8455196866871985315": {
+      "message": "Tüm popüler albümleri göster"
+   },
+   "8455204924704616723": {
+      "message": "Dosya"
+   },
+   "8458476427655018512": {
+      "message": "Boşluk"
+   },
+   "8477224362193738096": {
+      "message": "Sanatçı: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8482517151370142670": {
+      "message": "Diğer"
+   },
+   "848933194605193751": {
+      "message": "YouTube'da yeni izlendi"
+   },
+   "8492241415183649700": {
+      "message": "Karya"
+   },
+   "851623407011365974": {
+      "message": "Müziğiniz kısa süre içinde devam ettirilecek"
+   },
+   "8524322739067915993": {
+      "message": "ös"
+   },
+   "8527029831666633156": {
+      "message": "Dinlemeye devam etmek için oturum açın, ücretsiz"
+   },
+   "8534560073330554352": {
+      "message": "Çalma sayısı"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8564202903947049539": {
+      "message": "Oynat"
+   },
+   "8574053857298592408": {
+      "message": "Gezinme çekmecesini aç."
+   },
+   "858254219718239996": {
+      "message": "Telif hakkı &copy; $COPYRIGHT_LIST_JOINED$",
+      "placeholders": {
+         "COPYRIGHT_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "8602981985283490607": {
+      "message": "Bilgisayarınızdan $START_LINK$Music Manager'ı kaldırmak için yardım alın$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Google Play, müziğinizi hızlı şekilde yükleyebilmek için müzik dosyalarınızı sunucumuzdaki kopyalarla eşleştirir. Bazen, yanlış şarkılar eşleştirilebilir. Sorunu buradan bildirin, şarkılar tekrar yüklenecektir."
+   },
+   "8608281335099046628": {
+      "message": "Müzik işleniyor..."
+   },
+   "8619410898472620495": {
+      "message": "Şarkı çalmayı devam ettirmek için web'de Google Play Müzik'i ziyaret edin."
+   },
+   "862440714280873951": {
+      "message": "Podcast'i var"
+   },
+   "8624490471677691415": {
+      "message": "Şu kaynaktan müzikleri görüntüle:"
+   },
+   "8624618794349836904": {
+      "message": "Kişiselleştirilmiş öneriler sağlamak ve radyoyu özelleştirmek için kullanılan geçmişi kaldırın. Bu işlem, ayrı ayrı parçalara ilişkin kullanıcı oylarınızı ve çalma sayılarınızı kaldırmaz."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{# dakika içinde}=1{# dakika içinde}other{# dakika içinde}}"
+   },
+   "8628766851955432422": {
+      "message": "Kaldır"
+   },
+   "8637643428005590282": {
+      "message": "İşaretler"
+   },
+   "8639048757911329468": {
+      "message": "NaCl Sürümü: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Radyo dinlenirken çalma konumu değiştirilemez"
+   },
+   "865328592283008990": {
+      "message": "Koleksiyonunuzdan 50.000'e kadar şarkıyı Google Play'e ücretsiz olarak ekleyin."
+   },
+   "8674371043496677979": {
+      "message": "Şu albümden: $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Tekrar Dene"
+   },
+   "8692453200617588996": {
+      "message": "Beğendiğiniz türleri seçin"
+   },
+   "8700121026680200191": {
+      "message": "Temizle"
+   },
+   "8733921970136713647": {
+      "message": "Aboneliği iptal et"
+   },
+   "8741366833297918126": {
+      "message": "Şarkının Uzunluğu"
+   },
+   "8763647985340267403": {
+      "message": "Oyun Parçaları"
+   },
+   "8764339661945610128": {
+      "message": "Başka sanatçılar göster"
+   },
+   "8768143964455071187": {
+      "message": "Ogham"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{# saat önce}=1{# saat önce}other{# saat önce}}"
+   },
+   "8783871424196328846": {
+      "message": "128 kb/sn., uyarlamalı."
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Labs"
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8801801881586334412": {
+      "message": "En İyi Albümler"
+   },
+   "880592275679936810": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ parça eklendi",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Bugün"
+   },
+   "8819361322041128714": {
+      "message": "Ugarit"
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 şarkı listesi}=1{1 şarkı listesi}other{# şarkı listesi}}"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Dikkat.$POSTB$ Bir web sayfasına e-posta adresi eklediğinizde, rahatsız edici spam göndericilerin de adresi bulabileceğini unutmayın.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$, seçili. Seçimi kaldırmak için tıklayın.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arapça Rakamlar"
+   },
+   "8858058202463451164": {
+      "message": "Sola hizala"
+   },
+   "8868784738343119594": {
+      "message": "$NUM$ dakika önce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Diğer şarkılar"
+   },
+   "8871219022895015530": {
+      "message": "O an seçili şarkıları sıraya ekler"
+   },
+   "8890553633144307762": {
+      "message": "Geri"
+   },
+   "8892247938951013000": {
+      "message": "Şarkı listesine eklenemedi. Lütfen tekrar deneyin."
+   },
+   "8892908795692466458": {
+      "message": "Paylaş"
+   },
+   "8896073810838561095": {
+      "message": "Han 8 Çizgili Radikaller"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8910998670732377227": {
+      "message": "Tekrar dene"
+   },
+   "8920100935192456970": {
+      "message": "Tüm tür arama sonuçlarını göster"
+   },
+   "8928816882866356838": {
+      "message": "Herkese açık"
+   },
+   "8931700495296520714": {
+      "message": "Mini Oynatıcıyı Kapat"
+   },
+   "8934299821763129489": {
+      "message": "Eski İtalik"
+   },
+   "8936704404804793618": {
+      "message": "Videolar"
+   },
+   "8953033926734869941": {
+      "message": "Ad"
+   },
+   "8958381934236197373": {
+      "message": "Şekil Boşluğu"
+   },
+   "8961985815150856927": {
+      "message": "Yakın zamanda oluşturuldu"
+   },
+   "8967493310012272750": {
+      "message": "$NAME$ Radyo",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969179774064404960": {
+      "message": "Ses düzeyi"
+   },
+   "8969573585280830171": {
+      "message": "Duruma en uygun müzik"
+   },
+   "8971282019539581965": {
+      "message": "Hakkında iletişim kutusunu kapat"
+   },
+   "8979933913103486540": {
+      "message": "Kısa Çizgi/Bağlayıcı"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 şarkı indirildi}other{ {NUM_TRANSFERRED_TRACKS_2} şarkı indirildi}}"
+   },
+   "8998527640999447691": {
+      "message": "Parantez"
+   },
+   "9000028459946302905": {
+      "message": "Kitaplığım'a yüklediğim tüm müzikleri sil ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Moğolca Kesme Çizgisi"
+   },
+   "9001309834415064766": {
+      "message": "Han 10 Çizgili Radikaller"
+   },
+   "901225307358856093": {
+      "message": "Kanada Dili Hece Kısa Çizgi"
+   },
+   "902300864627076683": {
+      "message": "Yazıt Farsça"
+   },
+   "9024489874326845912": {
+      "message": "Önerilen albüm"
+   },
+   "903557305746845933": {
+      "message": "160 kb/sn., uyarlamalı."
+   },
+   "9042260521669277115": {
+      "message": "Duraklat"
+   },
+   "9045338265172338590": {
+      "message": "Meetei Mayek"
+   },
+   "9049377337845973204": {
+      "message": "Çal: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9053704575157030099": {
+      "message": "Hiçbiri"
+   },
+   "9059560719840598868": {
+      "message": "Geri Bildirim Gönder"
+   },
+   "9063659532473030063": {
+      "message": "Hava Durumu ve Astroloji"
+   },
+   "908288323950111351": {
+      "message": "Abone olunan bir şarkı listesine eklenemez."
+   },
+   "9084816336314899019": {
+      "message": "Devam"
+   },
+   "9092976405151508175": {
+      "message": "Yeniden yap"
+   },
+   "9098679347815545327": {
+      "message": "Şarkı listesi oluşturulamadı. Lütfen tekrar deneyin."
+   },
+   "9099290682020828903": {
+      "message": "\"{PLAYLIST_TITLE}\" adlı şarkı listesine abone olundu"
+   },
+   "9104232341234454503": {
+      "message": "Sınırsız müzik"
+   },
+   "9111239821213364249": {
+      "message": "Sınırsız müziği deneyin. İlk 30 gün bizden."
+   },
+   "9128859482251917046": {
+      "message": "Sırayı aç veya kapat"
+   },
+   "9136743822509821032": {
+      "message": "$PLAYLIST_TITLE$ şarkı listesini çal",
+      "placeholders": {
+         "PLAYLIST_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9138683078793837147": {
+      "message": "Beğenmemeyi geri al"
+   },
+   "9143597363285105250": {
+      "message": "Albüm Sanatçısı"
+   },
+   "9173411042808904308": {
+      "message": "Normal / tırnaklı"
+   },
+   "9179661003472285430": {
+      "message": "Müzik Yönetici'yi indir"
+   },
+   "9184426509557869402": {
+      "message": "Çizgisel Boşluk"
+   },
+   "9193901371937110673": {
+      "message": "Yetkilendirilmiş cihaz yok"
+   },
+   "9197433560254928186": {
+      "message": "Arapça"
+   },
+   "9205544184671349450": {
+      "message": "Bu bilgisayarda müzikleriniz olduğu anlaşılıyor."
+   },
+   "9209549883741368825": {
+      "message": "Google Play Müzik'e abone olun ve bu albümün yanı sıra milyonlarca şarkı dinleyin. İlk ay ücretsizdir."
+   },
+   "9214517335069385090": {
+      "message": "Ya da isterseniz..."
+   },
+   "9218938714985695055": {
+      "message": "Müzik Sembolü Kaydırma Başı"
+   },
+   "933914956414602837": {
+      "message": "Google Play, müziğinizi hızlı bir şekilde yükleyebilmek için müzik dosyalarınızı sunucumuzdaki kopyalarla karşılaştırır. Ara sıra yanlış şarkı eşleştirilebiliniyor. Sorunu buradan bildirirseniz şarkı, eşleşen kopya yerine kendi kopyanızı kullanacak şekilde düzeltilir."
+   },
+   "935985887697278449": {
+      "message": "Zaten abone misiniz?"
+   },
+   "947591000172763449": {
+      "message": "Phags Pa"
+   },
+   "949327761578931377": {
+      "message": "Ayda $OFFER_PRICE$ ücretle dinlemeye devam edin.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Tümünü göster"
+   },
+   "95869773684474447": {
+      "message": "Çalma hatası"
+   },
+   "963232722931839477": {
+      "message": "Sıranız boş"
+   },
+   "964983733596985457": {
+      "message": "Uyumluluk"
+   },
+   "97224266342934568": {
+      "message": "Üst simge"
+   },
+   "993762601773196496": {
+      "message": "Yayınla"
+   },
+   "997742287268027221": {
+      "message": "Dosya yüklenemedi"
+   },
+   "997890303689941626": {
+      "message": "Tüm video arama sonuçlarını göster"
+   }
+}

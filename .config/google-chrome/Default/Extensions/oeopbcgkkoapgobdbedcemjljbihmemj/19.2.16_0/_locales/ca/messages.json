@@ -1,0 +1,983 @@
+{
+   "200": {
+      "message": "Hi ha un problema, si us plau intenti-ho de nou!"
+   },
+   "24hourMode": {
+      "message": "24 hores de visualització de temps"
+   },
+   "24hourModeTitle": {
+      "message": "És a dir, mostrar l'hora en 24 hores. 18:00"
+   },
+   "401": {
+      "message": "Sense autorització!"
+   },
+   "403": {
+      "message": "El correu electrònic o contrasenya és incorrecta."
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "Xminute": {
+      "message": "$1 minut"
+   },
+   "Xminutes": {
+      "message": "$1 minuts"
+   },
+   "Xseconds": {
+      "message": "$1 segons"
+   },
+   "aboutMe": {
+      "message": "Quant a mi"
+   },
+   "account": {
+      "message": "Compte"
+   },
+   "addCalendar": {
+      "message": "Afegir Calendari"
+   },
+   "addCalendarTitle": {
+      "message": "Afegir el calendari a través d'URL Privat"
+   },
+   "addToGoogleCalendar": {
+      "message": "Afegeix a Google Calendar"
+   },
+   "addedForSomeday": {
+      "message": "Afegit $1 per $2"
+   },
+   "addedForSomedayAt": {
+      "message": "Afegit $1 per $2 a $3"
+   },
+   "addedForToday": {
+      "message": "Afegit $1 per avui"
+   },
+   "addedForTodayAt": {
+      "message": "Afegit $1 per $2"
+   },
+   "addedForTomorrow": {
+      "message": "Afegit $1 per demà"
+   },
+   "addedForTomorrowAt": {
+      "message": "Afegit $1 per demà a les $2"
+   },
+   "addedTimedEventInThePast": {
+      "message": "El temps d'aquest esdeveniment ja ha passat! T'agradaria que jo ho canviï a la mateixa hora de demà?"
+   },
+   "agenda": {
+      "message": "Calendari"
+   },
+   "agendaOnly": {
+      "message": "Agenda només"
+   },
+   "alertMe": {
+      "message": "o avisa'm ..."
+   },
+   "all": {
+      "message": "Tots"
+   },
+   "alreadyDonated": {
+      "message": "Ja han donat?"
+   },
+   "amount": {
+      "message": "Quantitat"
+   },
+   "andMyExtensions": {
+      "message": "i les meves extensions"
+   },
+   "archiveLink": {
+      "message": "Arxiu"
+   },
+   "archiveLinkTitle": {
+      "message": "Arxivar correu"
+   },
+   "backgroundOfNotification": {
+      "message": "Color de fons de notificació emergent"
+   },
+   "backgroundOfNotificationTooltip": {
+      "message": "Estableix el color de fons de la notificació emergent"
+   },
+   "byEmailSubject": {
+      "message": "per assumpte del correu electrònic?"
+   },
+   "calendar": {
+      "message": "Calendari"
+   },
+   "calendarHelper": {
+      "message": "Ajudant del calendari"
+   },
+   "calendarViewAgenda": {
+      "message": "La vista de calendari: Agenda"
+   },
+   "calendarViewAgendaTitle": {
+      "message": "En fer clic a la icona del calendari aquest li mostrarà un petit calendari amb els esdeveniments en un format d'agenda"
+   },
+   "calendarViewRegular": {
+      "message": "La vista de calendari: Regular"
+   },
+   "calendarViewRegularTitle": {
+      "message": "En fer clic a la icona del calendari aquest li mostrarà un calendari amb els esdeveniments marcats al calendari"
+   },
+   "calendarViewTitle": {
+      "message": "Seleccioneu la vista per defecte de l'agenda"
+   },
+   "canceledInAppPurchase": {
+      "message": "Intentar PayPal al seu lloc? o posar-se en contacte amb mi per a preguntes"
+   },
+   "cannotUpdateEventsInThePast": {
+      "message": "s'ha produït un problema! no es poden actualitzar els esdeveniments que van succeir en el passat, pot actualitzar els esdeveniments d'avui o en el futur immediat. Podeu utilitzar la pàgina web de Google Calendar per als esdeveniments passats!"
+   },
+   "changeView": {
+      "message": "Canviar vista"
+   },
+   "changingIcon": {
+      "message": "Canviar icona"
+   },
+   "choosePaymentMethod": {
+      "message": "Escollir una mètode de pagament"
+   },
+   "clearCache": {
+      "message": "Esborrar la memòria cau de l'extensió"
+   },
+   "closePopupsAfterAWhile": {
+      "message": "Desactivar les notificacions de forma automàtica després de"
+   },
+   "closePopupsAfterAWhileTitle": {
+      "message": "Les notificacions emergent es tancaran automàticament després d'un temps X"
+   },
+   "composeLinkTitle": {
+      "message": "Redacta un nou correu"
+   },
+   "contact": {
+      "message": "contacte"
+   },
+   "contactHelp": {
+      "message": "Contacte - Ajuda"
+   },
+   "continue": {
+      "message": "Continuar"
+   },
+   "continueWithoutFeatures": {
+      "message": "Seguiu fent servir aquesta extensió amb un munt d'opcions, però sense aquestes característiques addicionals."
+   },
+   "contributeToContinue": {
+      "message": "Fer una donació"
+   },
+   "copyPrivateAddress": {
+      "message": "Còpia l'adreça privada (XML) d'un calendari en el portapapers."
+   },
+   "copyPrivateAddressTitle": {
+      "message": "A la pàgina de Google Calendar a l'esquerra hi ha la llista de calendaris, feu clic al botó amb la fletxa cap avall al costat del calendari, a continuació, seleccioneu Configuració del calendari. Al costat de seleccionar XML 'Direcció privada' i copiar l'adreça al portapapers. Nota: Si no pots trobar la 'Direcció privada' després a l'administrador de domini de nivell de servei ha de canviar la configuració del calendari"
+   },
+   "createDeleteEvents": {
+      "message": "Creació i eliminació dels esdeveniments dins de la vista mensual"
+   },
+   "createEvent": {
+      "message": "Crea un esdeveniment"
+   },
+   "creditCardOrPaypal": {
+      "message": "Vostè pot utilitzar la seva targeta de crèdit o PayPal"
+   },
+   "currentPage": {
+      "message": "pàgina actual"
+   },
+   "customizeCalendar": {
+      "message": "Canviar l'alçada, amplada, calendaris visibles, colors, etc"
+   },
+   "customizeCalendarTitle": {
+      "message": "En el calendari emergent heu d'establir la 'Vista' com a 'Personalitzada'"
+   },
+   "customized": {
+      "message": "Personalitzar"
+   },
+   "d": {
+      "message": "d"
+   },
+   "daysAgo": {
+      "message": "dies"
+   },
+   "daysLeft": {
+      "message": "queden $1 dies"
+   },
+   "delete": {
+      "message": "Esborrar"
+   },
+   "deleteLink": {
+      "message": "Esborrar"
+   },
+   "deleteLinkTitle": {
+      "message": "Esborrar correu"
+   },
+   "developingMore": {
+      "message": "i jo estic treballant en més dels seus suggeriments ..."
+   },
+   "dismiss": {
+      "message": "Descarta"
+   },
+   "dismissAll": {
+      "message": "Desactivar-ho tot"
+   },
+   "doNotShowNotificationsForAlldayEvents": {
+      "message": "No tornar a mostrar notificacions de tots els esdeveniments del dia"
+   },
+   "doNotShowNotificationsForAlldayEventsTitle": {
+      "message": "No tornar a mostrar notificacions de tots els esdeveniments del dia"
+   },
+   "doNotShowNotificationsWhenBrowserClosed": {
+      "message": "No tornar a mostrar notificacions quan la finestra es tanqui l'explorador"
+   },
+   "doNotShowNotificationsWhenBrowserClosedTooltip": {
+      "message": "El seu navegador Chrome seguirà funcionant en segon pla a la safata d'icones del windows,però les notificacions no es mostraran!"
+   },
+   "doNotShowPastNotifications": {
+      "message": "No tornar a mostrar les notificacions d'esdeveniments del passat"
+   },
+   "doNotShowPastNotificationsTitle": {
+      "message": "No tornar a mostrar totes les notificacions que s'ahn produït abans d'obrir el seu navegador. Útil quan es canvia sovint d'ordinador"
+   },
+   "donateButton": {
+      "message": "https://www.paypal.com/es_ES/i/btn/btn_donate_SM.gif"
+   },
+   "drawAttentionToBrowser": {
+      "message": "Pampalluga de Chrome a la barra de tasques de Windows o saltar a la icona de Chrome en un Mac (Beta)"
+   },
+   "drawAttentionToBrowserTooltip": {
+      "message": "Això només succeirà si el focus no està en el navegador. Útils si s'usen múltiples espais de treball ... en Windows: Pampallugeja l'aplicació chrome a la barra de tasques. En Mac: Salts a la icona de chrome"
+   },
+   "editEventDetails": {
+      "message": "Edita esdeveniment"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "enablePrivateAddressTitle": {
+      "message": "Aneu a la secció de configuració de calendari, a a continuació, seleccioneu 'Compartir tota la informació', i els altres podran canviar les opcions del calendari"
+   },
+   "enterATitle": {
+      "message": "Ha d'introduir un títol!"
+   },
+   "enterAnAmount": {
+      "message": "Podeu entrar una quantitat!"
+   },
+   "errorAddingEvent": {
+      "message": "Error al afegir l'esdeveniment! Possiblement no està connectat a Internet!"
+   },
+   "errorGettingCalendar": {
+      "message": "Problemes per aconseguir el calendari, comproveu l'URL i torneu-ho de nou! (Error: $1)"
+   },
+   "errorGettingCalendarUnauthorized": {
+      "message": "No autoritzada! En primer lloc, ha d'iniciar sessió amb el vostre Google Calendar Aplicacions en obrir una nova pestanya"
+   },
+   "eventAdded": {
+      "message": "Esdeveniment afegit"
+   },
+   "eventCreated": {
+      "message": "Esdeveniment creat"
+   },
+   "eventDeleted": {
+      "message": "Esdeveniment eliminat"
+   },
+   "eventDescription": {
+      "message": "Descripció"
+   },
+   "eventUpdated": {
+      "message": "El seu cas ha estat actualitzat"
+   },
+   "eventsAndSnoozes": {
+      "message": "Esdeveniments i aplaçar"
+   },
+   "ex": {
+      "message": "g"
+   },
+   "excludeCalendar": {
+      "message": "Excloure del calendari"
+   },
+   "excludeCalendarFrom": {
+      "message": "Excloure als calendaris de"
+   },
+   "excludeCalendarFrom2": {
+      "message": "ordre del dia i veure el calendari"
+   },
+   "excludeCalendarFrom3": {
+      "message": "botó amb la icona i les notificacions"
+   },
+   "excludeCalendarFromTitle": {
+      "message": "'Veure' Feu clic per ocultar calendaris específics del seu calendari / agenda vista o feu clic en 'comprovació', per excloure els esdeveniments del botó d'icona i les notificacions dels calendaris específics"
+   },
+   "excludeCalendarsCheckboxChecking": {
+      "message": "Si us plau, feu clic a l'enllaç de la dreta en aquesta opció"
+   },
+   "excludeRecurringEventsButtonIcon": {
+      "message": "Excloure esdeveniments que es repeteixen des de la icona del botó"
+   },
+   "excludeRecurringEventsButtonIconTooltip": {
+      "message": "Qualsevol esdeveniment que es repeteixi no es mostrarà a la icona del botó però seguirà rebent les seves notificacions"
+   },
+   "excluded": {
+      "message": "Exclosos"
+   },
+   "extraFeatures": {
+      "message": "Les característiques addicionals"
+   },
+   "failureWithInAppPurchase": {
+      "message": "Cancel·lat o ha fallat la transacció! Vol intentar-ho amb PayPal?"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Cancel·lat o ha fallat la transacció! Vol intentar-ho amb $1?"
+   },
+   "forProblemSolving": {
+      "message": "Només per a la resolució de problemes"
+   },
+   "forSuggestions": {
+      "message": "suggeriments o obtenir més informació"
+   },
+   "fullLinkTitle": {
+      "message": "Mostra missatge sencer"
+   },
+   "googleAppsCalendars": {
+      "message": "Google Apps Calendaris"
+   },
+   "googleAppsCalendarsForce": {
+      "message": "Força l'accés a multiples comptes Google a l'inici de sessió per defecte sempre al seu calendari de Google Apps"
+   },
+   "googleAppsCalendarsTitle": {
+      "message": "Només marqueu aquest si té i vol utilitzar el seu Google Apps per a empreses o el Calendari de l'Educació. Nota: això desactivarà la comprovació regular de Google Calendar!"
+   },
+   "googleAppsNote": {
+      "message": "Això desactivarà la comprovació regular de Google Calendar"
+   },
+   "h": {
+      "message": "h"
+   },
+   "helpMeTranslate": {
+      "message": "Em poden ajudar amb les traduccions? $1 els correctes!"
+   },
+   "helpMeTranslate2": {
+      "message": "Rebi per email"
+   },
+   "helpSupport": {
+      "message": "per ajudar a que l'autor d'aquesta extensió!"
+   },
+   "highlightCurrentDay": {
+      "message": "Ressalteu el dia actual"
+   },
+   "highlightCurrentDayTooltip": {
+      "message": "Quan vegi el calendari en vista mensual el dia d'avui aprareix breument resaltat"
+   },
+   "highlightWeekends": {
+      "message": "Destacar els caps de setmana"
+   },
+   "highlightWeekendsTitle": {
+      "message": "Marca lleugerament els dies de cap de setmana, però només en la vista 'Regular' del calendari mensual"
+   },
+   "hours": {
+      "message": "hores"
+   },
+   "hoursAgo": {
+      "message": "$1 hores"
+   },
+   "hoursLeft": {
+      "message": "queden $1 hores"
+   },
+   "hoursRemaining": {
+      "message": "Horari d'exposició restant en lloc de l'hora de l'esdeveniment"
+   },
+   "hoursRemainingTitle": {
+      "message": "Si l'esdeveniment es produirà avui i en menys de 24 hores, després de l'hora a l'esquerra es mostrarà ex. 4h"
+   },
+   "iconClassic": {
+      "message": "Icona clàssica"
+   },
+   "iconDefault": {
+      "message": "Icona per defecte"
+   },
+   "iconDefault2WithDate": {
+      "message": "Icona per defecte amb la data actual"
+   },
+   "iconMonochrome": {
+      "message": "Icona en blanc i negre"
+   },
+   "iconNew": {
+      "message": "Nova icona"
+   },
+   "iconNew2": {
+      "message": "Icona fosca"
+   },
+   "iconNew2WithDate": {
+      "message": "Icona fosca, amb data actual"
+   },
+   "iconNewWithDate": {
+      "message": "Nova icona amb la data actual"
+   },
+   "iconTooltip": {
+      "message": "La icona a utilitzar per al botó emergent"
+   },
+   "inVARhour": {
+      "message": "en $1 hora"
+   },
+   "inVARhours": {
+      "message": "en $1 hores"
+   },
+   "inVARminutes": {
+      "message": "Donatiu mínim $1"
+   },
+   "language": {
+      "message": "Llengua"
+   },
+   "languageName": {
+      "message": "Català"
+   },
+   "languageToolTip": {
+      "message": "Canvia la visualització i el llenguatge de notificació de veu. Nota: És possible que vegi diversos idiomes alhora, perquè aquestes són les regles: Es mostrarà el que he traduït en l'idioma que triï aquí, si no s'han traduït algunes paraules que es busquen en l'idioma del seu navegador, si no s'han traduït els ho mostrarà en anglès. Nota: Per canviar l'idioma vagi dins de la configuració del calendari de Google Calendar."
+   },
+   "largest": {
+      "message": "més gran"
+   },
+   "loading": {
+      "message": "Carregant ..."
+   },
+   "logEventsAndSnoozes": {
+      "message": "desa un registre d'esdeveniments i aplaçaments"
+   },
+   "longerSnoozeTimes": {
+      "message": "Repeticions més llargues"
+   },
+   "m": {
+      "message": "m"
+   },
+   "maxDaysAhead": {
+      "message": "Nombre de dies per mirar cap al futur"
+   },
+   "maxDaysAheadTitle": {
+      "message": "Capacitat màxima de dies per mostrar un compte enrere en la icona"
+   },
+   "meetMe": {
+      "message": "Ens veiem"
+   },
+   "meetMeTitle": {
+      "message": "Veure en un vídeo!"
+   },
+   "min": {
+      "message": "Jo"
+   },
+   "minimumAmount": {
+      "message": "Cal donar almenys $1"
+   },
+   "minutesAgo": {
+      "message": "fa $1 minuts"
+   },
+   "minutesLeft": {
+      "message": "$1 minuts per al final"
+   },
+   "missingOptions": {
+      "message": "¿Troba a faltar opcions? Són dolentes les traduccions? Contacti"
+   },
+   "missingOptions2": {
+      "message": "de suggeriments!"
+   },
+   "month": {
+      "message": "Mes"
+   },
+   "monthsArray": {
+      "message": "gen,feb,mar,abr,mai,jun,jul,ago,set,oct,nov,des"
+   },
+   "more": {
+      "message": "més"
+   },
+   "moreInfo": {
+      "message": "Més informació"
+   },
+   "mustAddCalendar": {
+      "message": "Si activeu Google Apps ha d'agregar un calendari!"
+   },
+   "mustClickShareLinks": {
+      "message": "Utilitzar qualsevol enllaç que apareix més avall el calendari emergent un cop i després es poden treure tots aquí!"
+   },
+   "myPreference": {
+      "message": "les meves preferències"
+   },
+   "needHelp": {
+      "message": "Necessites ajuda?"
+   },
+   "noDetails": {
+      "message": "sense detalls"
+   },
+   "noPermissionOnEvent": {
+      "message": "Problemes per moure aquest esdeveniment, pot ser que no tingui permís!"
+   },
+   "noUnreadText": {
+      "message": "No hi ha correu sense llegir"
+   },
+   "notLoggedIn": {
+      "message": "No ha iniciat sessió"
+   },
+   "notTaxExempt": {
+      "message": "No sóc una organització exempta d'impostos"
+   },
+   "notificationDateFormat": {
+      "message": "dddd, d mmm"
+   },
+   "notificationFontSize": {
+      "message": "Mida del text de la notificació"
+   },
+   "notificationFontSizeTooltip": {
+      "message": "Estableix la mida de la font del títol de l'esdeveniment en la notificació emergent. Serà petita per quan hi ha un títol de l'esdeveniment llarg i més gran per quan hi ha un títol de l'esdeveniment curt"
+   },
+   "notificationSound": {
+      "message": "Notificació de so"
+   },
+   "notificationSoundTitle": {
+      "message": "Reprodueix un so al activar les notificacions quan es produeixen esdeveniments"
+   },
+   "notificationTextToSpeech": {
+      "message": "so de la notificació"
+   },
+   "notificationTextToSpeechTitle": {
+      "message": "El títol del seu esdeveniment es parlarà en veu alta amb el text en veu, bo quan l'equip es troba a l'habitació del costat!"
+   },
+   "notificationZoom": {
+      "message": "ampliar la finestra de notificació"
+   },
+   "notificationZoomTooltip": {
+      "message": "Utilitzeu aquesta opció per reduir la mida de 'tot' el text de la finestra de notificació (útil per a les persones amb l'ampliació d'alt DPI)"
+   },
+   "offlineMode": {
+      "message": "El fora de línia"
+   },
+   "offlineModeTitle": {
+      "message": "¡Assabenteu-vos dels esdeveniments sense connexió a Internet! Atenció: Els teus esdeveniments es guarden en aquest equip!"
+   },
+   "omniboxDefault": {
+      "message": "19:00 Sopar"
+   },
+   "omniboxDefaultTom": {
+      "message": "08 a.m. despertar"
+   },
+   "oneUnreadText": {
+      "message": "correu no llegit"
+   },
+   "onlyPopupsForOwner": {
+      "message": "Mostra només les notificacions per als esdeveniments dels calendaris que tinc"
+   },
+   "onlyPopupsForOwnerTooltip": {
+      "message": "Només es mostraran notificacions dels vostres calendaris propis. Això generalment significa que els calendaris de la secció 'Els meus calendaris' i no de calendaris que es comparteixen o des de la secció 'Altres calendaris'"
+   },
+   "onlyRemoveAfterDonation": {
+      "message": "Només es pot eliminar l'enllaç de donació després de fer una donació!"
+   },
+   "openCalendar": {
+      "message": "Obrir Calendari"
+   },
+   "openLinkTitle": {
+      "message": "Obrir al webmail"
+   },
+   "option": {
+      "message": "Opció"
+   },
+   "optionToCustomizeWith": {
+      "message": "Utilitzeu l'"
+   },
+   "options": {
+      "message": "Opcions"
+   },
+   "or": {
+      "message": "o"
+   },
+   "orPayUsing_": {
+      "message": "O es pot pagar amb"
+   },
+   "password": {
+      "message": "Contrasenya"
+   },
+   "pastDays": {
+      "message": "En gris els últims dies"
+   },
+   "pastDaysTitle": {
+      "message": "En gris els últims dies del calendari, però només en la vista 'Regular' del calendari mensual"
+   },
+   "pasteHTML": {
+      "message": "i enganxa el següent codi HTML"
+   },
+   "pastePrivateAddress": {
+      "message": "Enganxa l'adreça privada (XML) del calendari aquí"
+   },
+   "pollingInterval": {
+      "message": "Interval d'actualització"
+   },
+   "pollingIntervalTooltip": {
+      "message": "L'interval en què he d'anar a buscar els esdeveniments de Google Calendar i per actualitzar el botó"
+   },
+   "popupGoogleCalendarWebsite": {
+      "message": "fa que s'obri el lloc web de Google Calendar enlloc de finestres emergents"
+   },
+   "popupGoogleCalendarWebsiteHelpTitle": {
+      "message": "En fer clic al botó obre el lloc web Calendari Google en lloc d'obrir petita finestra emergent. (Mantingueu premut CTRL mentre fa clic a la icona també ho farà!)"
+   },
+   "popupText": {
+      "message": "Has rebut un nou correu!"
+   },
+   "poweredByGoogle": {
+      "message": "Powered by Google"
+   },
+   "problemCommunicatingTryAgain": {
+      "message": "Error: Problema $1 comunicar-se amb $2, si us plau intenti-ho de nou!"
+   },
+   "problemSigningIn": {
+      "message": "Problema al registrar-te! Possiblement no està connectat a Internet!"
+   },
+   "processing": {
+      "message": "Tractament"
+   },
+   "quickAdd": {
+      "message": "Afegir ràpid"
+   },
+   "quickAddDefaultText": {
+      "message": "Sopar 19:00 per exemple, a Bob"
+   },
+   "quickAddTitle": {
+      "message": "per exemple, de futbol en 20 minuts"
+   },
+   "readLink": {
+      "message": "Llegit"
+   },
+   "readLinkTitle": {
+      "message": "Marcar com a llegit"
+   },
+   "recentlyAddedEvent": {
+      "message": "s'ha produït un problema! Si heu afegit aquest esdeveniment a través de la pàgina feu clic a la icona d'actualització o en cas contrari si us plau, utilitzeu la pàgina web de Google Calendar!"
+   },
+   "refresh": {
+      "message": "Actualitzar"
+   },
+   "refreshLinkTitle": {
+      "message": "Refresca totes les bústies"
+   },
+   "rememberQuickAdd": {
+      "message": "Recordeu accedir com a usuari 'Afegir ràpid'"
+   },
+   "rememberQuickAddTitle": {
+      "message": "Nota: Això només guardarà la clau Google, però no la seva signatura a les credencials"
+   },
+   "remindersBeforeEvent": {
+      "message": "Mostra només les notificacions d'esdeveniments amb mi"
+   },
+   "remindersBeforeEventHelpTitle": {
+      "message": "A la pàgina de Google Calendar a l'esquerra hi ha la llista de calendaris, feu clic al botó de fletxa cap avall al costat del calendari, a continuació, seleccioneu 'Notificacions'. Després s'agrega el 'Pop-up' recordatori i establir un temps d'avís. Nota: També pot modificar aquesta opció per a cada esdeveniment en agregar o editar els"
+   },
+   "remindersBeforeEventPopupReminder": {
+      "message": "'Finestra emergent' recordatori"
+   },
+   "remove": {
+      "message": "Eliminar"
+   },
+   "removeDonationLink": {
+      "message": "Treure vincle donació"
+   },
+   "removeDonationLinkTitle": {
+      "message": "Això eliminarà el vincle Donar en el calendari"
+   },
+   "removeQuickAdd": {
+      "message": "Treure 'Afegir ràpid'"
+   },
+   "removeQuickAddTitle": {
+      "message": "Amaga la funció 'Afegir ràpid'"
+   },
+   "removeShareLinks": {
+      "message": "Treure enllaços per compartir"
+   },
+   "removeShareLinksTooltip": {
+      "message": "Elimina els enllaços Facebook, Twitter, etc del calendari"
+   },
+   "removeTitle": {
+      "message": "Eliminar el calendari"
+   },
+   "repeatSound": {
+      "message": "La notificació de so es repeteixi tots els"
+   },
+   "repeatSound2": {
+      "message": "i per després"
+   },
+   "repeatSound3": {
+      "message": "vegades"
+   },
+   "repeatSoundTooltip": {
+      "message": "Repeteix la notificació o el so de veu si la finestra de notificació emergent no ha estat tancada"
+   },
+   "replyLinkTitle": {
+      "message": "Respon al correu"
+   },
+   "reschedule": {
+      "message": "Reprogramar"
+   },
+   "save": {
+      "message": "Desar"
+   },
+   "saveSettings": {
+      "message": "Desa la configuració"
+   },
+   "saved": {
+      "message": "¡Desat!"
+   },
+   "saving": {
+      "message": "Desant ..."
+   },
+   "securely": {
+      "message": "de forma segura."
+   },
+   "seeVideo": {
+      "message": "Veure vídeo"
+   },
+   "selectACalendar": {
+      "message": "Seleccioneu un calendari"
+   },
+   "selectCalendar": {
+      "message": "En primer lloc cal seleccionar un calendari!"
+   },
+   "setDateTime": {
+      "message": "Ajust de data / hora"
+   },
+   "severalUnreadText": {
+      "message": "correus no llegits"
+   },
+   "share": {
+      "message": "Compartir"
+   },
+   "showAgendaOptions": {
+      "message": "Mostra opcions de l'enllaç a la vista de l'agenda"
+   },
+   "showAgendaOptionsTitle": {
+      "message": "Mostra opcions enllaç en vista de l'agenda"
+   },
+   "showConsoleMessages": {
+      "message": "Els missatges de registre a la consola de Javascript"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "Només per a la depuració i pot alentir l'extensió una mica!"
+   },
+   "showContextMenuItem": {
+      "message": "Mostra elements del menú contextual"
+   },
+   "showContextMenuItemTooltip": {
+      "message": "Afegeix un element del menú en fer clic dret en qualsevol pàgina web pàgina web o correu electrònic com a forma ràpida d'afegir esdeveniments al seu calendari"
+   },
+   "showDataFeeds": {
+      "message": "Obrir la font de dades del calendari"
+   },
+   "showDayOnBadge": {
+      "message": "Mostra dia actual de la setmana en la icona del botó"
+   },
+   "showDayOnBadgeExceptWhenDaysLeft": {
+      "message": "Excepte quan el pròxim esdeveniment és a dies"
+   },
+   "showDayOnBadgeExceptWhenHoursLeft": {
+      "message": "Excepte quan el pròxim esdeveniment és a unes hores"
+   },
+   "showDayOnBadgeExceptWhenMinutesLeft": {
+      "message": "Excepte quan el pròxim esdeveniment està a uns minuts"
+   },
+   "showDayOnBadgeTooltip": {
+      "message": "En lloc de compte enrere per al pròxim esdeveniment mostrar el dia de la setmana com Nota etc 'mar': També pot llistar les excepcions!"
+   },
+   "showDesktopNotifications": {
+      "message": "Mostra les notificacions d'escriptori"
+   },
+   "showDesktopNotificationsTitle": {
+      "message": "Activar aquesta opció per mostrar una notificació quan un esdeveniment en el calendari es"
+   },
+   "showEventTimeOnBadge": {
+      "message": "Mostra l'hora de l'esdeveniment en el botó amb la icona"
+   },
+   "showEventTimeOnBadgeTooltip": {
+      "message": "Mostra temps fins al pròxim esdeveniment a la part superior de la icona"
+   },
+   "showHeader": {
+      "message": "Mostra la barra superior a la finestra emergent"
+   },
+   "showHeaderTooltip": {
+      "message": "Mostra la Addició ràpida i altres ordres a la part superior de la finestra emergent"
+   },
+   "showMinutesLeftInBadge": {
+      "message": "Minuts restants en lloc de mostrar l'hora de l'esdeveniment"
+   },
+   "showMinutesLeftInBadgeTitle": {
+      "message": "Si l'esdeveniment és molt aviat després Mostra els minuts restants"
+   },
+   "showOpenCalendar": {
+      "message": "Mostra icona de calendari obert"
+   },
+   "showOpenCalendarTooltip": {
+      "message": "Espectacles a la icona del calendari"
+   },
+   "showQuickAdd": {
+      "message": "Mostra la 'Addició ràpida'"
+   },
+   "showQuickAddTooltip": {
+      "message": "Mostra el quadre d'entrada de text a la part superior esquerra"
+   },
+   "showRefresh": {
+      "message": "Mostra icona d'actualització"
+   },
+   "showRefreshTooltip": {
+      "message": "Mostra la icona d'actualització"
+   },
+   "showTimeSpecificEventsBeforeAllDay": {
+      "message": "Mostra esdeveniments d'una hora específica abans que tots els esdeveniments del dia"
+   },
+   "showTimeSpecificEventsBeforeAllDayTooltip": {
+      "message": "Si demà vostè té un esdeveniment tot el dia i un esdeveniment de 10 a.m., mostrarà 10 a.m. en comptes de 1d"
+   },
+   "showViewDropDown": {
+      "message": "Usar vista desplegable"
+   },
+   "showViewDropDownTooltip": {
+      "message": "Mostra la llista desplegable 'Veure' (Nota: Has de veure això per canviar la vista al principi, després es pot amagar:)"
+   },
+   "signIn": {
+      "message": "Accedir"
+   },
+   "smallest": {
+      "message": "més petit"
+   },
+   "snooze": {
+      "message": "Dormisquejar"
+   },
+   "snoozeAll": {
+      "message": "Repetir tots"
+   },
+   "spamLink": {
+      "message": "Brossa"
+   },
+   "spamLinkTitle": {
+      "message": "Marcar com a brossa"
+   },
+   "ssl": {
+      "message": "Sempre utilitzar SSL"
+   },
+   "sslTitle": {
+      "message": "Sempre utilitzar el xifrat SSL per accedir a Google Calendar"
+   },
+   "starLinkTitle": {
+      "message": "Destaca correu"
+   },
+   "staySignedIn": {
+      "message": "Mantenir el vostre usuari actiu"
+   },
+   "successful": {
+      "message": "Reeixit"
+   },
+   "summaryLinkTitle": {
+      "message": "Mostra resum"
+   },
+   "supportAndRequestsPrioritized": {
+      "message": "que em donin suport i obtenir seves sol·licituds prioritzades!"
+   },
+   "thankYouForYourContribution": {
+      "message": "Les característiques ara estan desbloquejades. Gràcies per la seva contribució!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Tancar aquesta finestra i gaudir!"
+   },
+   "timeout": {
+      "message": "Retard de temps d'espera"
+   },
+   "timeoutNote": {
+      "message": "Convieu-ho només si vostè té un munt de calendaris o esdeveniments"
+   },
+   "timeoutTooltip": {
+      "message": "Hauria d'eliminar el problema d'accés, que només apareixerà si vostè té 10 o més calendaris o si vostè té un munt d'esdeveniments"
+   },
+   "timeoutTryAgain": {
+      "message": "Temps d'espera esgott al comunicar-se amb $1, si us plau intenti-ho de nou!"
+   },
+   "toSeeCalendar": {
+      "message": "per veure el seu calendari!"
+   },
+   "today": {
+      "message": "Avui"
+   },
+   "todayAt": {
+      "message": "Avui a les"
+   },
+   "tom": {
+      "message": "la"
+   },
+   "tomorrow": {
+      "message": "Demà"
+   },
+   "tomorrowAt": {
+      "message": "Demà a les"
+   },
+   "undo": {
+      "message": "Desfer"
+   },
+   "unlockFeatures": {
+      "message": "Desbloca aquestes i les futures característiques amb una única donació de la quantitat que vulguis i estaran disponibles immediatament!"
+   },
+   "unreadLink": {
+      "message": "No llegit"
+   },
+   "unreadLinkTitle": {
+      "message": "Marcar com a no llegit"
+   },
+   "view": {
+      "message": "Veure"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Només si estàs lluny de l'ordinador una estona"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "Utilitzeu aquesta opció si només desitja escoltar la veu quan no estigueu utilitzant el vostre ordinador o aquest estigui en descans"
+   },
+   "wantToStaySignedIn": {
+      "message": "Vols mentenir-se connectat?"
+   },
+   "week": {
+      "message": "Setmana"
+   },
+   "what": {
+      "message": "Què"
+   },
+   "when": {
+      "message": "Quan"
+   },
+   "whyContribute": {
+      "message": "Per què hauria de participar?"
+   },
+   "whyContributeReason1": {
+      "message": "He invertit moltes hores $1 a la setmana, en resposta als seus suggeriments"
+   },
+   "whyContributeReason1_1": {
+      "message": "totes les meves extensions"
+   },
+   "whyContributeReason2": {
+      "message": "He llegit i respost ràpidament als seus comentaris i crítiques"
+   },
+   "whyContributeReason3": {
+      "message": "Vostè pot contribuir amb qualsevol quantitat i seré feliç!"
+   },
+   "whyContributeReason4": {
+      "message": "Aquesta extensió és cada vegada millor $1, gràcies a tu!"
+   },
+   "whyContributeReason4_1": {
+      "message": "revisions"
+   },
+   "whyContributeReason5": {
+      "message": "Per saber més sobre mi a $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com / bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Sigui un usuari de Google Calendar més productiu per a vostè o la seva empresa"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Molt més barat de $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "writeAboutMe": {
+      "message": "Proba altres extensions populars meves¡!"
+   },
+   "yesterday": {
+      "message": "ahir"
+   }
+}

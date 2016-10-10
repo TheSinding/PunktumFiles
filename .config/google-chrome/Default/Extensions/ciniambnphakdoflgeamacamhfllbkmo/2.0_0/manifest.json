@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.onenote.com/notebooks?referrer=ChromeStore"
+      },
+      "urls": [ "*://*.www.onenote.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_onenote_description__",
+   "icons": {
+      "128": "ChromeStore_OneNoteTile_128x128x32.png",
+      "256": "ChromeStore_OneNoteTile_256x256x32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoY39MsMBSfuh6BowpMTxLdw52bwR4SPDc8TLHt62srX7BEtvN1OItY99VQ735trTzBTa15kOUqH4IZVton7e9LpXzFt/H3t4zgLShVLiah3/GBbgbn5Ol/fz7vXRvHWRWs/lpX/EQSmLd+jj2xKuzLVv444zNG3CgIKjpzBeQUUCZsHhRFGmT2DsfvKtQO7tszCDf3Y+u1CcbhfnwQUixQjZ5fnlNh0/0zOln03HM46FexVUZQ9GMP/dHpHSau+P1jsGrQWUV7T3ljcgr92Xz30fQLRgvkGYZpZ6sAv6ArePY23jgpzpvyWwBKbWqnnKDl+C+XCf7KkEy36zCAX5yQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_onenote_title__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

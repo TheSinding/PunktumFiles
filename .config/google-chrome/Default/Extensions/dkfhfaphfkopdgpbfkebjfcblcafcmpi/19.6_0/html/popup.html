@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type="text/css" rel="stylesheet" href="../styles/font-awesome-4.2.0/css/font-awesome.css"/>
+        
+        <link href="../styles/mighty-material-webfont.css" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="../styles/bootstrap-3.3.6-dist/css/bootstrap.min.css"/>
+
+        <link type="text/css" rel="stylesheet" href="../styles/popup.css"/>
+
+        <script language="JavaScript" type="text/javascript" src="../scripts/libs/jquery-2.1.0.min.js"></script>
+        <script type="text/javascript" src="../scripts/libs/jstorage.js"></script>
+        <script type="text/javascript" src="../styles/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+
+    </head>
+    <body>
+        <div class="popupContainer">
+            <div class="rowContainer" id="webAppButtons">
+                <div class="buttonRow">
+                    <a href="#" class="popupButton" data-message="launchMT" data-event="Launch-Webapp">
+                        <img class="buttonIcon" src="../img/web-to-phone/popup_menu_logo.png" alt="mtLogo"/>
+						<span class="popup-option-name" local-key="open_mightytext">Open MightyText</span>
+                    </a>
+                </div>
+                <div class="buttonRow">
+                    <a href="#" class="popupButton" id="composeNew" data-message="openComposeNew" data-event="Compose-New">
+                        <img class="buttonIcon" src="../img/web-to-phone/compose_new.png" alt="mtLogo"/>
+                        <span class="popup-option-name" local-key="compose_new">Compose New</span>
+                    </a>
+                </div>
+            </div>
+            <div class="rowContainer" id="reminderButtons">
+                <div class="buttonRow" >
+                    <a href="#" class="popupButton" data-message="setReminder" data-event="Set-Reminder">
+                        <img class="buttonIcon" src="../img/web-to-phone/reminder-crx-popup.png" alt="mtLogo"/>
+                        <span class="popup-option-name new-feature" local-key="create_reminder">Create a Reminder</span>
+                    </a>
+                </div>
+            </div>
+            <div class="rowContainer" id="livePhoneView" style="display: none;">
+                <div class="buttonRow">
+                    <a href="#" class="popupButton" data-message="openPhoneLive" data-event="Open-Phone-Live">
+						<i class="material-icons buttonIcon" value="1">phone_android</i>
+                        <span class="popup-option-name" local-key="live_phone_view">Live Phone View</span>
+                    </a>
+                </div>
+                <div class="buttonRow">
+                    <a href="#" class="popupButton" data-message="openPhoneDialer" data-event="Open-Phone-Dialer">
+						<i class="material-icons buttonIcon" value="1">phone</i>
+                        <span class="popup-option-name" local-key="phone_dialer">Live Phone View</span>
+                    </a>
+                </div>
+            </div>
+            <div class="rowContainer" id="phoneInteractButtons">
+                <div class="buttonRow">
+                    <a href="#" class="popupButton" data-message="pushThisPageToPhone" data-event="Send-To-Phone" data-type="link">
+                        <img class="buttonIcon" src="../img/web-to-phone/send_link.png" alt="mtLogo"/>
+                        <span class="popup-option-name" local-key="send_link_to_phone">Open this page on Phone</span>
+                    </a>
+                </div>
+                <div class="buttonRow">
+                    <a href="#" class="popupButton" data-message="sendLinkViaSMS" data-event="Send-As-Message">
+                        <img class="buttonIcon" src="../img/web-to-phone/sms_text.png" alt="mtLogo"/>
+                        <span class="popup-option-name" local-key="send_link_sms">Text this page</span>
+                    </a>
+                </div>
+            </div>
+            <div class="rowContainer" id="popup-footer">
+                <div class="nav-buttons" data-inview="">
+                    <div class="nav-btn-holder notif-toggle-holder mighty-tooltip" local-key="global_notifs_toggle">
+						<i class="material-icons notif-toggle" value="1">notifications_active</i>
+                    </div>
+                    <div class="nav-btn-holder settings-btn-holder mighty-tooltip" local-key="settings">
+                        <i class="fa-gear fa nav-btn settings-btn fa-fw" action="settings"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <iframe class="settings-iframe" src=""></iframe>
+        <script src="../scripts/common.js"></script>        
+        <script src="../scripts/popup.js"></script>
+    </body>
+</html>

@@ -1,0 +1,4453 @@
+{
+   "1001360787461904844": {
+      "message": "Mai multe opțiuni pentru $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1008774365351112026": {
+      "message": "Adăugați atributul „$REL_NO_FOLLOW$” ($LINK_START$Aflați mai multe$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normal"
+   },
+   "1026450251988549367": {
+      "message": "Modificat recent"
+   },
+   "1035476379650787996": {
+      "message": "Solicitarea nu se poate finaliza"
+   },
+   "1035734413919296": {
+      "message": "Adăugați muzică"
+   },
+   "1044946868924904798": {
+      "message": "Nicio conexiune"
+   },
+   "1046700819368184074": {
+      "message": "Descărcați dosarul"
+   },
+   "1047094450854611275": {
+      "message": "Folosind miniplayerul, puteți să controlați redarea muzicii din afara ferestrei browserului, să apreciați cântece și să ascultați postul de radio Mă simt norocos."
+   },
+   "1052242579040192537": {
+      "message": "Canadiană aborigenă"
+   },
+   "10524368647766690": {
+      "message": "#"
+   },
+   "1054861724689881963": {
+      "message": "Porniți radioul gratuit"
+   },
+   "1061567929494389534": {
+      "message": "Nu au putut fi preluate posturile de radio. Încercați din nou."
+   },
+   "1061598772078003048": {
+      "message": "Demarcație adnotare interlineară"
+   },
+   "1065557748112539713": {
+      "message": "Se întrerupe descărcarea muzicii"
+   },
+   "108743912460085743": {
+      "message": "Suprascriere stânga-spre-dreapta"
+   },
+   "1091846413708174942": {
+      "message": "Podcasturile dvs."
+   },
+   "1099947980448260765": {
+      "message": "Accesați Topurile"
+   },
+   "1105024870503318889": {
+      "message": "Adăugați muzica dvs."
+   },
+   "113306301971655652": {
+      "message": "Marcaj stânga-spre-dreapta"
+   },
+   "1143190206278116157": {
+      "message": "Dată: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1144407473317535723": {
+      "message": "Abonați-vă"
+   },
+   "1144614654642966892": {
+      "message": "Anulați înainte de următoarea factură. Până atunci, ascultați în continuare."
+   },
+   "1145877575671354635": {
+      "message": "Actualizați Muzica mea"
+   },
+   "1147358182484006761": {
+      "message": "Magazin"
+   },
+   "1150285978886683433": {
+      "message": "Comutați pe rând între modurile dezactivat, toate și unul singur"
+   },
+   "1152313922995021532": {
+      "message": ".rpm pe 64 de biți (pentru Fedora/openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ S-a adăugat un cântec}few{ S-au adăugat {NUM_TRANSFERRED_TRACKS_2} cântece}other{ S-au adăugat {NUM_TRANSFERRED_TRACKS_2} de cântece}}"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minut}few{{TEXT} minute}other{{TEXT} de minute}}"
+   },
+   "1181311234668957012": {
+      "message": "Playlist automat"
+   },
+   "1182611188595867762": {
+      "message": "2. La deschiderea programului de instalare, urmați instrucțiunile de configurare pentru aplicația Manager de muzică."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{Un cântec a fost șters}few{# cântece au fost șterse}other{# de cântece au fost șterse}}"
+   },
+   "1189933439482480473": {
+      "message": "S-a atins limita de melodii."
+   },
+   "1207788277335800169": {
+      "message": "Vedeți toate videoclipurile cu $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1220984280262077870": {
+      "message": "Gratuite și achiziționate"
+   },
+   "1227051853106034748": {
+      "message": "Nu puteți căuta în previzualizări"
+   },
+   "1229167447861422460": {
+      "message": "Nu puteți reda muzică pe două dispozitive în același timp"
+   },
+   "1233161892151828431": {
+      "message": "Cursiv"
+   },
+   "1238358838717941284": {
+      "message": "Mostră"
+   },
+   "1248987958177161816": {
+      "message": "Editați sursa HTML"
+   },
+   "1249846405947826980": {
+      "message": "Episodul anterior"
+   },
+   "1257583932123379891": {
+      "message": "Vedeți podcasturile după"
+   },
+   "1275783181441501836": {
+      "message": "Separator paragrafe"
+   },
+   "128003684539571261": {
+      "message": "Simbol monetar"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{Niciun podcast}=1{Un podcast}few{# podcasturi}other{# de podcasturi}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Deschideți dosarul Aplicație și dați dublu clic pe Manager de muzică."
+   },
+   "1291021741111868686": {
+      "message": ".deb pe 64 de biți (pentru Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Căutați posturile după"
+   },
+   "1294292881529533213": {
+      "message": "Sigla Muzică Google Play"
+   },
+   "1295614462098694869": {
+      "message": "Mostră audio"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "129923171865835166": {
+      "message": "Radio Mă simt norocos"
+   },
+   "1303647473723340887": {
+      "message": "Selectați elementul situat mai sus de selecția curentă"
+   },
+   "131636849522359023": {
+      "message": "Oferit sub licență $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1330646976582013113": {
+      "message": "închideți"
+   },
+   "1341185708905265042": {
+      "message": "Nr. disc"
+   },
+   "1345511732360402048": {
+      "message": "Turcă veche"
+   },
+   "1348774649041038169": {
+      "message": "Navigare"
+   },
+   "1370021378292702047": {
+      "message": "„$SONG_TITLE$” a fost marcat ca potrivire incorectă.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Comutați între activarea și dezactivarea redării aleatorii"
+   },
+   "1372788343021542418": {
+      "message": "Pentru a folosi miniplayerul, conectați-vă la Muzică Google Play pe web."
+   },
+   "1382005717519484629": {
+      "message": "Spațiu alb"
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Muzică nelimitată $START_BREAK$de la Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "Dați clic pentru a selecta $ITEM_NAME$.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1418504114877368118": {
+      "message": "Scrise de $LYRICIST_LIST_JOINED$",
+      "placeholders": {
+         "LYRICIST_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Introduceți o culoare personalizată, de ex., roz, #F00, #D015FF sau rgb (100, 50, 25)"
+   },
+   "1429336442713571177": {
+      "message": "Liste cu cântece"
+   },
+   "1430061825590893722": {
+      "message": "Deschideți acest link într-o fereastră nouă"
+   },
+   "1433391846042476830": {
+      "message": "Ieri"
+   },
+   "1435809990540516997": {
+      "message": "Se adaugă muzica"
+   },
+   "1444145448465775598": {
+      "message": "Anulați"
+   },
+   "1453708590388513852": {
+      "message": "Tehnice"
+   },
+   "1464072562214937907": {
+      "message": "An"
+   },
+   "147527058386222778": {
+      "message": "Calitatea redării în flux"
+   },
+   "1483596119706515744": {
+      "message": "Bugineză"
+   },
+   "1486857306659217748": {
+      "message": "Omiteți"
+   },
+   "1487523984872879956": {
+      "message": "Interlinie em"
+   },
+   "1490665788833937521": {
+      "message": "Descărcați miniplayerul"
+   },
+   "1494946186465201682": {
+      "message": "Anulați"
+   },
+   "1501458973427096787": {
+      "message": "Ascultați orice offline"
+   },
+   "1504214836895903832": {
+      "message": "Nu s-a putut conecta"
+   },
+   "1517865562673472241": {
+      "message": "1. Așteptați finalizarea programului de instalare."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Un cântec nu poate fi descărcat}few{ {NUM_FAILURES_2} cântece nu pot fi descărcate}other{ {NUM_FAILURES_2} de cântece nu pot fi descărcate}}"
+   },
+   "1558113021895652337": {
+      "message": "Fișierul este protejat prin DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1567787058497621332": {
+      "message": "Stocați muzica într-un singur loc și ascultați-o pe smartphone, pe tabletă și pe web."
+   },
+   "1573657685592390905": {
+      "message": "Selectați dosarul..."
+   },
+   "1575810254412583888": {
+      "message": "Melodii"
+   },
+   "1595478688335662057": {
+      "message": "Un utilizator Google"
+   },
+   "1598061158801514509": {
+      "message": "Se reia descărcarea muzicii"
+   },
+   "1607904075839741217": {
+      "message": "Selectați de pe computer"
+   },
+   "1615800076127848008": {
+      "message": "Tai Le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{peste # ore}=1{peste # oră}few{peste # ore}other{peste # de ore}}"
+   },
+   "1635932785663944786": {
+      "message": "Număr"
+   },
+   "1658346838703079243": {
+      "message": "Schimbați"
+   },
+   "1664100143082435029": {
+      "message": "Anulați"
+   },
+   "1666765550993208796": {
+      "message": "Sunt aceste cântece potrivite incorect?"
+   },
+   "1673135862760647009": {
+      "message": "Radio fără anunțuri, care se pot închide nelimitat"
+   },
+   "1676480944844752785": {
+      "message": "Playlisturi automate"
+   },
+   "1686917835491599951": {
+      "message": "Adăugat recent în Muzica mea"
+   },
+   "1689044830718067443": {
+      "message": "Procesul de instalare ar trebui să înceapă în mod automat în câteva secunde. Aveți nevoie de $START_LINK$ajutor$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1689448196820298645": {
+      "message": "Concerte viitoare"
+   },
+   "1698114086921246480": {
+      "message": "Dezabonați-vă"
+   },
+   "1700078784075267898": {
+      "message": "Muzică Google Play"
+   },
+   "1709114386311494800": {
+      "message": "Link"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "V-ați abonat deja. În prezent, cupoanele sunt disponibile doar pentru utilizatorii noi."
+   },
+   "1722592106949807025": {
+      "message": "Salvați jurnalele de depanare"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Despre"
+   },
+   "1729815731089690989": {
+      "message": "Asigurați-vă că v-ați conectat la internet"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ – include podcasturi",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1751129087972897649": {
+      "message": "Arameică imperială"
+   },
+   "1763795268257640974": {
+      "message": "Nu v-ați dezabonat de la playlist. Încercați din nou."
+   },
+   "1765521785433616250": {
+      "message": "Descărcarea trebuie să înceapă în curând. În caz contrar, $START_SPAN$dați clic aici$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Artist necunoscut"
+   },
+   "1790640569414740156": {
+      "message": "Genuri"
+   },
+   "1796702769044958723": {
+      "message": ".deb pe 32 de biți (pentru Debian/Ubuntu)"
+   },
+   "1800865039213871505": {
+      "message": "Accesați linkul: "
+   },
+   "1803865475179910876": {
+      "message": "Muzică Google Play pentru Chrome pe $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1819368767424033007": {
+      "message": "Istorice"
+   },
+   "1823843876735462104": {
+      "message": "Playlisturi"
+   },
+   "182621168783940405": {
+      "message": "Marcaj dreapta-spre-stânga"
+   },
+   "1831178715211281116": {
+      "message": "Ne pare rău, dar pentru această promoție sunt eligibile numai anumite dispozitive cu sistem de operare Chrome. Doriți totuși muzică nelimitată?"
+   },
+   "183429683821106611": {
+      "message": "Ok"
+   },
+   "1838639948466909028": {
+      "message": "Această pagină nu este compatibilă cu browserul dvs. Folosiți unul dintre $START_LINK$browserele acceptate$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "184252996364058487": {
+      "message": "0 minute"
+   },
+   "1850859858333664648": {
+      "message": "Toată muzica"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Ascultați radio și omiteți melodii ori de câte ori doriți$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Simbol muzical final de expresie"
+   },
+   "1865818889600889051": {
+      "message": "Your account has changed. Please refresh the page to continue."
+   },
+   "1867674656927443481": {
+      "message": "Toate lansările noi"
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{Niciun mixaj}=1{Un mixaj}few{# mixaje}other{# de mixaje}}"
+   },
+   "1869588215425319728": {
+      "message": "Închideți panoul de navigare."
+   },
+   "1872101028863972302": {
+      "message": "S-au descărcat $NUM_TRANSFERRED_TRACKS$ (de) cântece",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Selectați elementul situat mai jos de selecția curentă"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1914372876923825240": {
+      "message": "Creați un link spre:"
+   },
+   "192481666606780833": {
+      "message": "Muzica nu poate fi redată"
+   },
+   "193503854366151748": {
+      "message": "Evaluați negativ cântecul curent"
+   },
+   "1945037339176024290": {
+      "message": "Închise"
+   },
+   "1947306462789680361": {
+      "message": "acum $NUM$ (de) minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Simbol muzical început de expresie"
+   },
+   "1962559411793600980": {
+      "message": "Avestă"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ (de) computere",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "Radicali Han din 9 linii"
+   },
+   "1981857715812460988": {
+      "message": "Artiști similari"
+   },
+   "1984987229407697795": {
+      "message": "Podcasturi"
+   },
+   "1989564869397178334": {
+      "message": "Titlu"
+   },
+   "1996585593795647892": {
+      "message": "Adăugați sau eliminați un link"
+   },
+   "2006786763920466492": {
+      "message": "Data ștergerii"
+   },
+   "2028747142234068875": {
+      "message": "Recomandate pentru dvs."
+   },
+   "2029980907058777630": {
+      "message": "Termeni și condiții"
+   },
+   "2032972931560484213": {
+      "message": "De la $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2035790691811675095": {
+      "message": "Abonați-vă la Muzică Google Play și ascultați acest playlist și milioane de alte cântece. Prima lună este gratuită."
+   },
+   "2038339465785978681": {
+      "message": "Fără spații albe"
+   },
+   "2038618429165152799": {
+      "message": "Fără titlu"
+   },
+   "2080060559104348538": {
+      "message": "Alfabete din Asia de Sud"
+   },
+   "2085941577249285555": {
+      "message": "Abonați-vă"
+   },
+   "2088175644103984799": {
+      "message": "Aq vocală implicită khmeră"
+   },
+   "2093026227428526289": {
+      "message": "Această ofertă este disponibilă numai pe anumite Chromebookuri noi în țările în care$START_LINK$ este disponibil$END_LINK$ serviciul prin abonament Muzică Google Play.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "Liniuță en"
+   },
+   "2101525118384454593": {
+      "message": "Dezactivați redarea aleatorie a cântecelor"
+   },
+   "2102825898069375693": {
+      "message": "Meniu"
+   },
+   "2107375315384298887": {
+      "message": "Indice"
+   },
+   "2109622269343579329": {
+      "message": "Adresă de email nevalidă"
+   },
+   "2139100152161431685": {
+      "message": "Muzica este temporar indisponibilă de pe acest dispozitiv. Încercați din nou mai târziu. $START_LINK$Ajutor$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Închideți"
+   },
+   "2145060893030204211": {
+      "message": "Nu vă putem oferi mai multe informații. Încercați din nou mai târziu."
+   },
+   "2149165958319691680": {
+      "message": "Cumpărați"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{Niciun cântec}=1{Un cântec}few{{NUM_SONGS_2} cântece}other{{NUM_SONGS_2} de cântece}}"
+   },
+   "2152998011161774228": {
+      "message": "g, apoi h"
+   },
+   "2158830056128036057": {
+      "message": "Se procesează fișierele de muzică..."
+   },
+   "2159130950882492111": {
+      "message": "Anulați"
+   },
+   "216513153459932308": {
+      "message": "Fracții/Simboluri conexe"
+   },
+   "2173312720188441245": {
+      "message": "Coptică"
+   },
+   "2187022653493279712": {
+      "message": "g, apoi e"
+   },
+   "2203397136690479355": {
+      "message": "Fișierul nu poate fi procesat"
+   },
+   "2205522058604794595": {
+      "message": "Alfabete din Africa"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2214224657661107347": {
+      "message": "Trimiteți un cadou"
+   },
+   "2220879710364134067": {
+      "message": "Editează cântecele selectate în prezent"
+   },
+   "2239551688895104696": {
+      "message": "Deschideți/Închideți meniul playlistului"
+   },
+   "2246437904181111020": {
+      "message": "Muzică Google Play: alegeți dosarele cu conținut media"
+   },
+   "2252825622480483246": {
+      "message": "Meroitică cursivă"
+   },
+   "2256597604224604671": {
+      "message": "Întrerupeți $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2262446869382672016": {
+      "message": "Cu Muzică Google Play este ușor să ascultați muzica preferată pe smartphone, pe tabletă și pe web."
+   },
+   "2270666830264677427": {
+      "message": "Există un număr maxim de $MAX_TRACKS_IN_ZIP$ (de) cântece care pot fi descărcate simultan. Selectați mai puține cântece și încercați din nou.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2272173107172176330": {
+      "message": "Redați $STATION_TITLE$",
+      "placeholders": {
+         "STATION_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Evaluați pozitiv cântecul curent"
+   },
+   "2280774384387096759": {
+      "message": "Pentru a adăuga muzică în bibliotecă, trageți cântecele sau dosarele aici."
+   },
+   "2296431514706414883": {
+      "message": "1. În fereastra Descărcări, dați dublu clic pe MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Ne pare rău, Muzică Google Play nu este disponibilă în țara dvs."
+   },
+   "2299183036960756600": {
+      "message": "peste $NUM$ zi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2303154715443443305": {
+      "message": "Se descarcă aplicația Manager de muzică "
+   },
+   "2303727423829841771": {
+      "message": "Hopa, se pare că ați dezactivat JavaScript în browser. Pentru a funcționa corect, Google Play are nevoie ca JavaScript să fie activat."
+   },
+   "2304955983019633604": {
+      "message": "Ascultați cântece de pe albume similare cu $TITLE$ de $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "2309808536212982229": {
+      "message": "Activități"
+   },
+   "2309894433432831059": {
+      "message": "Formă de prezentare pentru liniuța em verticală"
+   },
+   "2311151671924532713": {
+      "message": "Eliminați din playlist"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$%",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "231679111972850796": {
+      "message": "Adăugat"
+   },
+   "2321398646644344846": {
+      "message": "Mâine"
+   },
+   "2328554046256236832": {
+      "message": "Fișier FLAC neacceptat"
+   },
+   "2328629775851907569": {
+      "message": "Cu Muzică Google Play este ușor să ascultați muzica preferată pe Android, pe iOS și pe web."
+   },
+   "2329070756809480856": {
+      "message": "Album: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2339250039074511222": {
+      "message": "Acest link nu poate fi testat."
+   },
+   "2339750206850776348": {
+      "message": "Lyciană"
+   },
+   "2357805327369816634": {
+      "message": "Abonați-vă pentru toată muzica, fără niciun anunț"
+   },
+   "2359922567074115383": {
+      "message": "Ștergeți grafica albumului"
+   },
+   "2372448112806402757": {
+      "message": "Episodul următor"
+   },
+   "2376735487384008742": {
+      "message": "Tildă"
+   },
+   "2378357177170124823": {
+      "message": "Zecimale"
+   },
+   "2382000105167193834": {
+      "message": "Gujarati"
+   },
+   "2383360664777254925": {
+      "message": "Închideți/deschideți meniul de navigare"
+   },
+   "2390557292924554291": {
+      "message": "Caracter de îmbinare cu lățime zero"
+   },
+   "2407755817901433243": {
+      "message": "Valorificați un cod de cupon pentru un abonament la Muzică Google Play."
+   },
+   "2434131766046654438": {
+      "message": "B liniar"
+   },
+   "2443885011055165607": {
+      "message": "Selectați pachetul pe care doriți să îl descărcați:"
+   },
+   "2447745837421769983": {
+      "message": "Pentru cea mai bună experiență de descărcare, instalați Muzică Google Play pentru Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Melodie necunoscută"
+   },
+   "247847652023697955": {
+      "message": "Simbol muzical început legătură de valoare"
+   },
+   "2483680006830369490": {
+      "message": "g, apoi p"
+   },
+   "249032153569378306": {
+      "message": "acum $NUM$ oră",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2492300395471245755": {
+      "message": "Artist"
+   },
+   "250478839881665936": {
+      "message": "g, apoi s"
+   },
+   "2506718393130237030": {
+      "message": "Format neacceptat"
+   },
+   "2512060739274636260": {
+      "message": "New Tai Lue"
+   },
+   "2513370824993175045": {
+      "message": "peste $NUM$ (de) zile",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Simbol muzical final de ligatură"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "Adresă de e-mail"
+   },
+   "2534296837124481552": {
+      "message": "Schimbați forma de plată – $START_LINK$Aflați mai multe$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2537475974842549685": {
+      "message": "Închideți anunțul"
+   },
+   "2538866057253567409": {
+      "message": "Mormonă"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Conectați-vă$END_LINK$ pentru a afla dacă vă așteaptă Accesorii Chrome.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Termeni"
+   },
+   "2550362371114851075": {
+      "message": "Normală"
+   },
+   "2558836909854550547": {
+      "message": "Normal"
+   },
+   "2565011230196288502": {
+      "message": "peste $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2567679469483426925": {
+      "message": "Această aplicație suplimentară nu este disponibilă momentan."
+   },
+   "2570105377175439523": {
+      "message": "CUMPĂRAȚI"
+   },
+   "2570991997865478028": {
+      "message": "Vedeți toate albumele cu $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2597193119810674616": {
+      "message": "Abonați-vă la Muzică Google Play și beneficiați de $OFFER_LENGTH_DAYS$ (de) zile de utilizare gratuită.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Sugerate: $FIRST$ din $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "26023870081082032": {
+      "message": "Locație: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2610851846609508423": {
+      "message": "Bazate pe ASCII"
+   },
+   "2626751888211361777": {
+      "message": "Vedeți mai multe cântece populare"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ noi)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Managerul de muzică este disponibil numai pentru Windows, Mac și Linux."
+   },
+   "2655732800763953732": {
+      "message": "Mixajul instant $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Comentariu"
+   },
+   "2665785172586453916": {
+      "message": "Imagine publicitară legată de anunțul audio actual"
+   },
+   "2671314447505154224": {
+      "message": "Topuri"
+   },
+   "2673412443855817873": {
+      "message": "Nu îmi place"
+   },
+   "2697517010706562809": {
+      "message": "Beneficiați de acces la peste 35 de milioane de cântece și la radio fără limite."
+   },
+   "2707074873770010705": {
+      "message": "Dispozitivul nu este eligibil pentru această promoție. Dar nu vă faceți probleme, dacă încercați Muzică Google Play, aveți totuși acces nelimitat la muzică. Gratuit pentru primele 30 de zile."
+   },
+   "2714752802779336020": {
+      "message": "Muzică Google Play"
+   },
+   "2721786517672194900": {
+      "message": "Această limită nu se aplică când descărcați folosind $START_SPAN$Muzică Google Play pentru Chrome$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "272553825640256879": {
+      "message": "Cratimă minus cu lățime întreagă"
+   },
+   "2728721019095728485": {
+      "message": "Înaltă"
+   },
+   "2732888649509914313": {
+      "message": "Mongolă"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Există prea multe fișiere în cont"
+   },
+   "2777498733015254880": {
+      "message": "Ajutor și feedback"
+   },
+   "2787148143326073325": {
+      "message": "Recunoaștere de melodii"
+   },
+   "2801094315807039135": {
+      "message": "Tai Viet"
+   },
+   "280973959199634338": {
+      "message": "Afișați videoclipul de pe YouTube"
+   },
+   "2809945145618753350": {
+      "message": "O pătrime din spațiul em"
+   },
+   "2811509810457668932": {
+      "message": "Fonetice (X-IPA)"
+   },
+   "2826705908408853328": {
+      "message": "Trebuie să vă redirecționăm la Google Play pentru a finaliza configurarea. Vă vom redirecționa înapoi la Muzică Play când terminați."
+   },
+   "2834324594183341424": {
+      "message": "Adăugați în Google Play colecția dvs. de muzică existentă"
+   },
+   "2840006222747077107": {
+      "message": "Nu ați adăugat conținut în Muzica mea"
+   },
+   "2856670286248433202": {
+      "message": "Reclamă"
+   },
+   "2857356182021649243": {
+      "message": "Accesați Cântecele mele"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{acum # minute}=1{acum # minut}few{acum # minute}other{acum # de minute}}"
+   },
+   "2881621988818346391": {
+      "message": "Da"
+   },
+   "2881776379326317082": {
+      "message": "Folosiți întotdeauna această locație"
+   },
+   "2896688457548770791": {
+      "message": "Ghilimele"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{Niciun post}=1{Un post}few{# posturi}other{# de posturi}}"
+   },
+   "2910989560121976550": {
+      "message": "Testați acest link"
+   },
+   "2918448970074432239": {
+      "message": "Editați codul HTML"
+   },
+   "2933981780439742153": {
+      "message": "Afișați miniplayerul"
+   },
+   "2941843189430218247": {
+      "message": "Shift q"
+   },
+   "29485262661698811": {
+      "message": "Final de verset arab"
+   },
+   "2954874827338778826": {
+      "message": "Adresă web"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Spațiu de unire îngust"
+   },
+   "2973169743818593793": {
+      "message": "Radicali Han din 5 linii"
+   },
+   "29734255682325103": {
+      "message": "Aliniați la dreapta"
+   },
+   "2980847012388128321": {
+      "message": "Spațiu cu lățime zero"
+   },
+   "2980960654248329234": {
+      "message": "Spațiu fir de păr"
+   },
+   "2982463607788408741": {
+      "message": "Ați fost deconectat(ă) de la contul Google. Actualizați pentru a vă conecta din nou."
+   },
+   "2983216790003568156": {
+      "message": "Nu se poate stabili o conexiune securizată"
+   },
+   "3010015422095710725": {
+      "message": "Ștergeți întreaga bibliotecă, inclusiv muzica achiziționată și muzica adăugată prin abonamentul dvs. Muzică Google Play ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Valorificați oferta"
+   },
+   "3054851848337350805": {
+      "message": "Exponent"
+   },
+   "305815942371229357": {
+      "message": "Nicio sugestie"
+   },
+   "3067310196368927236": {
+      "message": "Semn de punctuație ebraic maqaf"
+   },
+   "3072935047674817211": {
+      "message": "Muzica mea"
+   },
+   "308732574543176489": {
+      "message": "Nu s-a putut modifica playlistul. Încercați din nou."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} oră}few{{TEXT} ore}other{{TEXT} de ore}}"
+   },
+   "3092124279252305673": {
+      "message": "320 kbps, adaptivă."
+   },
+   "309901418176428732": {
+      "message": "Podcasturi"
+   },
+   "3099596419835786769": {
+      "message": "Spațiu matematic mediu"
+   },
+   "3099741642167775297": {
+      "message": "Descărcați"
+   },
+   "310152014457055522": {
+      "message": "Abonați-vă pentru a reda orice cântec sau album"
+   },
+   "3117706868107348105": {
+      "message": "Sau copiați și inserați acest link:"
+   },
+   "3125342991297920614": {
+      "message": "Albumul nu s-a putut deschide. Încercați din nou."
+   },
+   "3138864086144358473": {
+      "message": "Radicali Han 11..17 linii"
+   },
+   "314582171813087287": {
+      "message": "Cratimă de unire"
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Accesați Artiștii mei"
+   },
+   "31530890844887887": {
+      "message": "Progresul melodiei"
+   },
+   "3154951825194528737": {
+      "message": "Se anulează descărcarea muzicii"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Nu știți sigur ce să introduceți în casetă?$END_BOLD$ Mai întâi, găsiți pagina web spre care doriți să creați un link. (Un $SEARCH_ENGINE_LINK$motor de căutare$END_LINK$ ar putea fi util.) Apoi, copiați adresa web din caseta barei de adrese a browserului și inserați-o în caseta de mai sus.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3163044740176820503": {
+      "message": "Începeți"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Sigur doriți să ștergeți cântecul selectat?}few{Sigur doriți să ștergeți cântecele selectate?}other{Sigur doriți să ștergeți cântecele selectate?}}"
+   },
+   "3167418181223330667": {
+      "message": "Modificator"
+   },
+   "3176546103367076011": {
+      "message": "Vedeți toate cântecele populare cu $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3182977091552629211": {
+      "message": "Treceți peste fiecare celulă pentru a vedea numele caracterului."
+   },
+   "3185279424082070029": {
+      "message": "Asigurați-vă că păstrați acest cântec pe un computer care rulează aplicația Manager muzică și că acesta este conectat la internet. Cântecul va fi încărcat din nou în ziua următoare."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{acum # zile}=1{acum # zi}few{acum # zile}other{acum # de zile}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{Niciun cântec}=1{Un cântec}few{# cântece}other{# de cântece}}"
+   },
+   "3196641196902208501": {
+      "message": "Creați un link spre o adresă de e-mail"
+   },
+   "3198123723060667787": {
+      "message": "Dată"
+   },
+   "3213972439514824911": {
+      "message": "Îmi place"
+   },
+   "3220162149541031829": {
+      "message": "Versuri"
+   },
+   "3225804441370198247": {
+      "message": "Toate cântecele mele – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing/Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "peste $NUM$ (de) minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Niciuna"
+   },
+   "3237206613586329862": {
+      "message": "Lydiană"
+   },
+   "3242312278127054660": {
+      "message": "Caractere matematice alfanumerice"
+   },
+   "3244003434432113241": {
+      "message": "Redați"
+   },
+   "3245264696956198335": {
+      "message": "Format"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Nu ați selectat niciun cântec de descărcat pe computer.}=1{Sigur doriți să descărcați cântecul selectat pe computer?}few{Sigur doriți să descărcați cântecele selectate pe computer?}other{Sigur doriți să descărcați cântecele selectate pe computer?}}"
+   },
+   "3255560926299154386": {
+      "message": "Luați muzica de pe iTunes cu dvs."
+   },
+   "32574714261860078": {
+      "message": "Ascultați"
+   },
+   "3277700190370010726": {
+      "message": "Promoția muzicală Google Play pentru $START_BOLD$$USER_EMAIL$$END_BOLD$ este temporar indisponibilă. Încercați din nou mai târziu.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3299099956700438963": {
+      "message": "Alfabete din America"
+   },
+   "3307635842875172003": {
+      "message": "Accesați Mixajele mele"
+   },
+   "3310099093781584673": {
+      "message": "g, apoi m"
+   },
+   "3311269073804742952": {
+      "message": "Ascultați acum"
+   },
+   "3323193679372503780": {
+      "message": "Nu, mulțumesc"
+   },
+   "3325286951950012705": {
+      "message": "Găsiți bilete"
+   },
+   "3326102734049980036": {
+      "message": "Timp rămas: $DURATION$",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Vedeți toate rezultatele de căutare cu playlisturi"
+   },
+   "3335728816495350082": {
+      "message": "Top cântece – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Afișați playerul principal"
+   },
+   "3377006691156456363": {
+      "message": "Link de trimis"
+   },
+   "3381844160250536550": {
+      "message": "Conectați-vă la Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Ebraică"
+   },
+   "3390725557414108843": {
+      "message": "Radicali Han din 4 linii"
+   },
+   "3410315382362912156": {
+      "message": "Playlistul $START_SPAN$$TITLE$$END_SPAN$ este privat. Pentru a-l recomanda, setați-l ca public.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Coș de gunoi"
+   },
+   "3419681791450150574": {
+      "message": "Progres"
+   },
+   "342127282404571667": {
+      "message": "Muzică Google Play pentru sistemul de operare Chrome"
+   },
+   "3431116501598202644": {
+      "message": "Album necunoscut"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Ce adresă URL trebuie să acceseze acest link?"
+   },
+   "3445096196133856884": {
+      "message": "Aa vocală implicită khmeră"
+   },
+   "3462013384451950074": {
+      "message": "peste $NUM$ oră",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "De la $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Ascultați toată muzica dorită. Oriunde. Doar adăugați muzica de pe computer în Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Punctuație"
+   },
+   "3483193414050571677": {
+      "message": "Nu îmi place"
+   },
+   "3483958460407305290": {
+      "message": "Tăiați cu o linie"
+   },
+   "3491417595697100862": {
+      "message": "Oferit de $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Reduceți volumul playerului"
+   },
+   "3519190023725081398": {
+      "message": "g, apoi b"
+   },
+   "352192086869301337": {
+      "message": "Adăugate: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ din $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Valorificați cuponul Muzică Google Play"
+   },
+   "3532209277261496348": {
+      "message": "A apărut o eroare. Încercați din nou."
+   },
+   "3545785371861413299": {
+      "message": "Începeți perioada de încercare gratuită"
+   },
+   "3545929198870894557": {
+      "message": "Accesați Playlisturile mele"
+   },
+   "3547729876847212201": {
+      "message": "Spațiu en"
+   },
+   "3565556274692077023": {
+      "message": "Liniuță em"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Întotdeauna înaltă"
+   },
+   "3587102960969248092": {
+      "message": "Lansările noi recomandate"
+   },
+   "3599940994748621516": {
+      "message": "Abonați-vă la Muzică Google Play și ascultați acest cântec și milioane de alte cântece. Prima lună este gratuită."
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605470624800934973": {
+      "message": "Sigur doriți să ștergeți albumul selectat?"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Îmi place"
+   },
+   "3629941396858927174": {
+      "message": "Ascundeți alte opțiuni"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3638177113998814964": {
+      "message": "Se încarcă $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Ștergeți căutarea"
+   },
+   "3649938620817393740": {
+      "message": "Mică"
+   },
+   "3650710698506236041": {
+      "message": "Culoare hexazecimală"
+   },
+   "3688803517283872334": {
+      "message": "Element de completare hangul cu jumătate de lățime"
+   },
+   "3693467228074689327": {
+      "message": "Continuați"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "370216116393129031": {
+      "message": "Deschideți coada"
+   },
+   "3748613043647922063": {
+      "message": "Separator invizibil"
+   },
+   "3748893353086104812": {
+      "message": "Goliți memoria cache locală și actualizați informațiile pentru toate cântecele și playlisturile."
+   },
+   "3762887990641668199": {
+      "message": "Armeană"
+   },
+   "3768927257183755959": {
+      "message": "Salvați"
+   },
+   "3770594827970207417": {
+      "message": "Titlu secundar"
+   },
+   "3772706138160001780": {
+      "message": "Bară orizontală"
+   },
+   "3774172828626803355": {
+      "message": "Cherokee"
+   },
+   "3782346097595894324": {
+      "message": "Conexiunea la server nu s-a realizat. Încercați din nou mai târziu."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3789779144889291801": {
+      "message": "Descărcați cu ușurință muzica achiziționată sau încărcată pe Google Play."
+   },
+   "3795262960327716692": {
+      "message": "Pentru a adăuga un cântec, trageți-l peste numele playlistului din bara laterală"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "Următoarele ferestre se vor închide:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolitică"
+   },
+   "3839679337223320857": {
+      "message": "V-ați conectat ca $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radioul $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Accesați Muzică Google Play"
+   },
+   "3861583677596279097": {
+      "message": "Raportul trebuie să fie analizat de un membru al echipei tehnice în următoarea zi lucrătoare"
+   },
+   "3865248559890962003": {
+      "message": "Sugerat: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Valorificați cuponul Muzică Google Play"
+   },
+   "3867367359959377145": {
+      "message": "EROARE: „$COLOR$” nu este o culoare validă.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3868119883080041455": {
+      "message": "Radioul $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Înainte să folosiți aplicația Chrome, conectați-vă la Muzică Google Play pe web."
+   },
+   "3873111853443561979": {
+      "message": "Subliniat"
+   },
+   "3885497195825665706": {
+      "message": "Înainte"
+   },
+   "3890078112831612818": {
+      "message": "Asigurați-vă că păstrați aceste cântece pe un computer care rulează aplicația Manager muzică și că acesta este conectat la internet. Cântecele vor fi încărcate din nou în ziua următoare."
+   },
+   "3901889124080689046": {
+      "message": "Fișierul nu poate fi deschis"
+   },
+   "3904027274600624417": {
+      "message": "Oricine poate să găsească și să asculte conținutul. Perfect pentru recomandări."
+   },
+   "3905289916217023036": {
+      "message": "Ștergeți definitiv toată muzica achiziționată sau încărcată."
+   },
+   "3905371920037624514": {
+      "message": "Mai puțin frecvente"
+   },
+   "3936240281193464170": {
+      "message": "Actualizați"
+   },
+   "3941019069704400974": {
+      "message": "Sigur doriți să ștergeți definitiv istoricul folosit pentru a primi recomandări personalizate? Evaluările și numărul redărilor pentru cântecele individuale nu vor fi eliminate."
+   },
+   "3949911572988594237": {
+      "message": "Creați un playlist"
+   },
+   "3973260061047030021": {
+      "message": "Redați sau întrerupeți muzica"
+   },
+   "3973931101896534797": {
+      "message": "Dată"
+   },
+   "3975141127799341224": {
+      "message": "Creați un link spre o pagină sau un fișier din altă locație de pe web"
+   },
+   "3980763395698221887": {
+      "message": "{NUM_SONGS,plural, =1{Ați adăugat un cântec în biblioteca dvs.}few{Ați adăugat # cântece în biblioteca dvs.}other{Ați adăugat # de cântece în biblioteca dvs.}}"
+   },
+   "3981724709755713539": {
+      "message": "Playlisturi recente"
+   },
+   "3982112843644394207": {
+      "message": "2. În fereastra Descărcări a browserului, dați dublu clic pe fișierul musicmanagerinstaller.exe pentru a-l deschide."
+   },
+   "3988935995558346502": {
+      "message": "Chirilică"
+   },
+   "3993484408454658640": {
+      "message": "Control parental:"
+   },
+   "3996699777412450193": {
+      "message": "Săgeți"
+   },
+   "4018574576796390012": {
+      "message": "Sigur doriți să $START_SPAN$ștergeți definitiv$END_SPAN$ playlistul „$PLAYLIST_NAME$”?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4032125743169636815": {
+      "message": " &bull; "
+   },
+   "4034257783857644883": {
+      "message": "Radicali Han din 6 linii"
+   },
+   "4044663630621281686": {
+      "message": "Semnul arab safha"
+   },
+   "4055580652532057510": {
+      "message": "fără nume"
+   },
+   "405696346909038516": {
+      "message": "Vedeți toate rezultatele de căutare cu podcasturi"
+   },
+   "4061274470931156807": {
+      "message": "Ol Chiki"
+   },
+   "4063027937991598166": {
+      "message": "Ștergeți selecția curentă"
+   },
+   "4071581399160046214": {
+      "message": "Pagina de pornire"
+   },
+   "4075286221500750156": {
+      "message": "Versiune: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Computerul dvs. nu a putut fi identificat."
+   },
+   "4086606389696938932": {
+      "message": "Cont"
+   },
+   "4087074177670472082": {
+      "message": "Ancoră de adnotare interlineară"
+   },
+   "4091426921184034649": {
+      "message": "Faceți upgrade abonamentului"
+   },
+   "4110926661719376304": {
+      "message": "Aflați cum să activați JavaScript"
+   },
+   "4117020323749523105": {
+      "message": "Activitate recentă"
+   },
+   "4117886182866316912": {
+      "message": "Căutați înainte în cântecul curent"
+   },
+   "4136239927282562599": {
+      "message": "Ascultați un post de radio cu muzică similară cu $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Playlistul este gol"
+   },
+   "4141582858389779168": {
+      "message": "Înscrieți-vă pentru muzică fără limite plătind numai $OFFER_PRICE$/lună și redați milioane de cântece, instantaneu și fără anunțuri.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Acest cântec a fost semnalat drept rezultat incorect."
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Cântecul selectat va utiliza copia dvs. în loc de copia care s-a potrivit.}few{Cântecele selectate vor utiliza copiile dvs. în loc de copiile care s-au potrivit.}other{Cântecele selectate vor utiliza copiile dvs. în loc de copiile care s-au potrivit.}}"
+   },
+   "4171773891797639122": {
+      "message": "Caracter de îmbinare cuvinte"
+   },
+   "4183640380235728062": {
+      "message": "Repetare dezactivată. Dați clic pentru a schimba starea modului Repetare."
+   },
+   "4204603140063905121": {
+      "message": "Element de completare jungseong hangul"
+   },
+   "4207298621447602833": {
+      "message": "Cel mai bun rezultat"
+   },
+   "4210934092144627539": {
+      "message": "Redate sau adăugate recent"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Redați milioane de cântece, oricând doriți$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4237178646016840735": {
+      "message": "Abonați-vă la Muzică Google Play și ascultați acest artist și milioane de alte cântece. Prima lună este gratuită."
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ pe $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4260036130369028456": {
+      "message": "g, apoi g"
+   },
+   "4263959392548297550": {
+      "message": "Anulați"
+   },
+   "4267092206833736997": {
+      "message": "Posturi de radio"
+   },
+   "4272173055918340921": {
+      "message": "Se încarcă Biblioteca muzicală&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Mereu deasupra"
+   },
+   "4285216590250755577": {
+      "message": "Putem să verificăm dacă dispozitivul este eligibil pentru această promoție numai după ce îl actualizați."
+   },
+   "4307428996576001111": {
+      "message": "Accesați melodia precedentă"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4323912651038951928": {
+      "message": "Astfel se vor șterge și playlisturile, posturile de radio, evaluările și informațiile despre numărul de redări."
+   },
+   "4326462735503400283": {
+      "message": "Text de afișat:"
+   },
+   "4329609792835264496": {
+      "message": "Spațiu îngust"
+   },
+   "4330683855002842723": {
+      "message": "Afișați alte opțiuni"
+   },
+   "4333644357236884202": {
+      "message": "Khmeră"
+   },
+   "4338950182024656659": {
+      "message": "Genealogie și gen"
+   },
+   "4340616150909089613": {
+      "message": "Cântecul „$SONG_TITLE$” a fost potrivit cu alt cântec?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Tehnologie de codare audio MPEG Layer-3 cu licență de la Fraunhofer IIS și Thomson. Tehnologia Advanced Audio Coding (AAC) este folosită sub o licență administrată de Via Licensing Corporation. Google Play conține software terță parte pentru care sunt obligatorii notificarea și/sau termeni și condiții suplimentare. Notificările privind software-ul terță parte și/sau termenii și condițiile suplimentare obligatorii se găsesc pe $START_LINK$pagina de informare privind terța parte$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Adăugați muzică din $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Blocați muzica marcată ca explicită de furnizorii de conținut."
+   },
+   "437655423845564400": {
+      "message": "S-a atins limita de melodii. Puteți încărca maximum $TRACK_LIMIT$ (de) melodii.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Formă de prezentare pentru liniuța en verticală"
+   },
+   "4383725505132456525": {
+      "message": "Se întrerupe adăugarea muzicii"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Creați propriile playlisturi"
+   },
+   "4396890764725725469": {
+      "message": "Salvați"
+   },
+   "4405073953395157822": {
+      "message": "Taste CJK"
+   },
+   "4417144592785193889": {
+      "message": "Alte alfabete din Asia de Est"
+   },
+   "4439965029912183539": {
+      "message": "Caractere Latin-1 suplimentar"
+   },
+   "4440466521156769623": {
+      "message": "Simbol muzical început de ligatură"
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{Niciun cântec}=1{Un cântec}few{{COUNT_2} cântece}other{{COUNT_2} de cântece}}"
+   },
+   "445149490695787423": {
+      "message": "Conectați-vă din nou"
+   },
+   "4451528286100219680": {
+      "message": "Încorporare stânga-spre-dreapta"
+   },
+   "4452427314943113135": {
+      "message": "Anteriorul"
+   },
+   "4453762904903445132": {
+      "message": "Eroare la adăugarea la playlist."
+   },
+   "4456793125873199230": {
+      "message": "Radio Mă simt norocos"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{Nicio secundă}=1{O secundă}few{# secunde}other{# de secunde}}"
+   },
+   "4462494623248108758": {
+      "message": "Playlist"
+   },
+   "4476647413225813774": {
+      "message": "După cele $OFFER_LENGTH_DAYS$ (de) zile, ascultați în continuare, pentru doar $OFFER_PRICE$ pe lună.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4478641030934315579": {
+      "message": "Frecvente"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Unele cântece trebuie încărcate din nou."
+   },
+   "4539806158142214585": {
+      "message": "g, apoi n"
+   },
+   "4548136982356342217": {
+      "message": "Shift &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Creați un nou mixaj instantaneu din cântecul selectat"
+   },
+   "4571105317747127957": {
+      "message": "Cratimă cu diereză"
+   },
+   "4580988005648117665": {
+      "message": "Căutați"
+   },
+   "4584074223811370739": {
+      "message": "Radio gratuit, pentru toate activitățile dvs. Stocați 50.000 de melodii din colecția dvs. personală. Abonați-vă pentru acces la cerere la 35 de milioane de cântece și pentru audiție offline."
+   },
+   "4590981840116960737": {
+      "message": "Formatare și spațiu alb"
+   },
+   "4601938511613873712": {
+      "message": "Dispozitivele mele"
+   },
+   "4604862300643180159": {
+      "message": "Bucurați-vă de posturi de radio pentru orice dispoziție sau activitate, create de echipa noastră de experți în muzică."
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "46135825491334308": {
+      "message": "Ștergerea muzicii este definitivă."
+   },
+   "4624380622618270977": {
+      "message": "Lansări noi"
+   },
+   "4624704164651982020": {
+      "message": "Se configurează Muzică Google Play pentru Chrome..."
+   },
+   "4629398054050196678": {
+      "message": "Descărcați muzica în următoarea locație:"
+   },
+   "4645609569705949286": {
+      "message": "Numai eu"
+   },
+   "4648993989034133051": {
+      "message": "Afișează meniul pentru cântecul selectat în prezent"
+   },
+   "46496227337284997": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Păstrați până la 50.000 de cântece în Google Play, gratuit.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Adăugați propria colecție de pe iTunes, din Windows Media Player sau din dosare.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Ascultați muzică pe web sau de pe dispozitivele mobile, fără fire sau sincronizare.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "4658362967039953209": {
+      "message": "Încărcați muzică"
+   },
+   "4662613464573260354": {
+      "message": "Sugerată"
+   },
+   "466976558518570343": {
+      "message": "Javaneză"
+   },
+   "4675570050310339063": {
+      "message": "Nu s-a putut adăuga. Playlisturile sunt limitate la $LIMIT$ cântece.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4675864222674894697": {
+      "message": "Alfabetul lui G. B. Shaw"
+   },
+   "4687189636655044066": {
+      "message": "Bara de spațiu"
+   },
+   "4688350353916032040": {
+      "message": "Muzică pentru orice dispoziție"
+   },
+   "4688946070631035536": {
+      "message": "Verificator ortografic"
+   },
+   "470296860672943171": {
+      "message": "Selector de variație"
+   },
+   "4706959263210678625": {
+      "message": "Selector de variație: $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Pentru a vă putea încărca muzica rapid, Google Play efectuează corespondența dintre fișierele dvs. muzicale și copiile existente pe serverul nostru. Uneori, este posibil să realizăm corespondența cu un cântec greșit. Raportați problema aici, iar cântecul va fi încărcat din nou."
+   },
+   "471816275243265264": {
+      "message": "Locație"
+   },
+   "4718177503702130030": {
+      "message": "Momentul actual din cântec: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4722420535011430371": {
+      "message": "Videoclip YouTube"
+   },
+   "4724245563419948725": {
+      "message": "Google Play se actualizează când adaug muzică nouă în aceste locații"
+   },
+   "4742770396342457517": {
+      "message": "Ascultați în Muzică Google Play"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "Malayalam"
+   },
+   "4769480851867061848": {
+      "message": "Redați $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Motiv"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{Niciun gen}=1{Un gen}few{# genuri}other{# de genuri}}"
+   },
+   "4782493710939339680": {
+      "message": "Postați pe Twitter"
+   },
+   "4815033911915598343": {
+      "message": "Spațiere"
+   },
+   "4830715100444503860": {
+      "message": "Kharoshthi"
+   },
+   "4836232766167652032": {
+      "message": "Redați aleatoriu $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4846792506513649213": {
+      "message": "Posturi"
+   },
+   "4862238057869188402": {
+      "message": "Nu au putut fi preluate mixajele. Încercați din nou."
+   },
+   "4862902902120611556": {
+      "message": "Vedeți toate rezultatele de căutare cu artiști"
+   },
+   "4867246087786788222": {
+      "message": "Tip de cont:"
+   },
+   "4874337908897060929": {
+      "message": "Adăugarea muzicii este întreruptă"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Sigur doriți să {START_SPAN_1}ștergeți definitiv{END_SPAN} cântecul selectat?}few{Sigur doriți să {START_SPAN_2}ștergeți definitiv{END_SPAN} cântecele selectate?}other{Sigur doriți să {START_SPAN_2}ștergeți definitiv{END_SPAN} cântecele selectate?}}"
+   },
+   "4878527640076219954": {
+      "message": "Tamilă"
+   },
+   "4886126295094352182": {
+      "message": "Muzică Google Play pentru Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Thai"
+   },
+   "4902817035128594900": {
+      "message": "Descriere"
+   },
+   "4916816672463415688": {
+      "message": "Încercați Muzică Google Play"
+   },
+   "4920482241656423227": {
+      "message": "Culoarea de fundal a textului"
+   },
+   "4920946997448724158": {
+      "message": "Compozitor"
+   },
+   "4921096453319030731": {
+      "message": "Semn abreviere sirian"
+   },
+   "4924253230856131215": {
+      "message": "Alfabete din Asia de Sud-Est"
+   },
+   "4930506384627295710": {
+      "message": "Setări"
+   },
+   "4933504665795531092": {
+      "message": "Printr-un abonament la Muzică Google Play, primiți acces la peste 35 de milioane de cântece și la radio fără limite."
+   },
+   "4945228064546795686": {
+      "message": "Vedeți toate rezultatele de căutare cu albume"
+   },
+   "4962022175989879342": {
+      "message": "Limbaj explicit"
+   },
+   "496636435516411982": {
+      "message": "Nu s-a putut evalua cântecul. Încercați din nou."
+   },
+   "4972659496812307928": {
+      "message": "Descărcarea muzicii este întreruptă"
+   },
+   "4980580439123922024": {
+      "message": "Artiști"
+   },
+   "498913874005297914": {
+      "message": "Aldin"
+   },
+   "499152283823240992": {
+      "message": "Samariteană"
+   },
+   "4998030835388374541": {
+      "message": "Modificați grafica albumului"
+   },
+   "5003850562831597565": {
+      "message": "V-ați abonat recent"
+   },
+   "5004312405043027351": {
+      "message": "Terminat"
+   },
+   "5009878480585609766": {
+      "message": "Han – Altele"
+   },
+   "5015096128854741514": {
+      "message": "Transport și hartă"
+   },
+   "5018227417300461385": {
+      "message": "Cratimă minus mică"
+   },
+   "5029496897209707807": {
+      "message": "Aplicația Muzică Google Play pentru Chrome trebuie să fie actualizată. Aceasta ar trebui să se facă automat."
+   },
+   "5030096791460456147": {
+      "message": "Imaginea pe care încercați să o trageți a fost blocată de site-ul gazdă."
+   },
+   "5032188163864418301": {
+      "message": "Pahlavi inscripțională"
+   },
+   "5043933900720743682": {
+      "message": "Albume"
+   },
+   "5049432650728491454": {
+      "message": "Răsfoiți lansări noi, topuri, playlisturi și genuri"
+   },
+   "504977212575871255": {
+      "message": "Nu s-a putut modifica ordinea. Încercați din nou."
+   },
+   "506090363255226122": {
+      "message": "Inversate/În oglindă"
+   },
+   "5067818727161314391": {
+      "message": "Postați pe Google+"
+   },
+   "5071594083516657121": {
+      "message": "Fișierul este prea mare"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{Niciun album}=1{Un album}few{# albume}other{# de albume}}"
+   },
+   "5085509606319320198": {
+      "message": "Închideți coada"
+   },
+   "5094769877856014729": {
+      "message": "Simbol muzical final legătură de valoare"
+   },
+   "5105404398573470156": {
+      "message": "Forme geometrice"
+   },
+   "5113771261593769985": {
+      "message": "Cham"
+   },
+   "5115900738857721327": {
+      "message": "Caracter de îmbinare grafeme"
+   },
+   "5119663120731608161": {
+      "message": "Consultați playlistul $START_LINK$Adăugate recent$END_LINK$ pentru a vedea care sunt cele mai recente cântece.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{O omitere rămasă}few{# omiteri rămase}other{# de omiteri rămase}}"
+   },
+   "5128240607770067472": {
+      "message": "Despre…"
+   },
+   "5141725357376719861": {
+      "message": "Descărcate: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ din $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Se scanează..."
+   },
+   "5154374028369457456": {
+      "message": "Bara de instrumente pentru navigare"
+   },
+   "5161411570094992408": {
+      "message": "Nu acum"
+   },
+   "5170992049958515620": {
+      "message": "Cratimă"
+   },
+   "5188231675115376764": {
+      "message": "Accesați Posturile mele"
+   },
+   "5189296983337794287": {
+      "message": "Momentan, nu puteți trage și plasa fișiere cu imagini.\nTrageți o imagine din browserul web."
+   },
+   "5199204386348402183": {
+      "message": "Osmanya"
+   },
+   "5219596981664772816": {
+      "message": "Radicali Han din 3 linii"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagh"
+   },
+   "5237204164514638395": {
+      "message": "Trimiteți un cadou"
+   },
+   "5256846847077792168": {
+      "message": "Editați cuvântul"
+   },
+   "5274506773583039432": {
+      "message": "Sigur doriți să $START_SPAN$ștergeți definitiv$END_SPAN$ playlistul selectat?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "Emoticonuri"
+   },
+   "529512324149544235": {
+      "message": "Parental Controls Settings Changed"
+   },
+   "5296780212411063886": {
+      "message": "Căutați posturi"
+   },
+   "5302287499843369186": {
+      "message": "Se configurează Muzică Google Play"
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5316998074277327666": {
+      "message": "Pentru anumite părți ale conținutului, drepturile de autor &copy; aparțin companiei Gracenote sau furnizorilor acesteia."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Sigur doriți să {START_SPAN_1}ștergeți definitiv{END_SPAN} cântecul selectat?}few{Sigur doriți să {START_SPAN_2}ștergeți definitiv{END_SPAN} cântecele selectate?}other{Sigur doriți să {START_SPAN_2}ștergeți definitiv{END_SPAN} cântecele selectate?}}"
+   },
+   "5326351540290142036": {
+      "message": "Cântecul anterior"
+   },
+   "5348600594194881699": {
+      "message": "Așezați-vă comod și relaxați-vă, v-ați abonat deja la Muzică Google Play!"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5370332239555585516": {
+      "message": "Toată muzica, niciun anunț"
+   },
+   "5373550672011878193": {
+      "message": "Runică"
+   },
+   "5378532290721565403": {
+      "message": "Melodia a fost achiziționată cu alt cont Muzică Google Play"
+   },
+   "5379453108698089622": {
+      "message": "Accesați Ascultați acum"
+   },
+   "5393158295657392839": {
+      "message": "Cântece marcate ca potriviri incorecte."
+   },
+   "5394607018657314633": {
+      "message": "Separator rânduri"
+   },
+   "5395035563228151731": {
+      "message": "Starea contului:"
+   },
+   "5402470227536486835": {
+      "message": "Liniuță em scurtă"
+   },
+   "5404910277282887798": {
+      "message": "Feniciană"
+   },
+   "5407092932504462689": {
+      "message": "Vedeți toate rezultatele de căutare cu posturi de radio"
+   },
+   "5408241503383428945": {
+      "message": "Alte alfabete din Europa"
+   },
+   "5410695385284979104": {
+      "message": "Mixaj $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Setări pentru familie"
+   },
+   "5432330868773114140": {
+      "message": "Porniți radio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{Niciun episod}=1{Un episod}few{{COUNT_2} episoade}other{{COUNT_2} de episoade}}"
+   },
+   "545173546103184657": {
+      "message": "Cont Google:"
+   },
+   "5452036681614307719": {
+      "message": "Semnul plus invizibil"
+   },
+   "5452218284042451605": {
+      "message": "Pentru a aplica un cupon la $START_SPAN$$USER_EMAIL$$END_SPAN$, introduceți codul mai jos",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Album necunoscut"
+   },
+   "548629550059508920": {
+      "message": "Nu se poate încărca, deoarece încărcați deja din două conturi."
+   },
+   "5492320356892382782": {
+      "message": "Ștergeți definitiv"
+   },
+   "5497512316841934820": {
+      "message": "Mixaj Mă simt norocos"
+   },
+   "5497627646066282315": {
+      "message": "Se conectează"
+   },
+   "5501301484140201550": {
+      "message": "Radio Mă simt norocos"
+   },
+   "550380163414655031": {
+      "message": "În continuare, vă vom întreba ce preferințe aveți, pentru a vă ajuta să descoperiți melodiile potrivite pentru dvs."
+   },
+   "5518817744725858296": {
+      "message": "Artistul cântă live aproape de dvs."
+   },
+   "5524426195717036850": {
+      "message": "V-ați dezabonat de la playlistul „{PLAYLIST_TITLE}”"
+   },
+   "5529194084754296998": {
+      "message": "O șesime din spațiul em"
+   },
+   "5535160370665610524": {
+      "message": "Căutați înapoi în cântecul curent"
+   },
+   "5541835554879897802": {
+      "message": "Anumite melodii nu au putut fi adăugate la colecție. Încercați din nou."
+   },
+   "5562067436939843837": {
+      "message": "Ascultați orice doriți din catalogul nostru de milioane de cântece, fără anunțuri."
+   },
+   "5578390534357178026": {
+      "message": "Asigurați-vă că v-ați conectat la Chrome cu același Cont Google."
+   },
+   "5584189341216439776": {
+      "message": "Adăugați muzica dvs."
+   },
+   "5584467594910303696": {
+      "message": "Hieroglife meroitice"
+   },
+   "5586233271963962252": {
+      "message": "Cântecul următor"
+   },
+   "5593848105713936399": {
+      "message": "Coadă"
+   },
+   "5594762259680838005": {
+      "message": "Achiziționat recent"
+   },
+   "5601530442010506564": {
+      "message": "Am înțeles"
+   },
+   "5605692130698677333": {
+      "message": "Aveți nevoie de ajutor pentru a adăuga muzică de pe un computer pe care ați instalat deja aplicația Manager muzică Google Play?"
+   },
+   "560627050344405345": {
+      "message": "Derulați înainte 30 de secunde"
+   },
+   "5607000992339442129": {
+      "message": "Durează numai câteva minute să începeți să încărcați propria colecție muzicală pe Google Play."
+   },
+   "5612959352951118540": {
+      "message": "peste $NUM$ (de) ore",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Formatare"
+   },
+   "5643561794785412000": {
+      "message": "Indisponibil"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Nu s-au putut prelua genurile. Încercați din nou."
+   },
+   "5671499827182863671": {
+      "message": "Ați fost deconectat(ă) de la acest cont. Dați clic pe butonul de mai jos pentru a reveni la muzica dvs."
+   },
+   "5672179805519539136": {
+      "message": "Stocați muzica într-un singur loc. Ascultați pe Android, pe iOS și pe web."
+   },
+   "5674048882417502526": {
+      "message": "Suprascriere dreapta-spre-stânga"
+   },
+   "5700613377997995103": {
+      "message": "Liniuță cu lățime de un caracter"
+   },
+   "5728756163322931984": {
+      "message": "Ascultați milioane de cântece la prețul unui album"
+   },
+   "5729733224544981434": {
+      "message": "Pentru a trage și a plasa, adăugați aplicația Muzică Google Play pentru Chrome"
+   },
+   "5729741177183241567": {
+      "message": "{NUM_SONGS,plural, =1{1 cântec a fost adăugat în playlist}few{# cântece au fost adăugate în playlist}other{# de cântece au fost adăugate în playlist}}"
+   },
+   "5755038562791065032": {
+      "message": "O treime din spațiul em"
+   },
+   "5756282190263595941": {
+      "message": "Ascultați cântece similare cu $TITLE$ de $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5761798931116026691": {
+      "message": "Eroare la conversia în MP3"
+   },
+   "5769804815976568558": {
+      "message": "Selectați locația de descărcare"
+   },
+   "5775493454862732930": {
+      "message": "Cratimă armeană"
+   },
+   "5779551937076403073": {
+      "message": "Adăugați"
+   },
+   "5784007894878825338": {
+      "message": "Spațiu de unire"
+   },
+   "5814708421422669024": {
+      "message": "Cumpărați cu $PRICE_TEXT$",
+      "placeholders": {
+         "PRICE_TEXT": {
+            "content": "$1"
+         }
+      }
+   },
+   "5821233021244850631": {
+      "message": "Calitate înaltă, indiferent de starea rețelei."
+   },
+   "5827343664961087180": {
+      "message": "Abonați-vă"
+   },
+   "5832435837238304779": {
+      "message": "Redați $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5854234999824329890": {
+      "message": "Gestionați setările pentru familie"
+   },
+   "585739095777961817": {
+      "message": "de"
+   },
+   "5862309805277852777": {
+      "message": "Nume"
+   },
+   "5863523793538309428": {
+      "message": "Ștergerea muzicii dvs. este în curs de desfășurare. Așteptați câteva ore pentru ca toată muzica dvs. să fie ștearsă."
+   },
+   "5888141336325862688": {
+      "message": "Accesați Căutați posturi"
+   },
+   "5889126665299129466": {
+      "message": "Pentru a folosi miniplayerul, trebuie să vă conectați la Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Ascultați muzica de pe orice computer și de pe maximum zece dispozitive. Limita de dispozitive se aplică pentru încărcarea și descărcarea muzicii folosind aplicația Manager muzică sau Muzică Google Play pentru Chrome."
+   },
+   "5890243856676178044": {
+      "message": "Bengaleză"
+   },
+   "5891064527381218201": {
+      "message": "Gratuit"
+   },
+   "5914500973755757025": {
+      "message": "Laoțiană"
+   },
+   "5918806792833250096": {
+      "message": "Cuneiformă"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5930857699885919881": {
+      "message": "Fișier ALAC neacceptat"
+   },
+   "5946473117506990177": {
+      "message": "Oferiți un abonament la Muzică Google Play"
+   },
+   "5966249470835718484": {
+      "message": "Vedeți toate albumele cu $ARTIST_NAME$ din Melodiile mele",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "5969115558488445506": {
+      "message": "Subtitlu"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Unul dintre aceste cântece este deja în acest playlist.}few{Unele dintre aceste cântece sunt deja în acest playlist.}other{Unele dintre aceste cântece sunt deja în acest playlist.}}"
+   },
+   "5971001229987621398": {
+      "message": "Apariție recomandată"
+   },
+   "5973114702086214474": {
+      "message": "Vedeți toți artiștii similari"
+   },
+   "5983727894875163426": {
+      "message": "Omitere nereușită"
+   },
+   "5987565417212088924": {
+      "message": "Playlistul Recunoaștere de melodii"
+   },
+   "5990212441459592050": {
+      "message": "Setați ca public"
+   },
+   "599493319699637812": {
+      "message": "Redați cântecele aleatoriu"
+   },
+   "5999484363963634214": {
+      "message": "Mandaică"
+   },
+   "6028312506269896318": {
+      "message": "Confirmați dacă doriți să anulați autorizarea următorului dispozitiv utilizat pentru a reda muzică:"
+   },
+   "6031749391396582225": {
+      "message": "Element de completare hangul"
+   },
+   "60369026765465265": {
+      "message": "Actualizați postul"
+   },
+   "6037216776738907588": {
+      "message": "Accesați Genurile mele"
+   },
+   "6042091568356544470": {
+      "message": "Semnul aplicării funcției"
+   },
+   "6062704261604405084": {
+      "message": "Configurați Muzică Google Play pentru Chrome ca să vă adăugați colecția de muzică. Astfel, vă puteți bucura de muzică pe telefon, pe tabletă sau pe computer."
+   },
+   "6062911693359625717": {
+      "message": "Rata de biți: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Încercați acum"
+   },
+   "6075813266646535052": {
+      "message": "Conectați-vă cu Google"
+   },
+   "607779708716020188": {
+      "message": "..."
+   },
+   "6080972150136904755": {
+      "message": "Acest playlist este gol"
+   },
+   "6082171864197428613": {
+      "message": "Instalați"
+   },
+   "609463966491943885": {
+      "message": "Selectați dosarele"
+   },
+   "6096654177023939223": {
+      "message": "Bună ziua! Conectați-vă la contul Google."
+   },
+   "6097429778714195840": {
+      "message": "Accesați Noi lansări"
+   },
+   "6104044107385556653": {
+      "message": "Codurile de cupon sunt sensibile la litere mari și mici"
+   },
+   "610635793308893528": {
+      "message": "Încorporare dreapta-spre-stânga"
+   },
+   "611472617351658381": {
+      "message": "Postul nu a putut fi adăugat. Încercați din nou."
+   },
+   "6115840172404094036": {
+      "message": "Accesați melodia următoare"
+   },
+   "6125785068086103357": {
+      "message": "Nu s-a putut elimina cântecul. Încercați din nou."
+   },
+   "6134905866550808378": {
+      "message": "Toate cântecele mele – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Vedeți detalii despre episod"
+   },
+   "6182267200530067545": {
+      "message": "Configurați abonamentul recurent acum pentru ca muzica să nu se oprească."
+   },
+   "6202991870072245705": {
+      "message": "Dezabonați-vă"
+   },
+   "6205568685279927986": {
+      "message": "Rejang"
+   },
+   "6211690508928257569": {
+      "message": "Siriacă"
+   },
+   "6214362172197372800": {
+      "message": "Înainte de a continua, asigurați-vă că ați descărcat pe computer copii ale tuturor achizițiilor Google Play."
+   },
+   "6227307047241266902": {
+      "message": "meniul Mai multe opțiuni"
+   },
+   "6233107584508657559": {
+      "message": "Nu s-a putut realiza conexiunea la Google"
+   },
+   "6233799104785293347": {
+      "message": "Faceți upgrade"
+   },
+   "6238576599909606924": {
+      "message": "adresă URL nevalidă"
+   },
+   "6242354668932209396": {
+      "message": "Se repetă toate cântecele. Dați clic pentru a schimba starea modului Repetare."
+   },
+   "624368563085644372": {
+      "message": "Semnul înmulțirii invizibil"
+   },
+   "624560585652958729": {
+      "message": "Anulați autorizarea"
+   },
+   "6254019915482435769": {
+      "message": "Discuri"
+   },
+   "6263911096488435737": {
+      "message": "Actualizați mixajul"
+   },
+   "6264257099423315684": {
+      "message": "La ce adresă de e-mail trebuie să trimită acest link?"
+   },
+   "6266962164598137510": {
+      "message": "Nu îmi place"
+   },
+   "6295780096198935300": {
+      "message": "Vedeți toate rezultatele de căutare cu cântece"
+   },
+   "630414199054820482": {
+      "message": "Spațiu de punctuație"
+   },
+   "6321629750851370838": {
+      "message": "Redare"
+   },
+   "6334800505555910746": {
+      "message": "Oferit de $XXX_1$ sub licență $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Eroare la încărcare!"
+   },
+   "6342787164312491730": {
+      "message": "Meteo, peisaje și semne zodiacale"
+   },
+   "6348993545995904615": {
+      "message": "Redați aleatoriu"
+   },
+   "6352462755178724841": {
+      "message": "Eliminați formatarea"
+   },
+   "6354300278943883017": {
+      "message": "Playlisturile au fost mutate!"
+   },
+   "6360340926892934518": {
+      "message": "Adăugați un dosar"
+   },
+   "6360662632410865665": {
+      "message": "Acces la cerere, fără anunțuri, la 35 de milioane de cântece. Descărcați orice pentru a asculta și când nu v-ați conectat. Adăugați 50.000 de cântece și ascultați oriunde."
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Nu există cântece care să mai aibă o singură descărcare.}=1{„{XXX_1}” mai are o singură descărcare.}=2{„{XXX_1}” și „{XXX_2}” mai au o singură descărcare.}=3{„{XXX_1}”, „{XXX_2}” și „{XXX_3}” mai au o singură descărcare.}=4{„{XXX_1}”, „{XXX_2}”, „{XXX_3}” și încă un cântec selectat mai au o singură descărcare.}few{„{XXX_1}”, „{XXX_2}”, „{XXX_3}” și încă {XXX_4} cântece selectate mai au o singură descărcare.}other{„{XXX_1}”, „{XXX_2}”, „{XXX_3}” și încă {XXX_4} de cântece selectate mai au o singură descărcare.}}"
+   },
+   "6390744057286457578": {
+      "message": "Aliniați la centru"
+   },
+   "6392918669949841614": {
+      "message": "Data adăugării"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Culoarea textului"
+   },
+   "6401620758535187625": {
+      "message": "Actualizați informațiile de plată"
+   },
+   "6410017727692959093": {
+      "message": "Locație"
+   },
+   "6419550114275715130": {
+      "message": "Încă se redă muzică."
+   },
+   "6425912931786223127": {
+      "message": "a.m."
+   },
+   "6426880811380367028": {
+      "message": "Întrerupeți $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6427041476637425542": {
+      "message": "Indice"
+   },
+   "6439365426343089851": {
+      "message": "General"
+   },
+   "6447846965513034625": {
+      "message": "Obiecte"
+   },
+   "6448771309160517960": {
+      "message": "Începeți gratuit"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Ascultați playlisturi create de pasionații noștri de muzică$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "Birmaneză"
+   },
+   "6455589326534311330": {
+      "message": "Această limită nu se aplică când descărcați întreaga bibliotecă pe computer folosind $START_SPAN$Manager muzică$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Explicit: include conținut care ar putea fi neadecvat pentru copii"
+   },
+   "6479183350424120199": {
+      "message": "Vedeți toate videoclipurile"
+   },
+   "6482036697464831271": {
+      "message": "Pentru a vă încărca muzica rapid, Google Play efectuează corespondența dintre fișierele dvs. muzicale și copiile existente pe serverul nostru. Uneori, este posibil să realizăm corespondența cu un cântec greșit. Semnalați problema aici, iar cântecele vor fi corectate, pentru a se utiliza copiile dvs., și nu copiile care s-au potrivit."
+   },
+   "6482815137654580311": {
+      "message": "Editați informațiile"
+   },
+   "6484073284972331008": {
+      "message": "Numărul redărilor nu a fost actualizat"
+   },
+   "6485379744416240146": {
+      "message": "Îmi place"
+   },
+   "6488707262592852720": {
+      "message": "2. În fereastra programului de instalare, trageți pictograma aplicației Manager de muzică peste pictograma dosarului Aplicații."
+   },
+   "6502885021177224543": {
+      "message": "Muzică Google Play: alegeți dosarul de descărcare"
+   },
+   "6504449653938065974": {
+      "message": "Playlist recomandat"
+   },
+   "6510962485068569110": {
+      "message": "Anulați"
+   },
+   "6513265996872955028": {
+      "message": "Adăugați în bibliotecă"
+   },
+   "6523257069333866790": {
+      "message": "Biblioteca muzicală"
+   },
+   "6531109671848395983": {
+      "message": "Pentru a adăuga muzică, instalați Muzică Google Play pentru Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Obțineți mai multe"
+   },
+   "653219508056341533": {
+      "message": "Oameni și emoții"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6555053572817998410": {
+      "message": "Întrerupeți"
+   },
+   "6562996658473327600": {
+      "message": "Se redă de pe:"
+   },
+   "6568036879894576496": {
+      "message": "Muzica din următoarele dosare va fi adăugată în Muzică Google Play"
+   },
+   "6568649140210842427": {
+      "message": "Anulați"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Fiecare cântec poate să fie descărcat o dată de pe web.}few{ Fiecare cântec poate să fie descărcat de {DOWNLOAD_COUNT_MAX_2} ori de pe web.}other{ Fiecare cântec poate să fie descărcat de {DOWNLOAD_COUNT_MAX_2} de ori de pe web.}}"
+   },
+   "6591282200798732887": {
+      "message": "Interlinie en"
+   },
+   "65984904390749158": {
+      "message": "Finalizați"
+   },
+   "66116513409922755": {
+      "message": "Nu"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6634231960955145278": {
+      "message": "Cântec"
+   },
+   "6638274938129779637": {
+      "message": "Anulați „Îmi place”"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{Un cântec eliminat}few{# cântece eliminate}other{# de cântece eliminate}}"
+   },
+   "6650633628037596693": {
+      "message": "Încercați din nou"
+   },
+   "6650888720096194474": {
+      "message": "Pentru a folosi miniplayerul, trebuie să configurați Muzică Google Play pentru $START_SPAN$$EMAIL$$END_SPAN$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normală"
+   },
+   "6652787256443519035": {
+      "message": "Neetichetate"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{ Un cântec a fost adăugat în Google Play.}few{ {NUM_ADDED_2} cântece au fost adăugate în Google Play.}other{ {NUM_ADDED_2} de cântece au fost adăugate în Google Play.}}"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Bucurați-vă de muzica preferată pe $START_SPAN_1$Android$END_SPAN$, pe $START_SPAN_2$iOS$END_SPAN$ și pe web",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Reduceți indentarea"
+   },
+   "6689623864271696040": {
+      "message": "Cratimă slabă"
+   },
+   "6703444928647322448": {
+      "message": "Nume"
+   },
+   "6704452266937792847": {
+      "message": "Adăugați în bibliotecă"
+   },
+   "6706494172112196654": {
+      "message": "Faceți upgrade la planul de familie, pentru cel mult 6 membri ai familiei"
+   },
+   "6711475260919070872": {
+      "message": "Persană veche"
+   },
+   "6716575470159796252": {
+      "message": "Sistem de operare Chrome"
+   },
+   "6718773735728815040": {
+      "message": "Recomandat"
+   },
+   "6719382961812623394": {
+      "message": "A apărut o problemă la configurare"
+   },
+   "6722174221321515493": {
+      "message": "Separator cu lățime zero"
+   },
+   "6724866564770579816": {
+      "message": "Moduri de redare"
+   },
+   "6732797853205065184": {
+      "message": "Ignorați"
+   },
+   "6742017901699269182": {
+      "message": "Accesați Albumele mele"
+   },
+   "6747414430222084644": {
+      "message": "Durata cântecului: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6750258767236131097": {
+      "message": "Alfabete din Orientul Mijlociu"
+   },
+   "6768967544887679189": {
+      "message": "Liniuță vălurită"
+   },
+   "6774444826375904566": {
+      "message": "Ați adăugat cântecul „{TRACK_TITLE}” în biblioteca dvs."
+   },
+   "6790172339432877080": {
+      "message": "Acest semn în formă de L este o marcă comercială înregistrată care indică faptul că acest conținut este oferit de casele de discuri și de companiile care produc videoclipurile."
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6820635381009519748": {
+      "message": "Eliminați din coadă"
+   },
+   "6821274223204126521": {
+      "message": "Simboluri muzicale"
+   },
+   "6830152735949448199": {
+      "message": "Labs pentru Muzică Google Play reprezintă terenul de testare a unor funcții experimentale, care nu sunt încă pregătite pentru apariția în prime-time. Acestea pot oricând să se schimbe, să nu mai funcționeze sau să dispară. Utilizare plăcută!"
+   },
+   "6839273670547667172": {
+      "message": "Diferiți"
+   },
+   "6840919594921167668": {
+      "message": "Pentru a vedea cântecele descărcate, consultați dosarul Descărcări de pe computer."
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. La deschiderea programului de instalare, urmați instrucțiunile de configurare pentru aplicația Manager de muzică."
+   },
+   "686324708947275216": {
+      "message": "Postul nu a putut fi eliminat. Încercați din nou."
+   },
+   "6887831882226099905": {
+      "message": "Sigur doriți să anulați autorizarea următorului dispozitiv utilizat pentru a adăuga muzică:"
+   },
+   "689233687170647171": {
+      "message": "Dați clic pe pictograma playlistului de mai sus sau trageți un cântec spre dreapta pentru a-l adăuga într-un playlist."
+   },
+   "6898179631823558149": {
+      "message": "Eroare la conversia fișierului într-un format utilizabil"
+   },
+   "6930531446322391145": {
+      "message": "Imagine"
+   },
+   "6932671848756303275": {
+      "message": "Redusă"
+   },
+   "6940170973585783277": {
+      "message": "Faceți upgrade la planul de familie"
+   },
+   "6941609127174167431": {
+      "message": "Derulați înapoi 10 secunde"
+   },
+   "6943941659433003765": {
+      "message": "Porniți mixajul instant"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "6962699013778688473": {
+      "message": "Continuați"
+   },
+   "6990699195498598876": {
+      "message": "Pentru a începe, descărcați aplicația Manager de muzică de mai jos. Manager de muzică este o aplicație simplă pentru adăugarea fișierelor muzicale de pe computer pe Google Play."
+   },
+   "699971906528455934": {
+      "message": "Artist necunoscut"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7002955679222677443": {
+      "message": "Aflați mai multe"
+   },
+   "7009828133009731416": {
+      "message": "Gratuit de la Google"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7019115336138470191": {
+      "message": "Abonat"
+   },
+   "7020161279392960480": {
+      "message": "Format"
+   },
+   "7022070615528435141": {
+      "message": "Ștergeți"
+   },
+   "7034479228356652023": {
+      "message": "Radicali Han dintr-o linie"
+   },
+   "7035822615949880851": {
+      "message": "Muzica dvs. este temporar indisponibilă de pe acest dispozitiv. Încercați din nou mai târziu. Eroare 442."
+   },
+   "7043080825985118397": {
+      "message": "Anulați ștergerea"
+   },
+   "7049182394855721704": {
+      "message": "Gotică"
+   },
+   "7054091192371222228": {
+      "message": " din "
+   },
+   "7062695654404914711": {
+      "message": "Mixaje instant"
+   },
+   "7067908984080925888": {
+      "message": "Aflați mai multe"
+   },
+   "7071666053441099517": {
+      "message": "1. Deschideți fișierul MusicManager.dmg din partea stângă jos a ferestrei de browser."
+   },
+   "7080245643233785574": {
+      "message": "Aplicația Muzică Google Play pentru Chrome a întâmpinat o problemă și trebuie să vă conectați din nou."
+   },
+   "7090368974279082159": {
+      "message": "Hopa!"
+   },
+   "709740537382334098": {
+      "message": "Ștergeți întreaga bibliotecă, inclusiv muzica achiziționată ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Element de completare choseong hangul"
+   },
+   "7100567566985297322": {
+      "message": "Spațiu em"
+   },
+   "7102126384411654213": {
+      "message": "Cântecul nu s-a putut adăuga la colecție. Încercați din nou."
+   },
+   "7104210472412766015": {
+      "message": "Separator adnotare interlineară"
+   },
+   "7105416082849293719": {
+      "message": "Activitate recentă"
+   },
+   "7111181959300196580": {
+      "message": "Creșteți indentarea"
+   },
+   "7116872031464114568": {
+      "message": "Identificat în Recunoaștere de melodii"
+   },
+   "7127937208951634191": {
+      "message": "Simbol"
+   },
+   "7136816542440442290": {
+      "message": "A apărut o problemă la încărcarea postului de radio."
+   },
+   "7144198039114608569": {
+      "message": "Playlist automat"
+   },
+   "716550293954822096": {
+      "message": "Singhaleză"
+   },
+   "7182974689040833178": {
+      "message": "Reluați"
+   },
+   "7192513315706728552": {
+      "message": "Eroare de server. Încercați din nou mai târziu."
+   },
+   "7194376132387780145": {
+      "message": "Acest computer nu poate fi autorizat, deoarece aveți deja zece dispozitive."
+   },
+   "7200522943394315316": {
+      "message": ".rpm pe 32 de biți (pentru Fedora/openSUSE)"
+   },
+   "7202681158267340446": {
+      "message": "Font"
+   },
+   "720381800527728702": {
+      "message": "Sport, festivități și activități"
+   },
+   "7212676589977202933": {
+      "message": "S-au adăugat $NUM_TRANSFERRED_TRACKS$ (de) cântece",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Playlistul nu s-a putut deschide. Încercați din nou."
+   },
+   "7228343081607279547": {
+      "message": "Sundaneză"
+   },
+   "7229202390260081051": {
+      "message": "Foarte mare"
+   },
+   "7249560357803023328": {
+      "message": "Descărcați biblioteca"
+   },
+   "7262284142845767114": {
+      "message": "Îmi place"
+   },
+   "7277602889799602415": {
+      "message": "Ștergeți Muzica mea"
+   },
+   "7281847881697831326": {
+      "message": "Eroare la anularea acțiunii de ștergere."
+   },
+   "7282565673166392948": {
+      "message": "Descriere ideografică"
+   },
+   "7283215568776397157": {
+      "message": "Cântece încărcate:"
+   },
+   "7287006426755387074": {
+      "message": "Măriți volumul playerului"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minute}=1{Un minut}few{# minute}other{# de minute}}"
+   },
+   "7292902857194439444": {
+      "message": "Dispozitiv"
+   },
+   "7293921570163366209": {
+      "message": "Ascultați cântece similare cu cele ale artistului $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7293925053370285812": {
+      "message": "Se repetă cântecul actual. Dați clic pentru a schimba starea modului Repetare."
+   },
+   "730022297859142476": {
+      "message": "Mixaj instant"
+   },
+   "7305504256207181669": {
+      "message": "Listă cu marcatori"
+   },
+   "7306812086707840437": {
+      "message": "Abonați-vă la Muzică Google Play și ascultați acest post de radio și milioane de alte cântece. Prima lună este gratuită."
+   },
+   "731429515932674572": {
+      "message": "Dezactivați sunetul"
+   },
+   "7320133162875658022": {
+      "message": "Încărcați cântece noi ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7322373231564004139": {
+      "message": "Găsiți"
+   },
+   "7331328794127852355": {
+      "message": "Emoji"
+   },
+   "7335080673788704461": {
+      "message": "Transport, hărți și panouri informative"
+   },
+   "7354536653016090160": {
+      "message": "Topuri"
+   },
+   "7354691783317064273": {
+      "message": "Aplicația Chrome se conectează."
+   },
+   "7376787658603979700": {
+      "message": "Cumpărați milioane de cântece, inclusiv sute de melodii gratuite."
+   },
+   "7396303606473621591": {
+      "message": "Toate"
+   },
+   "7410432243549869948": {
+      "message": "Durată"
+   },
+   "7411932913365107274": {
+      "message": "Puteți anula autorizarea pentru patru dispozitive pe an."
+   },
+   "741454111929523251": {
+      "message": "Vă refereați la: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Selectați dosare..."
+   },
+   "7422152161839392092": {
+      "message": "Oferiți cadou un abonament la Muzică Google Play"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{peste # zile}=1{peste # zi}few{peste # zile}other{peste # de zile}}"
+   },
+   "7437730399353044671": {
+      "message": "Abonați-vă pentru toată muzica, la cerere și offline, fără niciun anunț"
+   },
+   "7437894509168051348": {
+      "message": "Radicali Han din 7 linii"
+   },
+   "744665031629199878": {
+      "message": "Vedeți toți artiștii similari cu $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7449358949677606364": {
+      "message": "35 de milioane de cântece, la cerere"
+   },
+   "7467710920158412786": {
+      "message": "Un playlist privat, numai pentru dvs."
+   },
+   "747583939629659293": {
+      "message": "Adăugați o culoare"
+   },
+   "7475857386379593056": {
+      "message": "Redați $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7480960100390206139": {
+      "message": "Diverse"
+   },
+   "7502695447103329189": {
+      "message": "Shift &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Copiați și inserați acest link pentru a trimite $START_SPAN$$TITLE$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Selectați artiștii care vă plac"
+   },
+   "7529798479468856973": {
+      "message": "acum $NUM$ (de) ore",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7535122927261158198": {
+      "message": "Adăugate recent"
+   },
+   "7536172317066333802": {
+      "message": "Inserați imaginea"
+   },
+   "7546873952682838388": {
+      "message": "Muzică de pe acest computer"
+   },
+   "7559266156388225108": {
+      "message": "Semn numeric kaithi"
+   },
+   "756024699361489239": {
+      "message": "Redați aleatoriu"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Separator vocale mongol"
+   },
+   "7572946295452220765": {
+      "message": "Instrucțiuni de instalare"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{Nicio redare}=1{O redare}few{{COUNT_2} redări}other{{COUNT_2} de redări}}"
+   },
+   "7592349062857393820": {
+      "message": "g, apoi t"
+   },
+   "7596816553523902619": {
+      "message": "Astăzi"
+   },
+   "7598340248282243111": {
+      "message": "Vedeți toată activitatea recentă"
+   },
+   "7599424290971072767": {
+      "message": "Gen"
+   },
+   "7601688284754148415": {
+      "message": "Matematice"
+   },
+   "7604883230326131491": {
+      "message": "Playlist $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Descărcarea ar trebui să înceapă în scurt timp. În caz contrar, $START_LINK$dați clic aici$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7610552438938511934": {
+      "message": "Ați adăugat postul „{STATION_TITLE}” în biblioteca dvs."
+   },
+   "7617664217221228040": {
+      "message": "Balineză"
+   },
+   "7619560701830330401": {
+      "message": "Se încarcă"
+   },
+   "762389150316771008": {
+      "message": "Radio Mă simt norocos"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Nu ați selectat niciun cântec de descărcat pe computer.}=1{Numărul maxim de descărcări pentru cântecul selectat a fost atins.}few{Numărul maxim de descărcări pentru cântecele selectate a fost atins.}other{Numărul maxim de descărcări pentru cântecele selectate a fost atins.}}"
+   },
+   "7631480327394084350": {
+      "message": "Imagini de comandă"
+   },
+   "7638759029296490900": {
+      "message": "Deschideți panoul cu playlisturi pentru a afișa playlisturile."
+   },
+   "763998168115480566": {
+      "message": "Nu mai aveți omiteri. Obțineți acces la milioane de cântece, la cerere și offline."
+   },
+   "7664246845088850317": {
+      "message": "Conexiunea la server nu s-a realizat. Cod de eroare: "
+   },
+   "7669291472367464463": {
+      "message": "Introduceți adresa dvs. de e-mail @google.com"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7704516203792990151": {
+      "message": "Timpul scurs"
+   },
+   "7708364972132250264": {
+      "message": "Couldn't clear cached songs, please try again later."
+   },
+   "7709119284546787990": {
+      "message": "De la dreapta la stânga"
+   },
+   "7711713319832787051": {
+      "message": "Împerecheate"
+   },
+   "7730109880037106848": {
+      "message": "Simboluri"
+   },
+   "7736581252844206600": {
+      "message": "Greacă"
+   },
+   "7737642252665507180": {
+      "message": "Hexazecimal"
+   },
+   "7743528314734813641": {
+      "message": "A apărut o problemă la încărcarea mixajului instant."
+   },
+   "7756401573104983978": {
+      "message": "Aplicație de computer"
+   },
+   "7760426006262447033": {
+      "message": "Nu există suficient spațiu în coadă"
+   },
+   "776736242214904151": {
+      "message": "Redați din nou același cântec și milioane de alte cântece, oricând"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{Niciun cântec}=1{Un cântec}few{# cântece}other{# de cântece}}"
+   },
+   "7774266771623079214": {
+      "message": "Muzică Play"
+   },
+   "7776111286341041808": {
+      "message": "De la stânga la dreapta"
+   },
+   "7783345534551124847": {
+      "message": "Melodii"
+   },
+   "779262212811541732": {
+      "message": "Arabă sudică veche"
+   },
+   "7800122803571674150": {
+      "message": "Bun venit la Muzică Google Play"
+   },
+   "7801884781403562273": {
+      "message": "Valorificați"
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7819314041543176992": {
+      "message": "Închideți"
+   },
+   "7832954852370077811": {
+      "message": "Redați muzică sau dați clic pe pictograma $MENU_ICON$ a unui album, cântec sau playlist pentru a-l adăuga la coadă",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Se anulează adăugarea muzicii"
+   },
+   "7846689234809169417": {
+      "message": "Animale, plante și alimente"
+   },
+   "7848021326942321162": {
+      "message": "Ați eliminat postul „{STATION_TITLE}” din biblioteca dvs."
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 ore}=1{O oră}few{# ore}other{# de ore}}"
+   },
+   "7878031641910175480": {
+      "message": "Caractere selectate recent:"
+   },
+   "7886189590148092330": {
+      "message": "Loc: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7888286842234266048": {
+      "message": "Închise/Cu puncte"
+   },
+   "7898792314887900865": {
+      "message": "Cipriotă"
+   },
+   "7927039504440585569": {
+      "message": "Latine"
+   },
+   "7931527771588976000": {
+      "message": "Fonetice (IPA)"
+   },
+   "7933642402079881815": {
+      "message": "The explicit content filtering settings for this account have changed. Please reload for the changes to take effect."
+   },
+   "7941094066137301803": {
+      "message": "Treceți la Google+ pentru a începe să postați pentru prieteni."
+   },
+   "7943877664425892318": {
+      "message": "Deschideți panoul playlistului"
+   },
+   "7947294997516635657": {
+      "message": "Totul este actualizat"
+   },
+   "7954850519963017242": {
+      "message": "acum $NUM$ zi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Semnul arab sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{Niciun dosar}=1{Un dosar}few{# dosare}other{# de dosare}}"
+   },
+   "7980428538910137664": {
+      "message": "Gratuite și achiziționate"
+   },
+   "7984622936663451936": {
+      "message": "Tastatură și interfață"
+   },
+   "7985393396166342590": {
+      "message": "Se reia adăugarea muzicii"
+   },
+   "7988520144814845441": {
+      "message": "Conectați-vă pentru a continua"
+   },
+   "7996265599642887416": {
+      "message": "Eliminați din bibliotecă"
+   },
+   "8001758142015238809": {
+      "message": "Eroare temporară. Se va reîncerca încărcarea."
+   },
+   "8019982600883750632": {
+      "message": "Aliniați stânga-dreapta"
+   },
+   "8020892463961333112": {
+      "message": "Simbol muzical final legătură de expresie"
+   },
+   "8024675506077392847": {
+      "message": "Cântecul următor nu s-a putut încărca."
+   },
+   "8030037581414873660": {
+      "message": "Radicali Han din 2 linii"
+   },
+   "803032414305825807": {
+      "message": "Dimensiunea fontului"
+   },
+   "803376120920513357": {
+      "message": "acum $NUM$ (de) zile",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Nu v-ați abonat la playlist. Încercați din nou."
+   },
+   "8045052194324740729": {
+      "message": "Cântecele din coșul de gunoi nu se pot reda."
+   },
+   "8058956869215275454": {
+      "message": "Postați pe Facebook"
+   },
+   "8066747296553908214": {
+      "message": "Cratimă oblică dublă"
+   },
+   "8110367050267853536": {
+      "message": "Mai multe opțiuni"
+   },
+   "8110717721846730575": {
+      "message": "Activați sunetul"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Nu există cântece care să fi depășit limita de descărcări.}=1{„{XXX_1}” a fost deja descărcat de {DOWNLOAD_COUNT_MAX} (de) ori și nu va mai fi descărcat.}=2{„{XXX_1}” și „{XXX_2}” au fost deja descărcate de {DOWNLOAD_COUNT_MAX} (de) ori și nu vor mai fi descărcate.}=3{„{XXX_1}”, „{XXX_2}” și „{XXX_3}” au fost deja descărcate de {DOWNLOAD_COUNT_MAX} (de) ori și nu vor mai fi descărcate.}=4{„{XXX_1}”, „{XXX_2}”, „{XXX_3}” și încă un cântec selectat au fost deja descărcate de {DOWNLOAD_COUNT_MAX} (de) ori și nu vor mai fi descărcate.}few{„{XXX_1}”, „{XXX_2}”, „{XXX_3}” și încă {XXX_4} cântece selectate au fost deja descărcate de {DOWNLOAD_COUNT_MAX} (de) ori și nu vor mai fi descărcate.}other{„{XXX_1}”, „{XXX_2}”, „{XXX_3}” și încă {XXX_4} de cântece selectate au fost deja descărcate de {DOWNLOAD_COUNT_MAX} (de) ori și nu vor fi descărcate.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Trimite-mi știri și oferte actualizate de la Muzică Google Play"
+   },
+   "8144474297019493415": {
+      "message": "Adăugate recent"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} zi}few{{TEXT} zile}other{{TEXT} de zile}}"
+   },
+   "8159976291123989327": {
+      "message": "Editați linkul"
+   },
+   "8164274980045228173": {
+      "message": "Formatare direcțională POP"
+   },
+   "8164897103619368290": {
+      "message": "Listă numerotată"
+   },
+   "8174689178967388837": {
+      "message": "Nr. melodie"
+   },
+   "8191208612330635266": {
+      "message": "Tibetană"
+   },
+   "8192298658946835992": {
+      "message": "Spațiu de unire cu lățime zero"
+   },
+   "8193509313274135818": {
+      "message": "Semnul arab notă de subsol"
+   },
+   "819996403327805209": {
+      "message": "Aflați mai multe"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ De asemenea, puteți să {START_SPAN_1}descărcați direct{END_SPAN}, dar numai {START_SPAN_2}o dată pentru fiecare cântec{END_SPAN}.}few{ De asemenea, puteți să {START_SPAN_1}descărcați direct{END_SPAN}, dar numai de {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} ori pentru fiecare cântec{END_SPAN}.}other{ De asemenea, puteți să {START_SPAN_1}descărcați direct{END_SPAN}, dar numai de {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} de ori pentru fiecare cântec{END_SPAN}.}}"
+   },
+   "8206726262986846319": {
+      "message": "Adăugați o descriere..."
+   },
+   "8216772648076666728": {
+      "message": "Permiteți cântecele cu conținut explicit."
+   },
+   "8221494968176924260": {
+      "message": "Playlistul meu"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Un cântec nu poate fi adăugat}few{ {NUM_FAILURES_2} cântece nu pot fi adăugate}other{ {NUM_FAILURES_2} de cântece nu pot fi adăugate}}"
+   },
+   "823405029831570152": {
+      "message": "Etiopiană"
+   },
+   "8235345176344531979": {
+      "message": "g, apoi a"
+   },
+   "8239380670132570074": {
+      "message": "Fișierul temporar nu poate fi deschis"
+   },
+   "8249329268828083858": {
+      "message": "Cratimă dublă katakana-hiragana"
+   },
+   "8257187280628059022": {
+      "message": "Muzica s-a întrerupt aici, deoarece se pare că ascultați pe alt dispozitiv. $START_LINK$Aflați mai multe$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8265500184685762525": {
+      "message": "Bilete"
+   },
+   "8275689791574630480": {
+      "message": "Marcaj spațiu ogham"
+   },
+   "8277279706638733641": {
+      "message": "Stele/asteriscuri"
+   },
+   "828700836558117968": {
+      "message": "Muzică Google Play"
+   },
+   "8300572760144032022": {
+      "message": "Creați un post de radio nou pornind de la cântecul selectat"
+   },
+   "8302804816588048941": {
+      "message": "Astfel se vor șterge și playlisturile, mixajele instant, evaluările și informațiile despre numărul de redări."
+   },
+   "8325100368677049569": {
+      "message": "Explorați muzică nouă"
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Adăugați cântecul dublură?}few{Adăugați cântecele dublură?}other{Adăugați cântecele dublură?}}"
+   },
+   "8338465287076872825": {
+      "message": "Nu se poate citi muzica din fișier"
+   },
+   "8358697777226306085": {
+      "message": "Hieroglife egiptene"
+   },
+   "8363930857329550333": {
+      "message": "Georgiană"
+   },
+   "838509699315651621": {
+      "message": "Acest cântec există deja în playlist"
+   },
+   "8385464685117997940": {
+      "message": "Redat recent"
+   },
+   "8386555666648700714": {
+      "message": "Top cântece"
+   },
+   "8395180429531273524": {
+      "message": "De ce nu este eligibil dispozitivul meu?"
+   },
+   "8396767881870375563": {
+      "message": "Vedeți toate rezultatele de căutare cu activități"
+   },
+   "8405156617531647050": {
+      "message": "Se pare că ați încercat deja Muzică Google Play."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Conectați-vă"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "8421838551605999158": {
+      "message": "1. Salvați fișierul musicmanagerinstaller.exe"
+   },
+   "8424326418312855409": {
+      "message": "A apărut o problemă la configurarea aplicației Muzică Google Play."
+   },
+   "842631328362018283": {
+      "message": "Mare"
+   },
+   "8437015452970026040": {
+      "message": "S-a atins limita pentru colecție. Eliminați cântece dacă doriți să mai adăugați."
+   },
+   "8439955599488894226": {
+      "message": "Politica de confidențialitate"
+   },
+   "8440128775129354214": {
+      "message": "Confidențialitate"
+   },
+   "8454237498473122184": {
+      "message": "Cratimă minus"
+   },
+   "8455196866871985315": {
+      "message": "Vedeți toate albumele populare"
+   },
+   "8455204924704616723": {
+      "message": "Fișier"
+   },
+   "8458476427655018512": {
+      "message": "Spațiu"
+   },
+   "8477224362193738096": {
+      "message": "Artist: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8482517151370142670": {
+      "message": "Altele"
+   },
+   "848933194605193751": {
+      "message": "Vizionat recent pe YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Cariană"
+   },
+   "851623407011365974": {
+      "message": "Muzica dvs. va fi reluată în curând"
+   },
+   "8524322739067915993": {
+      "message": "p.m."
+   },
+   "8527029831666633156": {
+      "message": "Conectați-vă pentru a asculta în continuare gratuit"
+   },
+   "8534560073330554352": {
+      "message": "Număr redări"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8564202903947049539": {
+      "message": "Redați"
+   },
+   "8574053857298592408": {
+      "message": "Deschideți panoul de navigare."
+   },
+   "858254219718239996": {
+      "message": "Drepturi de autor &copy; $COPYRIGHT_LIST_JOINED$",
+      "placeholders": {
+         "COPYRIGHT_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Obțineți ajutor privind eliminarea Managerului de muzică$END_LINK$ de pe computerul dvs.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Pentru a vă putea încărca muzica rapid, Google Play efectuează corespondența dintre fișierele dvs. muzicale și copiile existente pe serverul nostru. Uneori, este posibil să realizăm corespondența cu un cântec greșit. Semnalați problema aici, iar cântecele vor fi încărcate din nou."
+   },
+   "8608281335099046628": {
+      "message": "Se procesează muzica..."
+   },
+   "8619410898472620495": {
+      "message": "Pentru a relua redarea, accesați Muzică Google Play pe web."
+   },
+   "862440714280873951": {
+      "message": "Include podcasturi"
+   },
+   "8624490471677691415": {
+      "message": "Vedeți muzica după"
+   },
+   "8624618794349836904": {
+      "message": "Eliminați istoricul folosit pentru a primi recomandări personalizate și a personaliza radioul. Evaluările și numărul redărilor pentru cântecele individuale nu vor fi eliminate."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{peste # minute}=1{peste # minut}few{peste # minute}other{peste # de minute}}"
+   },
+   "8628766851955432422": {
+      "message": "Eliminați"
+   },
+   "8637643428005590282": {
+      "message": "Semne"
+   },
+   "8639048757911329468": {
+      "message": "Versiune NaCl: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Nu puteți căuta în timp ce se redă radioul"
+   },
+   "865328592283008990": {
+      "message": "Adăugați până la 50.000 de cântece din colecția dvs. la Google Play, gratuit."
+   },
+   "8674371043496677979": {
+      "message": "Din albumul: $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Reîncercați"
+   },
+   "8692453200617588996": {
+      "message": "Selectați genurile care vă plac"
+   },
+   "8700121026680200191": {
+      "message": "Goliți"
+   },
+   "8733921970136713647": {
+      "message": "Anulați abonamentul"
+   },
+   "8741366833297918126": {
+      "message": "Durata cântecului"
+   },
+   "8763647985340267403": {
+      "message": "Piese de joc"
+   },
+   "8764339661945610128": {
+      "message": "Vedeți mai mulți artiști"
+   },
+   "8768143964455071187": {
+      "message": "Ogam"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{acum # ore}=1{acum # oră}few{acum # ore}other{acum # de ore}}"
+   },
+   "8783871424196328846": {
+      "message": "128 kbps, adaptivă."
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Labs"
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8801801881586334412": {
+      "message": "Top albume"
+   },
+   "880592275679936810": {
+      "message": "Adăugate: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Astăzi"
+   },
+   "8819361322041128714": {
+      "message": "Ugaritică"
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{Niciun playlist}=1{Un playlist}few{# playlisturi}other{# de playlisturi}}"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Fiți precaut(ă).$POSTB$ Nu uitați că dacă introduceți o adresă de e-mail într-o pagină web, cei care trimit spam o pot găsi.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$ este selectat. Dați clic pentru a deselecta.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Semn numeric arab"
+   },
+   "8858058202463451164": {
+      "message": "Aliniați la stânga"
+   },
+   "8868784738343119594": {
+      "message": "acum $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Mai multe cântece"
+   },
+   "8871219022895015530": {
+      "message": "Adaugă la coadă cântecele selectate"
+   },
+   "8890553633144307762": {
+      "message": "Înapoi"
+   },
+   "8892247938951013000": {
+      "message": "Nu s-a putut adăuga la playlist. Încercați din nou."
+   },
+   "8892908795692466458": {
+      "message": "Trimiteți"
+   },
+   "8896073810838561095": {
+      "message": "Radicali Han din 8 linii"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8910998670732377227": {
+      "message": "Încercați din nou"
+   },
+   "8920100935192456970": {
+      "message": "Vedeți toate rezultatele de căutare cu genuri"
+   },
+   "8928816882866356838": {
+      "message": "Public"
+   },
+   "8931700495296520714": {
+      "message": "Închideți miniplayerul"
+   },
+   "8934299821763129489": {
+      "message": "Italică veche"
+   },
+   "8936704404804793618": {
+      "message": "Videoclipuri"
+   },
+   "8953033926734869941": {
+      "message": "Nume"
+   },
+   "8958381934236197373": {
+      "message": "Spațiu cu lățime de un caracter"
+   },
+   "8961985815150856927": {
+      "message": "Creat recent"
+   },
+   "8967493310012272750": {
+      "message": "Radio $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969179774064404960": {
+      "message": "Volum"
+   },
+   "8969573585280830171": {
+      "message": "Redați muzică pentru..."
+   },
+   "8971282019539581965": {
+      "message": "Închideți caseta de dialog Despre"
+   },
+   "8979933913103486540": {
+      "message": "Linie/Conector"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ S-a descărcat un cântec}few{ S-au descărcat {NUM_TRANSFERRED_TRACKS_2} cântece}other{ S-au descărcat {NUM_TRANSFERRED_TRACKS_2} de cântece}}"
+   },
+   "8998527640999447691": {
+      "message": "Închidere"
+   },
+   "9000028459946302905": {
+      "message": "Ștergeți toată muzica încărcată în Muzica mea ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Cratimă slabă mongolă"
+   },
+   "9001309834415064766": {
+      "message": "Radicali Han din 10 linii"
+   },
+   "901225307358856093": {
+      "message": "Cratima silabică canadiană"
+   },
+   "902300864627076683": {
+      "message": "Partă inscripțională"
+   },
+   "9024489874326845912": {
+      "message": "Album recomandat"
+   },
+   "903557305746845933": {
+      "message": "160 kbps, adaptivă."
+   },
+   "9042260521669277115": {
+      "message": "Întrerupeți"
+   },
+   "9045338265172338590": {
+      "message": "Meetei Mayek"
+   },
+   "9049377337845973204": {
+      "message": "Redați: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9053704575157030099": {
+      "message": "Niciunul"
+   },
+   "9059560719840598868": {
+      "message": "Trimiteți feedback"
+   },
+   "9063659532473030063": {
+      "message": "Meteorologice și astrologice"
+   },
+   "908288323950111351": {
+      "message": "Nu puteți adăuga articole la un playlist la care v-ați abonat."
+   },
+   "9084816336314899019": {
+      "message": "Continuați"
+   },
+   "9092976405151508175": {
+      "message": "Repetați"
+   },
+   "9098679347815545327": {
+      "message": "Playlistul nu s-a putut crea. Încercați din nou."
+   },
+   "9099290682020828903": {
+      "message": "V-ați abonat la playlistul „{PLAYLIST_TITLE}”"
+   },
+   "9104232341234454503": {
+      "message": "Muzică nelimitată"
+   },
+   "9111239821213364249": {
+      "message": "Încercați muzică fără limite. Primele 30 de zile sunt gratuite."
+   },
+   "9128859482251917046": {
+      "message": "Închideți sau deschideți coada"
+   },
+   "9136743822509821032": {
+      "message": "Redați $PLAYLIST_TITLE$",
+      "placeholders": {
+         "PLAYLIST_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9138683078793837147": {
+      "message": "Anulați „Nu îmi place”"
+   },
+   "9143597363285105250": {
+      "message": "Artistul albumului"
+   },
+   "9173411042808904308": {
+      "message": "Normal/serif"
+   },
+   "9179661003472285430": {
+      "message": "Descărcați aplicația Manager de muzică"
+   },
+   "9184426509557869402": {
+      "message": "Spațiu ideografic"
+   },
+   "9193901371937110673": {
+      "message": "Nu există dispozitive autorizate"
+   },
+   "9197433560254928186": {
+      "message": "Arabă"
+   },
+   "9205544184671349450": {
+      "message": "Se pare că aveți deja muzică pe acest computer."
+   },
+   "9209549883741368825": {
+      "message": "Abonați-vă la Muzică Google Play și ascultați acest album și milioane de alte cântece. Prima lună este gratuită."
+   },
+   "9214517335069385090": {
+      "message": "Sau, dacă preferați..."
+   },
+   "9218938714985695055": {
+      "message": "Simbol muzical început legătură de expresie"
+   },
+   "933914956414602837": {
+      "message": "Pentru a vă încărca muzica rapid, Google Play efectuează corespondența dintre fișierele dvs. muzicale și copiile existente pe serverul nostru. Uneori, este posibil să realizăm corespondența cu un cântec greșit. Semnalați problema aici, iar cântecul va fi corectat, pentru a se utiliza copia dvs., și nu copia care s-a potrivit."
+   },
+   "935985887697278449": {
+      "message": "V-ați abonat deja"
+   },
+   "947591000172763449": {
+      "message": "Phags Pa"
+   },
+   "949327761578931377": {
+      "message": "Ascultați în continuare muzică pentru $OFFER_PRICE$ pe lună.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Vedeți-le pe toate"
+   },
+   "95869773684474447": {
+      "message": "Eroare de redare"
+   },
+   "963232722931839477": {
+      "message": "Coada este goală"
+   },
+   "964983733596985457": {
+      "message": "Compatibilitate"
+   },
+   "97224266342934568": {
+      "message": "Exponent"
+   },
+   "993762601773196496": {
+      "message": "Proiectați"
+   },
+   "997742287268027221": {
+      "message": "Fișierul nu s-a încărcat"
+   },
+   "997890303689941626": {
+      "message": "Vedeți toate rezultatele de căutare cu videoclipuri"
+   }
+}

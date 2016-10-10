@@ -1,0 +1,52 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/browserButtons/default/not_logged_in.png",
+         "38": "images/browserButtons/default/not_logged_in_retina.png"
+      },
+      "default_title": "Checker Plus for Gmail™"
+   },
+   "commands": {
+      "compose": {
+         "description": "__MSG_compose__"
+      },
+      "markAsReadInNotificationWindow": {
+         "description": "__MSG_markAsReadInNotificationWindow__"
+      },
+      "openEmailDisplayedInNotificationWindow": {
+         "description": "__MSG_openEmailDisplayedInNotificationWindow__"
+      },
+      "quickComposeEmail": {
+         "description": "__MSG_quickComposeEmail__"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/tabletView.js" ],
+      "matches": [ "*://*.google.com/mail/mu/mp/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://www.google.com https://mail.google.com https://checkout.stripe.com https://www.paypalobjects.com https://jasonsavard.com https://apps.jasonsavard.com https://omahaproxy.appspot.com https://apis.google.com; object-src 'self' https://www.youtube.com",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://jasonsavard.com?ref=homepage_url&ext=gmail",
+   "icons": {
+      "128": "images/icons/icon_128.png",
+      "16": "images/icons/icon_16.png",
+      "32": "images/icons/icon_32.png",
+      "48": "images/icons/icon_48.png",
+      "64": "images/icons/icon_64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC94SVmzmU9No+O2964dDMD6YG0zg1XYfYWOg8UvB0cyrIACdtgETb+hcD0LWvmAiHb5UG9vLd8NxT0X17HYu1fJHFEdgLnoQsUxOb3mmEIzey5v5qtZAtF6mYSelGROQIveE6KLPxCoip535DAlengyLZdFlPZrsgxFQGncYZypwIDAQAB",
+   "manifest_version": 2,
+   "name": "Checker Plus for Gmail™",
+   "optional_permissions": [ "background", "*://*/*", "*://*.jasonsavard.com/*", "*://*.googleusercontent.com/*" ],
+   "options_page": "options.html",
+   "permissions": [ "alarms", "tts", "idle", "notifications", "storage", "tabs", "contextMenus", "cookies", "webRequest", "webRequestBlocking", "*://*.google.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "19.2.16",
+   "web_accessible_resources": [ "widget.html", "options.html", "donate.html", "images/icons/icon_48.png", "css/tabletView.css" ]
+}

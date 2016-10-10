@@ -1,0 +1,1664 @@
+{
+   "24hourMode": {
+      "message": "Использовать 24-часовой формат времени"
+   },
+   "24hourModeTitle": {
+      "message": "Отображать время в 24-часовом формате, напр. 18:00"
+   },
+   "DND": {
+      "message": "DND"
+   },
+   "EOM": {
+      "message": "EOM"
+   },
+   "EOMToolTip": {
+      "message": "Конец сообщения"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "НЕ УДАЛЯТЬ"
+   },
+   "NAME_says": {
+      "message": "$1 говорит"
+   },
+   "XNewEmails": {
+      "message": "$1 новых писем"
+   },
+   "Xattachments": {
+      "message": "$1 Вложения"
+   },
+   "Xday": {
+      "message": "день"
+   },
+   "Xdays": {
+      "message": "$1 дней"
+   },
+   "Xhour": {
+      "message": "$1 час"
+   },
+   "Xhours": {
+      "message": "$1 ч."
+   },
+   "Xline": {
+      "message": "$1 линия"
+   },
+   "Xlines": {
+      "message": "$1 линии"
+   },
+   "Xminute": {
+      "message": "$1 минута"
+   },
+   "Xminutes": {
+      "message": "$1 минут"
+   },
+   "Xseconds": {
+      "message": "$1 сек."
+   },
+   "Xuser": {
+      "message": "$1 пользователь"
+   },
+   "Xusers": {
+      "message": "Пользователи: $1"
+   },
+   "aboutMe": {
+      "message": "Об авторе"
+   },
+   "accessDetails": {
+      "message": "Детали доступа"
+   },
+   "account": {
+      "message": "Аккаунт"
+   },
+   "accounts": {
+      "message": "Учетные записи"
+   },
+   "accountsAndLabels": {
+      "message": "Аккаунты/Ярлыки"
+   },
+   "actionButtons": {
+      "message": "Управляющие кнопки для всплывающего окна и расширенного окна уведомления"
+   },
+   "addAccount": {
+      "message": "Добавление учетной записи"
+   },
+   "addAccountsStaySignedIn": {
+      "message": "Добавить аккаунт и не выходить из него "
+   },
+   "addEmailAlias": {
+      "message": "Добавить псевдоним к учетной записи"
+   },
+   "addEmailAliasToolTip": {
+      "message": "Добавить псевдоним в всплывающем окне (например, \u003Cb>Почта Джейсона \u003C/b> вместо longboringemail@gmail.com)"
+   },
+   "addSkinsOrThemes": {
+      "message": "Темы оформления"
+   },
+   "addSpeechEngines": {
+      "message": "Добавить генераторы голоса"
+   },
+   "addToGoogleCalendar": {
+      "message": "Добавить в календарь Google"
+   },
+   "added": {
+      "message": "Добавлено"
+   },
+   "admin": {
+      "message": "Администратор"
+   },
+   "alias": {
+      "message": "Псевдоним"
+   },
+   "all": {
+      "message": "Все"
+   },
+   "allMail": {
+      "message": "Вся почта"
+   },
+   "alreadyDonated": {
+      "message": "Уже пожертвовали?"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "Внеси свой вклад один раз и разблокируй функции для $1"
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "Cheсker Plus for Google Calendar"
+   },
+   "alsoTryMy": {
+      "message": "Также попробуйте расширение"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "Всегда отображать внешние изображения"
+   },
+   "amount": {
+      "message": "Количество"
+   },
+   "anyAmount": {
+      "message": "Любая сумма"
+   },
+   "archiveLink": {
+      "message": "Архивировать"
+   },
+   "archiveLinkTitle": {
+      "message": "Архивировать сообщение"
+   },
+   "archive_read": {
+      "message": "Отметить письмо как прочитанное при архивации"
+   },
+   "archive_readToolTip": {
+      "message": "При архивации письма будут автоматически считаться прочитанными"
+   },
+   "autoAdjust": {
+      "message": "Автонастройка"
+   },
+   "autoAdjustAndImages": {
+      "message": "Автоматическая настройка + изображения"
+   },
+   "autoAdvanceTo": {
+      "message": "Автоперемещение"
+   },
+   "autoDetectAccounts": {
+      "message": "Это приложение автоматически распознает учетные записи почты, в которые Вы произвели вход"
+   },
+   "autoDetectAccountsStaySignedIn": {
+      "message": "Автоматически определять аккаунты"
+   },
+   "available": {
+      "message": "Доступно"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "backToInbox": {
+      "message": "Вернуться во Входящие"
+   },
+   "backgroundColor": {
+      "message": "Цвет фона"
+   },
+   "blue": {
+      "message": "Синий"
+   },
+   "brightness": {
+      "message": "Яркость"
+   },
+   "button": {
+      "message": "Кнопка"
+   },
+   "buttonClickAction": {
+      "message": "Действие при нажатии на кнопку"
+   },
+   "buttonIcon": {
+      "message": "Значок кнопки"
+   },
+   "by": {
+      "message": "от"
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "changeButtonClickActionToOpenGmail": {
+      "message": "Изменить действие кнопки на 'Открыть Gmail'"
+   },
+   "changeLabels": {
+      "message": "Изменение ярлыков"
+   },
+   "changeSummary": {
+      "message": "Изменить формат краткой информации"
+   },
+   "changeTheme": {
+      "message": "Изменение темы"
+   },
+   "changeThisDomain": {
+      "message": "Чтобы сменить этот адрес электронной почты сейчас $1"
+   },
+   "changeThisDomain2": {
+      "message": "выйти и войти в качестве другого пользователя"
+   },
+   "changelog": {
+      "message": "История изменений"
+   },
+   "checkPrimaryOrMore": {
+      "message": "Проверка основного и других ярлыков"
+   },
+   "checkerPlusPopupWindow": {
+      "message": "Всплывающее окно Checker Plus"
+   },
+   "chime": {
+      "message": "Колокольчик"
+   },
+   "chooseEndColor": {
+      "message": "Конечный цвет"
+   },
+   "chooseNoUnreadEmail": {
+      "message": "Выберите значок при отсутствии непрочитанных писем"
+   },
+   "choosePaymentMethod": {
+      "message": "Выберите способ оплаты"
+   },
+   "chooseSignedOutIcon": {
+      "message": "Выберите значок при отсутствии связи с аккаунтом "
+   },
+   "chooseStartColor": {
+      "message": "Начальный цвет"
+   },
+   "chooseUnreadEmail": {
+      "message": "Выберите значок непрочитанных писем"
+   },
+   "chromePlaced2ButtonLimit": {
+      "message": "Google Chrome позволяет добавить максимум две кнопки!"
+   },
+   "clickForMoreInfo": {
+      "message": "Нажмите для получения дополнительной информации"
+   },
+   "clickToPreviewEmail": {
+      "message": "Щелкните для предпросмотра письма"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "Действие при клике на уведомление"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "Нажатие логотипа Checker Plus for Gmail"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "closeAfterX": {
+      "message": "Закрыть через"
+   },
+   "closeAfterX_andThen": {
+      "message": "и затем"
+   },
+   "closesPopupWindow": {
+      "message": "Закрывает всплывающее окно"
+   },
+   "collapseEmailAccounts": {
+      "message": "Свернуть учетные записи электронной почты по умолчанию"
+   },
+   "collapseEmailAccountsToolTip": {
+      "message": "Использование данной опции даст вам лучший обзор непрочитанных писем во всех учетных записях, так что вы можете выбрать любую с помощью стрелочки."
+   },
+   "colorMessage": {
+      "message": "Чтобы сохранить эти цвета, пожертвуйте любую сумму!"
+   },
+   "colorSubject": {
+      "message": "Пример сообщения для просмотра цветовой гаммы"
+   },
+   "colors": {
+      "message": "Цвета"
+   },
+   "comfortable": {
+      "message": "Просторный"
+   },
+   "commaSeparatedEmails": {
+      "message": "т.е. через запятую"
+   },
+   "compact": {
+      "message": "Компактный"
+   },
+   "compose": {
+      "message": "Написать"
+   },
+   "composeLinkTitle": {
+      "message": "Написать письмо"
+   },
+   "contacts": {
+      "message": "Контакты"
+   },
+   "contactsHome": {
+      "message": "Д"
+   },
+   "contactsMessage": {
+      "message": "Наведите курсор мыши на фотографию для увеличения"
+   },
+   "contactsMobile": {
+      "message": "М"
+   },
+   "contactsOther": {
+      "message": "Др"
+   },
+   "contactsWork": {
+      "message": "Р"
+   },
+   "continue": {
+      "message": "Продолжить"
+   },
+   "continueToOptions": {
+      "message": "Параметры копирования"
+   },
+   "continueWithoutFeatures": {
+      "message": "Продолжить использование расширения, но без этих дополнительных возможностей."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "Продолжить без дополнительных функций"
+   },
+   "contrast": {
+      "message": "Контраст"
+   },
+   "contribute": {
+      "message": "Внести свой вклад"
+   },
+   "contributeToContinue": {
+      "message": "Внеси свой вклад"
+   },
+   "conversationList": {
+      "message": "Список разговоров"
+   },
+   "conversationView": {
+      "message": "Просмотр цепочки писем"
+   },
+   "conversationViewToolTip": {
+      "message": "Устанавливает группировку писем по одной теме"
+   },
+   "copyEmailAddress": {
+      "message": "Скопировать адрес электронной почты"
+   },
+   "cozy": {
+      "message": "Обычный"
+   },
+   "custom": {
+      "message": "Своё"
+   },
+   "customButtonsToolTip": {
+      "message": "Установите свой собственный цвет"
+   },
+   "customToThisExtension": {
+      "message": "Основные горячие клавиши для этого расширения"
+   },
+   "customizeNotifications": {
+      "message": "Настройка уведомлений"
+   },
+   "dark": {
+      "message": "Тёмная"
+   },
+   "darkToolTip": {
+      "message": "Тёмная контрастная"
+   },
+   "dayAgo": {
+      "message": "$1 день назад"
+   },
+   "daysAgo": {
+      "message": "дн. назад"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "deleteLink": {
+      "message": "Удалить"
+   },
+   "deleteLinkTitle": {
+      "message": "Удалить сообщение"
+   },
+   "deletingMarksAsRead": {
+      "message": "Отметить письмо как прочитанное при удалении"
+   },
+   "deletingMarksAsReadToolTip": {
+      "message": "При удалении письма будут автоматически считаться прочитанными"
+   },
+   "description": {
+      "message": "Чтение новых писем без открытия вкладки Gmail! Возможность задания звуковых и голосовых уведомлений при получении писем"
+   },
+   "developingMore": {
+      "message": "Я упорно тружусь над Вашими предложениями"
+   },
+   "developingMoreSuggestions_suggestions": {
+      "message": "предложения"
+   },
+   "differentSounds": {
+      "message": "Настройка звуков для различных аккаунтов, ярлыков, контактов."
+   },
+   "differentSoundsToolTip": {
+      "message": "Вы выбираете звук для всех ваших аккаунтов, однако вы можете устанавливать различные звуки для определённых аккаунтов, ярлыков или контактов!"
+   },
+   "ding": {
+      "message": "Звон"
+   },
+   "disableAll": {
+      "message": "Отключить все"
+   },
+   "discoverMyApps": {
+      "message": "Мои приложения"
+   },
+   "dismiss": {
+      "message": "Скрыть"
+   },
+   "display": {
+      "message": "Вид"
+   },
+   "displayDensity": {
+      "message": "Интерфейс"
+   },
+   "displayImagesBelow": {
+      "message": "Показать изображения ниже"
+   },
+   "displaySenders_1": {
+      "message": "Отображение отправителя"
+   },
+   "dndInFullscreenMode": {
+      "message": "Не беспокоить в полноэкранном режиме"
+   },
+   "doNotDisturb": {
+      "message": "Не беспокоить"
+   },
+   "doNotDisturbForTodayToolTip": {
+      "message": "Не беспокоить до 7 часов утра следующего дня"
+   },
+   "doNotDisturbIndefinitelyToolTip": {
+      "message": "Не беспокоить до тех пор, пока Вы не выключите это"
+   },
+   "doNotDisturbToolTip": {
+      "message": "Выключает звук, голос и уведомления от этого расширения"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "Не сообщать о наличии обновлений"
+   },
+   "doNotShowNotificationIfGmailTabActive": {
+      "message": "Не показывать уведомления, если активна вкладка Gmail "
+   },
+   "doNotShowNotificationIfGmailTabActiveToolTip": {
+      "message": "Полезно, если вы подолгу пишите письма :) и, вероятно, видете новое письмо одновременно с уведомлением расширения"
+   },
+   "doTheSameThing": {
+      "message": "Сделать то же самое"
+   },
+   "donate": {
+      "message": "Пожертвовать"
+   },
+   "donationRequired": {
+      "message": "Необходимо пожертвование"
+   },
+   "done": {
+      "message": "Завершить"
+   },
+   "dropshadow": {
+      "message": "Тень"
+   },
+   "duplicateLabelWarning": {
+      "message": "Я рекомендую выбрать один из основных ярлыков (Входящие, Несортированные, Важное, Вся почта), иначе вы будете видеть дубликаты!"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "emailAccounts": {
+      "message": "Учётные записи электронной почты"
+   },
+   "emailFrom_NAME": {
+      "message": "Письмо от $1"
+   },
+   "emailPreview": {
+      "message": "Предпросмотр электронной почты"
+   },
+   "emailPreviewToolTip": {
+      "message": "Если \u003Cb>этот параметр выбран\u003C/b> и вы щелкните в любом месте письма в пределах всплыващего окна, то будет открыта область предварительного просмотра письма. \u003Cbr>Если \u003Cb>этот параметр не выбран\u003C/b>, то откроется интерфейс Gmail"
+   },
+   "emailSummary": {
+      "message": "Краткая инфорация о письме"
+   },
+   "emailSummaryToolTip": {
+      "message": "Отображать небольшой фрагмент текста под каждым письмом, для предпросмотра письма в всплывающем окне"
+   },
+   "email_from": {
+      "message": "Отправитель"
+   },
+   "email_message": {
+      "message": "Сообщение"
+   },
+   "email_subject": {
+      "message": "Тема"
+   },
+   "enable": {
+      "message": "Включить"
+   },
+   "enableLanguageDetection": {
+      "message": "Автоматически определять язык сообщения"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "Голосовое оповещение на языке, который определяется службой detectlanguage.com"
+   },
+   "enableVoiceInputToolTip": {
+      "message": "Добавляет значок микрофона в нижней части окна нового сообщения или окна ответа на вашей странице Gmail"
+   },
+   "enjoyingThisApp": {
+      "message": "... нравится это приложение? $1"
+   },
+   "enter": {
+      "message": "Enter"
+   },
+   "enterAnAmount": {
+      "message": "Не указана сумма пожертвования"
+   },
+   "esc": {
+      "message": "Esc"
+   },
+   "example": {
+      "message": "пример"
+   },
+   "exceptionsToChooseFrom": {
+      "message": "Выберите на свой вкус:"
+   },
+   "extensionUpdated": {
+      "message": "Расширение обновлено!"
+   },
+   "extensionUpdates": {
+      "message": "Обновления расширения"
+   },
+   "extraFeatures": {
+      "message": "Дополнительные возможности"
+   },
+   "extraFeaturesClicked": {
+      "message": "Вы пытались использовать одну из экспериментальных функций..."
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Отмена или ошибка транзакции! Попробовать вместо этого $1?"
+   },
+   "feedback": {
+      "message": "Обратная связь"
+   },
+   "fetchContactsEvery": {
+      "message": "Получать контакты каждые"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "Установите более высокое значение, если у вас много контактов или медленное подключение к интернету"
+   },
+   "finance": {
+      "message": "Финансы"
+   },
+   "firstAndLastName": {
+      "message": "Имя и фамилия"
+   },
+   "firstNameOnly": {
+      "message": "Только имя"
+   },
+   "followMe": {
+      "message": "Подписаться на меня"
+   },
+   "forever": {
+      "message": "Всегда"
+   },
+   "forums": {
+      "message": "Форумы"
+   },
+   "from": {
+      "message": "От"
+   },
+   "fullLinkTitle": {
+      "message": "Показать полностью"
+   },
+   "general": {
+      "message": "Общие"
+   },
+   "grantAccess": {
+      "message": "Предоставить доступ"
+   },
+   "grantAccessAgain": {
+      "message": "Предоставить доступ снова или для другого аккаунта"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "Используется только при нескольких учетных записях"
+   },
+   "grantedTo": {
+      "message": "Предоставлено для следующих учетных записей"
+   },
+   "grayscale": {
+      "message": "Оттенки серого"
+   },
+   "green": {
+      "message": "Зелёный"
+   },
+   "greenToolTip": {
+      "message": "Моя переделанная тема!"
+   },
+   "groupByLabels": {
+      "message": "Группировать сообщения по ярлыкам"
+   },
+   "groupByLabelsToolTip": {
+      "message": "Объединяйте и сортируйте ярлыки, которые Вы выбрали для отслеживания непрочитанных писем. Будет добавлен небольшой заголовок с названием ярлыка в начале письма в окне расширенного уведомления и в всплывающем окне предварительного просмотра"
+   },
+   "guideForInboxByGmail": {
+      "message": "Руководство для пользователей Inbox (от Gmail)"
+   },
+   "guideForPrimaryCategory": {
+      "message": "Руководство для категории 'Несортированные'"
+   },
+   "hearEmail": {
+      "message": "Прослушать письмо"
+   },
+   "hearEmailMessage": {
+      "message": "Проговаривать текст сообщения"
+   },
+   "hearEmailSubject": {
+      "message": "Проговаривать тему сообщения"
+   },
+   "hearEmailToolTip": {
+      "message": "Выберите, какие части электронной почты вы хотите услышать... \u003Cb>от\u003C/b> (отправитель), \u003Cb>тема\u003C/b> или \u003Cb>письмо\u003C/b> (содержимое)"
+   },
+   "height": {
+      "message": "Высота"
+   },
+   "help": {
+      "message": "Справка"
+   },
+   "hideByJason": {
+      "message": "Скрыть 'by Jason Savard'"
+   },
+   "hideByJasonToolTip": {
+      "message": "Скрыть \u003Ci>by Jason Savard\u003C/i> в всплывающем окне"
+   },
+   "hideMarkAsReadEmails": {
+      "message": "Скрыть сообщения электронной почты, которые помечены как прочитанные"
+   },
+   "hideMyName": {
+      "message": "Скрыть мое имя 'by Jason Savard'"
+   },
+   "hideReadEmails": {
+      "message": "Скрыть прочитанные сообщения"
+   },
+   "hideSentFrom": {
+      "message": "Скрыть пометку «Отправлено с моего ...»"
+   },
+   "hideSentFromToolTip": {
+      "message": "Отметьте это, чтобы скрывать в сообщениях подписи типа «Отправлено с моего iPhone или Blackberry» и др."
+   },
+   "hideUnreadCount": {
+      "message": "Скрыть счётчик непрочитанной почты"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "Не показывать количество непрочитанных писем в значке расширения"
+   },
+   "hourAgo": {
+      "message": "$1 час назад"
+   },
+   "hours": {
+      "message": "ч."
+   },
+   "hoursAgo": {
+      "message": "$1 ч. назад"
+   },
+   "icon": {
+      "message": "Значок"
+   },
+   "identifyEmailAccountsWithColors": {
+      "message": "Собственные цвета для каждой учетной записи"
+   },
+   "ifNoUnreadMail": {
+      "message": "Если нет непрочитанных писем:"
+   },
+   "ignoreTheseAccounts": {
+      "message": "Игнорировать эти аккаунты"
+   },
+   "ignoreThisAccount": {
+      "message": "Игнорировать этот аккаунт"
+   },
+   "ignored": {
+      "message": "Игнорируется"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "Изображения не отображаются."
+   },
+   "important": {
+      "message": "Важные"
+   },
+   "importantMail": {
+      "message": "Важные письма"
+   },
+   "inbox": {
+      "message": "Входящие"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "indefinitely": {
+      "message": "На неопределенный срок"
+   },
+   "invert": {
+      "message": "Инвертировать"
+   },
+   "keyboardShortcuts": {
+      "message": "сочетания клавиш"
+   },
+   "keys": {
+      "message": "Клавиши"
+   },
+   "label": {
+      "message": "Ярлык"
+   },
+   "labels": {
+      "message": "Ярлыки"
+   },
+   "language": {
+      "message": "Язык"
+   },
+   "languageName": {
+      "message": "Русский"
+   },
+   "languageToolTip": {
+      "message": "Изменяет язык расширения и голос уведомления."
+   },
+   "licenseOnlyValidFor": {
+      "message": "Лицензия будет действительна для пользователей, которые произвели вход в аккаунт Google."
+   },
+   "linesInSummary": {
+      "message": "Формат краткой информаци"
+   },
+   "linesInSummaryToolTip": {
+      "message": ", \u003Cb>Ничего\u003C/b> - будет скрыть резюме от верхней всплывающего окна. \u003Cbr>\u003Cb>"
+   },
+   "listenToYourEmail": {
+      "message": "Проговаривать адрес электронной почты"
+   },
+   "loading": {
+      "message": "Загрузка..."
+   },
+   "loadingSettings": {
+      "message": "Параметры загрузки"
+   },
+   "mailtoLinks": {
+      "message": "Открывать ссылки на адреса электронной почты в Gmail"
+   },
+   "mailtoLinksToolTip": {
+      "message": "Нажав на ссылки mailto: (ссылки электронной почты) будет открыта почта Gmail вместо стандартного почтового клиента. Для разбора этих ссылкок на сайтах, которые вы посещаете, требуются дополнительные разрешения."
+   },
+   "makeButtonOpenGmail": {
+      "message": "Сделать кнопку 'Открыть Gmail'"
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "Сделать это взнос ежемесячным"
+   },
+   "makeThisAMonthlyContributionTooltip": {
+      "message": "Помогите сохранить поддержку пользователей и обновления"
+   },
+   "man": {
+      "message": "Мужчина"
+   },
+   "markAllAsRead": {
+      "message": "Отметить все сообщения как прочитанные"
+   },
+   "markAllAsReadTitle": {
+      "message": "Все прочитаны"
+   },
+   "markAsReadInNotificationWindow": {
+      "message": "Помечать письма как прочитанные в окне уведомлений"
+   },
+   "markAsReadR": {
+      "message": "Пометить как прочитанное"
+   },
+   "markDone": {
+      "message": "Отметить как выполненное"
+   },
+   "markedAsRead": {
+      "message": "Отмечено как прочитанные"
+   },
+   "maxEmailsToShowPerAccount": {
+      "message": "Максимальное количество писем для отображения"
+   },
+   "me": {
+      "message": "мне"
+   },
+   "meetMe": {
+      "message": "Познакомиться со мной"
+   },
+   "meetMeTitle": {
+      "message": "Видеоприветствие!"
+   },
+   "message": {
+      "message": "Сообщение"
+   },
+   "mini": {
+      "message": "Мини"
+   },
+   "minimumAmount": {
+      "message": "Минимально возможная сумма пожертвования - $1"
+   },
+   "minutesAgo": {
+      "message": "$1 мин. назад"
+   },
+   "monitor": {
+      "message": "Проверять"
+   },
+   "monitorThisLabel": {
+      "message": "Проверять этот ярлык"
+   },
+   "monitorThisLabelToolTip": {
+      "message": "Определяет, для каких ярлыков будет проверяться наличие новых писем"
+   },
+   "month": {
+      "message": "Месяц"
+   },
+   "monthsArray": {
+      "message": "янв,фев,мар,апр,май,июн,июл,авг,сен,окт,ноя,дек"
+   },
+   "more": {
+      "message": "больше"
+   },
+   "moreInfo": {
+      "message": "Подробнее"
+   },
+   "morning": {
+      "message": "Утро"
+   },
+   "moveLabel": {
+      "message": "Переместить в"
+   },
+   "movedToTrash": {
+      "message": "Отправлено в корзину"
+   },
+   "multipleSelectionMac": {
+      "message": "Удерживайте нажатой клавишу Command для множественного выбора."
+   },
+   "multipleSelectionWindows": {
+      "message": "Удерживайте нажатой клавишу Ctrl для множественного выбора."
+   },
+   "multipleUserLicense": {
+      "message": "Получить многопользовательскую лицензию для вашей организации"
+   },
+   "mustSignInToPay": {
+      "message": "Вы должны войти в Вашу почту Gmail и ждать, когда расширение загрузится!"
+   },
+   "muteVoice": {
+      "message": "Отключить"
+   },
+   "muteVoiceForToday": {
+      "message": "Отключить на весь день"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "Отключить до 7 часов утра следующего дня"
+   },
+   "muteVoiceForXh": {
+      "message": "Отключить на $1 час"
+   },
+   "muteVoiceForXm": {
+      "message": "Отключить на $1 мин "
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "Расписание опции «Не беспокоить»"
+   },
+   "muteVoiceWhileSleepingToolTip": {
+      "message": "Если вы оставляете свой компьютер на ночь, вы можете поставить этот флажок, чтобы отключить голосовые уведомления на указанное время."
+   },
+   "native": {
+      "message": "Основная"
+   },
+   "never": {
+      "message": "Никогда"
+   },
+   "newEmail": {
+      "message": "Новое письмо"
+   },
+   "newFeature": {
+      "message": "Новая функция!"
+   },
+   "newer": {
+      "message": "Новые"
+   },
+   "next": {
+      "message": "Следующее"
+   },
+   "nickname": {
+      "message": "Ник"
+   },
+   "night": {
+      "message": "Ночь"
+   },
+   "noUnreadText": {
+      "message": "Новых писем нет"
+   },
+   "noUpdateNotifications": {
+      "message": "Не уведомлять об обновлениях"
+   },
+   "none": {
+      "message": "Ничего"
+   },
+   "notSignedIn": {
+      "message": "Вход не выполнен"
+   },
+   "notWorking": {
+      "message": "Не работает?"
+   },
+   "notification": {
+      "message": "Уведомление"
+   },
+   "notificationButton1": {
+      "message": "Кнопка уведомления #1"
+   },
+   "notificationButton2": {
+      "message": "Кнопка уведомления #2"
+   },
+   "notificationSound": {
+      "message": "Звуковые оповещения"
+   },
+   "notificationTextToSpeech": {
+      "message": "Голосовые оповещения"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "Отметьте хотя бы одно из ваших писем как непрочитанное, затем нажмите сюда еще раз и подождите, пока не появится окно уведомления."
+   },
+   "notifications": {
+      "message": "Уведомления"
+   },
+   "of": {
+      "message": "из"
+   },
+   "ok": {
+      "message": "ОК"
+   },
+   "older": {
+      "message": "Старые"
+   },
+   "oneUnreadText": {
+      "message": "Непрочитанное письмо"
+   },
+   "open": {
+      "message": "Открыть"
+   },
+   "openComposeInTab": {
+      "message": "Открыть в новой вкладке"
+   },
+   "openComposeInTabToolTip": {
+      "message": "Открывает почту или папку «Входящие» в новой вкладке вместо нового окна (также относится к mailto: ссылкам)"
+   },
+   "openComposeReplyAction": {
+      "message": "Кнопки «Написать» и «Ответить»"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "Открыть в всплывающем окне"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "Открыть во вкладке"
+   },
+   "openEmailDisplayedInNotificationWindow": {
+      "message": "Открывать письма из окна уведомлений"
+   },
+   "openGmailPopupWIndowToolTip": {
+      "message": "- Полнофункциональный интерфейс Gmail в всплывающем окне \u003Cbr>- Просмотр всех ярлыки \u003Cbr>\u003Cb>- НЕ\u003C/b>настраиваемый вид\u003Cbr>\u003Cb>- НЕ\u003C/b> рекомендуется для нескольких учетных записей \u003Cbr>\u003Cbr>\u003Ci>Чтобы узнать больше, нажмите на ссылку 'Подробнее»'.\u003C/i>"
+   },
+   "openGmailPopupWindow": {
+      "message": "Открыть почтовый ящик Gmail во всплывающем окне"
+   },
+   "openGmailTab": {
+      "message": "Просмотр Gmail в новой вкладке"
+   },
+   "openGmailTabToolTip": {
+      "message": "Отключает всплывающее окно предварительного просмотра и открывает почту Gmail на новой вкладке"
+   },
+   "openHelp": {
+      "message": "Открытие справки"
+   },
+   "openInNewTab": {
+      "message": "Открыть в новой вкладке"
+   },
+   "openInPopup": {
+      "message": "Открыть в новом окне"
+   },
+   "openInboxByGmail": {
+      "message": "Открыть Inbox от Gmail"
+   },
+   "openLabel": {
+      "message": "Открыть ярлык"
+   },
+   "openLinkTitle": {
+      "message": "Открыть в Gmail"
+   },
+   "openLinksToInboxByGmailWarning": {
+      "message": "Бета-версия функции. \u003Cbr>\u003Cbr>Используйте этот параметр \u003Cb>только в том случае,\u003C/b> если вы активировали 'Inbox (от Gmail)'. Чтобы узнать больше, нажмите 'Подробнее'."
+   },
+   "openPopupPreview": {
+      "message": "Открыть всплывающее окно предварительного просмотра"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "Открывается окно предварительного просмотра, даже если нет непрочитанных писем"
+   },
+   "openReply": {
+      "message": "Открыть (Ответить)"
+   },
+   "openThisLabel": {
+      "message": "Открыть этот ярлык"
+   },
+   "openThisLabelToolTip": {
+      "message": "Определяет, куда пользователь будет перенаправлен при открытии почты."
+   },
+   "option": {
+      "message": "Опция"
+   },
+   "options": {
+      "message": "Настройки"
+   },
+   "or": {
+      "message": "или"
+   },
+   "original": {
+      "message": "Стандартная"
+   },
+   "otherAmount": {
+      "message": "Другая сумма"
+   },
+   "paragraph": {
+      "message": "первый абзац"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "pitch": {
+      "message": "Высота тона"
+   },
+   "pollNow": {
+      "message": "Проверить сейчас"
+   },
+   "pollingAccounts": {
+      "message": "Проверяемые аккаунты"
+   },
+   "pollingInterval": {
+      "message": "Интервал проверки"
+   },
+   "pollingIntervalTooltip": {
+      "message": "Промежуток времени, через который происходит проверка почты"
+   },
+   "popout": {
+      "message": "В отдельной вкладке"
+   },
+   "popupText": {
+      "message": "Получено новое письмо!"
+   },
+   "popupWindowZoom": {
+      "message": "Масштаб всплывающего окна"
+   },
+   "popupWindowZoomToolTip": {
+      "message": "Изменяет общий масштаб всплывающего окна (не предварительного просмотра электронной почты или уведомления)"
+   },
+   "positionFromLeft": {
+      "message": "Отступ слева"
+   },
+   "positionFromTop": {
+      "message": "Отступ сверху"
+   },
+   "preview": {
+      "message": "Предпросмотр"
+   },
+   "previewingMarksAsRead": {
+      "message": "Считать сообщения в окне предпросмотра прочитанными"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "При предпросмотре во всплывающем окне считать сообщение прочитанным"
+   },
+   "previous": {
+      "message": "Предыдущее"
+   },
+   "primary": {
+      "message": "Несортированные"
+   },
+   "primarySocialPromotionsEtc": {
+      "message": "Вкладки 'Несортированные', 'Соцсети', 'Промоакции' и др."
+   },
+   "priorityInbox": {
+      "message": "Приоритетные"
+   },
+   "promotions": {
+      "message": "Промоакции"
+   },
+   "purchases": {
+      "message": "Покупки"
+   },
+   "quickComposeEmail": {
+      "message": "Быстрый контакт"
+   },
+   "rate": {
+      "message": "Темп"
+   },
+   "rateTitle": {
+      "message": "Скорость речи (слов в минуту)"
+   },
+   "read": {
+      "message": "Читать"
+   },
+   "readLink": {
+      "message": "Прочитано"
+   },
+   "readLinkTitle": {
+      "message": "Отметить как прочитанное"
+   },
+   "readLinkTitleShort": {
+      "message": "Прочитанное"
+   },
+   "recommended": {
+      "message": "Рекомендуется"
+   },
+   "reducedDonationAd_notification": {
+      "message": "Пользователь долгое время хорошие новости! Дополнения являются только $1 нажмите, чтобы скрыть/увидеть это."
+   },
+   "reducedDonationAd_popup": {
+      "message": "Хорошие новости! \u003Cbr>Вы можете получить $1 всего за 50 &cent;"
+   },
+   "referToAlreadyDonated": {
+      "message": "Перевести $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "Уже внесли свой вклад?"
+   },
+   "refresh": {
+      "message": "Обновить"
+   },
+   "refreshLinkTitle": {
+      "message": "Обновить"
+   },
+   "rememeberReadEmails": {
+      "message": "Запоминать прочитанные письма (экспериментальная функция)"
+   },
+   "rememeberReadEmailsToolTip": {
+      "message": "Данный параметр является экспериментальным, поэтому, пожалуйста, не ставьте низкую оценку расширению из-за этой функции до тех пор, пока она в бета-версии."
+   },
+   "removeAccount": {
+      "message": "Удаление учетной записи"
+   },
+   "removeAccountIcon": {
+      "message": "Удалить изображение учетной записи"
+   },
+   "removeFromSystemTray": {
+      "message": "убрать из системного трея"
+   },
+   "removeShareLinks": {
+      "message": "Скрыть кнопку «Поделиться»"
+   },
+   "removeShareLinksTooltip": {
+      "message": "Удаляет ссылки на Facebook, Twitter и т.п."
+   },
+   "reply": {
+      "message": "Ответить"
+   },
+   "replyInPopup": {
+      "message": "Ответить в новом окне"
+   },
+   "replyLinkTitle": {
+      "message": "Ответить"
+   },
+   "replyR": {
+      "message": "Ответить"
+   },
+   "replyToAll": {
+      "message": "Ответить всем"
+   },
+   "replyingMarksAsRead": {
+      "message": "При ответе на письмо считать его прочитанным"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "При нажатии на кнопку «Ответить» сообщение будет считаться прочитанным"
+   },
+   "revertAutoSizing": {
+      "message": "Вернуть авторазмер"
+   },
+   "richNotification": {
+      "message": "Rich notification (центр уведомлений)"
+   },
+   "richNotificationToolTip": {
+      "message": " Всплывающие окна в активными элементами, но ненавязчивые, поскольку исчезают через несколько секунд после бездействия. Представьте их как уведомления на вашем смартфоне. Они предоставляют информацию в реальном времени, но вы можете не предпринимать каких-либо действий."
+   },
+   "runInBackground": {
+      "message": "Продолжать работу в фоновом режиме после закрытия браузера"
+   },
+   "runInBackgroundToolTip": {
+      "message": "Продолжать получать уведомления о новой почте, даже при закрытом браузере (Для опытных пользователей)."
+   },
+   "runInBackgroundWarning1": {
+      "message": "Пожалуйста, прочитайте внимательно про $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "фоновые приложения"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Если вы отключили фоновые приложения в Chrome, можно снова включить их, подробнее здесь: $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "последний активный раздел"
+   },
+   "runInBackgroundWarning3": {
+      "message": "Возможно, вам придется использовать $1 на странице входа в систему Gmail"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "оставаться в системе"
+   },
+   "saturation": {
+      "message": "Насыщенность"
+   },
+   "saving": {
+      "message": "Сохранение..."
+   },
+   "schedule": {
+      "message": "Расписание"
+   },
+   "search": {
+      "message": "Поиск"
+   },
+   "seeUpdates": {
+      "message": "Просмотр обновлений"
+   },
+   "seeVideo": {
+      "message": "Смотрите видео"
+   },
+   "selectEmailAccount": {
+      "message": "Выберите учетную запись электронной почты"
+   },
+   "selectQuickActionButtons": {
+      "message": "Отобразить или скрыть кнопоки действий"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "Примечание: Кнопки при стандартном просмотре электронной почты не будут изменены!"
+   },
+   "send": {
+      "message": "Отправить"
+   },
+   "sendPageLinkTitle": {
+      "message": "Отправить ссылку на страницу"
+   },
+   "sending": {
+      "message": "Отправка"
+   },
+   "sent": {
+      "message": "Отправлено"
+   },
+   "sepia": {
+      "message": "Сепия"
+   },
+   "setAccountIcon": {
+      "message": "Задать изображение учетной записи"
+   },
+   "setPositionAndSize": {
+      "message": "Настроить расположение и размер всплывающего окна"
+   },
+   "setPositionAndSizeToolTip": {
+      "message": "Переопределить значения по умолчанию для всплывающих окон, задайте положение и размер всплывающего окна в пикселях"
+   },
+   "severalUnreadText": {
+      "message": "Непрочитанные письма"
+   },
+   "share": {
+      "message": "Поделиться"
+   },
+   "shareIntro": {
+      "message": "Попробуйте это удивительное расширение для Chrome"
+   },
+   "shareTitle": {
+      "message": "Нажмите здесь, чтобы рассказать своим друзьям об этом приложении, выбрав кнопку социальной сети. Примечание: Это сообщение исчезнет после нажатия кнопки."
+   },
+   "shortcutKeysHeader": {
+      "message": "Эти клавиши работают \u003Cb>только\u003C/b> для верхнего всплывающего окна, которое активируется нажатием кнопки"
+   },
+   "showActionButtonsOnHover": {
+      "message": "Показывать только управляющие кнопки при наведении курсора в окне уведомления"
+   },
+   "showActionButtonsOnHoverToolTip": {
+      "message": "Рекомендуется оставить это включенным, но, если у вас Mac, вы можете отключить это, чтобы оставить управляющие кнопки,  которые всегда показываются потому, что наведение иногда срабатывает, когда окно Chrome находится не в фокусе"
+   },
+   "showAllEmails": {
+      "message": "Показать все сообщения"
+   },
+   "showButtonTooltip": {
+      "message": "Показывать подсказки при наведении на кнопку значок"
+   },
+   "showCheckerPlusButtonsOnlyOnHover": {
+      "message": "Показывать кнопки при наведении курсора"
+   },
+   "showCheckerPlusButtonsOnlyOnHoverToolTip": {
+      "message": "Не рекомендуется, если вы используете устройство с сенсорным экраном без мыши"
+   },
+   "showConsoleMessages": {
+      "message": "Лог сообщений в консоли Javascript"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "Предназначены только для отладки и могут немного замедлить расширение!"
+   },
+   "showContactPhoto": {
+      "message": "Изображения контактов"
+   },
+   "showContactPhotoToolTip": {
+      "message": "Если контакт имеет фотографию, она будет отображена. Вы можете устанавливать свои собственные фотографии для контактов."
+   },
+   "showContactPhotos": {
+      "message": "Показать фотографии контактов"
+   },
+   "showContextMenuItem": {
+      "message": "Добавить пункт контекстного меню (при щелчке правой кнопкой мыши)"
+   },
+   "showDesktopNotifications": {
+      "message": "Всплывающие уведомления"
+   },
+   "showDetails": {
+      "message": "Показать подробности"
+   },
+   "showEOM": {
+      "message": "Добавлять метку для обозначения конца сообщения"
+   },
+   "showEOMToolTip": {
+      "message": "EOM - конец сообщения. Полезно при передаче большого количества небольших сообщений, позволяет избежать необходимости нажимать кнопку просмотра, чтобы увидеть полный текст сообщения."
+   },
+   "showEmailAccount": {
+      "message": "Показывать имя учетной записи"
+   },
+   "showEmailAccountToolTip": {
+      "message": "Полезно, если вы проверяете 2 или более учетных записей. Отображается имя текущей учетной записи электронной почты, на которую было получено новое сообщение"
+   },
+   "showHideEmailPreview": {
+      "message": "Показать/скрыть предварительный просмотр электронной почты"
+   },
+   "showIconAnimation": {
+      "message": "Показывать анимированный значок"
+   },
+   "showIconAnimationToolTip": {
+      "message": "Анимированный значок при новых сообщениях"
+   },
+   "showLabelsTitle": {
+      "message": "Показать ярлыки"
+   },
+   "showLeftColumnWhenPreviewingEmail": {
+      "message": "Показать левую колонку в всплывающем окне при просмотре электронной почты"
+   },
+   "showLeftColumnWhenPreviewingEmailToolTip": {
+      "message": "Примечание: Эта колонка может автоматически скрываться, если содержимое сообщения не помещается в окно просмотра."
+   },
+   "showMarkAsReadEmails": {
+      "message": "Далее показаны письма которые помечены как прочитанные"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "Показывать первое изображение внутри письма"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "Показывать уведомления для старых писем (полезно только для учетных записей POP3)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "Если не отмечено, всплывающие уведомления появляются только для ваших новых писем (рекомендуется для большинства), но иногда письма полученные с использованием протокола POP3 появляются в папке «Входящие» после того, как ваши новейшие электронные письма и являются отсортированы по папке 'Входящие' в связи с их старых даты. Если вы отметите этот вариант эти письма также появятся в вашем всплывающие уведомления, но только максимум 20 непрочитанных сообщений в папке 'Входящие'. Примечание: Если пометить как Непрочтенные письма они будут также всплывающие уведомления снова!"
+   },
+   "showOptionsButton": {
+      "message": "Отображать кнопку «Параметры»"
+   },
+   "showSendAndArchiveButton": {
+      "message": "Показывать кнопки 'Отправить и архивировать'"
+   },
+   "showSendAndDeleteButton": {
+      "message": "Показывать кнопку 'Отправить и удалить'"
+   },
+   "showTransitions": {
+      "message": "Включить анимации перехода"
+   },
+   "showTransitionsToolTip": {
+      "message": "Показать анимации во всплывающем окне при просмотре или закрытии сообщения электронной почты"
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "Показывать уведомления обо всех обновлениях и исправлениях ошибок"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "Показывать уведомления только об интересных обновлениях"
+   },
+   "signIn": {
+      "message": "Войти"
+   },
+   "signInAsUserOfOrg": {
+      "message": "Вы должны $1 с вашей организации электронной почты"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "выйдите из системы и войдите в Ваш аккаунт Gmail"
+   },
+   "signInToYourAccount": {
+      "message": "Сначала войдите в свои аккаунт(ы), а затем перезагрузите эту страницу!"
+   },
+   "skin": {
+      "message": "Тема"
+   },
+   "skins": {
+      "message": "Персонализация"
+   },
+   "social": {
+      "message": "Соцсети"
+   },
+   "sound": {
+      "message": "Звук"
+   },
+   "spamLink": {
+      "message": "Спам"
+   },
+   "spamLinkTitle": {
+      "message": "Отметить как спам"
+   },
+   "speechEngine": {
+      "message": "Генератор голоса"
+   },
+   "spokenWordsLimit": {
+      "message": "Количество сказанных слов"
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "Речь можно остановить в любое время, щелкнув на кнопку или на окно уведомления. Примечание: Некоторые речевые генераторы могут устанавливать собственные ограничения."
+   },
+   "standard": {
+      "message": "Стандартные:"
+   },
+   "starAndArchive": {
+      "message": "Пометить и архивировать"
+   },
+   "starLinkTitle": {
+      "message": "Пометить"
+   },
+   "starringAppliesInboxLabel": {
+      "message": "Отметка звездочкой применяет метку 'Входящие'"
+   },
+   "stayInTray": {
+      "message": "Показать в трее"
+   },
+   "subject": {
+      "message": "Тема"
+   },
+   "summary": {
+      "message": "основную информацию"
+   },
+   "summaryLinkTitle": {
+      "message": "Свернуть сообщение"
+   },
+   "switchToCheckerPlus": {
+      "message": "Перейти на Checker Plus"
+   },
+   "switchToInbox": {
+      "message": "Переключиться на входящие"
+   },
+   "switchToInboxToolTip": {
+      "message": "Для справки нажмите правую кнопку мыши..."
+   },
+   "syncDND": {
+      "message": "Синхронизировать параметры 'Не беспокоить' для всех расширений Джейсона"
+   },
+   "syncSignInOrder": {
+      "message": "Синхронизация аккаунтов"
+   },
+   "syncSignInOrderToolTip": {
+      "message": "Порядок входа на странице аккаунтов Gmail может быть отличным от порядка, указанного ниже, поэтому некоторые ссылки могут открываться в неверном ящике. Используйте данную функцию, чтобы снова синхронизировать аккаунты."
+   },
+   "tab": {
+      "message": "Вкладка"
+   },
+   "tabToolTip": {
+      "message": "Отображать как вкладку во всплывающем окне"
+   },
+   "testIt": {
+      "message": "Испытать это!"
+   },
+   "testOutPopupWindow": {
+      "message": "Проверить отображение всплывающего окна"
+   },
+   "textNotification": {
+      "message": "Текстовове уведомление"
+   },
+   "textNotificationToolTip": {
+      "message": "Уведомляет Вас о последних непрочитанных письмах."
+   },
+   "thankYouForYourContribution": {
+      "message": "Теперь все функции расширения разблокированы. Спасибо за Вашу поддержку!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Закройте это окно и наслаждайтесь!"
+   },
+   "theme": {
+      "message": "Тема"
+   },
+   "to": {
+      "message": "кому"
+   },
+   "today": {
+      "message": "Сегодня"
+   },
+   "toggleNotificationCheckboxes": {
+      "message": "Переключение флажков уведомления"
+   },
+   "tomorrow": {
+      "message": "Завтра"
+   },
+   "tooManyUnread": {
+      "message": "Извините, можно отметить только $1 или менее писем за один раз. Для большего количества используйте веб-сайт Gmail"
+   },
+   "transparent": {
+      "message": "Прозрачный"
+   },
+   "tryCheckerPlusWindowFirst": {
+      "message": "Сначала попробуйте всплывающее окно Checker Plus, оно того стоит :)"
+   },
+   "turnOff": {
+      "message": "Отключить"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "Отключить автоматическую проверку почты"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "Ваши аккаунты @gmail.com не будут проверяться!"
+   },
+   "uncheckInboxLabel": {
+      "message": "Убрать ярлык \"Входящие\""
+   },
+   "undo": {
+      "message": "Отменить"
+   },
+   "unknownSender": {
+      "message": "Неизвестный отправитель"
+   },
+   "unlockFeatures": {
+      "message": "Разблокируйте эти дополнительные возможности, а также выходящие в будущем, прямо сейчас, с помощью единовременного пожертвования любой суммы!"
+   },
+   "unlockHeader": {
+      "message": "Получить дополнительные функции и поддержать разработчика расширения"
+   },
+   "unmuteVoice": {
+      "message": "Включить"
+   },
+   "unread": {
+      "message": "Непрочитанные"
+   },
+   "unreadLink": {
+      "message": "Не прочитано"
+   },
+   "unreadLinkTitle": {
+      "message": "Отметить как непрочитанное"
+   },
+   "unreadLinkTitleShort": {
+      "message": "Непрочитанное"
+   },
+   "unreadMail": {
+      "message": "Непрочитанные"
+   },
+   "update": {
+      "message": "Обновить"
+   },
+   "updates": {
+      "message": "Оповещения"
+   },
+   "useBasicHTMLView": {
+      "message": "Использовать базовую HTML-версию"
+   },
+   "useInboxByGmail": {
+      "message": "Использовать Inbox (от Gmail)"
+   },
+   "useTheseColors": {
+      "message": "Использовать эти цвета"
+   },
+   "useTheseColorsToolTip": {
+      "message": "Укажите один или несколько цветов. Попробуйте настроить цвета как в вашей теме Gmail или под цвет логотипа вашей компании. Затем установите флажок \"Использовать эти цвета\", чтобы сохранить их. Это повлияет на всплывающее окно предварительного просмотра и на окно расширенных уведомлений."
+   },
+   "voice": {
+      "message": "Голос"
+   },
+   "voiceInput": {
+      "message": "Голосовой ввод"
+   },
+   "voiceInputSuggestions": {
+      "message": "Включить предложения"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Только при бездействии более"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "Используйте эту опцию, если вы хотите слышать голосовое оповещение при бездействии компьютера в течении определенного времени"
+   },
+   "voiceTest": {
+      "message": "Тестовое сообщение"
+   },
+   "volume": {
+      "message": "Громкость"
+   },
+   "voythas": {
+      "message": "Voythas"
+   },
+   "voythasToolTip": {
+      "message": "Значки созданы VoYtHAs"
+   },
+   "welcome": {
+      "message": "Добро пожаловать"
+   },
+   "wholeEmail": {
+      "message": "всё сообщение"
+   },
+   "whyContribute": {
+      "message": "Почему я должен вносить вклад?"
+   },
+   "whyContributeReason1": {
+      "message": "Я еженедельно уделяю много времени на работу $1 по Вашим предложениям"
+   },
+   "whyContributeReason1_1": {
+      "message": "все мои расширения"
+   },
+   "whyContributeReason2": {
+      "message": "Я достаточно быстро отвечаю на Ваши комментарии и отзывы"
+   },
+   "whyContributeReason3": {
+      "message": "Вы можете внести свой вклад, осуществив перевод любой суммы. Я буду Вам благодарен!"
+   },
+   "whyContributeReason4": {
+      "message": "Благодаря Вашим $1, это расширение будет становиться лучше!"
+   },
+   "whyContributeReason4_1": {
+      "message": "отзывам"
+   },
+   "whyContributeReason5": {
+      "message": "Узнать больше обо мне $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Будьте более опытными пользователями продуктов Google  как для себя, так и для своего бизнеса"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Намного дешевле $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "width": {
+      "message": "Ширина"
+   },
+   "woman": {
+      "message": "Женщина"
+   },
+   "yellow": {
+      "message": "Жёлтый"
+   },
+   "yesterday": {
+      "message": "Вчера"
+   },
+   "youMustChooseTheCheckerPlusPopupWindow": {
+      "message": "Вы должны переключиться на всплывающие окна \u003Ci>Cheker Plus\u003C/i>  для просмотра этих параметров."
+   },
+   "zoom": {
+      "message": "Масштаб"
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Diese Erweiterung verhindert das senden von Lesebestätigung bei Facebook"
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Facebook™ Chat Privacy"
+   },
+   "disable": {
+      "message": "Pausieren"
+   },
+   "enable": {
+      "message": "Aktivieren"
+   },
+   "likeTeaser": {
+      "description": "Will be shown in to modal",
+      "message": "Please support us by sharing this extension"
+   },
+   "like_on_facebook": {
+      "message": "Bewerte uns auf Facebook"
+   },
+   "rate_this_extension": {
+      "message": "Bewerte uns im Webstore"
+   }
+}

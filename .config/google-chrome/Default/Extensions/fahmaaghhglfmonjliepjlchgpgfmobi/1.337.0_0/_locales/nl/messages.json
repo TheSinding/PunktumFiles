@@ -1,0 +1,4453 @@
+{
+   "1001360787461904844": {
+      "message": "Meer opties voor $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1008774365351112026": {
+      "message": "Kenmerk '$REL_NO_FOLLOW$' toevoegen ($LINK_START$Meer informatie$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normaal"
+   },
+   "1026450251988549367": {
+      "message": "Onlangs aangepast"
+   },
+   "1035476379650787996": {
+      "message": "Kan je verzoek niet voltooien"
+   },
+   "1035734413919296": {
+      "message": "Muziek toevoegen"
+   },
+   "1044946868924904798": {
+      "message": "Geen verbinding"
+   },
+   "1046700819368184074": {
+      "message": "Downloadmap"
+   },
+   "1047094450854611275": {
+      "message": "Met de minispeler kun je het afspelen van muziek buiten het browservenster regelen, nummers markeren als 'leuk' en de radiozender 'Ik doe een gok' afspelen."
+   },
+   "1052242579040192537": {
+      "message": "Canadees Aboriginal"
+   },
+   "10524368647766690": {
+      "message": "Nr."
+   },
+   "1054861724689881963": {
+      "message": "Gratis radio starten"
+   },
+   "1061567929494389534": {
+      "message": "Radiozenders kunnen niet worden opgehaald. Probeer het opnieuw."
+   },
+   "1061598772078003048": {
+      "message": "Interlineair annotatie-eindteken"
+   },
+   "1065557748112539713": {
+      "message": "Het downloaden van muziek wordt onderbroken"
+   },
+   "108743912460085743": {
+      "message": "Links-naar-rechts opheffen"
+   },
+   "1091846413708174942": {
+      "message": "Je podcasts"
+   },
+   "1099947980448260765": {
+      "message": "Ga naar Populairst"
+   },
+   "1105024870503318889": {
+      "message": "Mijn muziek toevoegen"
+   },
+   "113306301971655652": {
+      "message": "Links-naar-rechts-teken (LRM)"
+   },
+   "1143190206278116157": {
+      "message": "Datum: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1144407473317535723": {
+      "message": "Abonneren"
+   },
+   "1144614654642966892": {
+      "message": "Annuleer vóór de volgende factuur. Blijf luisteren tot dan."
+   },
+   "1145877575671354635": {
+      "message": "Bibliotheek vernieuwen"
+   },
+   "1147358182484006761": {
+      "message": "Winkel"
+   },
+   "1150285978886683433": {
+      "message": "Herhaaldelijk schakelen tussen uitgeschakeld, alle en één."
+   },
+   "1152313922995021532": {
+      "message": "64-bits RPM (voor Fedora/openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 nummer toegevoegd}other{ {NUM_TRANSFERRED_TRACKS_2} nummers toegevoegd}}"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuut}other{{TEXT} minuten}}"
+   },
+   "1181311234668957012": {
+      "message": "Automatische afspeellijst"
+   },
+   "1182611188595867762": {
+      "message": "2. Wanneer het installatieprogramma wordt geopend, volg je de instructies om Music Manager in te stellen."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 nummer verwijderd}other{# nummers verwijderd}}"
+   },
+   "1189933439482480473": {
+      "message": "Muzieklimiet bereikt."
+   },
+   "1207788277335800169": {
+      "message": "Alle video's van $ARTIST_NAME$ bekijken",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1220984280262077870": {
+      "message": "Gratis en gekocht"
+   },
+   "1227051853106034748": {
+      "message": "Kan niet zoeken naar voorbeelden"
+   },
+   "1229167447861422460": {
+      "message": "Kan muziek niet op twee apparaten tegelijk afspelen"
+   },
+   "1233161892151828431": {
+      "message": "Cursief"
+   },
+   "1238358838717941284": {
+      "message": "Voorbeeld"
+   },
+   "1248987958177161816": {
+      "message": "HTML-bron bewerken"
+   },
+   "1249846405947826980": {
+      "message": "Vorige aflevering"
+   },
+   "1257583932123379891": {
+      "message": "Podcasts bekijken op basis van"
+   },
+   "1275783181441501836": {
+      "message": "Paragraafscheidingsteken"
+   },
+   "128003684539571261": {
+      "message": "Valuta"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcasts}=1{1 podcast}other{# podcasts}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Open de applicatiemap en dubbelklik op Music Manager."
+   },
+   "1291021741111868686": {
+      "message": "64-bits .deb (voor Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Door zenders browsen op basis van"
+   },
+   "1294292881529533213": {
+      "message": "Google Play Muziek-logo"
+   },
+   "1295614462098694869": {
+      "message": "Voorbeeld"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "129923171865835166": {
+      "message": "'Ik doe een gok'-radio"
+   },
+   "1303647473723340887": {
+      "message": "Het item boven de huidige selectie selecteren"
+   },
+   "131636849522359023": {
+      "message": "Aangeboden onder $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1330646976582013113": {
+      "message": "sluiten"
+   },
+   "1341185708905265042": {
+      "message": "Discnummer"
+   },
+   "1345511732360402048": {
+      "message": "Oudturks"
+   },
+   "1348774649041038169": {
+      "message": "Navigatie"
+   },
+   "1370021378292702047": {
+      "message": "'$SONG_TITLE$' is als onjuiste overeenkomst gemarkeerd.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Shuffle in- en uitschakelen"
+   },
+   "1372788343021542418": {
+      "message": "Als je de minispeler wilt gebruiken, log je in bij Google Play Muziek op internet."
+   },
+   "1382005717519484629": {
+      "message": "Witregels"
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Onbeperkte muziek$START_BREAK$van Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$, klik om te selecteren.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1418504114877368118": {
+      "message": "Geschreven door $LYRICIST_LIST_JOINED$",
+      "placeholders": {
+         "LYRICIST_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Aangepaste kleur invoeren, bijv. roze, #F00, #D015FF of rgb(100, 50, 25)"
+   },
+   "1429336442713571177": {
+      "message": "Lijsten met nummers"
+   },
+   "1430061825590893722": {
+      "message": "Deze link in een nieuw venster openen"
+   },
+   "1433391846042476830": {
+      "message": "Gisteren"
+   },
+   "1435809990540516997": {
+      "message": "Muziek toevoegen"
+   },
+   "1444145448465775598": {
+      "message": "Annuleren"
+   },
+   "1453708590388513852": {
+      "message": "Technisch"
+   },
+   "1464072562214937907": {
+      "message": "Jaar"
+   },
+   "147527058386222778": {
+      "message": "Streamkwaliteit"
+   },
+   "1483596119706515744": {
+      "message": "Lontare"
+   },
+   "1486857306659217748": {
+      "message": "Overslaan"
+   },
+   "1487523984872879956": {
+      "message": "Vierkant (em-spatie)"
+   },
+   "1490665788833937521": {
+      "message": "Probeer de minispeler"
+   },
+   "1494946186465201682": {
+      "message": "Annuleren"
+   },
+   "1501458973427096787": {
+      "message": "Alles offline luisteren"
+   },
+   "1504214836895903832": {
+      "message": "Kan geen verbinding maken"
+   },
+   "1517865562673472241": {
+      "message": "1. Wacht tot het installatieprogramma is voltooid."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Kan 1 nummer niet downloaden}other{ Kan {NUM_FAILURES_2} nummers niet downloaden}}"
+   },
+   "1558113021895652337": {
+      "message": "Bestand is beveiligd door DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1567787058497621332": {
+      "message": "Je muziek op één plek opslaan. Luister op je smartphone, tablet en op het web."
+   },
+   "1573657685592390905": {
+      "message": "Map selecteren..."
+   },
+   "1575810254412583888": {
+      "message": "Tracks"
+   },
+   "1595478688335662057": {
+      "message": "Een Google-gebruiker"
+   },
+   "1598061158801514509": {
+      "message": "Het downloaden van muziek wordt hervat"
+   },
+   "1607904075839741217": {
+      "message": "Selecteren op je computer"
+   },
+   "1615800076127848008": {
+      "message": "Tai Le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{over # uur}=1{over # uur}other{over # uur}}"
+   },
+   "1635932785663944786": {
+      "message": "Nummer"
+   },
+   "1658346838703079243": {
+      "message": "Wijzigen"
+   },
+   "1664100143082435029": {
+      "message": "Annuleren"
+   },
+   "1666765550993208796": {
+      "message": "Komen deze nummers niet overeen?"
+   },
+   "1673135862760647009": {
+      "message": "Geen advertenties, onbeperkt nummers overslaan"
+   },
+   "1676480944844752785": {
+      "message": "Automatische afspeellijsten"
+   },
+   "1686917835491599951": {
+      "message": "Onlangs toegevoegd aan Mijn bibliotheek"
+   },
+   "1689044830718067443": {
+      "message": "De installatie wordt over enkele seconden automatisch gestart. $START_LINK$Hulp nodig$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1689448196820298645": {
+      "message": "Aankomende concerten"
+   },
+   "1698114086921246480": {
+      "message": "Afmelden"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Muziek"
+   },
+   "1709114386311494800": {
+      "message": "Koppelen"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Je bent al abonnee. Kortingsbonnen zijn momenteel alleen beschikbaar voor nieuwe gebruikers."
+   },
+   "1722592106949807025": {
+      "message": "Foutopsporingslogboeken opslaan"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Over"
+   },
+   "1729815731089690989": {
+      "message": "Zorg dat je bent verbonden met internet"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ - bevat podcasts",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1751129087972897649": {
+      "message": "Keizerlijk Aramees"
+   },
+   "1763795268257640974": {
+      "message": "Kan niet afmelden voor afspeellijst. Probeer het opnieuw."
+   },
+   "1765521785433616250": {
+      "message": "Het downloaden start zometeen. Als dit niet het geval is, $START_SPAN$klik dan hier$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Onbekende artiest"
+   },
+   "1790640569414740156": {
+      "message": "Genres"
+   },
+   "1796702769044958723": {
+      "message": "32-bits .deb (voor Debian/Ubuntu)"
+   },
+   "1800865039213871505": {
+      "message": "Ga naar link: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play Muziek voor Chrome op $PLATFORM$-computers",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1819368767424033007": {
+      "message": "Historisch"
+   },
+   "1823843876735462104": {
+      "message": "Afspeellijsten"
+   },
+   "182621168783940405": {
+      "message": "Rechts-naar-links-teken (RLM)"
+   },
+   "1831178715211281116": {
+      "message": "Alleen bepaalde Chrome OS-apparaten komen in aanmerking voor deze promotie. Wil je nog steeds muziek zonder beperkingen?"
+   },
+   "183429683821106611": {
+      "message": "OK"
+   },
+   "1838639948466909028": {
+      "message": "Deze pagina is niet compatibel met je browser. Gebruik een van de $START_LINK$ondersteunde browsers$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "184252996364058487": {
+      "message": "0 minuten"
+   },
+   "1850859858333664648": {
+      "message": "Alle muziek"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Luister naar radio met onbeperkt overslaan van nummers$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Muzieksymbool eind frase"
+   },
+   "1865818889600889051": {
+      "message": "Your account has changed. Please refresh the page to continue."
+   },
+   "1867674656927443481": {
+      "message": "Alle nieuwe releases"
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mixen}=1{1 mix}other{# mixen}}"
+   },
+   "1869588215425319728": {
+      "message": "Het zijmenu sluiten."
+   },
+   "1872101028863972302": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ nummers gedownload",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Het item onder de huidige selectie selecteren"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1914372876923825240": {
+      "message": "Koppelen aan:"
+   },
+   "192481666606780833": {
+      "message": "Kan muziek niet afspelen"
+   },
+   "193503854366151748": {
+      "message": "Het huidige nummer als niet leuk beoordelen"
+   },
+   "1945037339176024290": {
+      "message": "Ingesloten"
+   },
+   "1947306462789680361": {
+      "message": "$NUM$ minuten geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Muzieksymbool begin frase"
+   },
+   "1962559411793600980": {
+      "message": "Avestisch"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ computers",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "Han 9-Stroke Radicals"
+   },
+   "1981857715812460988": {
+      "message": "Gerelateerde artiesten"
+   },
+   "1984987229407697795": {
+      "message": "Podcasts"
+   },
+   "1989564869397178334": {
+      "message": "Kop"
+   },
+   "1996585593795647892": {
+      "message": "Link toevoegen of verwijderen"
+   },
+   "2006786763920466492": {
+      "message": "Datum van verwijderen"
+   },
+   "2028747142234068875": {
+      "message": "Aanbevolen voor jou"
+   },
+   "2029980907058777630": {
+      "message": "Servicevoorwaarden"
+   },
+   "2032972931560484213": {
+      "message": "Door $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2035790691811675095": {
+      "message": "Abonneer je op Google Play Muziek en luister naar deze afspeellijst en miljoenen andere nummers. Voor de eerste maand worden geen kosten berekend."
+   },
+   "2038339465785978681": {
+      "message": "Geen spatiëring"
+   },
+   "2038618429165152799": {
+      "message": "Naamloos"
+   },
+   "2080060559104348538": {
+      "message": "Zuid-Aziatische scripts"
+   },
+   "2085941577249285555": {
+      "message": "Abonneren"
+   },
+   "2088175644103984799": {
+      "message": "Khmer klinkerteken inherent Aq"
+   },
+   "2093026227428526289": {
+      "message": "Deze aanbieding is alleen beschikbaar op bepaalde nieuwe Chromebooks in landen waar de abonnementsservice Google Play Muziek $START_LINK$beschikbaar is$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "En-streepje"
+   },
+   "2101525118384454593": {
+      "message": "Shuffelen van nummers uitschakelen"
+   },
+   "2102825898069375693": {
+      "message": "Menu"
+   },
+   "2107375315384298887": {
+      "message": "Subscript"
+   },
+   "2109622269343579329": {
+      "message": "Ongeldig e-mailadres"
+   },
+   "2139100152161431685": {
+      "message": "Je muziek is tijdelijk niet beschikbaar op dit apparaat. Probeer het later opnieuw. $START_LINK$Hulp$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Sluiten"
+   },
+   "2145060893030204211": {
+      "message": "We kunnen je niet meer informatie geven. Probeer het later opnieuw."
+   },
+   "2149165958319691680": {
+      "message": "Kopen"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 nummers}=1{1 nummer}other{{NUM_SONGS_2} nummers}}"
+   },
+   "2152998011161774228": {
+      "message": "g en vervolgens h"
+   },
+   "2158830056128036057": {
+      "message": "Je muziekbestanden worden verwerkt…"
+   },
+   "2159130950882492111": {
+      "message": "Annuleren"
+   },
+   "216513153459932308": {
+      "message": "Gedeelten/Gerelateerd"
+   },
+   "2173312720188441245": {
+      "message": "Koptisch"
+   },
+   "2187022653493279712": {
+      "message": "g en vervolgens e"
+   },
+   "2203397136690479355": {
+      "message": "Bestand kan niet worden verwerkt"
+   },
+   "2205522058604794595": {
+      "message": "Afrikaanse scripts"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2214224657661107347": {
+      "message": "Cadeau verzenden"
+   },
+   "2220879710364134067": {
+      "message": "De geselecteerde nummers bewerken"
+   },
+   "2239551688895104696": {
+      "message": "Het afspeellijstmenu in-/uitschakelen"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Muziek: mediamappen kiezen"
+   },
+   "2252825622480483246": {
+      "message": "Meroïtisch cursief"
+   },
+   "2256597604224604671": {
+      "message": "$TITLE$ onderbreken",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2262446869382672016": {
+      "message": "Met Google Play Muziek kun je eenvoudig luisteren naar je muziek op je smartphone, tablet en op het web."
+   },
+   "2270666830264677427": {
+      "message": "Er kunnen maximaal $MAX_TRACKS_IN_ZIP$ nummers tegelijk worden gedownload. Selecteer minder nummers en probeer het opnieuw.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2272173107172176330": {
+      "message": "$STATION_TITLE$ afspelen",
+      "placeholders": {
+         "STATION_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Het huidige nummer als leuk beoordelen"
+   },
+   "2280774384387096759": {
+      "message": "Sleep nummers of mappen hiernaartoe om muziek aan je bibliotheek toe te voegen."
+   },
+   "2296431514706414883": {
+      "message": "1. Dubbelklik in de downloadbalk 'Downloads' op MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Google Play Muziek is niet beschikbaar in je land."
+   },
+   "2299183036960756600": {
+      "message": "over $NUM$ dag",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2303154715443443305": {
+      "message": "Music Manager wordt gedownload..."
+   },
+   "2303727423829841771": {
+      "message": "Het lijkt erop dat JavaScript in je browser is uitgeschakeld. JavaScript moet zijn ingeschakeld voor een correcte werking van Google Play."
+   },
+   "2304955983019633604": {
+      "message": "Luister naar nummers van albums die vergelijkbaar zijn met $TITLE$ van $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "2309808536212982229": {
+      "message": "Activiteiten"
+   },
+   "2309894433432831059": {
+      "message": "Presentatievorm voor verticaal streepje (12-punts letterbreedte)"
+   },
+   "2311151671924532713": {
+      "message": "Verwijderen uit afspeellijst"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$%",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "231679111972850796": {
+      "message": "Toegevoegd"
+   },
+   "2321398646644344846": {
+      "message": "Morgen"
+   },
+   "2328554046256236832": {
+      "message": "Niet-ondersteund FLAC-bestand"
+   },
+   "2328629775851907569": {
+      "message": "Met Google Play Muziek kun je gemakkelijk je favoriete muziek beluisteren op Android, iOS en internet."
+   },
+   "2329070756809480856": {
+      "message": "Album: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2339250039074511222": {
+      "message": "Deze link kan niet worden getest."
+   },
+   "2339750206850776348": {
+      "message": "Lycisch"
+   },
+   "2357805327369816634": {
+      "message": "Abonneer je op alle muziek, zonder advertenties"
+   },
+   "2359922567074115383": {
+      "message": "Albumhoes wissen"
+   },
+   "2372448112806402757": {
+      "message": "Volgende aflevering"
+   },
+   "2376735487384008742": {
+      "message": "Golvend koppelstreepje"
+   },
+   "2378357177170124823": {
+      "message": "Decimaal"
+   },
+   "2382000105167193834": {
+      "message": "Gujarati"
+   },
+   "2383360664777254925": {
+      "message": "Het navigatiemenu in-/uitschakelen"
+   },
+   "2390557292924554291": {
+      "message": "Verbindingselement (breedte nul)"
+   },
+   "2407755817901433243": {
+      "message": "Wissel een couponcode in voor een Google Play Muziek-abonnement."
+   },
+   "2434131766046654438": {
+      "message": "Lineair B"
+   },
+   "2443885011055165607": {
+      "message": "Selecteer je downloadpakket:"
+   },
+   "2447745837421769983": {
+      "message": "Gebruik voor de beste downloadervaring Google Play Muziek voor Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Onbekende nummer"
+   },
+   "247847652023697955": {
+      "message": "Muzieksymbool begin boogje"
+   },
+   "2483680006830369490": {
+      "message": "g daarna p"
+   },
+   "249032153569378306": {
+      "message": "$NUM$ uur geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2492300395471245755": {
+      "message": "Artiest"
+   },
+   "250478839881665936": {
+      "message": "g en vervolgens s"
+   },
+   "2506718393130237030": {
+      "message": "Niet-ondersteunde indeling"
+   },
+   "2512060739274636260": {
+      "message": "Nieuw Tai Lue"
+   },
+   "2513370824993175045": {
+      "message": "over $NUM$ dagen",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Muzieksymbool eind balk"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "E-mailadres"
+   },
+   "2534296837124481552": {
+      "message": "Je betaalmethode wijzigen - $START_LINK$Meer informatie$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2537475974842549685": {
+      "message": "Advertentie sluiten"
+   },
+   "2538866057253567409": {
+      "message": "Deseret"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Log in$END_LINK$ om te zien of er Chrome Goodies beschikbaar zijn voor jou.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Voorwaarden"
+   },
+   "2550362371114851075": {
+      "message": "Normaal"
+   },
+   "2558836909854550547": {
+      "message": "Normaal"
+   },
+   "2565011230196288502": {
+      "message": "over $NUM$ minuut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2567679469483426925": {
+      "message": "Deze extra is momenteel niet beschikbaar."
+   },
+   "2570105377175439523": {
+      "message": "KOPEN"
+   },
+   "2570991997865478028": {
+      "message": "Alle albums voor $ARTIST_NAME$ bekijken",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2597193119810674616": {
+      "message": "Abonneer je op Google Play Muziek en krijg kosteloos $OFFER_LENGTH_DAYS$ dagen toegang.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Voorgesteld: $FIRST$ van $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "26023870081082032": {
+      "message": "Locatie: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2610851846609508423": {
+      "message": "Op basis van ASCII"
+   },
+   "2626751888211361777": {
+      "message": "Meer topnummers bekijken"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ nieuw)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Music Manager is alleen beschikbaar voor Windows, Mac en Linux."
+   },
+   "2655732800763953732": {
+      "message": "$TITLE$-instantmix",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Opmerking"
+   },
+   "2665785172586453916": {
+      "message": "Advertentie-afbeelding gerelateerd aan de huidige audioadvertentie"
+   },
+   "2671314447505154224": {
+      "message": "Populairste items"
+   },
+   "2673412443855817873": {
+      "message": "Niet leuk"
+   },
+   "2697517010706562809": {
+      "message": "Krijg toegang tot meer dan 35 miljoen nummers en onbeperkte radio."
+   },
+   "2707074873770010705": {
+      "message": "Je apparaat komt niet in aanmerking voor deze promotie. Je kunt echter nog steeds onbeperkt naar muziek luisteren met Google Play Muziek. Probeer dit 30 dagen gratis."
+   },
+   "2714752802779336020": {
+      "message": "Google Play Muziek"
+   },
+   "2721786517672194900": {
+      "message": "Deze limiet is niet van toepassing wanneer je $START_SPAN$Google Play Muziek voor Chrome$END_SPAN$ gebruikt om te downloaden.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "272553825640256879": {
+      "message": "Volledige breedte koppelteken/min-teken"
+   },
+   "2728721019095728485": {
+      "message": "Hoog"
+   },
+   "2732888649509914313": {
+      "message": "Mongools"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Te veel bestanden in account"
+   },
+   "2777498733015254880": {
+      "message": "Help en feedback"
+   },
+   "2787148143326073325": {
+      "message": "Sound Search"
+   },
+   "2801094315807039135": {
+      "message": "Tai Viet"
+   },
+   "280973959199634338": {
+      "message": "YouTube-video weergeven"
+   },
+   "2809945145618753350": {
+      "message": "4-per-em-spatie"
+   },
+   "2811509810457668932": {
+      "message": "Fonologie (X-IPA)"
+   },
+   "2826705908408853328": {
+      "message": "We moeten je doorsturen naar Google Play om de configuratie te voltooien. We brengen je terug naar Play Muziek wanneer je klaar bent."
+   },
+   "2834324594183341424": {
+      "message": "Je bestaande muziekverzameling toevoegen aan Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Mijn bibliotheek is leeg"
+   },
+   "2856670286248433202": {
+      "message": "Advertentie"
+   },
+   "2857356182021649243": {
+      "message": "Ga naar mijn nummers"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{# minuten geleden}=1{# minuut geleden}other{# minuten geleden}}"
+   },
+   "2881621988818346391": {
+      "message": "Ja"
+   },
+   "2881776379326317082": {
+      "message": "Altijd deze locatie gebruiken"
+   },
+   "2896688457548770791": {
+      "message": "Citaat"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 zenders}=1{1 zender}other{# zenders}}"
+   },
+   "2910989560121976550": {
+      "message": "Deze link testen"
+   },
+   "2918448970074432239": {
+      "message": "HTML bewerken"
+   },
+   "2933981780439742153": {
+      "message": "Minispeler weergeven"
+   },
+   "2941843189430218247": {
+      "message": "Shift q"
+   },
+   "29485262661698811": {
+      "message": "Arabisch einde van Ayah"
+   },
+   "2954874827338778826": {
+      "message": "Webadres"
+   },
+   "2968801718595938980": {
+      "message": "Hangul (Koreaans)"
+   },
+   "2972470287059252937": {
+      "message": "Smalle ruimte voor niet afbreken"
+   },
+   "2973169743818593793": {
+      "message": "Han 5-Stroke Radicals"
+   },
+   "29734255682325103": {
+      "message": "Rechts uitlijnen"
+   },
+   "2980847012388128321": {
+      "message": "Spatie (breedte nul)"
+   },
+   "2980960654248329234": {
+      "message": "Spatie (haardikte)"
+   },
+   "2982463607788408741": {
+      "message": "Je bent uitgelogd van je Google-account. Vernieuw de pagina om weer in te loggen."
+   },
+   "2983216790003568156": {
+      "message": "Er kan geen beveiligde verbinding tot stand worden gebracht"
+   },
+   "3010015422095710725": {
+      "message": "Mijn volledige bibliotheek verwijderen, inclusief gekochte muziek en muziek die is toegevoegd via mijn Google Play Muziek-abonnement ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Aanbieding inwisselen"
+   },
+   "3054851848337350805": {
+      "message": "Superscript"
+   },
+   "305815942371229357": {
+      "message": "Geen suggesties"
+   },
+   "3067310196368927236": {
+      "message": "Hebreeuwse interpunctie Maqaf"
+   },
+   "3072935047674817211": {
+      "message": "Mijn bibliotheek"
+   },
+   "308732574543176489": {
+      "message": "Kan afspeellijst niet wijzigen. Probeer het opnieuw."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} uur}other{{TEXT} uur}}"
+   },
+   "3092124279252305673": {
+      "message": "320 kbps, adaptief."
+   },
+   "309901418176428732": {
+      "message": "Podcasts"
+   },
+   "3099596419835786769": {
+      "message": "Middelgrote wiskundige spatie"
+   },
+   "3099741642167775297": {
+      "message": "Downloaden"
+   },
+   "310152014457055522": {
+      "message": "Abonneer je om elk nummer of album te kunnen afspelen"
+   },
+   "3117706868107348105": {
+      "message": "Of kopieer en plak deze link:"
+   },
+   "3125342991297920614": {
+      "message": "Kan het album niet openen. Probeer het opnieuw."
+   },
+   "3138864086144358473": {
+      "message": "Han 11..17-Stroke Radicals"
+   },
+   "314582171813087287": {
+      "message": "Vast koppelteken"
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Ga naar mijn artiesten"
+   },
+   "31530890844887887": {
+      "message": "Voortgang bijhouden"
+   },
+   "3154951825194528737": {
+      "message": "Het downloaden van muziek wordt geannuleerd"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Weet je niet zeker wat je in het vak moet zetten?$END_BOLD$ Zoek eerst de pagina waarnaar je een link wilt opnemen. (Een $SEARCH_ENGINE_LINK$zoekmachine$END_LINK$ kan hierbij handig zijn.) Kopieer vervolgens het webadres vanuit het vak in de adresbalk van je browser en plak dit in het bovenstaande vak.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3163044740176820503": {
+      "message": "Aan de slag"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Weet je zeker dat je het geselecteerde nummer wilt verwijderen?}other{Weet je zeker dat je de geselecteerde nummers wilt verwijderen?}}"
+   },
+   "3167418181223330667": {
+      "message": "Modifier"
+   },
+   "3176546103367076011": {
+      "message": "Alle topnummers van $ARTIST_NAME$ bekijken",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3182977091552629211": {
+      "message": "Beweeg over elke cel voor de tekennaam."
+   },
+   "3185279424082070029": {
+      "message": "Zorg ervoor dat Music Manager wordt uitgevoerd op de computer waarop je dit nummer opslaat en dat deze computer verbinding heeft met internet. Het nummer wordt binnen een dag opnieuw geüpload."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{# dagen geleden}=1{# dag geleden}other{# dagen geleden}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 nummers}=1{1 nummer}other{# nummers}}"
+   },
+   "3196641196902208501": {
+      "message": "Koppelen aan een e-mailadres"
+   },
+   "3198123723060667787": {
+      "message": "Wanneer"
+   },
+   "3213972439514824911": {
+      "message": "Leuk"
+   },
+   "3220162149541031829": {
+      "message": "Songteksten"
+   },
+   "3225804441370198247": {
+      "message": "Al mijn nummers - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing / Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "over $NUM$ minuten",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Geen"
+   },
+   "3237206613586329862": {
+      "message": "Lydisch"
+   },
+   "3242312278127054660": {
+      "message": "Rekenen - Alfanumeriek"
+   },
+   "3244003434432113241": {
+      "message": "Afspelen"
+   },
+   "3245264696956198335": {
+      "message": "Indeling"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Je hebt geen nummers geselecteerd om naar je computer te downloaden.}=1{Weet je zeker dat je het geselecteerde nummer naar je computer wilt downloaden?}other{ Weet je zeker dat je de geselecteerde nummers naar je computer wilt downloaden?}}"
+   },
+   "3255560926299154386": {
+      "message": "Neem je iTunes-muziek met je mee"
+   },
+   "32574714261860078": {
+      "message": "Luisteren"
+   },
+   "3277700190370010726": {
+      "message": "De Google Play muziekpromotie voor $START_BOLD$$USER_EMAIL$$END_BOLD$ is tijdelijk niet beschikbaar. Probeer het later opnieuw.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3299099956700438963": {
+      "message": "Amerikaanse scripts"
+   },
+   "3307635842875172003": {
+      "message": "Ga naar Mijn mixen"
+   },
+   "3310099093781584673": {
+      "message": "g daarna m"
+   },
+   "3311269073804742952": {
+      "message": "Nu luisteren"
+   },
+   "3323193679372503780": {
+      "message": "Nee, bedankt"
+   },
+   "3325286951950012705": {
+      "message": "Tickets vinden"
+   },
+   "3326102734049980036": {
+      "message": "$DURATION$ resterend",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Alle zoekresultaten voor afspeellijsten bekijken"
+   },
+   "3335728816495350082": {
+      "message": "Topnummers - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Hoofdspeler weergeven"
+   },
+   "3377006691156456363": {
+      "message": "Deelbare link"
+   },
+   "3381844160250536550": {
+      "message": "Inloggen bij Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Hebreeuws"
+   },
+   "3390725557414108843": {
+      "message": "Han 4-Stroke Radicals"
+   },
+   "3410315382362912156": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ is momenteel privé. Maak de afspeellijst openbaar als je deze wilt delen.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Prullenbak"
+   },
+   "3419681791450150574": {
+      "message": "Voortgang"
+   },
+   "342127282404571667": {
+      "message": "Google Play Muziek voor Chrome OS"
+   },
+   "3431116501598202644": {
+      "message": "Onbekend album"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Naar welke URL moet deze link verwijzen?"
+   },
+   "3445096196133856884": {
+      "message": "Khmer klinkerteken inherent Aa"
+   },
+   "3462013384451950074": {
+      "message": "over $NUM$ uur",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "Door $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Luister overal naar al je muziek. Voeg gewoon muziek van je computer toe aan Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Interpunctie"
+   },
+   "3483193414050571677": {
+      "message": "Niet leuk"
+   },
+   "3483958460407305290": {
+      "message": "Doorhalen"
+   },
+   "3491417595697100862": {
+      "message": "Aangeboden door $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Het volume van de speler verlagen"
+   },
+   "3519190023725081398": {
+      "message": "g en vervolgens b"
+   },
+   "352192086869301337": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ van $NUM_TOTAL_TRACKS$ toegevoegd",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Kortingsbon voor Google Play Muziek inwisselen"
+   },
+   "3532209277261496348": {
+      "message": "Fout. Probeer het opnieuw."
+   },
+   "3545785371861413299": {
+      "message": "Gratis proefperiode starten"
+   },
+   "3545929198870894557": {
+      "message": "Ga naar Mijn afspeellijsten"
+   },
+   "3547729876847212201": {
+      "message": "En-spatie"
+   },
+   "3565556274692077023": {
+      "message": "Em-streepje"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Altijd hoog"
+   },
+   "3587102960969248092": {
+      "message": "Aanbevolen nieuwe releases"
+   },
+   "3599940994748621516": {
+      "message": "Abonneer je op Google Play Muziek en luister naar dit nummer en miljoenen andere nummers. Voor de eerste maand worden geen kosten berekend."
+   },
+   "3601632218457952692": {
+      "message": "Yi-taal"
+   },
+   "3605470624800934973": {
+      "message": "Weet je zeker dat je het geselecteerde album wilt verwijderen?"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "Leuk"
+   },
+   "3629941396858927174": {
+      "message": "Meer opties sluiten"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3638177113998814964": {
+      "message": "$TARGET$ laden",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Zoekopdracht wissen"
+   },
+   "3649938620817393740": {
+      "message": "Klein"
+   },
+   "3650710698506236041": {
+      "message": "Hexadecimale kleur"
+   },
+   "3688803517283872334": {
+      "message": "Halve breedte Hangul-opvulteken"
+   },
+   "3693467228074689327": {
+      "message": "Doorgaan"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "370216116393129031": {
+      "message": "Wachtrij openen"
+   },
+   "3748613043647922063": {
+      "message": "Onzichtbaar scheidingsteken"
+   },
+   "3748893353086104812": {
+      "message": "Lokale cache wissen en alle gegevens voor nummers en afspeellijsten vernieuwen."
+   },
+   "3762887990641668199": {
+      "message": "Armeens"
+   },
+   "3768927257183755959": {
+      "message": "Opslaan"
+   },
+   "3770594827970207417": {
+      "message": "Tussenkop"
+   },
+   "3772706138160001780": {
+      "message": "Horizontale balk"
+   },
+   "3774172828626803355": {
+      "message": "Cherokee"
+   },
+   "3782346097595894324": {
+      "message": "De verbinding met de server is mislukt. Probeer het later opnieuw."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3789779144889291801": {
+      "message": "Muziek die je hebt gekocht op of geüpload naar Google Play, gemakkelijk downloaden."
+   },
+   "3795262960327716692": {
+      "message": "Als je een nummer wilt toevoegen, sleept je het naar de naam van de afspeellijst in de zijbalk"
+   },
+   "3801288115809478084": {
+      "message": "OK"
+   },
+   "3807050606425965472": {
+      "message": "De volgende vensters worden gesloten:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolitisch"
+   },
+   "3839679337223320857": {
+      "message": "Ingelogd als $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radiozender $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Naar Google Play Muziek"
+   },
+   "3861583677596279097": {
+      "message": "Rapport vereist aandacht van engineers binnen de volgende werkdag"
+   },
+   "3865248559890962003": {
+      "message": "Voorgesteld: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Je kortingsbon voor Google Play Muziek inwisselen"
+   },
+   "3867367359959377145": {
+      "message": "FOUT: '$COLOR$' is geen geldige kleur.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3868119883080041455": {
+      "message": "$TITLE$-radio",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Log in bij Google Play Muziek op internet voordat je de Chrome-app gebruikt."
+   },
+   "3873111853443561979": {
+      "message": "Onderstrepen"
+   },
+   "3885497195825665706": {
+      "message": "Volgende"
+   },
+   "3890078112831612818": {
+      "message": "Zorg ervoor dat Music Manager wordt uitgevoerd op de computer waarop je deze nummers opslaat en dat deze computer verbinding heeft met internet. De nummers worden binnen een dag opnieuw geüpload."
+   },
+   "3901889124080689046": {
+      "message": "Bestand kan niet worden geopend"
+   },
+   "3904027274600624417": {
+      "message": "Iedereen kan dit vinden en beluisteren. Perfect om te delen."
+   },
+   "3905289916217023036": {
+      "message": "Alle gekochte of geüploade muziek definitief verwijderen."
+   },
+   "3905371920037624514": {
+      "message": "Minder gebruikelijk"
+   },
+   "3936240281193464170": {
+      "message": "Vernieuwen"
+   },
+   "3941019069704400974": {
+      "message": "Weet je zeker dat je de geschiedenis die wordt gebruikt om gepersonaliseerde aanbevelingen te leveren, definitief wilt verwijderen? Als je dit doet, worden je beoordelingen en het aantal keren afspelen voor afzonderlijke tracks niet verwijderd."
+   },
+   "3949911572988594237": {
+      "message": "Een afspeellijst maken"
+   },
+   "3973260061047030021": {
+      "message": "Muziek afspelen of pauzeren"
+   },
+   "3973931101896534797": {
+      "message": "Datum"
+   },
+   "3975141127799341224": {
+      "message": "Koppelen aan een pagina of bestand ergens anders op internet"
+   },
+   "3980763395698221887": {
+      "message": "{NUM_SONGS,plural, =1{1 nummer toegevoegd aan je bibliotheek.}other{# nummers toegevoegd aan je bibliotheek.}}"
+   },
+   "3981724709755713539": {
+      "message": "Recente afspeellijsten"
+   },
+   "3982112843644394207": {
+      "message": "2. Dubbelklik in de downloadbalk 'Downloads' van je browser op musicmanagerinstaller.exe om het bestand te openen."
+   },
+   "3988935995558346502": {
+      "message": "Cyrillisch"
+   },
+   "3993484408454658640": {
+      "message": "Parental controls:"
+   },
+   "3996699777412450193": {
+      "message": "Pijlen"
+   },
+   "4018574576796390012": {
+      "message": "Weet je zeker dat je de afspeellijst '$PLAYLIST_NAME$' $START_SPAN$definitief wilt verwijderen$END_SPAN$?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4032125743169636815": {
+      "message": " &bull; "
+   },
+   "4034257783857644883": {
+      "message": "Han 6-Stroke Radicals"
+   },
+   "4044663630621281686": {
+      "message": "Arabisch teken Safha"
+   },
+   "4055580652532057510": {
+      "message": "naamloos"
+   },
+   "405696346909038516": {
+      "message": "Alle zoekresultaten voor podcasts bekijken"
+   },
+   "4061274470931156807": {
+      "message": "Ol Chiki"
+   },
+   "4063027937991598166": {
+      "message": "De huidige selectie verwijderen"
+   },
+   "4071581399160046214": {
+      "message": "Home"
+   },
+   "4075286221500750156": {
+      "message": "Versie: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Kan je computer niet identificeren."
+   },
+   "4086606389696938932": {
+      "message": "Account"
+   },
+   "4087074177670472082": {
+      "message": "Interlineair annotatie-anker"
+   },
+   "4091426921184034649": {
+      "message": "Abonnement upgraden"
+   },
+   "4110926661719376304": {
+      "message": "Informatie over het inschakelen van JavaScript"
+   },
+   "4117020323749523105": {
+      "message": "Recente activiteit"
+   },
+   "4117886182866316912": {
+      "message": "Naam voren springen in het huidige nummer"
+   },
+   "4136239927282562599": {
+      "message": "Luister naar radio met muziek die vergelijkbaar is met $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Deze afspeellijst is leeg"
+   },
+   "4141582858389779168": {
+      "message": "Meld je aan voor onbeperkte muziek voor slechts $OFFER_PRICE$ per maand en beluister miljoenen nummers, direct en zonder advertenties.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Dit nummer is gemarkeerd wegens een onjuiste overeenkomst."
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Voor het geselecteerde nummer wordt je exemplaar gebruikt in plaats van het gevonden exemplaar.}other{Voor de geselecteerde nummers worden je exemplaren gebruikt in plaats van de gevonden exemplaren.}}"
+   },
+   "4171773891797639122": {
+      "message": "Verbindingselement voor woorden"
+   },
+   "4183640380235728062": {
+      "message": "Herhalen uit. Klik om de herhalingsmodus te wijzigen."
+   },
+   "4204603140063905121": {
+      "message": "Hangul Jungseong-opvulteken"
+   },
+   "4207298621447602833": {
+      "message": "Beste overeenkomst"
+   },
+   "4210934092144627539": {
+      "message": "Onlangs afgespeeld of toegevoegd"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Speel miljoenen nummers af wanneer je maar wilt$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4237178646016840735": {
+      "message": "Abonneer je op Google Play Muziek en luister naar deze artiest en miljoenen andere nummers. Voor de eerste maand worden geen kosten berekend."
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ bij $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4260036130369028456": {
+      "message": "g en vervolgens g"
+   },
+   "4263959392548297550": {
+      "message": "Annuleren"
+   },
+   "4267092206833736997": {
+      "message": "Radiozenders"
+   },
+   "4272173055918340921": {
+      "message": "Muziekbibliotheek laden&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Altijd op de voorgrond"
+   },
+   "4285216590250755577": {
+      "message": "Je apparaat moet worden bijgewerkt voordat we kunnen controleren of dit in aanmerking komt voor deze promotie."
+   },
+   "4307428996576001111": {
+      "message": "Naar het vorige nummer"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4323912651038951928": {
+      "message": "Met deze handeling worden ook je afspeellijsten, radiozenders, beoordelingen en gegevens met betrekking tot aantal keren afgespeeld verwijderd."
+   },
+   "4326462735503400283": {
+      "message": "Weer te geven tekst:"
+   },
+   "4329609792835264496": {
+      "message": "Spatie (smal)"
+   },
+   "4330683855002842723": {
+      "message": "Meer opties weergeven"
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Geslacht en genealogisch"
+   },
+   "4340616150909089613": {
+      "message": "Is '$SONG_TITLE$' gekoppeld aan een ander nummer?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "De technologie voor het coderen van MPEG Layer-3-audio is onder licentie van Fraunhofer IIS en Thomson. Advanced Audio Coding (AAC) wordt gebruikt onder een licentie die wordt beheerd door de Via Licensing Corporation. Google Play bevat bepaalde software van derden waarvoor kennisgevingen en/of aanvullende Algemene voorwaarden vereist zijn. Deze vereiste kennisgevingen en/of aanvullende voorwaarden voor software van derden zijn te vinden op onze $START_LINK$pagina met openbaarmakingen van derden$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Muziek toevoegen van $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Block music marked explicit by content providers."
+   },
+   "437655423845564400": {
+      "message": "Muzieklimiet bereikt. Je kunt tot $TRACK_LIMIT$ nummers uploaden.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Presentatievorm voor verticaal streepje (gemiddelde letterbreedte)"
+   },
+   "4383725505132456525": {
+      "message": "Het toevoegen van muziek wordt onderbroken"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Maak je eigen afspeellijsten"
+   },
+   "4396890764725725469": {
+      "message": "Opslaan"
+   },
+   "4405073953395157822": {
+      "message": "CJK Strokes"
+   },
+   "4417144592785193889": {
+      "message": "Overige Oost-Aziatische scripts"
+   },
+   "4439965029912183539": {
+      "message": "Latijn-1 - Uitgebreid"
+   },
+   "4440466521156769623": {
+      "message": "Muzieksymbool begin balk"
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 nummers}=1{1 nummer}other{{COUNT_2} nummers}}"
+   },
+   "445149490695787423": {
+      "message": "Opnieuw inloggen"
+   },
+   "4451528286100219680": {
+      "message": "Links-naar-rechts ingesloten"
+   },
+   "4452427314943113135": {
+      "message": "Vorige"
+   },
+   "4453762904903445132": {
+      "message": "Fout bij toevoegen aan afspeellijst"
+   },
+   "4456793125873199230": {
+      "message": "Ik doe een gok-radio"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 seconden}=1{1 seconde}other{# seconden}}"
+   },
+   "4462494623248108758": {
+      "message": "Afspeellijst"
+   },
+   "4476647413225813774": {
+      "message": "Na $OFFER_LENGTH_DAYS$ dagen kun je blijven luisteren voor slechts $OFFER_PRICE$ per maand.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4478641030934315579": {
+      "message": "Gewoon"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Sommige van je nummers moeten opnieuw worden geüpload."
+   },
+   "4539806158142214585": {
+      "message": "g daarna n"
+   },
+   "4548136982356342217": {
+      "message": "Shift &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Een nieuwe instantmix maken van het geselecteerde nummer"
+   },
+   "4571105317747127957": {
+      "message": "Koppelteken met trema"
+   },
+   "4580988005648117665": {
+      "message": "Zoeken"
+   },
+   "4584074223811370739": {
+      "message": "Gratis radio bij alles wat je doet. Sla maximaal 50.000 tracks uit je persoonlijke verzameling op. Neem een abonnement voor on-demand toegang tot 35 miljoen nummers en mogelijkheden voor offline luisteren."
+   },
+   "4590981840116960737": {
+      "message": "Opmaak en witregels"
+   },
+   "4601938511613873712": {
+      "message": "Mijn apparaten"
+   },
+   "4604862300643180159": {
+      "message": "Luister naar radiozenders die passen bij elke stemming of activiteit, samengesteld door ons team van muziekexperts."
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "46135825491334308": {
+      "message": "Je muziek wordt permanent verwijderd"
+   },
+   "4624380622618270977": {
+      "message": "Nieuwe releases"
+   },
+   "4624704164651982020": {
+      "message": "Google Play Muziek voor Chrome instellen..."
+   },
+   "4629398054050196678": {
+      "message": "Muziek downloaden naar de volgende locatie:"
+   },
+   "4645609569705949286": {
+      "message": "Alleen ik"
+   },
+   "4648993989034133051": {
+      "message": "Het menu voor het momenteel geselecteerde nummer weergeven"
+   },
+   "46496227337284997": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Sla gratis tot wel 50.000 nummers op in Google Play.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Voeg je muziekcollectie toe uit iTunes, Windows Media Player of bestandsmappen.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Beluister muziek op internet of je mobiele apparaten zonder kabels of synchroniseren.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "4658362967039953209": {
+      "message": "Muziek uploaden"
+   },
+   "4662613464573260354": {
+      "message": "Voorgesteld"
+   },
+   "466976558518570343": {
+      "message": "Javaans"
+   },
+   "4675570050310339063": {
+      "message": "Kan niet worden toegevoegd. Afspeellijsten zijn beperkt tot $LIMIT$ nummers.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4675864222674894697": {
+      "message": "Shavian"
+   },
+   "4687189636655044066": {
+      "message": "Spatiebalk"
+   },
+   "4688350353916032040": {
+      "message": "Muziek voor elke stemming"
+   },
+   "4688946070631035536": {
+      "message": "Spellingcontrole"
+   },
+   "470296860672943171": {
+      "message": "Variantkeuze"
+   },
+   "4706959263210678625": {
+      "message": "Variantkeuze - $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Google Play vergelijkt je muziekbestanden met kopieën op onze server om je muziek snel te uploaden. Mogelijk maken we soms een overeenkomst met het verkeerde nummer. Als je het probleem hier meldt, wordt het nummer opnieuw geüpload."
+   },
+   "471816275243265264": {
+      "message": "Locatie"
+   },
+   "4718177503702130030": {
+      "message": "Huidige tracktijd: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4722420535011430371": {
+      "message": "YouTube-video"
+   },
+   "4724245563419948725": {
+      "message": "Google Play up-to-date houden wanneer ik nieuwe muziek aan deze locaties toevoeg"
+   },
+   "4742770396342457517": {
+      "message": "Beluisteren op Google Play Muziek"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "Malayalam"
+   },
+   "4769480851867061848": {
+      "message": "$TARGET$ afspelen",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Reden"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 genres}=1{1 genre}other{# genres}}"
+   },
+   "4782493710939339680": {
+      "message": "Delen op Twitter"
+   },
+   "4815033911915598343": {
+      "message": "Regelafstand"
+   },
+   "4830715100444503860": {
+      "message": "Kharoshthi"
+   },
+   "4836232766167652032": {
+      "message": "Shuffle $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4846792506513649213": {
+      "message": "Zenders"
+   },
+   "4862238057869188402": {
+      "message": "Mixes kunnen niet worden opgehaald. Probeer het opnieuw."
+   },
+   "4862902902120611556": {
+      "message": "Alle zoekresultaten voor artiesten bekijken"
+   },
+   "4867246087786788222": {
+      "message": "Accounttype:"
+   },
+   "4874337908897060929": {
+      "message": "Toevoegen van muziek onderbroken"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Weet je zeker dat je het geselecteerde nummer {START_SPAN_1}definitief wilt verwijderen{END_SPAN}?}other{Weet je zeker dat je de geselecteerde nummers {START_SPAN_2}definitief wilt verwijderen{END_SPAN}?}}"
+   },
+   "4878527640076219954": {
+      "message": "Tamil"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Muziek voor Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Thai"
+   },
+   "4902817035128594900": {
+      "message": "Beschrijving"
+   },
+   "4916816672463415688": {
+      "message": "Google Play Muziek proberen"
+   },
+   "4920482241656423227": {
+      "message": "Achtergrondkleur van tekst"
+   },
+   "4920946997448724158": {
+      "message": "Componist"
+   },
+   "4921096453319030731": {
+      "message": "Oudsyrisch afkortingsteken"
+   },
+   "4924253230856131215": {
+      "message": "Zuid-Oost Aziatische scripts"
+   },
+   "4930506384627295710": {
+      "message": "Instellingen"
+   },
+   "4933504665795531092": {
+      "message": "Met een abonnement op Google Play Muziek heb je toegang tot meer dan 35 miljoen nummers en onbeperkte radio."
+   },
+   "4945228064546795686": {
+      "message": "Alle zoekresultaten voor albums bekijken"
+   },
+   "4962022175989879342": {
+      "message": "Expliciet"
+   },
+   "496636435516411982": {
+      "message": "Kan nummer niet beoordelen. Probeer het opnieuw."
+   },
+   "4972659496812307928": {
+      "message": "Downloaden van muziek onderbroken"
+   },
+   "4980580439123922024": {
+      "message": "Artiesten"
+   },
+   "498913874005297914": {
+      "message": "Vet"
+   },
+   "499152283823240992": {
+      "message": "Samaritaans"
+   },
+   "4998030835388374541": {
+      "message": "Albumhoes wijzigen"
+   },
+   "5003850562831597565": {
+      "message": "Onlangs geabonneerd"
+   },
+   "5004312405043027351": {
+      "message": "Gereed"
+   },
+   "5009878480585609766": {
+      "message": "Han - Overig"
+   },
+   "5015096128854741514": {
+      "message": "Vervoer en kaarten"
+   },
+   "5018227417300461385": {
+      "message": "Koppelteken/minteken"
+   },
+   "5029496897209707807": {
+      "message": "Google Play Muziek voor Chrome moet worden geüpdatet. Dit gebeurt automatisch."
+   },
+   "5030096791460456147": {
+      "message": "De afbeelding die je probeert te slepen, is geblokkeerd door de hostsite."
+   },
+   "5032188163864418301": {
+      "message": "Pahlavi uit inscripties"
+   },
+   "5043933900720743682": {
+      "message": "Albums"
+   },
+   "5049432650728491454": {
+      "message": "Browsen door nieuwe releases, populairste items, afspeellijsten en genres"
+   },
+   "504977212575871255": {
+      "message": "Kan volgorde niet wijzigen. Probeer het opnieuw."
+   },
+   "506090363255226122": {
+      "message": "Gedraaid/Gespiegeld"
+   },
+   "5067818727161314391": {
+      "message": "Delen op Google+"
+   },
+   "5071594083516657121": {
+      "message": "Bestand is te groot"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 albums}=1{1 album}other{# albums}}"
+   },
+   "5085509606319320198": {
+      "message": "Wachtrij sluiten"
+   },
+   "5094769877856014729": {
+      "message": "Muzieksymbool eind boogje"
+   },
+   "5105404398573470156": {
+      "message": "Geometrische vormen"
+   },
+   "5113771261593769985": {
+      "message": "Cham"
+   },
+   "5115900738857721327": {
+      "message": "Combinatietekens: verbindingselement voor grafemen"
+   },
+   "5119663120731608161": {
+      "message": "Bekijk je meest recente nummers in de afspeellijst $START_LINK$Laatst toegevoegd$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{Nog één keer overslaan}other{Nog # keer overslaan}}"
+   },
+   "5128240607770067472": {
+      "message": "Over…"
+   },
+   "5141725357376719861": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ van $NUM_TOTAL_TRACKS$ gedownload",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Scannen..."
+   },
+   "5154374028369457456": {
+      "message": "Navigatiewerkbalk"
+   },
+   "5161411570094992408": {
+      "message": "Niet nu"
+   },
+   "5170992049958515620": {
+      "message": "Koppelteken"
+   },
+   "5188231675115376764": {
+      "message": "Ga naar Mijn radiozenders"
+   },
+   "5189296983337794287": {
+      "message": "Het is momenteel niet mogelijk om afbeeldingsbestanden te slepen en neer te zetten.\nSleep een afbeelding vanuit je webbrowser."
+   },
+   "5199204386348402183": {
+      "message": "Osmanya"
+   },
+   "5219596981664772816": {
+      "message": "Han 3-Stroke Radicals"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagh"
+   },
+   "5237204164514638395": {
+      "message": "Een cadeau verzenden"
+   },
+   "5256846847077792168": {
+      "message": "Woord bewerken"
+   },
+   "5274506773583039432": {
+      "message": "Weet je zeker dat je de geselecteerde afspeellijst $START_SPAN$definitief wilt verwijderen$END_SPAN$?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "Emoticons"
+   },
+   "529512324149544235": {
+      "message": "Parental Controls Settings Changed"
+   },
+   "5296780212411063886": {
+      "message": "Door zenders browsen"
+   },
+   "5302287499843369186": {
+      "message": "Google Play Muziek instellen"
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5316998074277327666": {
+      "message": "Delen van de inhoud zijn copyright&copy; van Gracenote of zijn providers."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Weet je zeker dat je het geselecteerde nummer {START_SPAN_1}definitief wilt verwijderen{END_SPAN}?}other{Weet je zeker dat je de geselecteerde nummers {START_SPAN_2}definitief wilt verwijderen{END_SPAN}?}}"
+   },
+   "5326351540290142036": {
+      "message": "Vorig nummer"
+   },
+   "5348600594194881699": {
+      "message": "Ga lekker zitten en relax. Je bent al abonnee van Google Play Muziek!"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5370332239555585516": {
+      "message": "Alle muziek, geen advertenties"
+   },
+   "5373550672011878193": {
+      "message": "Runeschrift"
+   },
+   "5378532290721565403": {
+      "message": "Nummer is met een ander Google Play Muziek-account gekocht"
+   },
+   "5379453108698089622": {
+      "message": "Ga naar Nu luisteren"
+   },
+   "5393158295657392839": {
+      "message": "Nummers gemarkeerd als niet-overeenkomend."
+   },
+   "5394607018657314633": {
+      "message": "Lijnscheidingsteken"
+   },
+   "5395035563228151731": {
+      "message": "Accountstatus:"
+   },
+   "5402470227536486835": {
+      "message": "Klein em-streepje"
+   },
+   "5404910277282887798": {
+      "message": "Fenicisch"
+   },
+   "5407092932504462689": {
+      "message": "Alle zoekresultaten voor radiozenders bekijken"
+   },
+   "5408241503383428945": {
+      "message": "Overige Europese scripts"
+   },
+   "5410695385284979104": {
+      "message": "Mix voor $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Gezinsinstellingen"
+   },
+   "5432330868773114140": {
+      "message": "Radio starten"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 afleveringen}=1{1 aflevering}other{{COUNT_2} afleveringen}}"
+   },
+   "545173546103184657": {
+      "message": "Google-account:"
+   },
+   "5452036681614307719": {
+      "message": "Onzichtbaar plusteken"
+   },
+   "5452218284042451605": {
+      "message": "Als je een kortingsbon wilt toepassen op $START_SPAN$$USER_EMAIL$$END_SPAN$, geef je hieronder je code op",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Onbekend album"
+   },
+   "548629550059508920": {
+      "message": "Kan niet uploaden omdat je al uploadt vanuit twee accounts."
+   },
+   "5492320356892382782": {
+      "message": "Definitief verwijderen"
+   },
+   "5497512316841934820": {
+      "message": "Ik doe een gok-mix"
+   },
+   "5497627646066282315": {
+      "message": "Verbinding maken"
+   },
+   "5501301484140201550": {
+      "message": "Ik doe een gok-radio"
+   },
+   "550380163414655031": {
+      "message": "In het volgende gedeelte stellen we je vragen over je smaak om de juiste nummers voor jou te vinden."
+   },
+   "5518817744725858296": {
+      "message": "Artiest die live optreedt bij je in de buurt"
+   },
+   "5524426195717036850": {
+      "message": "Je bent afgemeld voor de afspeellijst '{PLAYLIST_TITLE}'"
+   },
+   "5529194084754296998": {
+      "message": "6-per-em-spatie"
+   },
+   "5535160370665610524": {
+      "message": "Terugspringen in het huidige nummer"
+   },
+   "5541835554879897802": {
+      "message": "Sommige tracks kunnen niet worden toegevoegd aan de verzameling. Probeer het opnieuw."
+   },
+   "5562067436939843837": {
+      "message": "Beluister alle muziek in onze catalogus met miljoenen nummers, zonder advertenties."
+   },
+   "5578390534357178026": {
+      "message": "Zorg ervoor dat je bent ingelogd bij Chrome met hetzelfde Google-account."
+   },
+   "5584189341216439776": {
+      "message": "Je muziek toevoegen"
+   },
+   "5584467594910303696": {
+      "message": "Meroïtische hiërogliefen"
+   },
+   "5586233271963962252": {
+      "message": "Volgend nummer"
+   },
+   "5593848105713936399": {
+      "message": "Wachtrij"
+   },
+   "5594762259680838005": {
+      "message": "Onlangs aangeschaft"
+   },
+   "5601530442010506564": {
+      "message": "Ik snap het"
+   },
+   "5605692130698677333": {
+      "message": "Hulp nodig bij het toevoegen van muziek vanaf een computer waarop je Google Play Muziek Manager al hebt geïnstalleerd?"
+   },
+   "560627050344405345": {
+      "message": "30 seconden vooruitspringen"
+   },
+   "5607000992339442129": {
+      "message": "Binnen enkele minuten kun je beginnen met het uploaden van je muziekcollectie naar Google Play."
+   },
+   "5612959352951118540": {
+      "message": "over $NUM$ uur",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Indeling"
+   },
+   "5643561794785412000": {
+      "message": "Niet beschikbaar"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Genres kunnen niet worden opgehaald. Probeer het opnieuw."
+   },
+   "5671499827182863671": {
+      "message": "Je bent uitgelogd van dit account. Klik op de onderstaande knop om terug te keren naar je muziek."
+   },
+   "5672179805519539136": {
+      "message": "Sla je muziek op één plaats op en beluister deze via Android, iOS en internet."
+   },
+   "5674048882417502526": {
+      "message": "Rechts-naar-links opheffen"
+   },
+   "5700613377997995103": {
+      "message": "Cijfer-koppelstreepje"
+   },
+   "5728756163322931984": {
+      "message": "Beluister miljoenen nummers voor de prijs van een album"
+   },
+   "5729733224544981434": {
+      "message": "Voeg Google Play Muziek voor Chrome toe om slepen en neerzetten in te schakelen"
+   },
+   "5729741177183241567": {
+      "message": "{NUM_SONGS,plural, =1{Eén nummer toegevoegd aan afspeellijst}other{# nummers toegevoegd aan afspeellijst}}"
+   },
+   "5755038562791065032": {
+      "message": "3-per-em-spatie"
+   },
+   "5756282190263595941": {
+      "message": "Luister naar nummers die vergelijkbaar zijn met $TITLE$ van $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5761798931116026691": {
+      "message": "Kan niet converteren naar MP3"
+   },
+   "5769804815976568558": {
+      "message": "Downloadlocatie selecteren"
+   },
+   "5775493454862732930": {
+      "message": "Armeens koppelteken"
+   },
+   "5779551937076403073": {
+      "message": "Toevoegen"
+   },
+   "5784007894878825338": {
+      "message": "Vaste spatie"
+   },
+   "5814708421422669024": {
+      "message": "Kopen voor $PRICE_TEXT$",
+      "placeholders": {
+         "PRICE_TEXT": {
+            "content": "$1"
+         }
+      }
+   },
+   "5821233021244850631": {
+      "message": "Hoge kwaliteit, ongeacht de netwerkomstandigheden."
+   },
+   "5827343664961087180": {
+      "message": "Abonneren"
+   },
+   "5832435837238304779": {
+      "message": "$TITLE$ afspelen",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5854234999824329890": {
+      "message": "Je gezinsinstellingen beheren"
+   },
+   "585739095777961817": {
+      "message": "van"
+   },
+   "5862309805277852777": {
+      "message": "Naam"
+   },
+   "5863523793538309428": {
+      "message": "Je muziek wordt verwijderd. Het kan enkele uren duren voordat al je muziek is verwijderd."
+   },
+   "5888141336325862688": {
+      "message": "Ga naar Door stations browsen"
+   },
+   "5889126665299129466": {
+      "message": "Als je de minispeler wilt gebruiken, moet je zijn ingelogd bij Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Luister vanaf elke computer en vanaf maximaal tien apparaten naar je muziek.\nHet uploaden of downloaden van muziek met Music Manager of Google Play Muziek for Chrome telt mee voor je apparaatlimiet."
+   },
+   "5890243856676178044": {
+      "message": "Bengaals"
+   },
+   "5891064527381218201": {
+      "message": "Kosteloos"
+   },
+   "5914500973755757025": {
+      "message": "Lao"
+   },
+   "5918806792833250096": {
+      "message": "Spijkerschrift"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5930857699885919881": {
+      "message": "Niet-ondersteund ALAC-bestand"
+   },
+   "5946473117506990177": {
+      "message": "Geef een Google Play Muziek-abonnement cadeau"
+   },
+   "5966249470835718484": {
+      "message": "Alle albums van $ARTIST_NAME$ in Mijn bibliotheek bekijken",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "5969115558488445506": {
+      "message": "Subkop"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Een van deze nummers staat al in deze afspeellijst.}other{Sommige van deze nummers staan al in deze afspeellijst.}}"
+   },
+   "5971001229987621398": {
+      "message": "Voorgestelde nieuwe release"
+   },
+   "5973114702086214474": {
+      "message": "Alle gerelateerde artiesten bekijken"
+   },
+   "5983727894875163426": {
+      "message": "Overslaan mislukt"
+   },
+   "5987565417212088924": {
+      "message": "Sound Search-afspeellijst"
+   },
+   "5990212441459592050": {
+      "message": "Openbaar maken"
+   },
+   "599493319699637812": {
+      "message": "Nummers shuffelen"
+   },
+   "5999484363963634214": {
+      "message": "Mandaïsch"
+   },
+   "6028312506269896318": {
+      "message": "Weet je zeker dat je de autorisatie van het volgende apparaat om muziek af te spelen, wilt intrekken:"
+   },
+   "6031749391396582225": {
+      "message": "Hangul-opvulteken"
+   },
+   "60369026765465265": {
+      "message": "Zender vernieuwen"
+   },
+   "6037216776738907588": {
+      "message": "Ga naar mijn genres"
+   },
+   "6042091568356544470": {
+      "message": "Functietoepassing"
+   },
+   "6062704261604405084": {
+      "message": "Stel Google Play Muziek voor Chrome in. Voeg je muziekverzameling toe, zodat je je muziek kunt beluisteren op je telefoon, tablet en computer."
+   },
+   "6062911693359625717": {
+      "message": "Bitsnelheid: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Probeer het nu uit"
+   },
+   "6075813266646535052": {
+      "message": "Inloggen met Google"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Deze afspeellijst is momenteel leeg"
+   },
+   "6082171864197428613": {
+      "message": "Installeren"
+   },
+   "609463966491943885": {
+      "message": "Mappen selecteren"
+   },
+   "6096654177023939223": {
+      "message": "Meld je aan bij je Google-account."
+   },
+   "6097429778714195840": {
+      "message": "Ga naar Nieuwe releases"
+   },
+   "6104044107385556653": {
+      "message": "Kortingsboncodes zijn hoofdlettergevoelig"
+   },
+   "610635793308893528": {
+      "message": "Rechts-naar-links ingesloten"
+   },
+   "611472617351658381": {
+      "message": "Kan zender niet toevoegen. Probeer het opnieuw."
+   },
+   "6115840172404094036": {
+      "message": "Naar het volgende nummer gaan"
+   },
+   "6125785068086103357": {
+      "message": "Kan nummer niet verwijderen. Probeer het opnieuw."
+   },
+   "6134905866550808378": {
+      "message": "Al mijn nummers - $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Afleveringsdetails bekijken"
+   },
+   "6182267200530067545": {
+      "message": "Stel nu een terugkerend abonnement in zodat je toegang blijft houden tot muziek."
+   },
+   "6202991870072245705": {
+      "message": "Afmelden"
+   },
+   "6205568685279927986": {
+      "message": "Redjang"
+   },
+   "6211690508928257569": {
+      "message": "Oud-Syrisch"
+   },
+   "6214362172197372800": {
+      "message": "Zorg ervoor dat je een kopie van alle Google Play-aankopen hebt gedownload naar je computer voordat je doorgaat."
+   },
+   "6227307047241266902": {
+      "message": "menu 'meer opties'"
+   },
+   "6233107584508657559": {
+      "message": "Kan geen verbinding maken met Google"
+   },
+   "6233799104785293347": {
+      "message": "Upgraden"
+   },
+   "6238576599909606924": {
+      "message": "ongeldige url"
+   },
+   "6242354668932209396": {
+      "message": "Alle nummers worden herhaald. Klik om de herhalingsmodus te wijzigen."
+   },
+   "624368563085644372": {
+      "message": "Onzichtbaar vermenigvuldigingsteken"
+   },
+   "624560585652958729": {
+      "message": "Autorisatie intrekken"
+   },
+   "6254019915482435769": {
+      "message": "Schijven"
+   },
+   "6263911096488435737": {
+      "message": "Mix vernieuwen"
+   },
+   "6264257099423315684": {
+      "message": "Naar welk e-mailadres moet deze link verwijzen?"
+   },
+   "6266962164598137510": {
+      "message": "Niet leuk"
+   },
+   "6295780096198935300": {
+      "message": "Alle zoekresultaten voor nummers bekijken"
+   },
+   "630414199054820482": {
+      "message": "Interpunctie-spatie"
+   },
+   "6321629750851370838": {
+      "message": "Afspelen"
+   },
+   "6334800505555910746": {
+      "message": "Aangeboden door $XXX_1$ onder $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Fout bij uploaden"
+   },
+   "6342787164312491730": {
+      "message": "Weer, scènes en sterrenbeelden"
+   },
+   "6348993545995904615": {
+      "message": "Shuffle"
+   },
+   "6352462755178724841": {
+      "message": "Opmaak verwijderen"
+   },
+   "6354300278943883017": {
+      "message": "Afspeellijsten zijn verplaatst"
+   },
+   "6360340926892934518": {
+      "message": "Een map toevoegen"
+   },
+   "6360662632410865665": {
+      "message": "On-demand toegang tot 35 miljoen nummers zonder advertenties. Download nummers om te luisteren als je geen verbinding hebt. Voeg maximaal 50.000 van je eigen nummers toe en luister overal naar muziek."
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Er zijn geen nummers die nog één keer kunnen worden gedownload.}=1{'{XXX_1}' kan nog één keer worden gedownload.}=2{'{XXX_1}' en '{XXX_2}' kunnen nog één keer worden gedownload.}=3{'{XXX_1}', '{XXX_2}' en '{XXX_3}' kunnen nog één keer worden gedownload.}=4{'{XXX_1}', '{XXX_2}', '{XXX_3}' en één ander geselecteerd nummer kunnen nog één keer worden gedownload.}other{'{XXX_1}', '{XXX_2}', '{XXX_3}' en {XXX_4} andere geselecteerde nummers kunnen nog één keer worden gedownload.}}"
+   },
+   "6390744057286457578": {
+      "message": "Centreren"
+   },
+   "6392918669949841614": {
+      "message": "Datum toegevoegd"
+   },
+   "6397906195939852735": {
+      "message": "Kannada"
+   },
+   "6397910887534888858": {
+      "message": "Tekstkleur"
+   },
+   "6401620758535187625": {
+      "message": "Betalingsgegevens bijwerken"
+   },
+   "6410017727692959093": {
+      "message": "Locatie"
+   },
+   "6419550114275715130": {
+      "message": "Er wordt nog muziek afgespeeld."
+   },
+   "6425912931786223127": {
+      "message": "am"
+   },
+   "6426880811380367028": {
+      "message": "$TARGET$ onderbreken",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6427041476637425542": {
+      "message": "Subscript"
+   },
+   "6439365426343089851": {
+      "message": "Algemeen"
+   },
+   "6447846965513034625": {
+      "message": "Objecten"
+   },
+   "6448771309160517960": {
+      "message": "Gratis aan de slag"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Geniet van afspeellijsten die zijn samengesteld door onze muziekfans$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "Myanmar"
+   },
+   "6455589326534311330": {
+      "message": "Deze limiet is niet van toepassing als je $START_SPAN$Music Manager$END_SPAN$ gebruikt om je volledige bibliotheek te downloaden naar je computer.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Expliciet: bevat inhoud die mogelijk ongeschikt is voor kinderen"
+   },
+   "6479183350424120199": {
+      "message": "Alle video's bekijken"
+   },
+   "6482036697464831271": {
+      "message": "Om je muziek snel te uploaden, vergelijkt Google Play je muziekbestanden met exemplaren op onze server. Het kan voorkomen dat we je bestanden vergelijken met de verkeerde nummers. Je kunt het probleem hier melden. De nummers worden gecorrigeerd zodat je exemplaren worden gebruikt in plaats van de gevonden exemplaren."
+   },
+   "6482815137654580311": {
+      "message": "Informatie bewerken"
+   },
+   "6484073284972331008": {
+      "message": "Afspeelteller is niet bijgewerkt"
+   },
+   "6485379744416240146": {
+      "message": "Leuk"
+   },
+   "6488707262592852720": {
+      "message": "2. Sleep in het installatievenster het pictogram van de Music Manager naar het pictogram van de applicatiemap."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Muziek: downloadmap kiezen"
+   },
+   "6504449653938065974": {
+      "message": "Aanbevolen afspeellijst"
+   },
+   "6510962485068569110": {
+      "message": "Ongedaan maken"
+   },
+   "6513265996872955028": {
+      "message": "Toevoegen aan bibliotheek"
+   },
+   "6523257069333866790": {
+      "message": "Muziekbibliotheek"
+   },
+   "6531109671848395983": {
+      "message": "Als je je muziek wilt toevoegen, installeer dan Google Play Muziek for Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Meer"
+   },
+   "653219508056341533": {
+      "message": "Mensen en emoties"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6555053572817998410": {
+      "message": "Onderbreken"
+   },
+   "6562996658473327600": {
+      "message": "Afspelen van:"
+   },
+   "6568036879894576496": {
+      "message": "Muziek uit de volgende mappen wordt toegevoegd aan Google Play Muziek"
+   },
+   "6568649140210842427": {
+      "message": "Ongedaan maken"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Elk nummer kan één keer van internet worden gedownload.}other{ Elk nummer kan {DOWNLOAD_COUNT_MAX_2} keer van internet worden gedownload.}}"
+   },
+   "6591282200798732887": {
+      "message": "Halve vierkant (en-spatie)"
+   },
+   "65984904390749158": {
+      "message": "Voltooien"
+   },
+   "66116513409922755": {
+      "message": "Nee"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6634231960955145278": {
+      "message": "Nummer"
+   },
+   "6638274938129779637": {
+      "message": "Niet meer 'Leuk'"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 nummer verwijderd}other{# nummers verwijderd}}"
+   },
+   "6650633628037596693": {
+      "message": "Opnieuw proberen"
+   },
+   "6650888720096194474": {
+      "message": "Als je de minispeler wilt gebruiken, moet je Google Play Muziek instellen voor $START_SPAN$$EMAIL$$END_SPAN$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normaal"
+   },
+   "6652787256443519035": {
+      "message": "Geen tags"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{ 1 nummer toegevoegd aan Google Play.}other{ {NUM_ADDED_2} nummers toegevoegd aan Google Play.}}"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Luister naar je muziek op $START_SPAN_1$Android$END_SPAN$, $START_SPAN_2$iOS$END_SPAN$ en internet",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Inspringen verkleinen"
+   },
+   "6689623864271696040": {
+      "message": "Zacht koppelteken"
+   },
+   "6703444928647322448": {
+      "message": "Naam"
+   },
+   "6704452266937792847": {
+      "message": "Toevoegen aan bibliotheek"
+   },
+   "6706494172112196654": {
+      "message": "Upgrade naar een gezinsabonnement met tot wel zes gezinsleden"
+   },
+   "6711475260919070872": {
+      "message": "Oud-Perzisch"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Aanbevolen voor jou"
+   },
+   "6719382961812623394": {
+      "message": "Er is een probleem opgetreden tijdens het instellen"
+   },
+   "6722174221321515493": {
+      "message": "Verdelingselement (breedte nul)"
+   },
+   "6724866564770579816": {
+      "message": "Manieren om muziek te luisteren"
+   },
+   "6732797853205065184": {
+      "message": "Negeren"
+   },
+   "6742017901699269182": {
+      "message": "Ga naar mijn albums"
+   },
+   "6747414430222084644": {
+      "message": "Trackduur: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6750258767236131097": {
+      "message": "Midden-Oosten scripts"
+   },
+   "6768967544887679189": {
+      "message": "Golvend koppelstreepje"
+   },
+   "6774444826375904566": {
+      "message": "Het nummer '{TRACK_TITLE}' is toegevoegd aan je bibliotheek."
+   },
+   "6790172339432877080": {
+      "message": "Deze L-mark is een gedeponeerd handelsmerk waarmee wordt aangegeven dat de inhoud hier wordt geleverd door de platenmaatschappijen en videoproductiebedrijven."
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6820635381009519748": {
+      "message": "Verwijderen uit wachtrij"
+   },
+   "6821274223204126521": {
+      "message": "Muzikaal"
+   },
+   "6830152735949448199": {
+      "message": "De Labs-functies voor Google Play Muziek zijn experimentele functies die nog niet helemaal klaar zijn voor het echte werk. Ze kunnen op elk moment worden gewijzigd of beëindigd of plotseling vastlopen. Veel plezier!"
+   },
+   "6839273670547667172": {
+      "message": "Diverse artiesten"
+   },
+   "6840919594921167668": {
+      "message": "Bekijk je gedownloade nummers in de map 'Downloads' van je computer."
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. Wanneer het installatieprogramma wordt geopend, volg je de instructies om de Music Manager in te stellen."
+   },
+   "686324708947275216": {
+      "message": "Kan zender niet verwijderen. Probeer het opnieuw."
+   },
+   "6887831882226099905": {
+      "message": "Weet je zeker dat je de autorisatie van het volgende apparaat om muziek toe te voegen, wilt intrekken:"
+   },
+   "689233687170647171": {
+      "message": "Klik op het afspeellijstpictogram hierboven of sleep een nummer naar rechts om het aan een afspeellijst toe te voegen."
+   },
+   "6898179631823558149": {
+      "message": "Kan bestand niet converteren naar een bruikbare indeling"
+   },
+   "6930531446322391145": {
+      "message": "Afbeelding"
+   },
+   "6932671848756303275": {
+      "message": "Laag"
+   },
+   "6940170973585783277": {
+      "message": "Upgraden naar gezinsabonnement"
+   },
+   "6941609127174167431": {
+      "message": "10 seconden terugspringen"
+   },
+   "6943941659433003765": {
+      "message": "Instantmix starten"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "6962699013778688473": {
+      "message": "Doorgaan"
+   },
+   "6990699195498598876": {
+      "message": "Download eerst de Music Manager hieronder. Music Manager is een eenvoudige applicatie waarmee je de muziekbestanden op je computer kunt toevoegen aan Google Play."
+   },
+   "699971906528455934": {
+      "message": "Onbekende artiest"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7002955679222677443": {
+      "message": "Meer informatie"
+   },
+   "7009828133009731416": {
+      "message": "Gratis van Google"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7019115336138470191": {
+      "message": "Geabonneerd"
+   },
+   "7020161279392960480": {
+      "message": "Indeling"
+   },
+   "7022070615528435141": {
+      "message": "Verwijderen"
+   },
+   "7034479228356652023": {
+      "message": "Han 1-Stroke Radicals"
+   },
+   "7035822615949880851": {
+      "message": "Je muziek is tijdelijk niet beschikbaar op dit apparaat. Probeer het later opnieuw. Fout 442."
+   },
+   "7043080825985118397": {
+      "message": "Verwijderen ongedaan maken"
+   },
+   "7049182394855721704": {
+      "message": "Gotisch"
+   },
+   "7054091192371222228": {
+      "message": " van "
+   },
+   "7062695654404914711": {
+      "message": "Instantmixen"
+   },
+   "7067908984080925888": {
+      "message": "Meer informatie"
+   },
+   "7071666053441099517": {
+      "message": "1. Open MusicManager.dmg in de linkerbenedenhoek van je browservenster."
+   },
+   "7080245643233785574": {
+      "message": "Er is een probleem opgetreden met Google Play Muziek voor Chrome. Je moet opnieuw inloggen."
+   },
+   "7090368974279082159": {
+      "message": "Oeps"
+   },
+   "709740537382334098": {
+      "message": "Mijn volledige bibliotheek verwijderen, inclusief gekochte muziek ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Hangul Choseong-opvulteken"
+   },
+   "7100567566985297322": {
+      "message": "Em-spatie"
+   },
+   "7102126384411654213": {
+      "message": "Kan nummers niet toevoegen aan collectie. Probeer het opnieuw."
+   },
+   "7104210472412766015": {
+      "message": "Interlineair annotatie-scheidingsteken"
+   },
+   "7105416082849293719": {
+      "message": "Recente activiteit"
+   },
+   "7111181959300196580": {
+      "message": "Inspringen vergroten"
+   },
+   "7116872031464114568": {
+      "message": "Geïdentificeerd op Sound Search"
+   },
+   "7127937208951634191": {
+      "message": "Symbool"
+   },
+   "7136816542440442290": {
+      "message": "Er is een probleem opgetreden bij het laden van je zender."
+   },
+   "7144198039114608569": {
+      "message": "Automatische afspeellijst"
+   },
+   "716550293954822096": {
+      "message": "Sinhala"
+   },
+   "7182974689040833178": {
+      "message": "Hervatten"
+   },
+   "7192513315706728552": {
+      "message": "Fout met server. Probeer het later opnieuw."
+   },
+   "7194376132387780145": {
+      "message": "Kan deze computer niet autoriseren omdat je al tien apparaten hebt."
+   },
+   "7200522943394315316": {
+      "message": "32-bits RPM (voor Fedora/openSUSE)"
+   },
+   "7202681158267340446": {
+      "message": "Lettertype"
+   },
+   "720381800527728702": {
+      "message": "Sport, feesten en activiteiten"
+   },
+   "7212676589977202933": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ nummers toegevoegd",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Kan de afspeellijst niet openen. Probeer het opnieuw."
+   },
+   "7228343081607279547": {
+      "message": "Soendanees"
+   },
+   "7229202390260081051": {
+      "message": "Extra groot"
+   },
+   "7249560357803023328": {
+      "message": "Bibliotheek downloaden"
+   },
+   "7262284142845767114": {
+      "message": "Leuk"
+   },
+   "7277602889799602415": {
+      "message": "Mijn bibliotheek verwijderen"
+   },
+   "7281847881697831326": {
+      "message": "Fout bij ongedaan maken van verwijdering."
+   },
+   "7282565673166392948": {
+      "message": "Ideografische beschrijving"
+   },
+   "7283215568776397157": {
+      "message": "Geüploade nummers:"
+   },
+   "7287006426755387074": {
+      "message": "Het volume van de speler verhogen"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minuten}=1{1 minuut}other{# minuten}}"
+   },
+   "7292902857194439444": {
+      "message": "Apparaat"
+   },
+   "7293921570163366209": {
+      "message": "Luister naar nummers die vergelijkbaar zijn met die van $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7293925053370285812": {
+      "message": "Huidig nummer wordt herhaald. Klik om de herhalingsmodus te wijzigen."
+   },
+   "730022297859142476": {
+      "message": "Instantmix"
+   },
+   "7305504256207181669": {
+      "message": "Lijst met opsommingstekens"
+   },
+   "7306812086707840437": {
+      "message": "Abonneer je op Google Play Muziek en luister naar deze radiozender en miljoenen andere nummers. Voor de eerste maand worden geen kosten berekend."
+   },
+   "731429515932674572": {
+      "message": "Volume dempen"
+   },
+   "7320133162875658022": {
+      "message": "Nieuwe nummers uploaden ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7322373231564004139": {
+      "message": "Zoeken"
+   },
+   "7331328794127852355": {
+      "message": "Emoticon"
+   },
+   "7335080673788704461": {
+      "message": "Vervoer, kaarten en bewegwijzering"
+   },
+   "7354536653016090160": {
+      "message": "Populairst"
+   },
+   "7354691783317064273": {
+      "message": "De Chrome-app maakt verbinding."
+   },
+   "7376787658603979700": {
+      "message": "Kies uit miljoenen nummers, waaronder honderden gratis tracks."
+   },
+   "7396303606473621591": {
+      "message": "Alle"
+   },
+   "7410432243549869948": {
+      "message": "Duur"
+   },
+   "7411932913365107274": {
+      "message": "Je kunt voor vier apparaten per jaar de autorisatie intrekken."
+   },
+   "741454111929523251": {
+      "message": "Bedoelde je: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Mappen selecteren..."
+   },
+   "7422152161839392092": {
+      "message": "Een abonnement op Google Play Muziek cadeau geven"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{over # dagen}=1{over # dag}other{over # dagen}}"
+   },
+   "7437730399353044671": {
+      "message": "Abonneer je op alle on-demand en offline muziek, zonder advertenties"
+   },
+   "7437894509168051348": {
+      "message": "Han 7-Stroke Radicals"
+   },
+   "744665031629199878": {
+      "message": "Alle gerelateerde artiesten voor $ARTIST_NAME$ bekijken",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7449358949677606364": {
+      "message": "35 miljoen nummers on-demand"
+   },
+   "7467710920158412786": {
+      "message": "Een privé-afspeellijst alleen voor jou."
+   },
+   "747583939629659293": {
+      "message": "Een kleur toevoegen"
+   },
+   "7475857386379593056": {
+      "message": "$ALBUM_NAME$ afspelen",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7480960100390206139": {
+      "message": "Overige"
+   },
+   "7502695447103329189": {
+      "message": "Shift &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Kopieer en plak deze link om $START_SPAN$$TITLE$$END_SPAN$ te delen",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Artiesten selecteren die je leuk vindt"
+   },
+   "7529798479468856973": {
+      "message": "$NUM$ uur geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7535122927261158198": {
+      "message": "Laatst toegevoegd"
+   },
+   "7536172317066333802": {
+      "message": "Afbeelding invoegen"
+   },
+   "7546873952682838388": {
+      "message": "Muziek op deze computer"
+   },
+   "7559266156388225108": {
+      "message": "Numeriek Kaithi-teken"
+   },
+   "756024699361489239": {
+      "message": "Shuffle"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongoolse klinkerseparator"
+   },
+   "7572946295452220765": {
+      "message": "Installatie-instructies"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 keer afgespeeld}=1{1 keer afgespeeld}other{{COUNT_2} keer afgespeeld}}"
+   },
+   "7592349062857393820": {
+      "message": "g daarna t"
+   },
+   "7596816553523902619": {
+      "message": "Vandaag"
+   },
+   "7598340248282243111": {
+      "message": "Alle recente activiteit bekijken"
+   },
+   "7599424290971072767": {
+      "message": "Genre"
+   },
+   "7601688284754148415": {
+      "message": "Rekenen"
+   },
+   "7604883230326131491": {
+      "message": "$TITLE$-afspeellijst",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Je download wordt binnenkort gestart. Als dit niet het geval is, $START_LINK$klik je hier$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7610552438938511934": {
+      "message": "De zender '{STATION_TITLE}' is toegevoegd aan je bibliotheek"
+   },
+   "7617664217221228040": {
+      "message": "Balinees"
+   },
+   "7619560701830330401": {
+      "message": "Laden"
+   },
+   "762389150316771008": {
+      "message": "Ik doe een gok-radio"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Je hebt geen nummers geselecteerd om naar je computer te downloaden.}=1{Het geselecteerde nummer is al het maximum aantal keren gedownload.}other{De geselecteerde nummers zijn al het maximum aantal keren gedownload.}}"
+   },
+   "7631480327394084350": {
+      "message": "Afbeeldingen besturingselement"
+   },
+   "7638759029296490900": {
+      "message": "Open de afspeellijstlade om je afspeellijsten te bekijken."
+   },
+   "763998168115480566": {
+      "message": "Je kunt niet meer overslaan. Profiteer van on-demand en offline toegang tot miljoenen nummers."
+   },
+   "7664246845088850317": {
+      "message": "De verbinding met de server is mislukt met foutcode: "
+   },
+   "7669291472367464463": {
+      "message": "Geef je e-mailadres met '@google.com' op"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7704516203792990151": {
+      "message": "Verstreken tijd"
+   },
+   "7708364972132250264": {
+      "message": "Couldn't clear cached songs, please try again later."
+   },
+   "7709119284546787990": {
+      "message": "Van rechts naar links"
+   },
+   "7711713319832787051": {
+      "message": "Gekoppeld"
+   },
+   "7730109880037106848": {
+      "message": "Symbolen"
+   },
+   "7736581252844206600": {
+      "message": "Grieks"
+   },
+   "7737642252665507180": {
+      "message": "Hexadecimale invoer"
+   },
+   "7743528314734813641": {
+      "message": "Er is een probleem opgetreden bij het laden van je instantmix."
+   },
+   "7756401573104983978": {
+      "message": "Computer-app"
+   },
+   "7760426006262447033": {
+      "message": "Onvoldoende ruimte in de wachtrij"
+   },
+   "776736242214904151": {
+      "message": "Speel dat nummer en miljoenen andere nummers af waar en wanneer je maar wilt"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 nummers}=1{1 nummer}other{# nummers}}"
+   },
+   "7774266771623079214": {
+      "message": "Play Muziek"
+   },
+   "7776111286341041808": {
+      "message": "Van links naar rechts"
+   },
+   "7783345534551124847": {
+      "message": "Nummers"
+   },
+   "779262212811541732": {
+      "message": "Oud Zuid-Arabisch"
+   },
+   "7800122803571674150": {
+      "message": "Welkom bij Google Play Muziek"
+   },
+   "7801884781403562273": {
+      "message": "Inwisselen"
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7819314041543176992": {
+      "message": "Sluiten"
+   },
+   "7832954852370077811": {
+      "message": "Speel muziek af of klik op het pictogram $MENU_ICON$ bij een album, nummer of afspeellijst om deze aan je wachtrij toe te voegen.",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Het toevoegen van muziek wordt geannuleerd"
+   },
+   "7846689234809169417": {
+      "message": "Dieren, planten en eten"
+   },
+   "7848021326942321162": {
+      "message": "De zender '{STATION_TITLE}' is verwijderd uit je bibliotheek"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 uur}=1{1 uur}other{# uur}}"
+   },
+   "7878031641910175480": {
+      "message": "Recente selecties:"
+   },
+   "7886189590148092330": {
+      "message": "Locatie: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7888286842234266048": {
+      "message": "Ingesloten/Gestippeld"
+   },
+   "7898792314887900865": {
+      "message": "Cypriotisch"
+   },
+   "7927039504440585569": {
+      "message": "Latijn"
+   },
+   "7931527771588976000": {
+      "message": "Fonologie (IPA)"
+   },
+   "7933642402079881815": {
+      "message": "The explicit content filtering settings for this account have changed. Please reload for the changes to take effect."
+   },
+   "7941094066137301803": {
+      "message": "Upgrade naar Google+ om te delen met je vrienden."
+   },
+   "7943877664425892318": {
+      "message": "De afspeellijstlade openen"
+   },
+   "7947294997516635657": {
+      "message": "Alles is bijgewerkt"
+   },
+   "7954850519963017242": {
+      "message": "$NUM$ dag geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabisch teken Sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mappen}=1{1 map}other{# mappen}}"
+   },
+   "7980428538910137664": {
+      "message": "Gratis en aangeschaft"
+   },
+   "7984622936663451936": {
+      "message": "Toetsenbord en UI"
+   },
+   "7985393396166342590": {
+      "message": "Het toevoegen van muziek wordt hervat"
+   },
+   "7988520144814845441": {
+      "message": "Log in om door te gaan"
+   },
+   "7996265599642887416": {
+      "message": "Verwijderen uit bibliotheek"
+   },
+   "8001758142015238809": {
+      "message": "Tijdelijke fout. Opnieuw proberen te uploaden."
+   },
+   "8019982600883750632": {
+      "message": "Uitvullen"
+   },
+   "8020892463961333112": {
+      "message": "Muzieksymbool eind legatoteken"
+   },
+   "8024675506077392847": {
+      "message": "Kan volgende nummer niet laden."
+   },
+   "8030037581414873660": {
+      "message": "Han 2-Stroke Radicals"
+   },
+   "803032414305825807": {
+      "message": "Lettergrootte"
+   },
+   "803376120920513357": {
+      "message": "$NUM$ dagen geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Kan niet abonneren op afspeellijst. Probeer het opnieuw."
+   },
+   "8045052194324740729": {
+      "message": "Kan nummers in de prullenbak niet afspelen."
+   },
+   "8058956869215275454": {
+      "message": "Delen op Facebook"
+   },
+   "8066747296553908214": {
+      "message": "Dubbel ondoorzichtig koppelteken"
+   },
+   "8110367050267853536": {
+      "message": "Meer opties"
+   },
+   "8110717721846730575": {
+      "message": "Dempen van volume opheffen"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Er zijn geen nummers die de downloadlimiet hebben overschreden.}=1{'{XXX_1}' is al {DOWNLOAD_COUNT_MAX} keer gedownload en wordt niet gedownload.}=2{'{XXX_1}' en '{XXX_2}' zijn al {DOWNLOAD_COUNT_MAX} keer gedownload en worden niet gedownload.}=3{'{XXX_1}', '{XXX_2}' en '{XXX_3}' zijn al {DOWNLOAD_COUNT_MAX} keer gedownload en worden niet gedownload.}=4{'{XXX_1}', '{XXX_2}', '{XXX_3}' en één ander geselecteerd nummer zijn al {DOWNLOAD_COUNT_MAX} keer gedownload en worden niet gedownload.}other{'{XXX_1}', '{XXX_2}', '{XXX_3}' en {XXX_4} andere geselecteerde nummers zijn al {DOWNLOAD_COUNT_MAX} keer gedownload en worden niet gedownload.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Houd me op de hoogte van nieuws en aanbiedingen van Google Play Muziek"
+   },
+   "8144474297019493415": {
+      "message": "Laatst toegevoegd"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dag}other{{TEXT} dagen}}"
+   },
+   "8159976291123989327": {
+      "message": "Link bewerken"
+   },
+   "8164274980045228173": {
+      "message": "Opmaak voor schrijfrichting herstellen"
+   },
+   "8164897103619368290": {
+      "message": "Genummerde lijst"
+   },
+   "8174689178967388837": {
+      "message": "Tracknummer"
+   },
+   "8191208612330635266": {
+      "message": "Tibetaans"
+   },
+   "8192298658946835992": {
+      "message": "Vaste spatie (breedte nul)"
+   },
+   "8193509313274135818": {
+      "message": "Arabische voetnootmarkering"
+   },
+   "819996403327805209": {
+      "message": "Meer informatie"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Je kunt ook {START_SPAN_1}rechtstreeks downloaden{END_SPAN}, maar slechts {START_SPAN_2}één keer per nummer{END_SPAN}.}other{ Je kunt ook {START_SPAN_1}rechtstreeks downloaden{END_SPAN}, maar slechts {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} keer per nummer{END_SPAN}.}}"
+   },
+   "8206726262986846319": {
+      "message": "Een beschrijving toevoegen..."
+   },
+   "8216772648076666728": {
+      "message": "Allow explicit songs."
+   },
+   "8221494968176924260": {
+      "message": "Mijn afspeellijst"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Kan 1 nummer niet toevoegen}other{ Kan {NUM_FAILURES_2} nummers niet toevoegen}}"
+   },
+   "823405029831570152": {
+      "message": "Ethiopisch"
+   },
+   "8235345176344531979": {
+      "message": "g en vervolgens a"
+   },
+   "8239380670132570074": {
+      "message": "Tijdelijk bestand kan niet worden geopend"
+   },
+   "8249329268828083858": {
+      "message": "Katakana-Hiragana dubbel koppelteken"
+   },
+   "8257187280628059022": {
+      "message": "De muziek is hier onderbroken omdat het erop lijkt dat je luistert op een ander apparaat. $START_LINK$Meer informatie$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8265500184685762525": {
+      "message": "Kaartjes"
+   },
+   "8275689791574630480": {
+      "message": "Ogham spatieteken"
+   },
+   "8277279706638733641": {
+      "message": "Sterretjes/Asterisken"
+   },
+   "828700836558117968": {
+      "message": "Google Play Muziek"
+   },
+   "8300572760144032022": {
+      "message": "Een nieuwe radiozender maken van het geselecteerde nummer"
+   },
+   "8302804816588048941": {
+      "message": "Met deze handeling worden ook je afspeellijsten, instantmixen, beoordelingen en gegevens met betrekking tot aantal keren afgespeeld verwijderd."
+   },
+   "8325100368677049569": {
+      "message": "Nieuwe muziek verkennen"
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Dubbel nummer toevoegen?}other{Dubbele nummers toevoegen?}}"
+   },
+   "8338465287076872825": {
+      "message": "Kan muziek niet lezen vanaf bestand"
+   },
+   "8358697777226306085": {
+      "message": "Egyptische hiërogliefen"
+   },
+   "8363930857329550333": {
+      "message": "Georgisch"
+   },
+   "838509699315651621": {
+      "message": "Dit nummer staat al in deze afspeellijst"
+   },
+   "8385464685117997940": {
+      "message": "Onlangs afgespeeld"
+   },
+   "8386555666648700714": {
+      "message": "Beste nummers"
+   },
+   "8395180429531273524": {
+      "message": "Waarom komt mijn apparaat niet in aanmerking?"
+   },
+   "8396767881870375563": {
+      "message": "Alle zoekresultaten voor activiteiten bekijken"
+   },
+   "8405156617531647050": {
+      "message": "Het lijkt erop dat je Google Play Muziek al hebt uitgeprobeerd."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Inloggen"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "8421838551605999158": {
+      "message": "1. Sla musicmanagerinstaller.exe op."
+   },
+   "8424326418312855409": {
+      "message": "Er is een probleem opgetreden bij het instellen van Google Play Muziek."
+   },
+   "842631328362018283": {
+      "message": "Groot"
+   },
+   "8437015452970026040": {
+      "message": "Verzamelingslimiet bereikt. Verwijder nummers als je meer wilt toevoegen."
+   },
+   "8439955599488894226": {
+      "message": "Privacybeleid"
+   },
+   "8440128775129354214": {
+      "message": "Privacy"
+   },
+   "8454237498473122184": {
+      "message": "Koppelteken/min-teken"
+   },
+   "8455196866871985315": {
+      "message": "Alle topalbums bekijken"
+   },
+   "8455204924704616723": {
+      "message": "Bestand"
+   },
+   "8458476427655018512": {
+      "message": "Spatie"
+   },
+   "8477224362193738096": {
+      "message": "Artiest: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8482517151370142670": {
+      "message": "Anders"
+   },
+   "848933194605193751": {
+      "message": "Onlangs bekeken op YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Carisch"
+   },
+   "851623407011365974": {
+      "message": "Je muziek wordt na de reclame hervat"
+   },
+   "8524322739067915993": {
+      "message": "pm"
+   },
+   "8527029831666633156": {
+      "message": "Meld je aan om gratis te blijven luisteren."
+   },
+   "8534560073330554352": {
+      "message": "Afspeelteller"
+   },
+   "8542907888351533629": {
+      "message": "…"
+   },
+   "8564202903947049539": {
+      "message": "Afspelen"
+   },
+   "8574053857298592408": {
+      "message": "Het zijmenu openen."
+   },
+   "858254219718239996": {
+      "message": "Copyright &copy; $COPYRIGHT_LIST_JOINED$",
+      "placeholders": {
+         "COPYRIGHT_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Lees meer over het verwijderen van Music Manager$END_LINK$ van je computer.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Google Play vergelijkt je muziekbestanden met kopieën op onze server om je muziek snel te uploaden. Mogelijk maken we soms een overeenkomst met het verkeerde nummer. Als je het probleem hier meldt, worden de nummers opnieuw geüpload."
+   },
+   "8608281335099046628": {
+      "message": "Muziek verwerken…"
+   },
+   "8619410898472620495": {
+      "message": "Bezoek Google Play Muziek op internet om het afspelen te hervatten."
+   },
+   "862440714280873951": {
+      "message": "Bevat podcasts"
+   },
+   "8624490471677691415": {
+      "message": "Muziek bekijken op basis van"
+   },
+   "8624618794349836904": {
+      "message": "De geschiedenis verwijderen die wordt gebruikt om gepersonaliseerde aanbevelingen weer te geven en radio aan te passen. Als je dit doet, worden beoordelingen en het aantal keren afspelen voor afzonderlijke tracks niet verwijderd."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{over # minuten}=1{over # minuut}other{over # minuten}}"
+   },
+   "8628766851955432422": {
+      "message": "Verwijderen"
+   },
+   "8637643428005590282": {
+      "message": "Markeringen"
+   },
+   "8639048757911329468": {
+      "message": "NaCl-versie: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Kan niet zoeken tijdens radio"
+   },
+   "865328592283008990": {
+      "message": "Voeg tot wel 50.000 nummers uit je muziekverzameling gratis toe aan Google Play."
+   },
+   "8674371043496677979": {
+      "message": "Van het album: $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Opnieuw proberen"
+   },
+   "8692453200617588996": {
+      "message": "Genres selecteren die je leuk vindt"
+   },
+   "8700121026680200191": {
+      "message": "Wissen"
+   },
+   "8733921970136713647": {
+      "message": "Abonnement opzeggen"
+   },
+   "8741366833297918126": {
+      "message": "Duur van nummer"
+   },
+   "8763647985340267403": {
+      "message": "Spelonderdelen"
+   },
+   "8764339661945610128": {
+      "message": "Meer artiesten weergeven"
+   },
+   "8768143964455071187": {
+      "message": "Ogham"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{# uur geleden}=1{# uur geleden}other{# uur geleden}}"
+   },
+   "8783871424196328846": {
+      "message": "128 kbps, adaptief."
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Labs"
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8801801881586334412": {
+      "message": "Topalbums"
+   },
+   "880592275679936810": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ toegevoegd",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Vandaag"
+   },
+   "8819361322041128714": {
+      "message": "Oegaritisch"
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 afspeellijsten}=1{1 afspeellijst}other{# afspeellijsten}}"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Wees voorzichtig.$POSTB$ Vergeet niet dat elke keer dat je een e-mailadres toevoegt aan een webpagina, vervelende spammers het e-mailadres ook kunnen vinden.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$, geselecteerd. Klik om selectie ongedaan te maken.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabisch numeriek teken"
+   },
+   "8858058202463451164": {
+      "message": "Links uitlijnen"
+   },
+   "8868784738343119594": {
+      "message": "$NUM$ minuut geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Meer nummers"
+   },
+   "8871219022895015530": {
+      "message": "Hiermee voeg je de geselecteerde nummers toe aan de wachtrij"
+   },
+   "8890553633144307762": {
+      "message": "Terug"
+   },
+   "8892247938951013000": {
+      "message": "Kan nummers niet toevoegen aan afspeellijst. Probeer het opnieuw."
+   },
+   "8892908795692466458": {
+      "message": "Delen"
+   },
+   "8896073810838561095": {
+      "message": "Han 8-Stroke Radicals"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8910998670732377227": {
+      "message": "Opnieuw proberen"
+   },
+   "8920100935192456970": {
+      "message": "Alle zoekresultaten voor genres bekijken"
+   },
+   "8928816882866356838": {
+      "message": "Openbaar"
+   },
+   "8931700495296520714": {
+      "message": "Minispeler sluiten"
+   },
+   "8934299821763129489": {
+      "message": "Oud-Italisch"
+   },
+   "8936704404804793618": {
+      "message": "Video's"
+   },
+   "8953033926734869941": {
+      "message": "Naam"
+   },
+   "8958381934236197373": {
+      "message": "Cijferspatie"
+   },
+   "8961985815150856927": {
+      "message": "Onlangs gemaakt"
+   },
+   "8967493310012272750": {
+      "message": "$NAME$-radio",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969179774064404960": {
+      "message": "Volume"
+   },
+   "8969573585280830171": {
+      "message": "Wij hebben de muziek die hierbij past."
+   },
+   "8971282019539581965": {
+      "message": "Het dialoogvenster 'Over' sluiten"
+   },
+   "8979933913103486540": {
+      "message": "Streepje/koppelteken"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 nummer gedownload}other{ {NUM_TRANSFERRED_TRACKS_2} nummers gedownload}}"
+   },
+   "8998527640999447691": {
+      "message": "Bijsluiten"
+   },
+   "9000028459946302905": {
+      "message": "Alle muziek verwijderen die ik heb geüpload naar Mijn bibliotheek ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Mongools zacht koppelteken"
+   },
+   "9001309834415064766": {
+      "message": "Han 10-Stroke Radicals"
+   },
+   "901225307358856093": {
+      "message": "Canadees syllabisch koppelstreepje"
+   },
+   "902300864627076683": {
+      "message": "Parthisch uit inscripties"
+   },
+   "9024489874326845912": {
+      "message": "Aanbevolen album"
+   },
+   "903557305746845933": {
+      "message": "160 kbps, adaptief."
+   },
+   "9042260521669277115": {
+      "message": "Onderbreken"
+   },
+   "9045338265172338590": {
+      "message": "Meitei Mayek"
+   },
+   "9049377337845973204": {
+      "message": "Afspelen: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9053704575157030099": {
+      "message": "Geen"
+   },
+   "9059560719840598868": {
+      "message": "Feedback verzenden"
+   },
+   "9063659532473030063": {
+      "message": "Weer en astrologie"
+   },
+   "908288323950111351": {
+      "message": "Kan niet toevoegen aan een afspeellijst waarop je geabonneerd bent."
+   },
+   "9084816336314899019": {
+      "message": "Doorgaan"
+   },
+   "9092976405151508175": {
+      "message": "Opnieuw"
+   },
+   "9098679347815545327": {
+      "message": "Kan afspeellijst niet maken. Probeer het opnieuw."
+   },
+   "9099290682020828903": {
+      "message": "Je bent aangemeld voor de afspeellijst '{PLAYLIST_TITLE}'"
+   },
+   "9104232341234454503": {
+      "message": "Muziek zonder beperkingen"
+   },
+   "9111239821213364249": {
+      "message": "Probeer onbeperkte muziek. De eerste 30 dagen zijn gratis."
+   },
+   "9128859482251917046": {
+      "message": "Schakelen tussen wachtrij geopend of gesloten"
+   },
+   "9136743822509821032": {
+      "message": "$PLAYLIST_TITLE$ afspelen",
+      "placeholders": {
+         "PLAYLIST_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9138683078793837147": {
+      "message": "Niet meer 'Niet leuk'"
+   },
+   "9143597363285105250": {
+      "message": "Albumartiest"
+   },
+   "9173411042808904308": {
+      "message": "Normaal / serif"
+   },
+   "9179661003472285430": {
+      "message": "Music Manager downloaden"
+   },
+   "9184426509557869402": {
+      "message": "Ideografische spatie"
+   },
+   "9193901371937110673": {
+      "message": "Geen apparaten geautoriseerd"
+   },
+   "9197433560254928186": {
+      "message": "Arabisch"
+   },
+   "9205544184671349450": {
+      "message": "Er staat al muziek op deze computer."
+   },
+   "9209549883741368825": {
+      "message": "Abonneer je op Google Play Muziek en luister naar dit album en miljoenen andere nummers. Voor de eerste maand worden geen kosten berekend."
+   },
+   "9214517335069385090": {
+      "message": "Wat je ook kunt doen..."
+   },
+   "9218938714985695055": {
+      "message": "Muzieksymbool begin legatoteken"
+   },
+   "933914956414602837": {
+      "message": "Om je muziek snel te uploaden, vergelijkt Google Play je muziekbestanden met exemplaren op onze server. Het kan voorkomen dat we je bestanden vergelijken met de verkeerde nummers. Je kunt het probleem hier melden. De nummers worden gecorrigeerd zodat je exemplaren worden gebruikt in plaats van de gevonden exemplaren."
+   },
+   "935985887697278449": {
+      "message": "Al abonnee"
+   },
+   "947591000172763449": {
+      "message": "Phagspa"
+   },
+   "949327761578931377": {
+      "message": "Blijf luisteren voor $OFFER_PRICE$ per maand.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Alles weergeven"
+   },
+   "95869773684474447": {
+      "message": "Afspeelfout"
+   },
+   "963232722931839477": {
+      "message": "Je wachtrij is leeg"
+   },
+   "964983733596985457": {
+      "message": "Compatibiliteit"
+   },
+   "97224266342934568": {
+      "message": "Superscript"
+   },
+   "993762601773196496": {
+      "message": "Casten"
+   },
+   "997742287268027221": {
+      "message": "Kan bestand niet uploaden"
+   },
+   "997890303689941626": {
+      "message": "Alle zoekresultaten voor video's bekijken"
+   }
+}

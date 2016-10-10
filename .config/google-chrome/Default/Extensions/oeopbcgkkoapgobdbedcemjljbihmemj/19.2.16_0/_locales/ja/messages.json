@@ -1,0 +1,1187 @@
+{
+   "200": {
+      "message": "一時的な障害。やり直してください!（200）"
+   },
+   "24hourMode": {
+      "message": "24時間表示"
+   },
+   "24hourModeTitle": {
+      "message": "時刻を18:00のように24時間形式で表示します。"
+   },
+   "401": {
+      "message": "許可がありません!（401）"
+   },
+   "403": {
+      "message": "メールアドレス、パスワードが正しくありません（403）"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "NAME_says": {
+      "message": "$1 は言う"
+   },
+   "Xday": {
+      "message": "日"
+   },
+   "Xdays": {
+      "message": "$1日"
+   },
+   "Xhour": {
+      "message": "$1時間"
+   },
+   "Xhours": {
+      "message": "$1時間"
+   },
+   "Xline": {
+      "message": "$1行"
+   },
+   "Xlines": {
+      "message": "$1行"
+   },
+   "Xminute": {
+      "message": "$1 分"
+   },
+   "Xminutes": {
+      "message": "$1 分"
+   },
+   "Xseconds": {
+      "message": "$1秒"
+   },
+   "aboutMe": {
+      "message": "作者について"
+   },
+   "account": {
+      "message": "アカウント"
+   },
+   "accounts": {
+      "message": "アカウント"
+   },
+   "actionButtons": {
+      "message": "ポップアップウィンドウと高度な通知ウィンドウのためのアクション ボタン"
+   },
+   "addEmailAlias": {
+      "message": "あなたのメール アドレスにエイリアスを追加します"
+   },
+   "addEmailAliasToolTip": {
+      "message": "blah@gmail.com という形式の代わりに、\u003Cb>ジェイソンの電子メール\u003C/b> のようなニックネームをポップアップウィンドウ内で追加します"
+   },
+   "addSpeechEngines": {
+      "message": "音声認識エンジンの追加"
+   },
+   "advancedNotification": {
+      "message": "高度な通知ウィンドウ"
+   },
+   "advancedNotificationToolTip": {
+      "message": "\u003Cb>すべて\u003C/b> の未読メールを通知します。\u003Cb>全てのメールについて読んだり\u003C/b>削除したりという操作を、ブラウザーやGmail のタブを開かずに実行できます。ポップアップ ウィンドウの機能を通知ウィンドウに持たせたものです。"
+   },
+   "advancedNotificationTryItOut": {
+      "message": "試してみる!"
+   },
+   "advancedNotificationTryItOutInstructions": {
+      "message": "受信メールを（このデモには少なくとも２件以上）未読の状態にして、ここをクリックして高度な通知ウィンドウを開いて下さい。メールの要約をクリックすると、高度な通知ウィンドウのメール プレビュー機能を試すことができます！"
+   },
+   "alias": {
+      "message": "エイリアス"
+   },
+   "all": {
+      "message": "すべて"
+   },
+   "allMail": {
+      "message": "すべてのメール"
+   },
+   "alreadyDonated": {
+      "message": "寄付済み?"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "寄付していただくと、私の $1 の追加機能のロックも解除されます。"
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "チェッカー プラス Google カレンダー"
+   },
+   "alsoTryMy": {
+      "message": "も試して下さい"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "常に外部コンテンツ (画像など) を表示します。"
+   },
+   "amount": {
+      "message": "金額"
+   },
+   "archiveLink": {
+      "message": "アーカイブ"
+   },
+   "archiveLinkTitle": {
+      "message": "アーカイブする"
+   },
+   "archive_read": {
+      "message": "アーカイブ時に既読にする"
+   },
+   "archive_readToolTip": {
+      "message": "アーカイブする時に、メールを既読としてマークします。"
+   },
+   "autoAdjust": {
+      "message": "自動調整"
+   },
+   "autoAdjustAndImages": {
+      "message": "自動調整 + イメージ"
+   },
+   "autoDetectAccounts": {
+      "message": "このアプリケーションは自動でサインインしているアカウントを検出します。"
+   },
+   "back": {
+      "message": "戻る"
+   },
+   "backToInbox": {
+      "message": "受信トレイに戻る"
+   },
+   "backgroundColor": {
+      "message": "背景色"
+   },
+   "backgroundOfNotification": {
+      "message": "通知ポップアップの背景色"
+   },
+   "backgroundOfNotificationTooltip": {
+      "message": "通知ポップアップの背景色を設定します。"
+   },
+   "brightness": {
+      "message": "明るさ"
+   },
+   "button": {
+      "message": "ボタン"
+   },
+   "buttonClickAction": {
+      "message": "ボタンを押した時の動作"
+   },
+   "byEmailSubject": {
+      "message": "電子メールの件名をもとにする?"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "canceledInAppPurchase": {
+      "message": "代わりにPayPalで試しますか?疑問点がございましたらお問い合わせください。"
+   },
+   "changeSummary": {
+      "message": "要約形式の変更"
+   },
+   "changeTheme": {
+      "message": "テーマの変更"
+   },
+   "changeThisDomain": {
+      "message": "電子メールのドメインを変更する $1"
+   },
+   "changeThisDomain2": {
+      "message": "サインアウトし、別のユーザーとしてサインインする。"
+   },
+   "changingIcon": {
+      "message": "アイコンの変更"
+   },
+   "chime": {
+      "message": "チャイム"
+   },
+   "choosePaymentMethod": {
+      "message": "お支払い方法を選択"
+   },
+   "clickToPreviewEmail": {
+      "message": "メールをプレビューする"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "closeAfterX": {
+      "message": "後に閉じる"
+   },
+   "colorMessage": {
+      "message": "これらの色を保存するには寄付が必要です!"
+   },
+   "colors": {
+      "message": "色"
+   },
+   "commaSeparatedEmails": {
+      "message": "カンマ区切り"
+   },
+   "compose": {
+      "message": "メール作成"
+   },
+   "composeLinkTitle": {
+      "message": "メールを作成"
+   },
+   "contacts": {
+      "message": "連絡先"
+   },
+   "continue": {
+      "message": "次へ"
+   },
+   "continueToOptions": {
+      "message": "設定を続ける"
+   },
+   "continueWithoutFeatures": {
+      "message": "この拡張機能を追加せず、このまま使う"
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "追加機能を使わずに続ける"
+   },
+   "contrast": {
+      "message": "コントラスト"
+   },
+   "contributeToContinue": {
+      "message": "寄付する"
+   },
+   "conversationView": {
+      "message": "会話ビュー"
+   },
+   "conversationViewToolTip": {
+      "message": "同じトピックのメールをグループ化して表示します。"
+   },
+   "countryCode": {
+      "message": "JPN"
+   },
+   "creditCardOrPaypal": {
+      "message": "クレジットカードまたは PayPalで　"
+   },
+   "currencyCode": {
+      "message": "JPY"
+   },
+   "currencyCodeForGoogleCheckout": {
+      "message": "JPY"
+   },
+   "currencySymbol": {
+      "message": "¥"
+   },
+   "currencySymbolForGoogleCheckout": {
+      "message": "¥"
+   },
+   "currentPage": {
+      "message": "現在のページ"
+   },
+   "custom": {
+      "message": "カスタム"
+   },
+   "dark": {
+      "message": "ダーク"
+   },
+   "darkToolTip": {
+      "message": "ダーク コントラスト"
+   },
+   "dayAgo": {
+      "message": "$1日経過"
+   },
+   "daysAgo": {
+      "message": "1日以上経過"
+   },
+   "daysLeft": {
+      "message": "あと$1日"
+   },
+   "delete": {
+      "message": "削除"
+   },
+   "deleteLink": {
+      "message": "消去"
+   },
+   "deleteLinkTitle": {
+      "message": "消去する"
+   },
+   "description": {
+      "message": "Google Mail の受信トレイにある未読のメール数を表示します。このボタンをクリックして受信トレイを開くこともできます。"
+   },
+   "developingMore": {
+      "message": "お寄せいただいたご意見についてさらに検討・改善中です…"
+   },
+   "ding": {
+      "message": "警告音"
+   },
+   "display": {
+      "message": "表示"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "最新情報を知らせていない"
+   },
+   "doNotShowNotificationsWhenBrowserClosed": {
+      "message": "ブラウザをウィンドウが閉じているときは通知をしない。"
+   },
+   "doNotShowNotificationsWhenBrowserClosedTooltip": {
+      "message": "Chromeブラウザがトレイアイコンと共にバックグラウンド動作をしていても、通知表示されせん!"
+   },
+   "donate": {
+      "message": "寄付"
+   },
+   "donationRequired": {
+      "message": "寄付が必要です"
+   },
+   "drawAttentionToBrowser": {
+      "message": "（ベータ版）Windowsの場合タスクバーのChromeを点滅させます。Macの場合Chromeアイコンをバウンスさせます。"
+   },
+   "drawAttentionToBrowserTooltip": {
+      "message": "ブラウザにフォーカスがない場合にのみ発生します。複数のワークスペースを使用している場合に有効です。 Windows： タスクバーを点滅させます。Mac： アイコンをバウンスさせます。"
+   },
+   "dropshadow": {
+      "message": "影"
+   },
+   "duplicateLabelWarning": {
+      "message": "重複を防ぐために、3つの主要ラベル(受信トレイ、重要、すべてのメール）については、その内1つだけを選択することをお勧めします！"
+   },
+   "email": {
+      "message": "電子メール"
+   },
+   "emailFrom_NAME": {
+      "message": "$1 からのメール"
+   },
+   "emailPreview": {
+      "message": "メールのプレビュー"
+   },
+   "emailPreviewToolTip": {
+      "message": "このオプションが\u003Cb>チェック済み\u003C/b>の場合は、ポップアップ内のメール(要約)の任意の場所をクリックすると、より大きなメール プレビュー領域が開きます。もし\u003Cb>未チェック\u003C/b>の場合は、クリックすると、代わりに Gmailの標準画面の中でメールを開きます\u003Cbr>"
+   },
+   "emailSummary": {
+      "message": "メールの要約"
+   },
+   "emailSummaryToolTip": {
+      "message": "各メールの最初の数行をポップアップ ウィンドウに表示する"
+   },
+   "enableLanguageDetection": {
+      "message": "メールの言語を検出"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "detectlanguage.com サービスを使用して検出された言語で話します。"
+   },
+   "enterAnAmount": {
+      "message": "金額を入力してください!"
+   },
+   "ex": {
+      "message": "例)"
+   },
+   "example": {
+      "message": "例"
+   },
+   "extensionUpdated": {
+      "message": "拡張子が更新！"
+   },
+   "extraFeatures": {
+      "message": "追加機能"
+   },
+   "extraFeaturesClicked": {
+      "message": "追加機能の一部を体験済みです"
+   },
+   "failureWithInAppPurchase": {
+      "message": "購入処理に失敗しました ！代わりにPayPalで試しますか?"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "購入処理がキャンセルまたは失敗しました! 代わりに$1で試しますか?"
+   },
+   "fetchContactsEvery": {
+      "message": "ごとに連絡先を収集する"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "連絡先の件数が多い場合や、回線スピードが遅い場合は、この値を高くしてください。"
+   },
+   "forever": {
+      "message": "永久に"
+   },
+   "fullLinkTitle": {
+      "message": "全体を表示"
+   },
+   "general": {
+      "message": "一般"
+   },
+   "grantAccessAgain": {
+      "message": "再度アクセスを許可"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "複数アカウントを利用していて、それぞれの連絡先の写真へアクセスを許可する場合に有効です。"
+   },
+   "grantedTo": {
+      "message": "に許可を与える"
+   },
+   "grayscale": {
+      "message": "グレイスケール"
+   },
+   "green": {
+      "message": "グリーン"
+   },
+   "hearEmailMessage": {
+      "message": "メールの本文を聞く"
+   },
+   "hearEmailSubject": {
+      "message": "メールの件名を聞く"
+   },
+   "height": {
+      "message": "高さ"
+   },
+   "help": {
+      "message": "ヘルプ"
+   },
+   "helpMeTranslate": {
+      "message": "翻訳についてご協力ください。 訂正などありましたら、$1 をください。"
+   },
+   "helpMeTranslate2": {
+      "message": "電子メール"
+   },
+   "helpSupport": {
+      "message": "この拡張機能の作者をサポートしてください!"
+   },
+   "hideByJason": {
+      "message": "'by JasonSavard.com' を非表示にします。"
+   },
+   "hideByJasonToolTip": {
+      "message": "ポップアップ ウインドウの\u003Ci>by JasonSavard.com\u003C/i> を非表示にします。"
+   },
+   "hideMarkAsReadEmails": {
+      "message": "既読としてマークしたメールを非表示にする"
+   },
+   "hideReadEmails": {
+      "message": "読んだメールを非表示にする"
+   },
+   "hideUnreadCount": {
+      "message": "未読メール数を隠す"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "アイコンに未読メール数を表示しません。"
+   },
+   "hourAgo": {
+      "message": "$1時間経過"
+   },
+   "hours": {
+      "message": "時間"
+   },
+   "hoursAgo": {
+      "message": "$1時間経過"
+   },
+   "hoursLeft": {
+      "message": "あと$1時間"
+   },
+   "icon": {
+      "message": "アイコン"
+   },
+   "iconClassic": {
+      "message": "クラシックアイコン"
+   },
+   "iconDefault": {
+      "message": "デフォルトアイコン"
+   },
+   "iconDefault2WithDate": {
+      "message": "デフォルトアイコンと今日の日付"
+   },
+   "iconMonochrome": {
+      "message": "モノクロアイコン"
+   },
+   "iconNew": {
+      "message": "新アイコン"
+   },
+   "iconNew2": {
+      "message": "ダークアイコン"
+   },
+   "iconNew2WithDate": {
+      "message": "ダークアイコンに今日の日付"
+   },
+   "iconNewWithDate": {
+      "message": "新アイコンに今日の日付"
+   },
+   "iconTooltip": {
+      "message": "このアイコンをポップアップボタンにする"
+   },
+   "ignoreTheseAccounts": {
+      "message": "これらのアカウントを無視します"
+   },
+   "ignoreThisAccount": {
+      "message": "このアカウントを無視します。"
+   },
+   "ignored": {
+      "message": "無視"
+   },
+   "importantMail": {
+      "message": "重要なメール"
+   },
+   "inVARhour": {
+      "message": "あと　$1 時間"
+   },
+   "inVARhours": {
+      "message": "あと　$1 時間"
+   },
+   "inVARminutes": {
+      "message": "あと　$1 分"
+   },
+   "inbox": {
+      "message": "受信トレイ"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "invert": {
+      "message": "色反転"
+   },
+   "keepHoveringOverTheBluePlusOne": {
+      "message": "Google Plus で共有するためには、青い＋1アイコンの上にカーソルをかざし、テキストが表示されたらクリックしてください。"
+   },
+   "keys": {
+      "message": "キー"
+   },
+   "labels": {
+      "message": "ラベル"
+   },
+   "language": {
+      "message": "言語"
+   },
+   "languageName": {
+      "message": "日本語"
+   },
+   "languageToolTip": {
+      "message": "表示および音声の言語を変更します。一部が未翻訳の場合、代わりの言語が混在して表示されることがあります。（表示言語の優先順位: 1.ここで選択された言語 2.ブラウザに設定されている言語 3.英語) 注: ポップアップカレンダーの表示言語はGoogleカレンダーの設定に従います。各言語への翻訳の手伝いをしていただける方、ご協力願います。:)"
+   },
+   "largest": {
+      "message": "最大"
+   },
+   "licenseOnlyValidFor": {
+      "message": "ライセンスはGoogle アカウントにサインインしているユーザーに対してのみ有効になります。"
+   },
+   "listenToYourEmail": {
+      "message": "あなたのメールを聴く"
+   },
+   "loading": {
+      "message": "ロード中..."
+   },
+   "loadingSettings": {
+      "message": "設定の読込中"
+   },
+   "mailtoLinks": {
+      "message": "mailtoリンクを Gmail で開く"
+   },
+   "mailtoLinksToolTip": {
+      "message": "mailto リンク（電子メールのリンク）をクリックした時に、既定のメールクライアントの代わりに Gmail で開きます。"
+   },
+   "man": {
+      "message": "男性"
+   },
+   "markAllAsRead": {
+      "message": "すべて既読にする"
+   },
+   "markAllAsReadTitle": {
+      "message": "すべて既読にする"
+   },
+   "me": {
+      "message": "私"
+   },
+   "meetMe": {
+      "message": "作者についてもっと詳しく…"
+   },
+   "meetMeTitle": {
+      "message": "作者とその作品について紹介します!"
+   },
+   "min": {
+      "message": "分"
+   },
+   "minimumAmount": {
+      "message": "最低$1ドル以上お願いします。"
+   },
+   "minimumDonation": {
+      "message": "100"
+   },
+   "minimumDonationForGoogleCheckout": {
+      "message": "100"
+   },
+   "minimumDonationGoogleCheckoutReduced": {
+      "message": "40"
+   },
+   "minimumDonationPaypalReduced": {
+      "message": "40"
+   },
+   "minutesAgo": {
+      "message": "$1分経過"
+   },
+   "minutesLeft": {
+      "message": "あと$1分"
+   },
+   "monitorThisLabel": {
+      "message": "監視するラベル"
+   },
+   "monitorThisLabelToolTip": {
+      "message": "どのラベルの新着メールを通知するか決定します"
+   },
+   "monthsArray": {
+      "message": "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月"
+   },
+   "more": {
+      "message": "その他"
+   },
+   "moreInfo": {
+      "message": "詳細"
+   },
+   "multipleSelectionMac": {
+      "message": "複数のオプションを選択するには、コマンド ボタンを押しながら選択してください。"
+   },
+   "multipleSelectionWindows": {
+      "message": "複数のオプションを選択するには、コントロール (ctrl) ボタンを押しながら選択してください。"
+   },
+   "multipleUserLicense": {
+      "message": "組織向け複数ユーザー ライセンスを取得する。"
+   },
+   "mustSignInToPay": {
+      "message": "Gmail にサインインして、この機能拡張が読み込まれるのを待つ必要があります ！"
+   },
+   "muteVoice": {
+      "message": "音声をミュート"
+   },
+   "muteVoiceForToday": {
+      "message": "今日は音声をミュートにする"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "明日の午前7時まで音声をミュートにする。"
+   },
+   "muteVoiceForXh": {
+      "message": "$1時間 音声をミュートにする"
+   },
+   "muteVoiceForXm": {
+      "message": "$1分間 音声をミュートにする"
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "次の時間帯は音声をミュートします"
+   },
+   "native": {
+      "message": "ネイティブ"
+   },
+   "needHelp": {
+      "message": "もっと詳しく…"
+   },
+   "never": {
+      "message": "決してしない"
+   },
+   "newFeature": {
+      "message": "新機能!"
+   },
+   "next": {
+      "message": "次"
+   },
+   "noUnreadText": {
+      "message": "未読メールはありません"
+   },
+   "none": {
+      "message": "なし"
+   },
+   "notLoggedIn": {
+      "message": "未ログイン"
+   },
+   "notSignedIn": {
+      "message": "サインインしていません"
+   },
+   "notWorking": {
+      "message": "うまく動かない?"
+   },
+   "notificationDateFormat": {
+      "message": "dddd, mmm d'日'"
+   },
+   "notificationFontSize": {
+      "message": "通知テキストのサイズ"
+   },
+   "notificationFontSizeTooltip": {
+      "message": "通知ポップアップでの予定タイトルのフォントサイズ指定します。最小値は長いタイトルの場合、最大値は短いタイトルの場合に適用されます。"
+   },
+   "notificationSound": {
+      "message": "通知音を鳴らす"
+   },
+   "notificationTextToSpeech": {
+      "message": "音声で通知"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "少なくとも 1件のメールを未読としてマークしてから、ここをクリックして、通知ウィンドウが表示されるのを確認してください。"
+   },
+   "notificationZoom": {
+      "message": "通知ウィンドウの倍率"
+   },
+   "notificationZoomTooltip": {
+      "message": "通知ウィンドウ上のすべてのテキストを縮小します。 (DPIスケーリングで文字が拡大されている場合などに有効)"
+   },
+   "notifications": {
+      "message": "通知"
+   },
+   "of": {
+      "message": "の"
+   },
+   "oneUnreadText": {
+      "message": "件の未読メールがあります"
+   },
+   "onlyRemoveAfterDonation": {
+      "message": "リンク削除、寄付のあとにお願いいたします。"
+   },
+   "open": {
+      "message": "開く"
+   },
+   "openComposeInTab": {
+      "message": "新規メール作成時にタブで開く"
+   },
+   "openComposeInTabToolTip": {
+      "message": "ポップアップ ウィンドウの代わりにタブで新規メールを作成します。(mailto リンクにも適用されます)"
+   },
+   "openComposeReplyAction": {
+      "message": "メール作成/返信ボタン"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "ポップアップ ウィンドウで開く"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "タブで開く"
+   },
+   "openGmailTab": {
+      "message": "Gmailのタブを開く"
+   },
+   "openGmailTabToolTip": {
+      "message": "(推奨しません) ポップアップ プレビュー を無効にして、未読メールのある最初の Gmail アカウント をタブで開きます。"
+   },
+   "openLinkTitle": {
+      "message": "ウェブメールで開く"
+   },
+   "openReply": {
+      "message": "開く（返信）"
+   },
+   "openThisLabel": {
+      "message": "このラベルを開く"
+   },
+   "openThisLabelToolTip": {
+      "message": "メールアカウントか拡張機能のアイコンをクリックした時点で、移動先が決定されます。"
+   },
+   "option": {
+      "message": "オプション"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "or": {
+      "message": "もしくは"
+   },
+   "original": {
+      "message": "オリジナル"
+   },
+   "paragraph": {
+      "message": "段落"
+   },
+   "password": {
+      "message": "パスワード"
+   },
+   "pitch": {
+      "message": "ピッチ"
+   },
+   "pollNow": {
+      "message": "通知開始"
+   },
+   "pollingAccounts": {
+      "message": "アカウント ポーリング中"
+   },
+   "pollingInterval": {
+      "message": "更新間隔"
+   },
+   "pollingIntervalTooltip": {
+      "message": "Google カレンダーから予定を取得し、アイコンをこの間隔で更新します。"
+   },
+   "popupText": {
+      "message": "新しいメールが届いています"
+   },
+   "positionFromLeft": {
+      "message": "左からの位置"
+   },
+   "positionFromTop": {
+      "message": "上からの位置"
+   },
+   "preview": {
+      "message": "プレビュー"
+   },
+   "previewingMarksAsRead": {
+      "message": "プレビュー時に既読にする"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "ポップアップ ウィンドウでプレビューした時にメールを既読としてマークします。"
+   },
+   "previous": {
+      "message": "前"
+   },
+   "priorityInbox": {
+      "message": "優先トレイ"
+   },
+   "processing": {
+      "message": "処理中"
+   },
+   "rate": {
+      "message": "レート"
+   },
+   "rateTitle": {
+      "message": "音声の速度: 1 分あたりの単語数"
+   },
+   "readLink": {
+      "message": "既読"
+   },
+   "readLinkTitle": {
+      "message": "既読にする"
+   },
+   "referToAlreadyDonated": {
+      "message": "参照してください $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "既に寄付をいただいています"
+   },
+   "refresh": {
+      "message": "更新"
+   },
+   "refreshLinkTitle": {
+      "message": "全メールボックスを更新"
+   },
+   "rememeberReadEmails": {
+      "message": "既読状態の保存（ベータ）"
+   },
+   "rememeberReadEmailsToolTip": {
+      "message": "未読/既読状態の表示設定： 実験段階の機能ですので、ベータが外れるまでまでは、この機能を評価しないでください。"
+   },
+   "repeatSound": {
+      "message": "通知音を"
+   },
+   "repeatSound2": {
+      "message": "毎に繰り返し、"
+   },
+   "repeatSound3": {
+      "message": "回目に停止する"
+   },
+   "repeatSoundTooltip": {
+      "message": "通知ポップアップが放置されたままの場合、音声またはチャイムインをここで指定されたように繰り返します。"
+   },
+   "reply": {
+      "message": "返信"
+   },
+   "replyLinkTitle": {
+      "message": "返信"
+   },
+   "replyingMarksAsRead": {
+      "message": "返信時に既読にする"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "返信する時に、メールを既読としてマークします。"
+   },
+   "runInBackground": {
+      "message": "Google Chrome を閉じてもバックグラウンドで実行します。"
+   },
+   "runInBackgroundToolTip": {
+      "message": "ブラウザを閉じている間もメールの受信通知を続行します。上級ユーザーにのみお勧めします。"
+   },
+   "runInBackgroundWarning1": {
+      "message": "$1 を慎重にお読みください。"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "バックグラウンドで実行"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Chrome でバックグラウンド実行を無効にした場合、再度有効にするためには $1 を読む必要があります。"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "クリック可能な最終セクション"
+   },
+   "runInBackgroundWarning3": {
+      "message": "Gmail のログイン ページから $1 を使用する必要があります。"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "サインインを保持"
+   },
+   "saturation": {
+      "message": "彩度"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "saved": {
+      "message": "保存しました!"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "securely": {
+      "message": "安全に"
+   },
+   "seeUpdates": {
+      "message": "更新を参照してください。"
+   },
+   "seeVideo": {
+      "message": "機能紹介ビデオ"
+   },
+   "selectQuickActionButtons": {
+      "message": "アクション ボタンの表示と非表示を切り替える"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "注: フル メール ビューではアクション ボタンを隠しません ！"
+   },
+   "sendPageLinkTitle": {
+      "message": "表示しているページのリンクを送信します"
+   },
+   "sepia": {
+      "message": "セピア"
+   },
+   "setDateTime": {
+      "message": "日時の設定"
+   },
+   "setPositionAndSize": {
+      "message": "ポップアップ ウィンドウの位置とサイズを設定します"
+   },
+   "setPositionAndSizeToolTip": {
+      "message": "メール作成/返信のポップアップ ウィンドウのデフォルト値を変更して、ポップアップ ウィンドウのサイズと位置をピクセル単位で設定します"
+   },
+   "severalUnreadText": {
+      "message": "件の未読メールがあります"
+   },
+   "share": {
+      "message": "共有"
+   },
+   "showActionButtonsOnHover": {
+      "message": "通知ウィンドウにカーソルを合わせた時のみアクション ボタンを表示します。"
+   },
+   "showAllEmails": {
+      "message": "全てのメールを表示する"
+   },
+   "showButtonTooltip": {
+      "message": "アイコンの上にカーソルをかざすとツールヒントを表示します。"
+   },
+   "showButtonTooltipTooltip": {
+      "message": "アイコンの上にカーソルをかざすと次のイベントを表示します。"
+   },
+   "showContactPhoto": {
+      "message": "連絡先の写真を表示する"
+   },
+   "showContactPhotoToolTip": {
+      "message": "連絡先に写真が設定されている場合は表示されます。写真が見つからない場合はデフォルトのロゴが表示されます。連絡先の写真を取得するには許可が必要です。"
+   },
+   "showDesktopNotifications": {
+      "message": "デスクトップ通知を表示する"
+   },
+   "showDetails": {
+      "message": "詳細表示"
+   },
+   "showEmailAccount": {
+      "message": "常に受信トレイのアカウントを表示します"
+   },
+   "showEmailAccountToolTip": {
+      "message": "メールの受信通知を受けたアカウントが表示されます。複数のアカウントをチェックしている場合に有効です。"
+   },
+   "showIconAnimation": {
+      "message": "アイコンをアニメーション表示"
+   },
+   "showIconAnimationToolTip": {
+      "message": "新着メール通知時にアイコンをアニメーション表示します。"
+   },
+   "showLabelsTitle": {
+      "message": "ラベルを表示します"
+   },
+   "showMarkAsReadEmails": {
+      "message": "既読としてマークしたメールを表示する"
+   },
+   "showOptionsButton": {
+      "message": "オプション ボタンを表示します"
+   },
+   "showRefresh": {
+      "message": "更新アイコンを表示"
+   },
+   "showRefreshTooltip": {
+      "message": "更新アイコンを表示します。"
+   },
+   "signIn": {
+      "message": "サインイン"
+   },
+   "signInAsUserOfOrg": {
+      "message": "ご自身の会社のメールで $1 する必要があります。"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "一旦サインアウトして Gmail にサインインする。"
+   },
+   "signInToYourAccount": {
+      "message": "最初にアカウントにサインインしてから、このページをリロードしてください！"
+   },
+   "smallest": {
+      "message": "最小"
+   },
+   "sound": {
+      "message": "サウンド"
+   },
+   "spamLink": {
+      "message": "スパム"
+   },
+   "spamLinkTitle": {
+      "message": "スパムとしてマーク"
+   },
+   "speechEngine": {
+      "message": "音声認識エンジン"
+   },
+   "spokenWordsLimit": {
+      "message": "話し言葉の制限"
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "ボタンをクリックするか、通知ウィンドウの上にカーソルをかざすと、スピーチをいつでも停止できます。注: 音声認識エンジンによっては独自の制限を課すことがあります。"
+   },
+   "standardNotification": {
+      "message": "標準の通知ウィンドウ"
+   },
+   "standardNotificationToolTip": {
+      "message": "最新の未読メールを \u003Cb>標準のアクションボタンで\u003C/b> 通知します。"
+   },
+   "starLinkTitle": {
+      "message": "スターをつける"
+   },
+   "staySignedIn": {
+      "message": "サインインを保持"
+   },
+   "summary": {
+      "message": "要約"
+   },
+   "summaryLinkTitle": {
+      "message": "概要を表示"
+   },
+   "supportAndRequestsPrioritized": {
+      "message": "寄付をしていただいた方のご要望には優先的に対応させていただきます。"
+   },
+   "testIt": {
+      "message": "試してみる!"
+   },
+   "testOutPopupWindow": {
+      "message": "ポップアップウィンドウのテスト"
+   },
+   "textNotification": {
+      "message": "テキスト通知ウィンドウ"
+   },
+   "textNotificationTitle": {
+      "message": "$1からのメール: $2"
+   },
+   "textNotificationToolTip": {
+      "message": "最新の未読メールを通知します。OS Xの通知センターおよびGrowlと互換性があります。"
+   },
+   "thankYouForYourContribution": {
+      "message": "追加機能のロックが解除されました。寄付をいただき、ありがとうございます!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "このウィンドウを閉じて、お楽しみください ！"
+   },
+   "theme": {
+      "message": "テーマ"
+   },
+   "timeout": {
+      "message": "タイムアウト"
+   },
+   "timeoutTryAgain": {
+      "message": "$1 との交信中にタイムアウト発生、やり直してください!"
+   },
+   "to": {
+      "message": "宛先"
+   },
+   "today": {
+      "message": "今日"
+   },
+   "todayAt": {
+      "message": "今日"
+   },
+   "tom": {
+      "message": "明日"
+   },
+   "tomorrow": {
+      "message": "明日"
+   },
+   "tomorrowAt": {
+      "message": "明日"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "Gmail のチェックを無効にして、Google Apps のみチェックする"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "@gmail.com アカウントを無視します！"
+   },
+   "undo": {
+      "message": "やり直し"
+   },
+   "unlockFeatures": {
+      "message": "お好きな金額の寄付を一度だけしていただくと、現在および将来にわたって追加機能がその場で利用可能になります!"
+   },
+   "unlockHeader": {
+      "message": "開発者を支援して、追加機能を入手する。"
+   },
+   "unmuteVoice": {
+      "message": "ミュートを解除"
+   },
+   "unreadLink": {
+      "message": "未読"
+   },
+   "unreadLinkTitle": {
+      "message": "未読にする"
+   },
+   "unreadLinkTitleShort": {
+      "message": "未読"
+   },
+   "unreadMail": {
+      "message": "未読メール"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "ただし、次の時間以上コンピュータの操作をしないときに限る："
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "コンピュータがアイドル状態にあるときにのみ、音声通知を聞きたい場合にこれを選択してください。"
+   },
+   "volume": {
+      "message": "ボリューム"
+   },
+   "wantToStaySignedIn": {
+      "message": "サインインし続けますか?"
+   },
+   "welcomeMessage": {
+      "message": "ようこそ！\u003Cbr>\u003Cbr>この拡張機能には、とてもたくさんの設定項目がありますので、じっくり時間をかけて体験してみてください。\u003Cbr>\u003Cbr>もし疑問点がある場合は、\u003Cu>レビューを書く前に\u003C/u>オプションにあるヘルプ リンクからお問い合わせください。おそらく私から解決策を提示できると思います：）"
+   },
+   "what": {
+      "message": "内容"
+   },
+   "when": {
+      "message": "時"
+   },
+   "wholeEmail": {
+      "message": "メール全体"
+   },
+   "whyContribute": {
+      "message": "協力していただきたい理由"
+   },
+   "whyContributeReason1": {
+      "message": "みなさんのご要望にお答えするため、毎週、$1の機能更新とサポートのために時間を費やしています。"
+   },
+   "whyContributeReason1_1": {
+      "message": "拙作の拡張機能すべて"
+   },
+   "whyContributeReason2": {
+      "message": "みなさんのご意見や評価に目を通して、迅速にお応えしています。"
+   },
+   "whyContributeReason3": {
+      "message": "金額はいくらでも構いません。ご支援に感謝いたします!"
+   },
+   "whyContributeReason4": {
+      "message": "この拡張機能は、皆様のおかげで、すばらしい $1　をいただいています。"
+   },
+   "whyContributeReason4_1": {
+      "message": "評価"
+   },
+   "whyContributeReason5": {
+      "message": "作者のについてのさらに詳しい情報はこちら: $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Google カレンダーをより効率的に使用し、あなた個人、または仕事へにさらに役立てられます。"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "$1　を思えばもっと気軽にご協力いただけると思います。"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "マイクロソフトOutlook"
+   },
+   "width": {
+      "message": "幅"
+   },
+   "woman": {
+      "message": "女性"
+   },
+   "writeAboutMe": {
+      "message": "拙作の拡張機能が他にもあります。ぜひお試しください。"
+   },
+   "writeSomethingNice": {
+      "message": "テキストを書き換えてコメントをお願いします。このアプリをどのように利用しているか、なぜ選んだのかなどを教えてください。"
+   },
+   "yesterday": {
+      "message": "昨日"
+   },
+   "zoom": {
+      "message": "ズーム"
+   }
+}

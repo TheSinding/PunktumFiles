@@ -1,0 +1,634 @@
+{
+   "10_secs": {
+      "description": "seconds",
+      "message": "10 Seconds"
+   },
+   "20_secs": {
+      "description": "seconds",
+      "message": "20 Seconds"
+   },
+   "all_mt_settings_1": {
+      "description": "text of link off to mt webapp settings",
+      "message": "For all MightyText settings, load the settings tab in the"
+   },
+   "all_mt_settings_2": {
+      "description": "text of link off to mt webapp settings",
+      "message": "MightyText Web App"
+   },
+   "app_desc": {
+      "description": "Description of the application.",
+      "message": "SMS from PC or Mac using your Android #. Sync Text Messages, Calls, Notifications, Photos, Battery Status"
+   },
+   "app_name": {
+      "description": "Name of the application.  Shown in the extensions list (chrome://extensions)",
+      "message": "MightyText - SMS from PC & Text from Computer"
+   },
+   "app_name_short": {
+      "description": "Short name of the application",
+      "message": "MightyText SMS"
+   },
+   "app_notif_sync_not_supported_os_1": {
+      "description": "part 1 of notif shown when android os does not support app notif sync",
+      "message": "\u003Cb>App Notification Sync\u003C/b> is only available on phones running Android 4.3 and above."
+   },
+   "app_notif_sync_not_supported_os_2": {
+      "description": "part 2 of notif shown when android os does not support app notif sync",
+      "message": "Your phone is running an older version of Android."
+   },
+   "as_of": {
+      "description": "bat stat tooltip",
+      "message": "As of"
+   },
+   "auto_dismiss_explanation": {
+      "description": "content of notif shown on click of explanation icon in auto dismiss setting",
+      "message": "If you enable this setting, we'll dismiss any MightyText message notifications after the specified time."
+   },
+   "auto_dismiss_notifs_description": {
+      "description": "description of auto dismiss setting",
+      "message": "Automatically dismiss message notifications after"
+   },
+   "ba_error_popup_1": {
+      "description": "Error shown on click of greyed out BA icon",
+      "message": "Unable to reach Mightytext.%br%Please check your connection."
+   },
+   "ba_error_popup_2": {
+      "description": "Error shown on click of greyed out BA icon",
+      "message": "Error connecting to MightyText. If this continues, please inform our team. We are sorry for the inconvenience.%br%%br%%bold%(Error Code: CRX-GU72)%bold_close%"
+   },
+   "bat_notif_settings": {
+      "description": "bat settings button shwon in notif of any bat related notifs. shortcut to settings",
+      "message": "Battery alert settings"
+   },
+   "block_app_notifs": {
+      "message": "Stop syncing %app_name% notifications"
+   },
+   "blocked_app_notif": {
+      "desription": "confirmation of block app notif",
+      "message": "Stopped syncing %app_name% notifications"
+   },
+   "browser_action_global_notifs_off": {
+      "description": "content of tooltip on hover of browser action icon (global notifs off)",
+      "message": "Status: All Notifications Off"
+   },
+   "browser_action_logged_in": {
+      "description": "content of tooltip on hover of browser action icon (reg)",
+      "message": "Status: Logged In"
+   },
+   "browser_action_msg_notifs_off": {
+      "description": "content of tooltip on hover of browser action icon (incoming message notifs off)",
+      "message": "Status: Incoming Message Notifications Off"
+   },
+   "browser_action_no_cookie": {
+      "description": "content of tooltip on hover of browser action icon (red X)",
+      "message": "Status: Not Logged In"
+   },
+   "browser_action_no_int": {
+      "description": "part of the tooltip shown on hover of browser action icon (greyed out)",
+      "message": "Status: Please check your internet connection."
+   },
+   "browser_action_unable_to_connect": {
+      "description": "content of tooltip on hover of browser action icon (red)",
+      "message": "Status: Unable to Connect To MightyText"
+   },
+   "call_decline_error": {
+      "description": "notif content shown if unable to declline call",
+      "message": "Error declining call on phone"
+   },
+   "call_declined": {
+      "description": "call decline notif title",
+      "message": "Call Declined"
+   },
+   "call_in_progress": {
+      "description": "notif content shown when a user tries to decline a stale call",
+      "message": "You have a call in progress."
+   },
+   "capi_js_load_error_content": {
+      "description": "content of capi js load error notif",
+      "message": "Oops! There was an error loading this session. If this continues, please inform our team. We are sorry for the inconvenience."
+   },
+   "capi_js_load_error_context_msg": {
+      "description": "additional content of capi js load error notif",
+      "message": "(Error Code: CRX-CH84)"
+   },
+   "capi_js_load_error_title": {
+      "description": "title of notif shown when there is an error loading the CAPI js",
+      "message": "Session Load Issue"
+   },
+   "click_for_instructions": {
+      "description": "extra line of text in chrome notif to prompt user to install phone APK",
+      "message": "Click here for instructions"
+   },
+   "click_to_see_message": {
+      "description": "Message body shown when a user has the message privacy setting ON",
+      "message": "Click to see message"
+   },
+   "compose_new": {
+      "description": "compose new mode shortcut in popup menu",
+      "message": "Compose New"
+   },
+   "contacts": {
+      "description": "contacts",
+      "message": "Contacts"
+   },
+   "contacts_refresh_content": {
+      "description": "content of contact refresh conf notif",
+      "message": "Your latest contact names have been refreshed from your phone to MightyText."
+   },
+   "contacts_refresh_title": {
+      "description": "title of contact refresh conf notif",
+      "message": "Contact Names Refreshed"
+   },
+   "create_reminder": {
+      "description": "compose new mode shortcut in popup menu",
+      "message": "Create a Reminder"
+   },
+   "decline_on_phone": {
+      "description": "Content of second button in incoming call notif to decline the call",
+      "message": "Decline on phone"
+   },
+   "dialer": {
+      "description": "tooltip of dialer mode PNLV shortcut (in the option) in popup menu",
+      "message": "Dialer"
+   },
+   "dismiss_all_notifs_on_phone_confirm": {
+      "description": "content of confirm shown when user dismisses all notifs w/ > 15 notifs",
+      "message": "This will dismiss all notifications from your phone.%br%%br%(Including the %num_notifs% not shown here.)"
+   },
+   "dismiss_notif_on_phone": {
+      "description": "content of dismiss app notif on phone in chrome notif",
+      "message": "Dismiss notification on phone"
+   },
+   "display_sender_name_and_content": {
+      "description": "display sender name and message content",
+      "message": "Display both the name of the sender and the message content"
+   },
+   "display_sender_name_only": {
+      "description": "no message content displayed, just sender name",
+      "message": "Only display the name of the sender"
+   },
+   "draft_not_saved": {
+      "message": "Draft not saved"
+   },
+   "draft_not_updated": {
+      "message": "Draft not updated"
+   },
+   "draft_saved": {
+      "message": "Draft Saved"
+   },
+   "draft_updated": {
+      "message": "Draft Updated"
+   },
+   "enable_pnlv_instruc_1": {
+      "description": "how to enable pnlv on phone part 1",
+      "message": "MightyText needs \u003Cb>Notification Access\u003C/b> on your phone to sync notifications.\u003Cbr>\u003Cbr>Open your phone now to enable this, or click "
+   },
+   "enable_pnlv_instruc_2": {
+      "description": "how to enable pnlv on phone part 2",
+      "message": "for more details"
+   },
+   "enabled_on_phone": {
+      "description": "Explanation that phone app notif setting is on phone",
+      "message": "if enabled on phone"
+   },
+   "error_blocking_app_notif": {
+      "message": "Error syncing %app_name% notifications"
+   },
+   "error_not_logged_in": {
+      "description": "Error shown when sendc2dm responds that the user's not cookie'd to GAE",
+      "message": "Error: Not logged in to MightyText."
+   },
+   "error_not_registered": {
+      "description": "Error shown when sendc2dm responds that the user's device is not registered",
+      "message": "Error: Android Phone not registered with MightyText with this Google Account, or MightyText Android App not installed properly on your phone."
+   },
+   "error_on_phone_retrieving_notifs": {
+      "description": "error shown when an error occurs on the phone while trying to retrieve a user's notifs. example: run out of memory error",
+      "message": "Unable to get your phone's notifications.  \u003Cspan class=\"banner-action\">Click here to try again\u003C/span>.\u003Cbr>\u003C/br>If this continues, please contact our team with error code:"
+   },
+   "error_phone_quota_exceeded": {
+      "description": "Error shown when sendc2dm responds that the user has registered too many devices",
+      "message": "Android Phone Quota Exceeded.  Error Code: DeviceQuotaExceeded (C2DM)"
+   },
+   "error_save_all_this_apps_notifs": {
+      "message": "Error saving all %app_name% notifications"
+   },
+   "error_sending_message": {
+      "description": "Notice when link cannot be sent. $details$ is automatically replaced with the error text.",
+      "message": "Error sending to phone: $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "Failed to send message."
+         }
+      }
+   },
+   "error_storing_notif": {
+      "description": "dismiss notif attempt",
+      "message": "Error storing this notification from %app_name%"
+   },
+   "first_reminded": {
+      "description": "prepended content to a notif after it's been snoozed",
+      "message": "First reminded at"
+   },
+   "full_bat_notifs": {
+      "description": "Full Phone Bat Settings section title",
+      "message": "Notify me when my phone battery is fully charged"
+   },
+   "full_batt_notif_content": {
+      "description": "content of phone batt fully charged notif",
+      "message": "Your phone battery is fully charged"
+   },
+   "full_batt_notif_title": {
+      "description": "title of phone batt fully charged notif",
+      "message": "Phone Battery Charged"
+   },
+   "gen_c2dm_error": {
+      "description": "Generic error shown when we don't recognize the error response of the server",
+      "message": "C2DM/GCM Error.  Please retry. \r\n\r\n Error Info: \r\n\r\n"
+   },
+   "gen_context_menu_error": {
+      "message": "Error: Unrecognized Context"
+   },
+   "global_notifs_off_confirm": {
+      "message": "Notifications Off"
+   },
+   "global_notifs_on_confirm": {
+      "message": "Notifications On"
+   },
+   "global_notifs_toggle": {
+      "description": "tooltip of global notif setting icon in popup menu",
+      "message": "Toggle Notifications"
+   },
+   "group_mms_from": {
+      "description": "content in group mms to show which group member sent this message",
+      "message": "Group message from"
+   },
+   "group_msg_from": {
+      "description": "notif title shown when incoming group mms rcvd",
+      "message": "Group text from"
+   },
+   "group_pic_msg_from": {
+      "description": "notif title shown when incoming group mms w/pic rcvd",
+      "message": "Group text & picture from"
+   },
+   "here": {
+      "message": "here"
+   },
+   "incoming_call_from": {
+      "description": "notif title shown on incoming call",
+      "message": "Incoming Call from"
+   },
+   "incoming_group_mms": {
+      "description": "notif shown when user receives a group mms, before the mms content is shown",
+      "message": "Incoming Group Message from"
+   },
+   "incoming_photo_message": {
+      "description": "notif shown when user receives a picture message",
+      "message": "Incoming Picture Message from"
+   },
+   "install_mt_notif_content": {
+      "description": "title of app install notif when we know user is not registered",
+      "message": "'%user_email%' has not configured the MightyText Android Phone App.\n\nPlease install & configure MightyText on your phone with this Google Account."
+   },
+   "install_mt_notif_title": {
+      "description": "title of app install notif when we know user is not registered",
+      "message": "MightyText - Install Android App"
+   },
+   "live_phone_view": {
+      "description": "Live phone view option in popup menu",
+      "message": "Live Phone View"
+   },
+   "low_bat_notif_content": {
+      "description": "content of low phone batt notif",
+      "message": "Your phone battery is low"
+   },
+   "low_bat_notif_title": {
+      "description": "title of low phone batt notif",
+      "message": "Phone Battery Low"
+   },
+   "low_bat_notifs": {
+      "description": "Low Phone Bat Settings section title",
+      "message": "Notify me when my phone battery is low"
+   },
+   "map_to_phone_success": {
+      "message": "Map sent to phone"
+   },
+   "message_notif_sound": {
+      "description": "Message notif sound section title",
+      "message": "Message Notification Sound"
+   },
+   "message_notif_sound_on": {
+      "description": "Message notif sound toggle",
+      "message": "Play a sound on incoming message notifications"
+   },
+   "message_notifications": {
+      "description": "title of message notifications setting section title",
+      "message": "Message Notifications"
+   },
+   "message_notifs_description": {
+      "description": "description of message notif setting",
+      "message": "Notify me of incoming SMS, MMS, and Calls"
+   },
+   "message_notifs_privacy": {
+      "message": "Message Notifications Privacy"
+   },
+   "message_scheduled": {
+      "message": "Message scheduled"
+   },
+   "message_sent": {
+      "message": "Message sent"
+   },
+   "messsage_notifs_privacy": {
+      "description": "Message privacy setting section",
+      "message": "Message Notifications Privacy"
+   },
+   "missed_call_from": {
+      "description": "notif title shown on incoming call",
+      "message": "Missed Call from"
+   },
+   "msg_send_failure": {
+      "description": "content of msg send failure notif",
+      "message": "Your message \"%msg_body%\" to %contact_name% failed to send from your phone.\n\nClick here to see the failed message and resend."
+   },
+   "mt_connection_issue_notif_content": {
+      "description": "Content of notif shown on error in response of GUIF",
+      "message": "Error connecting to MightyText. If this continues, please inform our team. We are sorry for the inconvenience.\n\n(Error Code: CRX-GU72)"
+   },
+   "mt_connection_issue_notif_title": {
+      "description": "Title of notif shown on error response of GUIF",
+      "message": "MightyText Connection Issue"
+   },
+   "mt_gen_error_notif_content": {
+      "description": "generic notif content shown when we don't recognize the error code returned by GUIF",
+      "message": "General Error. Please contact the MightyText team."
+   },
+   "mt_sys_issues_notif_content": {
+      "description": "Title of notif shown if request to get threadlist responds w/ error",
+      "message": "MightyText is having system issues. We're aware of the problem and working on it. We are sorry for the inconvenience. (Error Code: CRX-GTHRD59)"
+   },
+   "mt_sys_issues_notif_title": {
+      "description": "Title of notif shown if request to get threadlist responds w/ error",
+      "message": "MightyText System issues"
+   },
+   "new_feature_badge": {
+      "description": "text of 'new' feature badge",
+      "message": "New"
+   },
+   "no_notifs": {
+      "message": "No notifications"
+   },
+   "not_signed_in_title": {
+      "description": "user not logged in notif title",
+      "message": "MightyText - Not Signed In"
+   },
+   "notif_signed_in_content": {
+      "description": "user not logged in notif content",
+      "message": "You won't be able to send/receive messages. Click here to sign in."
+   },
+   "notif_sound": {
+      "description": "notif sound setting title",
+      "message": "Notification Sound"
+   },
+   "notifications": {
+      "description": "tooltip of PNLV shortcut (in the option) in popup menu.  Also used for the global Notifications settings title in the settings page.",
+      "message": "Notifications"
+   },
+   "open_link_on_phone": {
+      "message": "Open this page on phone"
+   },
+   "open_link_on_phone_success": {
+      "message": "Page sent to phone"
+   },
+   "open_map_on_phone": {
+      "description": "custom string for send link to phone when user is on google maps",
+      "message": "Open Map on Phone"
+   },
+   "open_mightytext": {
+      "description": "webapp shortcut in popup menu",
+      "message": "Open MightyText"
+   },
+   "open_review_on_phone": {
+      "description": "custom string for send link to phone when user is on yelp",
+      "message": "Read Yelp Review on Phone"
+   },
+   "phone_app_name": {
+      "message": "Application Name"
+   },
+   "phone_app_notif_content": {
+      "message": "Notification Content"
+   },
+   "phone_app_notif_more_options": {
+      "description": "content of second button in phone app chrome notif",
+      "message": "Block, Save, more..."
+   },
+   "phone_app_notifs": {
+      "description": "phone app notif setting section title",
+      "message": "Phone App Notifications"
+   },
+   "phone_bat_notifs": {
+      "description": "Phone Bat Settings section title",
+      "message": "Phone Battery Notifications"
+   },
+   "phone_bat_stat": {
+      "description": "tooltip of batstat in popup menu",
+      "message": "Phone Battery Status"
+   },
+   "phone_dialer": {
+      "message": "Phone Dialer"
+   },
+   "phone_status_interval_error": {
+      "description": "Error shown if there was an error in the function called to retrieve phone status",
+      "message": "Error CRX-PSTUS50 \r\n\r\n If this continues please notify MightyText team at info@mightytext.net"
+   },
+   "pic_msg_from": {
+      "description": "notif title shown when mms is actually received (CAPI)",
+      "message": "Picture Message from"
+   },
+   "play_vid_on_phone": {
+      "description": "custom string for send link to phone when user is on youtube",
+      "message": "Play Video on Phone"
+   },
+   "pnlv_explanation_content": {
+      "description": "content of explanation graphic",
+      "message": "View and dismiss your phone's notifications from your computer"
+   },
+   "pnlv_title": {
+      "description": "title",
+      "message": "Phone Notification Live View"
+   },
+   "preview": {
+      "description": "text of notification sound preview button",
+      "message": "Preview"
+   },
+   "push_phone_app_notifs_on": {
+      "description": "content of phone app notif setting",
+      "message": "Notify me of phone app notifications"
+   },
+   "refresh_contacts": {
+      "description": "refresh contact button content",
+      "message": "Refresh Contacts"
+   },
+   "refresh_contacts_attempt_confirm": {
+      "description": "user triggered contact refresh from settings",
+      "message": "Refreshing contacts from your phone.%br%%br%Please make sure your phone is on and connected to a data network."
+   },
+   "refresh_contacts_attempt_error": {
+      "description": "en error occurred while trying to refresh a user's contacts",
+      "message": "There was an error sending the request to refresh your contacts from MightyText.%br%%br%Please make sure your phone is on and connected to a data network."
+   },
+   "remind_me_in": {
+      "description": "incoming message reminder button text",
+      "message": "Remind me in 5 minutes"
+   },
+   "remind_me_in_new": {
+      "message": "Remind me... (New!)"
+   },
+   "reply": {
+      "description": "incoming message reply button text",
+      "message": "Reply"
+   },
+   "reply_to_group": {
+      "description": "group thread specific reply button text in chrome notif",
+      "message": "Reply to group"
+   },
+   "retry": {
+      "message": "Retry"
+   },
+   "ring_phone_attempt": {
+      "description": "request sent to phone to ring phone",
+      "message": "Request sent to ring phone."
+   },
+   "ring_phone_attempt_error": {
+      "description": "error occurred while trying to ring phone",
+      "message": "Unable to send request to ring phone."
+   },
+   "ring_phone_confirm": {
+      "description": "confirm shown on ring phone",
+      "message": "This will ring your phone, regardless of your volume setting. Press OK to continue."
+   },
+   "save_all_this_apps_notifs_conf": {
+      "message": "Now saving all %app_name% notifications"
+   },
+   "save_all_this_phone_apps_notifs": {
+      "message": "Save all future %app_name% notifications"
+   },
+   "save_phone_app_notif": {
+      "message": "Save notification"
+   },
+   "select_too_long": {
+      "message": "Error: Selected String is too long"
+   },
+   "selection_too_long": {
+      "message": "Please select \u003C 1000 characters to send."
+   },
+   "send_img_as_mms": {
+      "message": "Send as Picture Message (MMS)"
+   },
+   "send_img_to_phone": {
+      "message": "Send Image to Phone"
+   },
+   "send_img_to_phone_success": {
+      "message": "Image sent to phone"
+   },
+   "send_img_with_mt": {
+      "description": "content of mt image context menu",
+      "message": " Send image with MightyText..."
+   },
+   "send_link_as_text": {
+      "message": "Send this page via text message"
+   },
+   "send_link_sms": {
+      "description": "Send Link as SMS in popup menu",
+      "message": "Text this page"
+   },
+   "send_link_to_phone": {
+      "description": "Send link to phone in popup menu",
+      "message": "Open this page on Phone"
+   },
+   "send_page_with_mt": {
+      "description": "content of mt page context menu",
+      "message": " Send page with MightyText..."
+   },
+   "send_select_to_phone": {
+      "message": "Send Selection to Phone"
+   },
+   "send_select_to_phone_as_text": {
+      "message": "Send Selection via Text Message"
+   },
+   "send_select_to_phone_success": {
+      "message": "Selection sent to phone"
+   },
+   "send_selection_with_mt": {
+      "description": "content of mt selection context menu",
+      "message": " Send '%s' with MightyText..."
+   },
+   "send_text_msg": {
+      "description": "text shown to prompt a user to send a text reply to an incoming phone call",
+      "message": "Send text message"
+   },
+   "sent_with_mt": {
+      "message": "sent with MightyText"
+   },
+   "settings": {
+      "description": "settings string. used in tooltip of setting shortcut icon in popup menu",
+      "message": "Settings"
+   },
+   "settings_page_title": {
+      "description": "title of settings page",
+      "message": "MightyText Chrome Extension Settings"
+   },
+   "sign_in_required_message": {
+      "description": "Notice when sign in is required. $link$ is automatically replaced with 'sign in'.",
+      "message": "Please $link$ to MightyText.",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "Sign in link."
+         }
+      }
+   },
+   "signed_in_message": {
+      "description": "Signed in message.",
+      "message": "Signed in. You are now ready to send links to your phone."
+   },
+   "signed_out_message": {
+      "description": "Signed out message.",
+      "message": "You are now signed out of MightyText."
+   },
+   "store_this_app_notif": {
+      "description": "confirmation of store single app notif",
+      "message": "Notification from %app_name% stored"
+   },
+   "template_created": {
+      "message": "Template Created"
+   },
+   "unable_to_comm_with_phone": {
+      "message": "Unable to send request to phone. Please check your computer's internet connection."
+   },
+   "unable_to_load_mt_iframe": {
+      "message": "Unable to load MightyText window"
+   },
+   "updated": {
+      "message": "Updated"
+   },
+   "vid_to_phone": {
+      "message": "Play Video on Phone"
+   },
+   "vid_to_phone_success": {
+      "message": "Video sent to phone"
+   },
+   "view_full_pic": {
+      "description": "Content of second button in MMS to trigger a new image type chrome notif to display the picture larger",
+      "message": "View full-size picture"
+   },
+   "warning": {
+      "description": "used in message send failure notif (title)",
+      "message": "Warning"
+   },
+   "yelp_to_phone": {
+      "message": "Read Yelp Review on Phone"
+   },
+   "yelp_to_phone_success": {
+      "message": "Yelp review sent to phone"
+   }
+}

@@ -1,0 +1,689 @@
+{
+   "Active_days": {
+      "message": "Рабочие дни"
+   },
+   "Active_days_times": {
+      "message": "Активные по дням и времени"
+   },
+   "Add_domain_time": {
+      "message": "Добавить дни доступа к домену"
+   },
+   "Add_new_domains_here": {
+      "message": "Добавить новые домены можно здесь"
+   },
+   "Add_time_interval": {
+      "message": "Добавить интервал времени"
+   },
+   "Add_word": {
+      "message": "Добавить слово"
+   },
+   "Adult_related": {
+      "message": "Для взрослых"
+   },
+   "Are_you_sure_block_phrase": {
+      "message": "Вы уверены, что хотите блокировать эту фразу? Если заблокировать фразу, она может повлечь блокирование множества сайтов."
+   },
+   "Block_Site_Options": {
+      "message": "Опции BlockSite"
+   },
+   "Custom_list": {
+      "message": "Особый список"
+   },
+   "Default": {
+      "message": "По умолчанию:"
+   },
+   "Default_redirect_page": {
+      "message": "Страница перенаправления по умолчанию"
+   },
+   "Domains": {
+      "message": "Домены"
+   },
+   "Export": {
+      "message": "Экспорт"
+   },
+   "Export_CSV": {
+      "message": "Экспорт списка в CSV:"
+   },
+   "Export_Import": {
+      "message": "Экспорт / Импорт"
+   },
+   "Friday": {
+      "message": "Пятница"
+   },
+   "Globally": {
+      "message": "Во всем мире"
+   },
+   "How_activate_Incognito": {
+      "message": "Как активировать BlockSite в режиме Incognito"
+   },
+   "Import": {
+      "message": "Импорт"
+   },
+   "Import_CSV": {
+      "message": "Импорт списка из CSV:"
+   },
+   "Incognito_mode_redirect": {
+      "message": "Режим перенаправления инкогнито"
+   },
+   "Incorrect_file": {
+      "message": "Неправильный файл!"
+   },
+   "List_blocked_word": {
+      "message": "Список заблокированных слов"
+   },
+   "Monday": {
+      "message": "Понедельник"
+   },
+   "Other": {
+      "message": "Другой"
+   },
+   "Password_is_set": {
+      "message": "Пароль установлен"
+   },
+   "Password_protect_h2": {
+      "message": "Настройки защиты паролем"
+   },
+   "Password_protect_text1": {
+      "message": "\u003Cp>\u003Cstrong>Как это работает?\u003C/strong>\u003C/p>\u003Cp>Здесь вы можете установить пароль только в настройках защиты, но расширение очень легко удалить. Если Вы хотите убедиться в том, что никто не получит доступ к запрещенным сайтам, нажмите кнопку \"Получить премиум\" и следуйте инструкциям. Это удобно для родительского контроля. \u003C/p> \u003Cp>Установить пароль здесь: \u003C/p>"
+   },
+   "Password_protect_text2": {
+      "message": "\u003Cp>\u003Cstrong>Премиум - защита от удаления\u003C/strong>\u003C/p>\u003Cp>Прямо сейчас вы можете включить защиту от удаления. Тогда страница со списком расширений станет доступна только по паролю. Это делает расширение неудаляемым, так что никто не может получить доступ на выбранные сайты.\u003C/p> Выполните следующие несколько шагов: \u003C/p> \u003Cp>1. Перейти к списку \u003Ca href=\"#\" class=\"link_to_ext_list\">расширений\u003C/a> и разрешить запуск расширения в режиме инкогнито. Тогда не будет возможности обойти расширение в режиме Incognito. \u003Ca href=\"http://www.wips.com/news/detail/62/how-to-run-an-extension-in-incognito-mode\" class=\"ga_incognito_mode\" target=\"_blank\">Прочтите, как это сделать. \u003C/a> \u003C/p> \u003Cp>2. Активируйте защиту от удаления здесь: \u003C/p>"
+   },
+   "Password_protect_text3": {
+      "message": "Активируйте защиту от удаления"
+   },
+   "Password_protect_text4": {
+      "message": "Отключение защиты от удаления"
+   },
+   "Password_protect_text5": {
+      "message": "ПРИМЕЧАНИЕ: Вы должны сначала установить пароль"
+   },
+   "Password_protect_text6": {
+      "message": "\u003Cp class=\"enable_super_safe_alert_noset none\" style=\"color:#E40000\"> Вы являетесь Премиум пользователем, но Вы не активировали функциональность. Установите флажок, чтобы активировать ее \u003C/p> \u003Cstrong> ВАЖНО: запишите Ваш пароль где-нибудь. Потому что, если Вы не сделаете это, нет способов восстановить или изменить его, и вы должны будете переустановить Chrome. \u003C/strong>\u003C/p> Если вам нужна помощь, сообщите нам на нашей \u003Ca href=\"http://www.wips.com/support/block-site-extension\" target=\"_blank\" class=\"ga_support_page\">странице поддержки\u003C/a>.\u003C/p>"
+   },
+   "Password_protect_text7": {
+      "message": "\u003Cstrong>ПРЕМИУМ\u003C/strong> \u003Ca href=\"#\" class=\"ga_click_premium\"> Получить премиум аккаунт \u003C/>"
+   },
+   "Really_remove": {
+      "message": "Действительно удалить?"
+   },
+   "Really_remove_actual_list": {
+      "message": "Действительно удалить нынешний список и список импорта из файла?"
+   },
+   "Redirect_to": {
+      "message": "Перенаправление на"
+   },
+   "Remove_Password": {
+      "message": "Удаление пароля"
+   },
+   "Saturday": {
+      "message": "Суббота"
+   },
+   "Set": {
+      "message": "Выбрать"
+   },
+   "Sunday": {
+      "message": "Воскресенье"
+   },
+   "Thursday": {
+      "message": "Четверг"
+   },
+   "Time_intervals": {
+      "message": "Временные интервалы"
+   },
+   "Tuesday": {
+      "message": "Вторник"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "Uninstall_Protection": {
+      "message": "Удаление защиты"
+   },
+   "Uninstall_protection": {
+      "message": "Убрать защиту"
+   },
+   "Unset": {
+      "message": "Убрать"
+   },
+   "Wednesday": {
+      "message": "Среда"
+   },
+   "What_is_it": {
+      "message": "Что это такое?"
+   },
+   "Whenever_the_blocked": {
+      "message": "Как только это слово появится где-то в URL, этот сайт будет автоматически заблокирован. Вы можете использовать это, блокируя, например, определенные поисковые запросы в поисковых системах, таких как Google или Яндекс. Будьте осторожны, когда добавляете слова. Если вы добавите какое-то слово, множество сайтов будут заблокированы!"
+   },
+   "add_new_domain_time": {
+      "message": "Добавить новые дни доступа к домену"
+   },
+   "add_page": {
+      "message": "Добавить страницу"
+   },
+   "appDesc": {
+      "message": "Не хотите больше посещать некоторые сайты? Заблокируйте их!"
+   },
+   "appName": {
+      "message": "Block Site"
+   },
+   "auth_label": {
+      "message": "Включение проверки подлинности"
+   },
+   "auth_title": {
+      "message": "Идентификация"
+   },
+   "blacklist": {
+      "message": "Черный список"
+   },
+   "blacklist_title": {
+      "message": "Список заблокированных сайтов"
+   },
+   "block_only_standalone": {
+      "message": "Блокированные автономные слова"
+   },
+   "blocked_first_time": {
+      "message": "в первый раз."
+   },
+   "blocked_text1": {
+      "message": ""
+   },
+   "blocked_text100_1": {
+      "message": ""
+   },
+   "blocked_text100_2": {
+      "message": "Хорошо, Вы зашли так далеко, что заслуживаете награду. Я дам Вам знать, когда разберуст с этим."
+   },
+   "blocked_text10_1": {
+      "message": ""
+   },
+   "blocked_text10_2": {
+      "message": "Что? 10 раз? Я не буду с Вами разговаривать."
+   },
+   "blocked_text11_1": {
+      "message": ""
+   },
+   "blocked_text11_2": {
+      "message": "Нет! Я не разговариваю с Вами."
+   },
+   "blocked_text12_1": {
+      "message": ""
+   },
+   "blocked_text12_2": {
+      "message": "Я сказал, что я с Вами не разговариваю"
+   },
+   "blocked_text150_1": {
+      "message": ""
+   },
+   "blocked_text150_2": {
+      "message": "Тем не менее никакой награды для вас для содержания не пытается. Там нет никакой гарантии, что вы получите какое-то вознаграждение"
+   },
+   "blocked_text16_1": {
+      "message": ""
+   },
+   "blocked_text16_2": {
+      "message": "Уффф, Вы начинаете меня злить."
+   },
+   "blocked_text1_1": {
+      "message": "Хорошо, что вы попробовали открыть сайт"
+   },
+   "blocked_text1_2": {
+      "message": "Но больше не пытайтесь."
+   },
+   "blocked_text2": {
+      "message": "заблокировано BlockSite"
+   },
+   "blocked_text200_1": {
+      "message": ""
+   },
+   "blocked_text200_2": {
+      "message": "Хорошо, вот Ваша награда. Шутка: Что коровы делают для развлечений? Они говорят МУУУУ!"
+   },
+   "blocked_text20_1": {
+      "message": ""
+   },
+   "blocked_text20_2": {
+      "message": "Тук-тук! Кто там?"
+   },
+   "blocked_text22_1": {
+      "message": ""
+   },
+   "blocked_text22_2": {
+      "message": "Пока Вы пробуете открыть этот сайт, я не буду шутить"
+   },
+   "blocked_text250_1": {
+      "message": ""
+   },
+   "blocked_text250_2": {
+      "message": "У Вас есть выносливость! Но остановитесь сейчас, пока Вам не стало больно."
+   },
+   "blocked_text25_1": {
+      "message": ""
+   },
+   "blocked_text25_2": {
+      "message": "Вы великолепно выглядите, но это не поможет вам получить доступ к сайту"
+   },
+   "blocked_text2_1": {
+      "message": "Вы попытались открыть сайт"
+   },
+   "blocked_text2_2": {
+      "message": "Возможно Вы будете пытаться еще, но это всего лишь пустая трата времени."
+   },
+   "blocked_text300_2": {
+      "message": "Хорошо, Вы так полны энергией! Я все-таки расскажу Вам несколько шуток"
+   },
+   "blocked_text30_1": {
+      "message": ""
+   },
+   "blocked_text30_2": {
+      "message": "Как Вы смотрите на то, чтобы рассказать о расширении своим друзьям вместо того, чтобы пытаться получить доступ к этому сайту?"
+   },
+   "blocked_text320_2": {
+      "message": "Вы знаете, мне грустно, что вы тратите время здесь?"
+   },
+   "blocked_text340_2": {
+      "message": "Но по крайней мере вы можете весело провести время, если я буду шутить."
+   },
+   "blocked_text35_1": {
+      "message": ""
+   },
+   "blocked_text35_2": {
+      "message": "Я перестану менять фразы после 36 раза"
+   },
+   "blocked_text360_2": {
+      "message": "Не забудьте рассказать друзьям о моих шутках! Я уверен, они будут смеяться."
+   },
+   "blocked_text36_1": {
+      "message": ""
+   },
+   "blocked_text36_2": {
+      "message": "Последнее сообщение. У меня все. Пожалуйста, не пробуйте больше."
+   },
+   "blocked_text380_2": {
+      "message": "Как называется овца без ног? Облако"
+   },
+   "blocked_text3_1": {
+      "message": ""
+   },
+   "blocked_text3_2": {
+      "message": "Хватит! Прекратите!"
+   },
+   "blocked_text400_2": {
+      "message": "Правильно?"
+   },
+   "blocked_text40_1": {
+      "message": ""
+   },
+   "blocked_text40_2": {
+      "message": "Серьезно это последнее, что я собираюсь сказать. Перестаньте пытаться достичь этот сайт, он блокируется расширением BlockSite"
+   },
+   "blocked_text420_2": {
+      "message": "Что скажет рыба, которая несется в стену? ЧЕРТ!"
+   },
+   "blocked_text440_2": {
+      "message": "Эту я люблю"
+   },
+   "blocked_text460_2": {
+      "message": "Как называется рыба без глаз? РБА!"
+   },
+   "blocked_text480_2": {
+      "message": "Что такое invisable и пахнет как морковь? Кролик пукает."
+   },
+   "blocked_text4_1": {
+      "message": ""
+   },
+   "blocked_text4_2": {
+      "message": "Вам больше делать нечего?"
+   },
+   "blocked_text500_2": {
+      "message": "Почему у гориллы есть большие ноздри? Потому что у них есть большие пальцы!!!"
+   },
+   "blocked_text520_2": {
+      "message": "Уффффффф"
+   },
+   "blocked_text540_2": {
+      "message": "Фокусник ехал по дороге... В которую сам потом и превратился"
+   },
+   "blocked_text560_2": {
+      "message": "Два снеговика стоят в поле. Один говорит другому: забавно, я тоже чувствую запах моркови."
+   },
+   "blocked_text5_1": {
+      "message": ""
+   },
+   "blocked_text5_2": {
+      "message": "Я умоляю Вас, перестаньте."
+   },
+   "blocked_text6_1": {
+      "message": ""
+   },
+   "blocked_text6_2": {
+      "message": "Мне жаль Вам говорить это, но сайт все еще заблокирован."
+   },
+   "blocked_text7_1": {
+      "message": ""
+   },
+   "blocked_text7_2": {
+      "message": "Я уже говорил Вам, он блокируется."
+   },
+   "blocked_text8_1": {
+      "message": ""
+   },
+   "blocked_text8_2": {
+      "message": "Вы надеетесь, что он в итоге будет разблокирован?"
+   },
+   "blocked_text9_1": {
+      "message": ""
+   },
+   "blocked_text9_2": {
+      "message": "Еще раз, и мы Вас побьем. Это серьезная трата времени."
+   },
+   "button_become": {
+      "message": "Стать премиум пользователем"
+   },
+   "close_button": {
+      "message": "Закрыть"
+   },
+   "context_5star": {
+      "message": "Дайте оценку 5 в магазине приложений"
+   },
+   "context_add_current": {
+      "message": "Добавить текущий сайт в черный список"
+   },
+   "context_block_link": {
+      "message": "Заблокировать эту ссылку"
+   },
+   "context_disable": {
+      "message": "Отключить BlockSite"
+   },
+   "context_enable": {
+      "message": "Включить BlockSite"
+   },
+   "context_make_uninst": {
+      "message": "Сделать BlockSite невозможным для удаления"
+   },
+   "context_share": {
+      "message": "Поделиться"
+   },
+   "context_share_fb": {
+      "message": "Поделиться в Facebook"
+   },
+   "context_share_twt": {
+      "message": "Твитни об этом"
+   },
+   "do_you_like": {
+      "message": "Нравится ли вам это расширение?"
+   },
+   "domain_time_list": {
+      "message": "Список дней доступа к домену"
+   },
+   "enable_label": {
+      "message": "Включить блокирование"
+   },
+   "func_title": {
+      "message": "Включить функции"
+   },
+   "leftmenu_5star": {
+      "message": "Дайте оценку\u003Cbr> 5 в магазине приложений"
+   },
+   "leftmenu_share_text": {
+      "message": "Вы можете помочь миру, рассказав о BlockSite? Сделайте это:"
+   },
+   "locale": {
+      "message": "ru"
+   },
+   "login_button": {
+      "message": "Войти"
+   },
+   "login_label": {
+      "message": "Введите пароль:"
+   },
+   "menu_disable": {
+      "message": "Отключить блокирование"
+   },
+   "menu_enable": {
+      "message": "Включить блокирование"
+   },
+   "menu_options": {
+      "message": "Настройки"
+   },
+   "notify_mess": {
+      "message": "Хотите, чтобы Ваши дети работали в безопасном интернете? Нажмите здесь, чтобы получить Life Protect."
+   },
+   "notify_share_fb": {
+      "message": "Поделиться в Facebook"
+   },
+   "notify_share_twt": {
+      "message": "Твитнуть"
+   },
+   "notify_title": {
+      "message": "Получить Life Protect"
+   },
+   "only_allowed": {
+      "message": "Допускаются только сайты:"
+   },
+   "opt_menu_1": {
+      "message": "Заблокированные сайты"
+   },
+   "opt_menu_2": {
+      "message": "Заблокированные слова"
+   },
+   "opt_menu_3": {
+      "message": "Активность по дням и времени"
+   },
+   "opt_menu_4": {
+      "message": "Убрать защиту"
+   },
+   "opt_menu_5": {
+      "message": "Другое"
+   },
+   "opt_menu_6": {
+      "message": "О нас"
+   },
+   "options_other_text1": {
+      "message": "Показать \"Отключить BlockSite\" в контекстном меню?"
+   },
+   "options_other_text2": {
+      "message": "Разрешить уведомления о новых возможностях?"
+   },
+   "page_exist": {
+      "message": "Страница уже в списке!"
+   },
+   "pass_err_1": {
+      "message": "В пароле должно быть не меньше 5 символов!"
+   },
+   "pass_err_2": {
+      "message": "Пароли не совпадают!"
+   },
+   "pass_err_3": {
+      "message": "Пожалуйста, заполните все поля!"
+   },
+   "pass_err_4": {
+      "message": "Пароль должен быть установлен"
+   },
+   "passwd_label": {
+      "message": "Новый пароль"
+   },
+   "password_set_label": {
+      "message": "Пароль успешно установлен."
+   },
+   "prem_err1": {
+      "message": "В ожидании оплаты / утверждения оплаты"
+   },
+   "prem_err2": {
+      "message": "Эта учетная запись уже зарегистрирована и пароль неправильный. Выберите другую учетную запись или исправьте пароль."
+   },
+   "prem_err3": {
+      "message": "В ожидании оплаты / утверждения оплаты"
+   },
+   "prem_err4": {
+      "message": "Счет был отменен, обратитесь в службу поддержки"
+   },
+   "prem_err5": {
+      "message": "Логин и пароли должны иметь минимум 5 символов!"
+   },
+   "prem_err6": {
+      "message": "Пароли не совпадают!"
+   },
+   "prem_err7": {
+      "message": "Пожалуйста, заполните все поля!"
+   },
+   "prem_placeholder1": {
+      "message": "Логин"
+   },
+   "prem_placeholder2": {
+      "message": "Пароль"
+   },
+   "prem_placeholder3": {
+      "message": "Подтвердите пароль"
+   },
+   "prem_text1": {
+      "message": "BlockSite теперь имеет функции премиум"
+   },
+   "prem_text10": {
+      "message": "Заполните эту форму, чтобы добавить премиум функциональность или получить доступ к вашей существующей учетной записи."
+   },
+   "prem_text11": {
+      "message": "Отлично подходит для родительского контроля. Никто все равно не зайдет на заблокированные веб-сайты. Это также полезно для бизнеса."
+   },
+   "prem_text12": {
+      "message": "Напомните позже"
+   },
+   "prem_text13": {
+      "message": "Не хочу"
+   },
+   "prem_text2": {
+      "message": "BlockSite - защита от удаления"
+   },
+   "prem_text3": {
+      "message": "Сделать расширение BlockSite непревзойденным"
+   },
+   "prem_text4": {
+      "message": "Сделать неудаляемым"
+   },
+   "prem_text5": {
+      "message": "Не медлите"
+   },
+   "prem_text6": {
+      "message": "Нельзя обойти"
+   },
+   "prem_text7": {
+      "message": "Родительский контроль"
+   },
+   "prem_text8": {
+      "message": "= - время ограничено"
+   },
+   "prem_text9": {
+      "message": "60-дневная гарантия возврата денег! Без вопросов."
+   },
+   "protection_popup_text1": {
+      "message": "Спасибо! Теперь пользуетесь BlockSite Премиум."
+   },
+   "protection_popup_text10": {
+      "message": "Вы должны разрешить работу расширения в режиме инкогнито, чтобы оно было непревзойденным. Просто установите флажок \"Разрешить в режиме инкогнито\""
+   },
+   "protection_popup_text11": {
+      "message": "Хорошо, я сделаю это"
+   },
+   "protection_popup_text2": {
+      "message": "У Вас уже есть пароль для настроек. Для защиты от удаления он будет таким же"
+   },
+   "protection_popup_text3": {
+      "message": "Вам нужно установить пароль прямо сейчас."
+   },
+   "protection_popup_text4": {
+      "message": "Новый пароль:"
+   },
+   "protection_popup_text5": {
+      "message": "Подтвердите пароль:"
+   },
+   "protection_popup_text6": {
+      "message": "Установка пароля"
+   },
+   "protection_popup_text7": {
+      "message": "Теперь вы готовы, чтобы активировать защиту от удаления"
+   },
+   "protection_popup_text8": {
+      "message": "Активируйте сейчас"
+   },
+   "protection_popup_text9": {
+      "message": "Я активирую позже"
+   },
+   "redirect_page": {
+      "message": "Страница перенаправления"
+   },
+   "remove": {
+      "message": "Удалить"
+   },
+   "save_button": {
+      "message": "Сохранить"
+   },
+   "saved_text": {
+      "message": "Ваши настройки были сохранены"
+   },
+   "set_password": {
+      "message": "Установить пароль"
+   },
+   "share_it": {
+      "message": "Поделитесь им!"
+   },
+   "short_passwd": {
+      "message": "Пароль должен содержать не менее 5 символов!"
+   },
+   "social_hide": {
+      "message": "Закрыть"
+   },
+   "social_show": {
+      "message": "Поделиться"
+   },
+   "specpage_text1": {
+      "message": "Защита BlockSite"
+   },
+   "specpage_text2": {
+      "message": "Вы решили блокировать страницу со список расширений, чтобы избежать проблем со списком блокируемых сайтов"
+   },
+   "specpage_text3": {
+      "message": "Вы можете получить доступ к списку расширений, введя пароль:"
+   },
+   "specpage_text4": {
+      "message": "Войти"
+   },
+   "specpage_text5": {
+      "message": "Или вы можете пойти в настройки"
+   },
+   "specpage_text6": {
+      "message": "(Пароль обязателен для заполнения)"
+   },
+   "stats": {
+      "message": "Разрешить отправлять анонимную статистику?"
+   },
+   "title": {
+      "message": "Расширение от Wips.com"
+   },
+   "warning_label": {
+      "message": "Включить страницу оповещения"
+   },
+   "white_list_help": {
+      "message": "Если включить белый список, Вы сможете пойти только на эти страницы. Остальные будут заблокированы. Знайте, что эта функция не убирает заблокированные слова."
+   },
+   "whitelist": {
+      "message": "Белый список"
+   },
+   "whitelist_title": {
+      "message": "Список разрешенных сайтов"
+   },
+   "word_err1": {
+      "message": "Слово уже существует!"
+   },
+   "word_err2": {
+      "message": "Слово пустое!"
+   },
+   "word_err3": {
+      "message": "Неправильный URL!"
+   },
+   "wrong_url": {
+      "message": "Неправильный адрес!"
+   },
+   "wrongpasswd": {
+      "message": "Неверный пароль!"
+   }
+}

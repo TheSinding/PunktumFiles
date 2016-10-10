@@ -1,0 +1,369 @@
+body{
+    margin: 0px;
+    font-family: "Lucida Grande", arial, sans-serif;
+    background-size: 150px auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-width: 270px;
+}
+	body.loading-pnlv{
+		background-image: url(../img/grey_spinner.gif);
+		background-size: 24px 24px;
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+    body.expand{
+        width: 800px;
+    }
+    body.send_file_to_phone_expand{
+	    width: 700px;
+    }
+    body.send_file_to_phone_expand .phone-live-view-iframe{
+	    width: 100%;
+    }
+/*         Start Scrollbar CSS */
+    iframe::-webkit-scrollbar {
+        width: 10px;
+    }
+    iframe::-webkit-scrollbar-track {
+        background-color: transparent;
+/*                 border-left: 1px solid #ccc; */
+    }
+    iframe::-webkit-scrollbar-thumb {
+        background-color: #ccc;
+    }
+    iframe::-webkit-scrollbar-thumb:hover {
+    	background-color: #aaa;
+    }
+/*             End Scrollbar CSS */
+
+    .popupContainer{
+        padding: 5px;    
+        color: #434343;    
+    }
+        .buttonRow{
+/*             border-bottom: 1px solid #eee; */
+        }
+	        #reminderButtons{
+		        display: none;
+	        }
+            .rowTitle{
+/*                 border-bottom: 1px solid #ccc; */
+            }
+                .rowTitle > p{
+                    font-size: 15px;
+                    margin: .3em .25em;
+                }
+            .rowContainer{
+                
+            }
+            .rowContainer{
+                border-bottom: 1px solid #E4E4E4;
+            }
+                #popup-footer{
+	                margin-top: 7px;
+                    border: none;
+                    min-height: 32px;
+                }
+                #webAppButtons > .rowTitle{
+/*                     border-top: 1px solid #ccc; */
+                }
+                .popupButton{
+                    display: block;
+                    padding: 5px;
+                    width: 260px;
+                    height: 34px;
+                    background: none;
+                    font-size: 14px;
+                }
+	                .popupButton:lang(fr),
+	                .popupButton:lang(es){
+		                width: 310px;
+	                }
+	                .popupButton,
+	                .popupButton:hover,
+	                .popupButton:focus{
+                        text-decoration: none;
+		                color: #333;
+	                }
+                    .popupButton:hover{
+                        text-decoration: none;
+                        background-color: rgba(200,200,200,0.2);
+                    }
+                    .popupButton:focus, .popupButton:active{
+                        outline: 0px;
+                    }
+                    .popupButton > img{
+                        height: 20px;
+                        width: auto;
+                        margin-right: 10px;
+                        position:relative;
+                    }
+                        [data-message="launchMT"] > img{
+                            height: 22px;
+                            width: auto;
+                        }
+                        [data-message="launchMT"] > .buttonIcon,
+                        #livePhoneView .buttonIcon{
+	                        margin-right: 8px;
+                        }
+                        .popupButton > span{
+                            display:inline-block;
+                            position: relative;
+
+                        }
+                        .popupButton > *{
+	                        vertical-align: middle;
+                        }
+                    span.icon-wrapper {
+                        display: inline-block;
+                        width: 20px;
+                        text-align: center;
+                    }
+                        .icon-wrapper > .fa{
+                            color: #419ab1;
+                        }
+                .new-badge{
+	                color: #F54612;
+	                font-weight: 600;
+	                font-size: 10px;
+                }
+            #webAppButtons, #phoneInteractButtons{
+/*                 display: none; */
+            }
+        .divider{
+            border-bottom: 1px solid #ddd;
+        }   
+        .rowContainer:not(#popup-footer), 
+        .divider{
+            padding-bottom: 3px;
+            margin-bottom: 3px;
+        } 
+
+/* START BATTERY CSS */
+
+.bat-wrap-holder{
+    display: inline-block;
+	color: #cacaca; /*MA changed*/
+    padding-left: 7px;
+}
+    .bat-wrap-holder .font-awesome-container{
+        display:inline-block;
+    }
+    .newbatterywrap {
+    }
+        .baticon, .mainCRXBattery, #chargingIcon{
+            display: inline-block;
+        }
+        .baticon, #chargingIcon{
+            line-height: 100%;
+        }
+    	.baticon {
+    		font-size: 30px;
+    	}
+    	.mainCRXBattery{
+            margin: 0px 5px 0px 6px;
+    	}
+        	.batwrap {
+        		position: relative;
+        		width: 38px;
+        	}
+        		.batshell {
+        			border-radius: 2px;
+        			height: 22px; width: 100%;
+        			overflow: hidden;
+        			background: #777;
+/*
+        			-moz-transition: all 0.2s;
+        			-o-transition: all 0.2s;
+        			-webkit-transition: all 0.2s;
+        			transition: all 0.2s;
+*/
+        			
+        		}
+        			.batbar {
+        				max-width: 100%;
+        				height: 100%;
+        				background-color: none;
+        				-moz-transition: all 0.2s;
+        				-o-transition: all 0.2s;
+        				-webkit-transition: all 0.2s;
+        				transition: all 0.2s;
+        				border-radius: 2px 0 0 2px;
+        			}
+        		.batnub {
+        			width: 3px; height: 11px;
+        			background-color: #777;
+        			right: -3px;
+        			top: 5px;
+        			position: absolute;
+        		}
+        	.batpercent {
+        /* 		gmail styling */
+        		color:#EEE;
+        		text-shadow: 0 0 4px rgba(0, 0, 0, .4);
+        /* 		gmail styling */
+        		display: block;
+        		font-size: 12px;
+        		font-weight: 400;
+        		line-height: 1.7em;
+                top: 1px;
+                width:100%;
+        		position: absolute;
+        		text-align:center;
+/*
+        		-moz-transition: all 0.2s;
+        		-o-transition: all 0.2s;
+        		-webkit-transition: all 0.2s;
+        		transition: all 0.2s;
+*/
+        	}
+            	.batpercent.legible{
+                	color: black;
+                	text-shadow:none;
+            	}
+        	.battimestamp {
+        		display: block;
+        		float: left;
+        		/*color: white;*/ /*MA changed*/
+        		text-align: center;
+        		width: 100%;
+        		font-size: 0.8em; /*MA changed - increased size a bit */
+        		margin-top: 6px;
+        		-moz-transition: all 0.2s;
+        		-o-transition: all 0.2s;
+        		-webkit-transition: all 0.2s;
+        		transition: all 0.2s;
+        	}
+    
+    #chargingIcon {
+        font-size: 15px;
+        position:relative;
+        top: -6px;
+        color: #55CEEC;
+    }
+/* END BATTERY CSS */
+.nav-buttons{
+    position: fixed;
+    bottom: 11px;
+    right: 10px;
+    font-size: 20px;    
+}
+    .nav-btn-holder {
+        display: inline-block;        
+    }
+        .settings-btn-holder{
+    
+        }
+            .nav-btn{
+                color: #AAA;
+            }
+                .nav-btn:hover{
+                    color: #434343;
+                    cursor: pointer;
+                }
+        .back-btn-holder{
+            display: none;
+        }
+            .nav-buttons[data-inview="settings"] .back-btn-holder{
+                display: inline-block;
+            }
+        .notif-toggle-holder{
+            font-size: 17px;
+            position: relative;
+            top: 5px;
+        }
+            .notif-toggle{
+                opacity: 0.6;
+            }
+            .notif-toggle.enabled{
+                color: #72D072;
+            }
+            .notif-toggle.disabled{
+                color: #FF7070;
+            }
+                .notif-toggle:hover{
+                    cursor: pointer;
+                    opacity: 1;
+                }
+.phone-live-view-iframe,            
+.settings-iframe,
+.reminders-iframe{
+    display: none;
+    border: 0px !important;
+    margin-bottom: -5px;/*  We are setting this because there is a slight amount of padding at the bottom of the iframe because the jquery fadein method automatically set the display property to inline instead of block */    
+}
+    .reminders-iframe{
+        width: 540px;
+        height: 366px;    
+    }
+    .settings-iframe{
+        width: 500px;
+        height: 500px;
+    }
+	body.loading-pnlv,
+    .load-error-container,
+    .phone-live-view-iframe{
+	    width: 350px;
+	    height: 600px;
+    }
+	    .phone-live-view-iframe.expanded{
+		    width: 600px;
+	    }
+	.phone-tab-shortcut-wrapper{
+		float: right;
+	}
+	    .phone-tab-shortcut {
+		    display: inline-block;
+			padding: 0px 4px;
+		    color: #AAA;
+		}
+			.phone-tab-shortcut:hover{
+				cursor: pointer;
+				color: #333;
+			}
+			.phone-tab-shortcut > i{
+				font-size: 16px;
+				vertical-align: middle;
+			}
+	#livePhoneView .buttonIcon{
+		position:relative;
+		left: -2px;
+		color: #46A6BF;
+		font-size: 22px;
+	}
+.load-error-container{
+	text-align: center;
+}
+	.load-error-inner{
+		display:inline-block;
+		vertical-align: middle;
+		font-size: 16px;
+	}
+		#load-error-icon{
+			color: red;
+		}
+	.vertical-align-helper{
+		height:100%;
+		display: inline-block;
+		vertical-align: middle;
+	}
+.mighty-btn{
+    background-image: none;	
+    border-radius: 2px;
+    margin-top: 10px;
+    padding: 6px 10px;
+}
+	.mighty-btn:focus{
+		outline: 0px;
+	}
+.mighty-holo{
+    border: 1px solid #419ab1;
+    color: #419ab1;
+    background-color: transparent;
+}
+	.mighty-holo:hover{
+		border-color: transparent;
+		color: #fff;
+		background-color: #419ab1;
+	}

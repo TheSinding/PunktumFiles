@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Checker Plus for Gmail</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<!--link rel="icon" type="image/png" href="images/icons/icon_32.png"-->	
+	<link rel="icon" href="images/icons/icon_32.png" sizes="32x32"/>
+	<link rel="icon" href="images/icons/icon_64.png" sizes="64x64"/>
+   	
+	<script type="text/javascript" src="js/jquery.js"></script>
+   	<script type="text/javascript" src="js/common.js"></script> <!--  must be after settings.js -->
+   	<script type="text/javascript" src="js/checkerPlusForGmail.js"></script>
+   	<script type="text/javascript" src="js/mailAccount.js"></script>
+   	<script type="text/javascript" src="js/popup.js"></script>
+
+	<style>
+		.statusMessage {position:fixed;left:50%;display:none;z-index:5000;font-family:Arial, sans-serif;font-weight:bold;border-radius:4px;color:black;background:#FFF0A8;font-size: 13px;font-weight: bold;border:1px solid #ccc;padding:1px 10px 3px}
+		.statusMessage.error {background:red;color:white}
+		
+		.bold {font-weight:bold}
+		
+		.hbox {
+		   display: -webkit-box;
+		   -webkit-box-orient: horizontal;
+		   -webkit-box-align: stretch;
+		   position: relative;
+		}
+		
+		.vbox {
+		   display: -webkit-box;
+		   -webkit-box-orient: vertical;
+		   -webkit-box-align: stretch;
+		}
+		
+		.wide {-webkit-box-flex: 1 !important}
+		
+		.hide {display:none} /* Must be at the end of css because the display: -webkit-box etc. seem to override */
+		.hideImportant {display:none !important}		
+	</style>
+
+   	<link rel="stylesheet" type="text/css" media="screen" href="css/popup_old.css" />
+   	
+   	<style>
+		html {overflow:hidden;position:relative}		
+		body {font-family: arial, sans-serif;font-size: 0.8em;margin:0 0 0 2px}
+		html.checkerPlusView.externalPopupWindow body {margin-right:20px}
+		
+		a:hover {text-decoration:underline}
+		img {vertical-align: text-top}
+		
+		html.externalPopupWindow {overflow-y:auto;min-width:99%}
+		html.externalPopupWindow #inboxes, html.externalPopupWindow #contacts {width:99%;margin-right:4px}
+		
+		html.noAccounts #showAllEmails, html.tabletView #showAllEmails, html.noAccounts #switchView {display:none !important}
+		html.noAccounts #gmailInboxBetaMessage {display:none !important}
+		html.noAccounts.autoDetect.checkerPlusView #signIn {display:block}
+		html.noAccounts.oauth.checkerPlusView #addAccounts {display:block}
+		
+		html.hideInbox .inboxLabelAreaWrapper {display:none}
+		html.hideInbox .mail:first-child {border-top:none !important}
+		
+		#gmailInboxBetaMessage {display:none}
+		#tabletViewFrame {display:none;border:none;width:100%;padding-top:8px}
+		html.tabletView #scrollAreaWrapper {display:none}
+		html.tabletView #gmailInboxBetaMessage, html.tabletView #tabletViewFrame {display:block}
+		
+		.inline-block {display:inline-block}
+		
+		#topRightControls {position:absolute;top:5px;right:5px} /* display:inline-block;float:right */
+		
+		.listenToEmail {margin-right:10px;opacity:0.7}
+		.listenToEmail:hover {opacity:1}
+		
+		.emailZoom {width:40px;opacity:0.7;height:10px;margin-top:13px}
+		.emailZoom:hover {opacity:1}
+		
+		#scrollAreaWrapper {width:100%;clear:left;overflow:hidden;padding-top:7px}
+		#scrollArea {left:0;position:absolute;width:2200px}
+		html.externalPopupWindow #scrollArea {width:100%}
+		
+		.inbox {border: 1px solid #ddd}
+		.inbox, .inboxLabelAreaWrapper {border-radius:6px 0 0 0}
+		.inboxLabelArea, .emailDetails {overflow:hidden;white-space:nowrap;margin-right:3px}
+		
+		.subject {margin:4px 0;display:inline-block}
+		
+		.inboxLabelAreaWrapper, .labelHeader {background-image: -webkit-gradient(linear, left top, left bottom, from(#fafafa), to(#f3f3f3));xxbackground:#f7f7f7}		
+		.inboxLabelAreaWrapper:hover .inboxFor, .labelHeader:hover {text-shadow:1px 1px 3px #ccc}		
+
+		.labelGroup .collapseArrow, .labelGroup .labelTitle {display:inline-block}
+		.labelHeader {border-top:1px solid #ccc;white-space:nowrap;font:11px arial,sans-serif;text-align:center}
+		.inboxLabelAreaWrapper:hover, .labelHeader:hover {cursor:pointer;background-image: -webkit-gradient(linear, left top, left bottom, from(#f3f3f3), to(#fafafa));}
+		
+		#by {font-size:11px;color:black;margin-left:2px}
+		html.hideByJason #by, html.hideByJason #jasonsavard {display:none}
+		
+		.alwaysHide {display:none !important}
+		
+		.account {margin-right:2px}
+		
+		#inboxes, #contacts {float:left;display:inline-block;overflow-y: auto;margin-right:5px}
+		html.hasVerticalScrollbars #inboxes {overflow-y:scroll}
+		
+		.account:not(:first-child) .inbox {margin-top: 5px}
+		
+		#fullEmail {vertical-align:top;float:left;border:1px solid #ddd}
+		#fullEmailContent {clear:left;overflow-x:hidden;overflow-y:auto}
+		html.externalPopupWindow #fullEmailContent {max-height:none}
+		
+		#fullEmailActionButtons {position:relative;border-bottom:1px solid #ddd}
+		#fullEmailActionButtons, #fullEmailSubject {padding:8px 10px}
+		
+		#fullEmailSubject {margin-bottom: 6px;float:left;font-size:18px;font-family: arial,sans-serif;color: #222;max-width:450px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+		#fullEmailSubject.displayImages {max-width:180px}
+		#fullEmailDisplayImagesWrapper {display:none;background:white;padding:2px;border-radius: 3px;border:1px solid rgb(207, 207, 207);margin-top:5px;margin-right:5px;float:right;text-align:right}
+		
+		#fullEmailLabels {padding:10px;display:inline-block}
+		.fullEmailLabelWrapper {color: rgb(102, 102, 102);background-color: rgb(221, 221, 221);display:inline-block;font:11px arial,sans-serif;margin:0 6px 2px 0}
+		.fullEmailLabel, .fullEmailLabelRemove {display:inline-block;padding:2px 4px}
+		.fullEmailLabelRemove {cursor:pointer}
+		.fullEmailLabelRemove:hover {background:rgb(102, 102, 102);color:rgb(221, 221, 221)}
+		
+		#fullEmail .quickActions {display:none} 
+		
+		.filesSep {background:#eee;line-height:1px;margin:12px 0}
+		.attachmentsCounter {margin:5px 0}
+		.attachment {cursor:pointer;margin:5px 0}
+		.filename {font-weight:bold}
+				
+		.padded {padding: 2px 4px 2px 4px}
+		.margin {margin-bottom: 5px !important}
+		.collapseArrow {padding:5px;opacity: 0.5;-webkit-transition: opacity 0.05s ease-in;width:11px;height:15px;background-image:url(images/arrow_down.png);background-repeat:no-repeat;background-position: 3px 1px}
+		.collapseArrow.collapsed {background-image:url(images/arrow_right.png)}
+		.collapseArrow:hover {opacity:1;cursor:pointer}
+		.collapseArrow.hidden {opacity:0}		
+		
+		.mail.surpassedMaxEmailsToShowPerAccount {display:none !important}
+		.maxEmailsToShowPerAccount {padding:3px;text-align:center;font-style:italic;background:#fafafa}
+		.maxEmailsToShowPerAccount:hover {cursor:pointer;background:#eee}
+		
+		.squished .summary::-webkit-scrollbar, .mail.read .summary::-webkit-scrollbar {display:none}
+		.squished .upArrow, .squished .downArrow, .mail.read .upArrow, .mail.read .downArrow {display:none !important}
+		
+		.mail.hideScrollbars .summary::-webkit-scrollbar {border:none}
+		.mail.hideScrollbars .summary::-webkit-scrollbar-thumb {background:none;-webkit-box-shadow:none}
+		.summary::-webkit-scrollbar {border:1px solid #ccc}
+		
+		.summary {opacity:0.55;cursor:pointer;white-space:normal;overflow-x:hidden;overflow-y:auto;xxoverflow:hidden;xxoverflow-x:hidden;xxoverflow-y:auto}
+		xx.summary > td > table > tbody > tr > td:first-child {padding:3px 0 0 0px}
+		.summary.scrollbars  {opacity:1}
+		
+		.upArrow, .downArrow {opacity:0.6;display:none;position:absolute;left:44%;width:0;height:0;border-left:50px solid transparent;border-right:50px solid transparent}
+		.upArrow {border-bottom:10px solid #ccc;margin-bottom:-10px;opacity:0.4}
+		.downArrow {border-top:10px solid #ccc;margin-top:-10px}
+		.upArrow:hover, .downArrow:hover {opacity:0.90}
+		
+		#header {float:left;margin:3px 0 0 3px}
+		#logo {margin:-4px}
+		#title {color: #666;font-size: 110%;font-weight: bold;text-decoration: none;xxtext-shadow: 1px 1px 1px #000}
+		#title:focus {outline:none}
+		#title:hover {text-decoration:underline}
+
+		#menu {float:right}
+		#menu img {vertical-align:top}
+		#menu > div {display:inline-block;padding:3px 4px 4px 4px;cursor:pointer;opacity:0.6}
+		#menu > div:hover {opacity:1 !important}
+
+		#menu #showAllEmails {display:none;opacity:0;margin-right:7px}
+		#menu #showAllEmails:hover, #menu #switchView:hover {cursor:pointer}
+		
+		#menu #switchView {opacity:0.8}
+		
+		#options img {width:16px}
+		#close {margin-top:2px}
+		
+		.inboxLink {display:inline-block;font-size:110%;line-height:25px;padding-left:5px}
+		.inboxLink .icon {height:17px}
+		
+		.indicator {border-right: 2px solid;}
+		.indicator.i0 {border-color: #79B;}
+		.indicator.i1 {border-color: #ec5f65;}
+		.indicator.i2 {border-color: #eadf30;}
+		.indicator.i3 {border-color: #60b579;}
+		
+		.mail {position:relative;padding:0;border-top:1px solid #ccc}
+	
+		.mail,
+		xx.mail .author {background:rgba(255,255,255,.9)}
+		
+		.mail .emailDetails .unread {font-weight:bold}
+		
+		.mail .emailDetailsTopRight {background:white}
+		.mail .emailDetailsTopRight .buttons {text-align:right}
+		.inbox .mail .date {position:absolute;right:3px;top:3px;max-width:20px;overflow:hidden}
+		.inbox .mail .star {position:absolute;right:6px;top:27px}
+		.inbox .mail .emailDetailsTopRight .buttons {opacity:0;margin-right:67px;-webkit-transition:opacity 0.1s ease-in}
+		.alwaysShowButtons .inbox .mail .emailDetailsTopRight .buttons {opacity:1}
+		.inbox .mail .emailDetailsTopRight .buttons .button {padding:1px 7px !important}
+		.inbox .mail .emailDetailsTopRight .buttons .button div:not([msg]) {width:17px;height:17px;background-size:17px}
+		.inbox .mail .emailDetailsTopRight .buttons .button div[msg] {line-height:16px;height:17px}
+		.inbox .mail:hover .emailDetailsTopRight .buttons {opacity:1}
+		
+		.mail.read .emailDetails .unread,
+		.mail.read .subject,
+		.mail.read .date {font-weight:normal}
+						
+		.mail.read,
+		.mail.read .emailDetailsTopRight {background:rgba(243,243,243,.85)}
+		
+		.mail.read .summary {-webkit-transition: height 0.5s ease;max-height:32px !important}
+		.mail.read .summary.scrollbars {display:none}
+		
+		.mail .button.markAsRead {display:inline-block}
+		.mail .button.markAsUnread {display:none}
+		
+		.mail.read .button.markAsRead {display:none}
+		.mail.read .button.markAsUnread {display:inline-block}
+		
+		.imageArea {padding:12px 3px 12px 5px}
+		.emailDetails {border-radius:3px;padding:12px 5px}
+		
+		.mail.selected,
+		.mail.selected .emailDetailsTopRight {background-color:#F9F9E0 !important}
+		
+		.emailDetails:hover {cursor:pointer}
+		
+		.contactPhoto {display:none;width:32px;height:32px}
+		#inboxes .contactPhoto {width:54px;height:54px}
+		
+		.fullEmailSenderArea .contactPhoto {display:inline}
+		.fullEmailSenderArea .author {font-weight:bold;padding-right:10px;position:relative;z-index:20}
+		.fullEmailSenderArea .subject {display:none}
+		.fullEmailSenderArea .summary {margin-top:3px;display:none}
+		.fullEmailSenderArea .date {font-weight:normal}
+		
+		.fullEmailSenderArea .emailDetailsTopRight {background:none;height:5px}
+		.fullEmailSenderArea .emailDetailsTopRight .buttons {margin-top:5px}
+		
+		#inboxes .button {padding:0px 4px}
+		
+		.searchWrapper {display:none;position:absolute;top:1px;right:3px}
+		.button.search {margin-top:1px}
+		.button.search div {opacity:1}
+		.cancelSearch {color:black;text-decoration:underline;margin:0 4px}
+		
+		.labelsDropDownWrapper {z-index:100;display:none;position:absolute;border:1px solid #aaa;padding:2px;box-shadow:2px 2px 5px gray;margin-bottom:5px;background:white}
+		.labelsSearch {width:100px;outline:none;border: 1px solid #bbb}
+		.labelsDropDown {overflow-y:scroll;max-height:150px;max-width:272px}
+		.labelsDropDown div {padding:2px 2px;white-space:nowrap}
+		.labelsDropDown div.selected {background:#ddd;cursor:pointer}
+
+		.spaceRight {margin-right:7px}
+		
+		.markAsUnread {padding-left:5px;padding-right:5px}
+		
+		.emailDetailsTopRight {z-index:5;white-space:nowrap;position:absolute;top:3px;right:0px;padding-left:10px}
+		.emailDetailsTopRight.fixed {position:fixed;top:129px}
+		.emailDetailsTopRight .date {min-width: 57px;display: inline-block;text-align: right;padding-right:3px}
+		
+		.inboxLabelArea.hasUnread {font-weight:bold}
+		
+		.inboxLink:hover {cursor:pointer}		
+		.inboxLink .icon {opacity:0}
+
+		.quickActions {display:inline}
+
+		.inboxActions {position:absolute;top:1px;right:2px}
+		.inboxActions img {opacity:0.5}
+		.inboxActions img:hover {opacity:1;cursor:pointer}
+		
+		#inboxes.squished .inboxActions {display:none;opacity:0}
+		
+		#inboxes.squished .quickActions,		
+		#inboxes.squished .timeAgo,
+		#inboxes.squished .open,
+		#inboxes.squished .reply,
+		#inboxes.squished .date,
+		#inboxes.squished .star {display:none}
+		
+		.timeAgo {display:inline-block}
+		html.rtl .timeAgo {direction:rtl}
+		
+		#contacts table {width:100%}
+		#contacts table tr:nth-child(odd) {background:#f1f1f1}
+		#contacts table td {max-width:150px;white-space:nowrap;vertical-align:middle;padding:0 5px;overflow-x:hidden;text-overflow:ellipsis}
+		#contacts table td:hover {overflow-x:visible}
+		#contacts table td.contactPhotoWrapper {max-width:none;height:32px;width:32px;padding:0}
+		#contacts table td .contactPhoto {-webkit-transition: width 0.5s ease, height 0.5s ease}
+		#contacts table td .contactPhoto:hover {height:96px;width:96px;xxborder:2px solid orange;border-radius:5px;padding:2px;}
+		#contacts table td.title {font-weight:bold}
+		#contacts table td.phoneNumber {max-width:110px}
+		#contacts table td.postalAddress {white-space:normal}
+		.contactDetailsRel {color:#bbb;font-size:11px}
+		
+		#contactsHeader {clear:both;padding-top:10px}
+		#contactsSearch {float:left;outline:none;text-indent:0px}
+		#contactsMessage {float:left;margin-left:140px;margin-top:7px;color:gray;font-size:11px}
+		#contactsHeader .open {float:right;margin-right:5px;padding:0 12px}
+		
+		.fullEmailBody {width:100%}
+		.fullEmailDate {float:right}
+		
+		.fullEmailToCCWrapper {display:none}
+		.fullEmailSenderArea .fullEmailToCCWrapper {display:block}
+		.fullEmailToCC {max-width:300px;opacity:0.5;overflow-x:hidden;display: inline-block;text-overflow: ellipsis;}
+		
+		.fullEmailToCC.showDetails {overflow-x:auto;white-space:normal}
+		.fullEmailShowToCC {margin-top: 4px;vertical-align: top;font-size:10px;z-index: 5;display: inline-block;border-radius: 3px;cursor: pointer;height:9px;line-height: 6px;border: 1px solid #aaa;padding: 0 1px;}
+		
+		.message {border-spacing:0}
+		.message:first-child .mail {border-top-color:#efefef}
+		.message:not(:first-child) {margin-top:-1px}
+		
+		.messageContent {position:relative;margin: 6px 6px 6px 46px}
+		.messageContent > div:first-child {overflow:visible !important}
+				
+		.message.collapsed .fullEmailSenderArea {background:#aaa;border-bottom:1px solid #cfcfcf}
+		.message.collapsed .mail .author {background:#f5f5f5} /* i think the superimposed backgrounds are forcing me to make this background a bit lighter: note it's necessary to put a backgound so author covers date */ 
+		
+		.message.collapsed .fullEmailSenderArea .emailDetailsTopRight {background:transparent}
+		.message.collapsed .fullEmailSenderArea .summary {display:block}
+		.message.collapsed .fullEmailSenderArea .fullEmailToCCWrapper {display:none}
+		
+		.message.collapsed .fullEmailSenderArea .open,
+		.message.collapsed .fullEmailSenderArea .reply {display:none}
+		
+		.message.collapsed .messageContent {display:none}
+		
+		.accountErrorWrapper {font-size:11px}
+		.accountError {color:red;vertical-align: bottom;display: inline-block;text-overflow: ellipsis;max-width:200px;overflow: hidden}
+		
+		#eligibleForReducedDonation {-webkit-transition: color 250ms ease-out}
+		#eligibleForReducedDonation:hover {color:blue !important;cursor:pointer}
+		
+		#shareBlurb {display:none;vertical-align:top}
+		#shareBlurb.short {display:inline-block}
+		#shareBlurb.long {display:block}
+		.showTrimmedContent {-webkit-user-select: none;padding:0px 1px;cursor:pointer;margin-top:10px;color:#bbb;background-color: #f1f1f1;border: 1px solid #ddd;clear: both;line-height:0px;outline:none;font-size:18px;height:9px;width:17px;overflow:hidden !important}
+		.showTrimmedContent:hover {background-color:#d8d8d8;color:black}
+		
+		.menu {box-shadow:0 2px 40px rgba(0,0,0,.4);z-index:5001;margin:0 0 12px 0;padding:5px 0;top:20px;right:65px;text-align:left;display:none;position:absolute;border:1px solid #ccc;border-radius:5px;background-color:white}
+		#shareMenu {right:66px}
+		.menu ul {margin:0;padding:0;list-style-type:none}
+		.menu a {color:black;text-decoration:none}
+		.menu li {margin-bottom:1px;padding:4px 25px;white-space: nowrap}
+		.menu li:hover {cursor:pointer;background-color:#eee}
+		.menu li.selected {background-image:url("images/checkmark.png");background-repeat:no-repeat}
+		.menu li.ddSection {margin-top:6px;padding-left:3px;padding-top:5px;border-top:1px solid #eee}
+		.menu li.doNotSelect a {font-style:italic}
+		.menu li.doNotSelect:hover {background:none;cursor:default}
+		.menu li.doNotSelect:hover a {cursor:default}
+
+		.shareIcon img {width:36px}		
+
+		
+		#doNotDisturb {background-repeat:no-repeat;background-position-x:96%;background-image:url(images/arrow_down.png)}
+		#DNDMenu {max-height:0;overflow:hidden;transition:max-height 0.3s ease-in}
+
+		.DNDMenuActive #doNotDisturb {background-image:url(images/arrow_up.png)}
+		.DNDMenuActive #DNDMenu {max-height:140px}
+		
+		#draftSaved {margin:20px;padding-top:20px;display:none;clear:both}
+		#draftSavedTextarea {margin-top:10px;width:90%;height:70px}
+		
+		#gmailInboxBetaMessage {clear:both;color:#aaa;font-size:11px;margin:auto 0;text-align:center}
+		#tabs {display:none;width:97%;clear:both;padding-top:10px;margin-bottom:-1px;position: relative}
+		html.tabletView.hasTabs #tabs {display:flex}
+		.tab {display:none;overflow: hidden;text-overflow: ellipsis;margin-right:-1px;white-space:nowrap;width:100px;padding:9px 12px;cursor:pointer;xxborder-top-left-radius:4px;xxborder-top-right-radius:4px;border:1px solid #ccc;background:rgb(243,243,243)}
+		.tab:first-child {xxborder-top-left-radius:5px}
+		.tab:last-child {xxborder-top-right-radius:5px}
+		#tabs.shrink .tab {padding:9px 8px}
+		.tab.visible {display:inline-block}
+		.tab.selected {border-bottom:1px solid white}
+		.tab.selected, .tab:hover {background:white}
+		
+		@-webkit-keyframes spin {
+			to {
+				-webkit-transform: rotate(1turn);
+			}
+		}
+		
+		.rotate {
+			-webkit-animation: spin 1s linear infinite;
+		}
+		
+		/* patch for Chrome 34 with new scrollbars: this essentially hides the scrollbars that would intermittently appear around the popup window */
+   		html::-webkit-scrollbar {xxheight:8px} /* must balance width with initFixedArea() right */
+
+		html {min-width:631px}
+		html.tabletView {min-width:800px}
+		html.tabletView #tabletViewFrame {height:540px}
+		html.tabletView.hasTabs #tabletViewFrame {height:510px;padding-top:0}
+		#inboxes, #contacts {width:631px;max-height:480px}
+		#fullEmailContent {max-height:412px}
+
+		@media only screen and (-webkit-min-device-pixel-ratio: 1.01) and (-webkit-max-device-pixel-ratio: 1.3) {
+			html {min-width:631px}
+			html.tabletView {min-width:620px}
+			html.tabletView #tabletViewFrame {height:400px}
+			#inboxes, #contacts {width:631px;max-height:400px}
+			#fullEmailContent {max-height:326px}
+			.composeInput {width:91%}
+		}
+		
+		@media only screen and (-webkit-min-device-pixel-ratio: 1.31) and (-webkit-max-device-pixel-ratio: 1.5) {
+			html {min-width:531px}
+			html.tabletView {min-width:520px}
+			html.tabletView #tabletViewFrame {height:300px}
+			#inboxes, #contacts {width:531px;max-height:350px}
+			#fullEmailContent {max-height:252px}
+			.composeInput {width:82%}
+			.composeWrapper.clicked .composeInput {width:69%}			
+		}
+
+		/* For Mac Retina displays let's only handle zoom up to 1.90 (the defaults above and outside the @media blocks will be used instead) because 2 is for retina displays and aparently the width of the popup width is 800px whereas when zooming on a pc changes the popup width shrinks */
+		@media only screen and (-webkit-min-device-pixel-ratio: 1.51) and (-webkit-max-device-pixel-ratio: 1.90) {
+			html {min-width:400px}
+			html.tabletView {min-width:420px}
+			html.tabletView #tabletViewFrame {height:300px}
+			#inboxes, #contacts {width:400px;max-height:250px}
+			#fullEmailContent {max-height:152px}
+			.composeInput {width:72%}
+			.composeWrapper.clicked .composeInput {width:69%}
+		}
+		
+</style>
+</head>
+<body id="body">
+
+	<div id="stretcher" class="hide" style="width:2000px"></div>
+
+	<div id="statusMessage" class="statusMessage" msg="loading">loading.....</div>
+
+    <div id="menu">
+        <div id="showAllEmails" msg="showAllEmails">Show all emails</div><div id="switchView">Switch to Inbox</div><div id="share" msgTitle="share"><img valign="top" src='images/share.png'/></div><div id="options" msgTitle="options"><img src="images/options.png"/></div><div id="refresh" msgTitle="refreshLinkTitle"><img src="images/refresh.png"/></div><div id="maximize" msgTitle="openGmailTab"><img src="images/maximize.png"/></div><div id="close" msgTitle="close"><img src="images/close.png"/></div>
+    </div>
+
+    <div id="optionsMenu" class="menu">
+		<ul>
+			<li id="optionsPage"><a msg="options" href="#">Options</a></li>
+			<li class="ddSection doNotSelect"></li>
+	       	<li id="doNotDisturb" msgTitle="doNotDisturbToolTip"><a msg="doNotDisturb" href="#">dnd</a></li>
+			<div id="DNDMenu">
+	       		<li id="DND_off" style="font-weight:bold"><a msg="turnOff" href="#">dnd off</a></li>
+	       		<li class="DND_minutes" minutes="30"><a msg="Xminutes" msgarg1="30">30</a></li>
+	       		<li class="DND_minutes" minutes="60"><a msg="Xhour" msgarg1="1">1</a></li>
+	       		<li class="DND_minutes" minutes="120"><a msg="Xhour" msgarg1="2">2</a></li>
+	       		<li class="DND_minutes" minutes="240"><a msg="Xhours" msgarg1="4">4</a></li>
+	       		<li id="DND_today" msgTitle="doNotDisturbForTodayToolTip"><a msg="today">today</a></li>
+	       		<li id="DND_schedule"><a msg="schedule">schedule</a>...</li>
+	       		<li id="DND_indefinitely" msgTitle="doNotDisturbIndefinitelyToolTip"><a msg="indefinitely">indefinitely</a></li>
+			</div>
+			<li class="ddSection doNotSelect"></li>
+			<li id="extraFeatures"><a msg="extraFeatures" href="#">extra features</a></li>
+			<li id="changelog"><a msg="changelog" href="#">Changelog</a></li>
+			<li id="discoverMyApps"><a msg="discoverMyApps" href="#">Discover my apps</a></li>
+			<li id="feedback"><a msg="feedback" href="#">Feedback</a></li>
+			<li id="followMe"><a msg="followMe" href="#">Follow me</a></li>
+			<li id="aboutMe"><a msg="aboutMe" href="#">About me</a></li>
+			<li id="help"><a msg="help" href="#">Help</a></li>
+		</ul>
+    </div>
+
+	<div id="shareMenu" class="menu">
+		<ul>
+			<li val="SEP" class="doNotSelect" style="text-align:right;margin-bottom:0px;margin-right:3px;padding-right:3px"><a href="#" style="display:inline-block;cursor:pointer"><img src="images/close.png"/></a></li>
+			<li val="googlePlus" class="shareIcon" title="Google+"><img src="/images/shareIcons/Google-Plus.png"/></li>
+			<li val="facebook" class="shareIcon" title="Facebook"><img src="/images/shareIcons/Facebook.png"/></li>
+			<li val="twitter" class="shareIcon" title="Twitter"><img src="/images/shareIcons/Twitter.png"/></li>
+			<li val="pinterest" class="shareIcon" title="Pinterest"><img src="/images/shareIcons/Pinterest.png"/></li>
+			<li val="linkedin" class="shareIcon" title="Linkedin"><img src="/images/shareIcons/Linkedin.png"/></li>
+			<li val="tumblr" class="shareIcon" title="Tumblr"><img src="/images/shareIcons/Tumblr.png"/></li>
+		</ul>
+	</div>
+      
+	<div id="contactsHeader" class="hide">
+		<input id="contactsSearch" type="search"/>
+		<div id="contactsMessage" msg="contactsMessage" class="hide"></div>
+		<div class="button open" msgTitle="open"><div></div></div>
+		<div style="clear:both"></div>
+	</div>
+	    
+	<div id="notice" style="display:none;clear:both;padding:1px;color:green;font-style:italic">The Gmail unread mail <a target="_blank" href="https://jasonsavard.com/forum/discussion/612/notice-from-the-developer-mark-as-read-delete-and-mail-count-issues">issue</a> is fixed!<span style="color:black;margin-left:5px;font-style:normal">[<a id="dismissNotice" href="#" style="color:blue">Dismiss</a>]</span></div>
+	    
+    <div id="signIn" class="hide" style="clear:both;text-align:center;padding:10px 20px">
+    	<a id="signInLink" style="text-decoration:underline;font-size:20px" target="_blank" href="#" msg="signIn">Sign in</a>
+    	<div style="font-size:11px;margin-top:3px;font-style:italic">
+    		<span msg="autoDetectAccounts">auto detct...</span> <a target="_blank" href="https://jasonsavard.com/wiki/Auto-detect_sign_in_issues" msg="notWorking">Not worki</a>
+    	</div>
+    </div>
+
+    <div id="addAccounts" class="hide" style="clear:both;text-align:center;padding:10px 20px">
+    	<button style="font-size:16px"><a href="options.html#2" target="_blank" msg="addAccount">add accounts</a></button>
+    </div>
+    
+    <div id="draftSaved">
+    	<div>You were interrupted while replying so I have saved the text :)</div> 
+    	<textarea id="draftSavedTextarea" dir='auto'></textarea> 
+    	<button id="saveDraftDismiss" class="button">Dismiss</button> <button id="saveDraftCopyAndDismiss" class="button">Copy to clipboard and Dismiss</button>
+    </div>
+    
+    <div id="scrollAreaWrapper">
+    	<div id="scrollArea">
+    		<div id="inboxes">
+		    	<div id="content"></div>
+	    	</div>
+	    	<div id="fullEmail" class="hide">
+	    		<div id="fullEmailActionButtons">
+	    			<div class="button backToInbox spaceRight" msgTitle="backToInbox" tabindex=0><div></div></div> <div class="button archive hugRight" msgTitle="archiveLink" tabindex=1><div></div></div><div class="button spam hugRight" msgTitle="spamLinkTitle" tabindex=2><div></div></div><div class="button delete spaceRight" msgTitle="deleteLink" tabindex=3><div></div></div> <div class="button moveLabel dropdownArrow hugRight" msgTitle="moveLabel" tabindex=4><div></div><div></div></div><div class="button labels dropdownArrow spaceRight" msgTitle="labels" tabindex=5><div></div><div></div></div> <div class="button markAsUnread" tabindex=6><div msg="unreadLinkTitle" msgTitle="unreadLinkTitle">mark as ureee</div></div><div class="button markAsRead" style="display:none" tabindex=7><div msg="readLinkTitle" msgTitle="readLinkTitle">mark as ureee</div></div>
+	    			<div id="topRightControls">
+						<a class="listenToEmail" msgTitle="listenToYourEmail" href="javascript:;"><img src="/images/play.png"/></a> <input class="emailZoom" msgTitle="zoom" type="range" min="40" step="1" max="120" value="100"/>
+					</div>
+	    			<div class="labelsDropDownWrapper">
+	    				<input class="labelsSearch" type="input"/>
+	    				<div class="labelsDropDown"></div>
+	    			</div>
+	    		</div>
+   				<div id="fullEmailSubjectArea">
+   					<div id="fullEmailSubject"></div>
+   					<div id="fullEmailLabels"></div>
+	   				<div id="fullEmailDisplayImagesWrapper">
+	   					<span msg="imagesAreNotDisplayed">Images are not displayed.</span> <a id="fullEmailDisplayImagesLink" href="javascript:;" msg="displayImagesBelow">Display images below</a>
+	   					<div><a id="fullEmailAlwaysDisplayImagesLink" style="font-size:11px" href="javascript:;">Always display images</a></div>
+	   				</div>
+   				</div>
+	    		<div id="fullEmailContent">
+	    			
+	    		</div>
+    		</div>
+    		<div id="contacts" class="hideImportant">
+    		</div>
+    	</div>
+    </div>
+
+	<!--div id="gmailInboxBetaMessage">This new inbox view is in BETA <a target="_blank" href="https://jasonsavard.com/wiki/Popup_window?ref=BetaMessage" msg="moreInfo">more info</a>. Send me <a target="_blank" href="https://jasonsavard.com/forum/categories/checker-plus-for-gmail-feedback?ref=BetaMessage">feedback</a> if you have any issues!</div-->
+	<div id="tabs"></div>
+	<iframe id="tabletViewFrame"></iframe>
+
+	<div class="accountTemplate" style="display:none">
+		<div class="inbox vbox">
+			<div class="inboxLabelAreaWrapper hbox wide">
+				<div class="hbox collapseArrow"></div>
+				<div class="inboxLabelArea hbox wide" msgTitle="open">
+					<div class="hbox wide inboxLink">
+						<span class="inboxFor"></span> <span class="unreadCount"></span>						 
+					</div>
+					<div class="inboxActions">
+						<div class="icon sendPageLink" msgTitle="sendPageLinkTitle" ></div> <div class="icon contactsLink" msgTitle="contacts"></div> <div class="icon searchLink" msgTitle="search"></div> <div class="button compose" msgTitle="composeLinkTitle"><div msg="compose">compose</div></div> <div class="button markAllAsRead" msgTitle="markAllAsReadTitle"><div msg="markAllAsRead">markAllAsRead</div></div> <!--div class="button open" msgTitle="open"><div></div></div-->
+					</div>
+					<div class="searchWrapper">
+						<input class='searchInput' type="search"/>
+						<div class="button search"><div msg="search">search</div></div> <a class="cancelSearch" href="#" msg="cancel">Cancel</a>
+					</div>
+				</div>
+			</div>
+			<div class="emails"></div>
+		</div>
+	</div>
+
+	<div id="mailTemplate" class="mail vbox hideScrollbars" style="display:none">
+		<div class="hbox wide">
+			<div class="imageArea vbox">
+				<img class="contactPhoto" src="images/noPhoto.png" />
+			</div>
+			<div class="emailDetails vbox wide" msgTitle="clickToPreviewEmail">
+				<span class="author"></span>
+				<div class="emailDetailsTopRight">
+					<div class="date"></div><div class="icon star" msgTitle="starLinkTitle"></div> <div class="buttons"><div class="quickActions"><div class="button archive hugRight" msgTitle="archiveLink" tabindex=1><div></div></div><div class="button spam hugRight" msgTitle="spamLinkTitle" tabindex=2><div></div></div><div class="button delete" msgTitle="delete" tabindex=3><div></div></div> <div class="button markAsUnread" tabindex=4><div msg="unreadLinkTitle">mark as ureee</div></div> <div class="button markAsRead" msgTitle="readLinkTitle" tabindex=5><div msg="readLinkTitle">mark as readdd</div></div></div> <div class="button reply hugRight" msgTitle="reply" tabindex=6><div></div></div><div class="button open" msgTitle="openReply" tabindex=7><div></div></div></div>
+				</div>
+				<div class="hbox">
+					<div class="subject"></div> <div class="label"></div>
+				</div>
+				<div class="upArrow"></div>
+				<div class="summary vbox"></div>
+				<div class="downArrow"></div>
+				<div class="fullEmailToCCWrapper">
+					<span class='fullEmailToCC'></span> <div class='fullEmailShowToCC' msgTitle="showDetails">...</div>
+				</div>
+			</div>
+		</div>
+	</div>
+    
+   	<div id="composeWrapperTemplate" class='composeWrapper' style="display:none">
+   		<div class='sentMessage' msg="sent">Sent</div>
+   		<textarea class='composeInput' dir='auto' tabindex=0></textarea>
+   		<div class='clickHereToReply'>Click here to <span class='composeAreaReply' msg="reply">Reply</span><span class='replyToAllText'>, <span class='replyToAllLink' msg="replyToAll">Reply to all</span></span></div>
+   		<div class='composeRightWrapper'>
+   			<div class='button sendAndArchive'>
+   				<div>Send + Archive</div>
+ 			</div>
+   			<div class='button send' title='Send (Ctrl-Enter)'>
+   				<div msg="send">Send</div>
+   			</div>
+   		</div>
+   	</div>
+    
+</body>
+</html>

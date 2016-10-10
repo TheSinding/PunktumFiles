@@ -1,0 +1,1349 @@
+{
+   "24hourMode": {
+      "message": "显示 24 小时制"
+   },
+   "24hourModeTitle": {
+      "message": "时间将以 24 小时制显示。如18:00"
+   },
+   "EOM": {
+      "message": "EOM"
+   },
+   "EOMToolTip": {
+      "message": "End Of Message - 电子邮件结束标记"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "请勿删除"
+   },
+   "NAME_says": {
+      "message": "$1说："
+   },
+   "XNewEmails": {
+      "message": "$1 的新邮件"
+   },
+   "Xday": {
+      "message": "天"
+   },
+   "Xdays": {
+      "message": "$1 天"
+   },
+   "Xhour": {
+      "message": "$1 小时"
+   },
+   "Xhours": {
+      "message": "$1 小时"
+   },
+   "Xline": {
+      "message": "$1 行"
+   },
+   "Xlines": {
+      "message": "$1 行"
+   },
+   "Xminute": {
+      "message": "$1 分钟"
+   },
+   "Xminutes": {
+      "message": "$1 分钟"
+   },
+   "Xseconds": {
+      "message": "$1秒"
+   },
+   "aboutMe": {
+      "message": "作者信息"
+   },
+   "account": {
+      "message": "账户"
+   },
+   "accounts": {
+      "message": "帐户"
+   },
+   "accountsAndLabels": {
+      "message": "账户 ／ 标签"
+   },
+   "actionButtons": {
+      "message": "弹出窗口和高级桌面通知窗口中的按钮"
+   },
+   "addEmailAlias": {
+      "message": "为您的电子邮件地址添加别名"
+   },
+   "addEmailAliasToolTip": {
+      "message": "在弹出窗口中添加昵称，如使用 \u003Cb>杰森的电子邮件\u003C/b> 取代 blah@gmail.com"
+   },
+   "addSpeechEngines": {
+      "message": "添加语音引擎"
+   },
+   "alias": {
+      "message": "别名"
+   },
+   "all": {
+      "message": "所有"
+   },
+   "allMail": {
+      "message": "所有邮件"
+   },
+   "alreadyDonated": {
+      "message": "已经捐过款了？"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "一次捐赠，您同时可以使用另一扩展程序的额外功能： $1"
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "Checker Plus for Google Calendar"
+   },
+   "alsoTryMy": {
+      "message": "试用我的另一款扩展程序"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "始终显示外部内容 （如图像）"
+   },
+   "amount": {
+      "message": "金额"
+   },
+   "archiveLink": {
+      "message": "存档"
+   },
+   "archiveLinkTitle": {
+      "message": "存档该邮件"
+   },
+   "archive_read": {
+      "message": "标记已存档邮件为已读"
+   },
+   "archive_readToolTip": {
+      "message": "当您在弹出窗口将邮件存档时，会将其标记为已读"
+   },
+   "autoAdjust": {
+      "message": "自动调整"
+   },
+   "autoAdjustAndImages": {
+      "message": "自动调整并显示图片"
+   },
+   "autoDetectAccounts": {
+      "message": "此扩展程序将自动检测您已登录的帐户。"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "backToInbox": {
+      "message": "返回到收件箱"
+   },
+   "backgroundColor": {
+      "message": "背景颜色"
+   },
+   "brightness": {
+      "message": "亮度"
+   },
+   "button": {
+      "message": "按钮"
+   },
+   "buttonClickAction": {
+      "message": "点击扩展图标时的操作"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "canceledInAppPurchase": {
+      "message": "试试 PayPal 来代替呢？或与我联系"
+   },
+   "changeSummary": {
+      "message": "更改摘要格式"
+   },
+   "changeTheme": {
+      "message": "更改主题"
+   },
+   "changeThisDomain": {
+      "message": "现在更改此电子邮件域 $1"
+   },
+   "changeThisDomain2": {
+      "message": "退出，改用其他账户登录"
+   },
+   "changelog": {
+      "message": "更新日志"
+   },
+   "checkerPlusPopupWindow": {
+      "message": "检查加上弹出窗口"
+   },
+   "chime": {
+      "message": "铃声"
+   },
+   "chooseEndColor": {
+      "message": "设置结束颜色"
+   },
+   "choosePaymentMethod": {
+      "message": "选择信用卡付款方式"
+   },
+   "chooseStartColor": {
+      "message": "设置起始颜色"
+   },
+   "chromePlaced2ButtonLimit": {
+      "message": "Chrome 限制使用 2 个按钮 ！"
+   },
+   "clickForMoreInfo": {
+      "message": "点击查看更多的信息"
+   },
+   "clickToPreviewEmail": {
+      "message": "单击以预览电子邮件"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "单击任意位置通知"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "单击检查器加为 Gmail 标志"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "closeAfterX": {
+      "message": "在设定的时间以后关闭"
+   },
+   "closesPopupWindow": {
+      "message": "关闭弹出窗口"
+   },
+   "collapseEmailAccounts": {
+      "message": "默认情况下崩溃的电子邮件帐户"
+   },
+   "collapseEmailAccountsToolTip": {
+      "message": "使用此选项可以给你更好的概述的所有未读电子邮件帐户，以便您可以选择哪些扩展箭头"
+   },
+   "colorMessage": {
+      "message": "捐赠用户才能保存这些颜色！"
+   },
+   "colorSubject": {
+      "message": "用颜色标识的电子邮件示例"
+   },
+   "colors": {
+      "message": "颜色"
+   },
+   "commaSeparatedEmails": {
+      "message": "用逗号分隔，例如："
+   },
+   "compose": {
+      "message": "撰写"
+   },
+   "composeLinkTitle": {
+      "message": "写新邮件"
+   },
+   "contacts": {
+      "message": "联系人"
+   },
+   "contactsHome": {
+      "message": "家庭电话"
+   },
+   "contactsMessage": {
+      "message": "鼠标悬停于照片可放大"
+   },
+   "contactsMobile": {
+      "message": "移动电话"
+   },
+   "contactsOther": {
+      "message": "其他"
+   },
+   "contactsWork": {
+      "message": "单位电话"
+   },
+   "continue": {
+      "message": "继续"
+   },
+   "continueToOptions": {
+      "message": "继续设置选项"
+   },
+   "continueWithoutFeatures": {
+      "message": "继续使用此扩展程序，但没有以上额外功能"
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "继续使用没有额外功能的扩展程序"
+   },
+   "contrast": {
+      "message": "对比度"
+   },
+   "contributeToContinue": {
+      "message": "捐赠"
+   },
+   "conversationView": {
+      "message": "会话视图"
+   },
+   "conversationViewToolTip": {
+      "message": "设置是否相同主题的邮件在一起显示"
+   },
+   "currencyCode": {
+      "message": "USD"
+   },
+   "currencyCodeForGoogleCheckout": {
+      "message": "USD"
+   },
+   "currencySymbol": {
+      "message": "$"
+   },
+   "currencySymbolForGoogleCheckout": {
+      "message": "$"
+   },
+   "custom": {
+      "message": "自定义"
+   },
+   "customButtonsToolTip": {
+      "message": "设置您的个性颜色"
+   },
+   "customToThisExtension": {
+      "message": "预定义"
+   },
+   "dark": {
+      "message": "黑暗"
+   },
+   "darkToolTip": {
+      "message": "黑暗的对比"
+   },
+   "dayAgo": {
+      "message": "$1 天前"
+   },
+   "daysAgo": {
+      "message": "$1 天前"
+   },
+   "default": {
+      "message": "默认"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "deleteLink": {
+      "message": "删除"
+   },
+   "deleteLinkTitle": {
+      "message": "删除该邮件"
+   },
+   "deletingMarksAsRead": {
+      "message": "标记已删除邮件为已读"
+   },
+   "deletingMarksAsReadToolTip": {
+      "message": "当您删除邮件时，标记其为已读"
+   },
+   "description": {
+      "message": "显示 Google Mail 收件箱中的新邮件和联系人照片；通过桌面通知获得新邮件提醒；不打开Gmail网页就能收取、阅读和删除邮件。更多功能待你发现！"
+   },
+   "developingMore": {
+      "message": "和更多根据你们建议而正在开发的新功能..."
+   },
+   "ding": {
+      "message": "叮"
+   },
+   "discoverMyApps": {
+      "message": "发现我的应用程序"
+   },
+   "display": {
+      "message": "显示"
+   },
+   "displayImagesBelow": {
+      "message": "在下面显示图像"
+   },
+   "displaySenders_1": {
+      "message": "发件人信息"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "不再通知更新"
+   },
+   "doNotShowNotificationIfGmailTabActive": {
+      "message": "Gmail标签激活时，不显示通知"
+   },
+   "doNotShowNotificationIfGmailTabActiveToolTip": {
+      "message": "当Gmail窗口激活时生效，:)你将在收到新邮件的同时看到我的通知"
+   },
+   "doTheSameThing": {
+      "message": "做同样的事情"
+   },
+   "donate": {
+      "message": "捐赠"
+   },
+   "donationRequired": {
+      "message": "仅限捐赠用户"
+   },
+   "dropshadow": {
+      "message": "阴影"
+   },
+   "duplicateLabelWarning": {
+      "message": "我建议在3个主标签 （收件箱、重要邮件、所有邮件）中仅选择1个，否则您可能得到重复提醒 ！"
+   },
+   "email": {
+      "message": "电邮地址"
+   },
+   "emailAccounts": {
+      "message": "电子邮件帐户"
+   },
+   "emailFrom_NAME": {
+      "message": "来自$1的电子邮件"
+   },
+   "emailPreview": {
+      "message": "电子邮件预览"
+   },
+   "emailPreviewToolTip": {
+      "message": "如果此选项被 \u003Cb>选中\u003C/b> ，单击弹出窗口中邮件的任意位置 （如:摘要），一个较大的电子邮件预览区域将会打开。如果 \u003Cb>未选中\u003C/b> ，单击将打开Gmail网页 \u003Cbr>"
+   },
+   "emailSummary": {
+      "message": "电子邮件摘要"
+   },
+   "emailSummaryToolTip": {
+      "message": "在弹出窗口中显示每封电子邮件的前几行文本"
+   },
+   "email_from": {
+      "message": "发件人"
+   },
+   "email_message": {
+      "message": "正文"
+   },
+   "email_subject": {
+      "message": "主题"
+   },
+   "enableLanguageDetection": {
+      "message": "启用语言检测"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "通过语言检测服务，使用相应的语言朗读您的提醒！"
+   },
+   "enjoyingThisApp": {
+      "message": "觉得我的扩展程序好用吗？那就 $1"
+   },
+   "enter": {
+      "message": "Enter 键"
+   },
+   "enterAnAmount": {
+      "message": "您必须输入金额！"
+   },
+   "esc": {
+      "message": "Esc 键"
+   },
+   "example": {
+      "message": "示例"
+   },
+   "exceptionsToChooseFrom": {
+      "message": "可选"
+   },
+   "extensionUpdated": {
+      "message": "扩展更新 ！"
+   },
+   "extensionUpdates": {
+      "message": "扩展的更新"
+   },
+   "extraFeatures": {
+      "message": "额外功能"
+   },
+   "extraFeaturesClicked": {
+      "message": "您试图使用这些额外功能之一......"
+   },
+   "failureWithInAppPurchase": {
+      "message": "已取消或交易失败 ！试试 PayPal 来代替呢？"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "已取消或交易失败 ！试试 $1 来代替呢？"
+   },
+   "feedback": {
+      "message": "反馈"
+   },
+   "fetchContactsEvery": {
+      "message": "读取联系人频率，每"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "如果你有很多联系人或网速较慢时，请设置为较高的值，即较低频率。"
+   },
+   "firstAndLastName": {
+      "message": "显示姓名"
+   },
+   "firstNameOnly": {
+      "message": "只显示姓"
+   },
+   "followMe": {
+      "message": "关注作者"
+   },
+   "forever": {
+      "message": "永远"
+   },
+   "forums": {
+      "message": "论坛"
+   },
+   "fullLinkTitle": {
+      "message": "显示全文"
+   },
+   "general": {
+      "message": "一般"
+   },
+   "grantAccessAgain": {
+      "message": "再次授予访问权限"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "仅适用于您登录多个帐户，并希望为每个账户均授予访问权限的情况。"
+   },
+   "grantedTo": {
+      "message": "权限授予"
+   },
+   "grayscale": {
+      "message": "灰度"
+   },
+   "green": {
+      "message": "Green"
+   },
+   "greenToolTip": {
+      "message": "我回收的主题 ！"
+   },
+   "groupByLabels": {
+      "message": "按标签分组邮件"
+   },
+   "groupByLabelsToolTip": {
+      "message": "按您选择监视的标签来分组和排序未读邮件。这将在弹出窗口和高级桌面通知窗口中为您的电子邮件添加标签名，如“收件箱”等等"
+   },
+   "hearEmail": {
+      "message": "听到电子邮件"
+   },
+   "hearEmailMessage": {
+      "message": "朗读电子邮件正文"
+   },
+   "hearEmailSubject": {
+      "message": "朗读电子邮件主题"
+   },
+   "hearEmailToolTip": {
+      "message": "选择你想要听到邮件部分...，发件人、 主题或邮件内容"
+   },
+   "height": {
+      "message": "高度"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "helpMeTranslate": {
+      "message": "你能帮我翻译吗？$1 正确的翻译 ！"
+   },
+   "hideByJason": {
+      "message": "隐藏 'by JasonSavard.com'"
+   },
+   "hideByJasonToolTip": {
+      "message": "在弹出窗口中隐藏 \u003Ci>by JasonSavard.com\u003C/i> "
+   },
+   "hideMarkAsReadEmails": {
+      "message": "隐藏您 '标记为已读 ' 的电子邮件"
+   },
+   "hideMyName": {
+      "message": "隐藏我的名字 '由 Jason 尔德 '"
+   },
+   "hideReadEmails": {
+      "message": "隐藏已读电子邮件"
+   },
+   "hideSentFrom": {
+      "message": "在邮件摘要中隐藏签名 如“发送自我的 … … ”"
+   },
+   "hideSentFromToolTip": {
+      "message": "勾选此项来隐藏设备自动添加的签名，如 “发送自我的 iPhone 或 黑莓”等等。"
+   },
+   "hideUnreadCount": {
+      "message": "隐藏未读邮件的计数"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "在扩展图标中隐藏未读邮件的计数"
+   },
+   "hourAgo": {
+      "message": "$1 小时前"
+   },
+   "hours": {
+      "message": "小时"
+   },
+   "hoursAgo": {
+      "message": "$1 小时前"
+   },
+   "icon": {
+      "message": "扩展图标"
+   },
+   "identifyEmailAccountsWithColors": {
+      "message": "用颜色标识您的电子邮件帐户"
+   },
+   "ifNoUnreadMail": {
+      "message": "如果没有未读邮件"
+   },
+   "ignoreTheseAccounts": {
+      "message": "忽略这些帐户"
+   },
+   "ignoreThisAccount": {
+      "message": "忽略此帐户"
+   },
+   "ignored": {
+      "message": "忽略"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "图像未显示"
+   },
+   "important": {
+      "message": "重要"
+   },
+   "importantMail": {
+      "message": "重要邮件"
+   },
+   "inbox": {
+      "message": "收件箱"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "invert": {
+      "message": "反相"
+   },
+   "keyboardShortcuts": {
+      "message": "快捷键"
+   },
+   "keys": {
+      "message": "快捷键"
+   },
+   "label": {
+      "message": "标签"
+   },
+   "labels": {
+      "message": "标签"
+   },
+   "language": {
+      "message": "语言"
+   },
+   "languageName": {
+      "message": "简体中文"
+   },
+   "languageToolTip": {
+      "message": "更改显示和语音通知语言。注1： 扩展程序中您可能同时看到多种语言，因为：它将显示由您选择的语言已翻译的部分，如果还没有翻译，它将优先选择您的浏览器语言，其余的将显示为英语。注2： 要更改弹出式窗口中日历的语言，使用谷歌日历设置。"
+   },
+   "licenseOnlyValidFor": {
+      "message": "许可仅在用户登录到他们自己的谷歌日历时有效"
+   },
+   "linesInSummary": {
+      "message": "摘要格式"
+   },
+   "linesInSummaryToolTip": {
+      "message": "\u003Cb>不显示\u003C/b>-将隐藏桌面提醒窗口及弹出窗口中的邮件摘要。\u003Cbr>\u003Cb>\u003Cb># 行\u003C/b> - 显示行数\u003Cbr>\u003Cb>自动调整\u003C/b> - 在弹出窗口中尽可能多地显示未读邮件摘要，并根据需要添加迷你滚动条\u003Cbr>\u003Cb>自动调整并显示图片\u003C/b> - 将同时显示图片。 出于保护隐私考虑，不推荐！ 由于在桌面提醒窗口及弹出窗口中图片将被 \u003Cspan style='text-decoration:underline'>自动\u003C/span> 显示，发件人可能由此获悉您已阅读了邮件。"
+   },
+   "listenToYourEmail": {
+      "message": "朗读邮件"
+   },
+   "loading": {
+      "message": "载入中..."
+   },
+   "loadingSettings": {
+      "message": "加载设置"
+   },
+   "mailtoLinks": {
+      "message": "使用 Gmail 打开 mailto 链接"
+   },
+   "mailtoLinksToolTip": {
+      "message": "单击 mailto 链接 （电子邮件链接） 将打开 Gmail 而不是您的邮件客户端。需要额外的权限来分析在您正访问网站上的这些链接。"
+   },
+   "man": {
+      "message": "男声"
+   },
+   "markAllAsRead": {
+      "message": "标记所有为已读"
+   },
+   "markAllAsReadTitle": {
+      "message": "标记所有为已读"
+   },
+   "markAsReadR": {
+      "message": "标记为已读"
+   },
+   "me": {
+      "message": "我"
+   },
+   "meetMe": {
+      "message": "和我见面"
+   },
+   "meetMeTitle": {
+      "message": "通过视频和我见面 ！"
+   },
+   "minimumAmount": {
+      "message": "你至少需捐 $1"
+   },
+   "minimumDonation": {
+      "message": "1"
+   },
+   "minimumDonationForGoogleCheckout": {
+      "message": "1.00"
+   },
+   "minutesAgo": {
+      "message": "$1 分钟前"
+   },
+   "monitorThisLabel": {
+      "message": "监视这些标签"
+   },
+   "monitorThisLabelToolTip": {
+      "message": "确定扩展程序会监视贴有哪些标签的新邮件"
+   },
+   "monthsArray": {
+      "message": "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月"
+   },
+   "more": {
+      "message": "更多"
+   },
+   "moreInfo": {
+      "message": "更多信息"
+   },
+   "moveLabel": {
+      "message": "移动到"
+   },
+   "multipleSelectionMac": {
+      "message": "按住按钮 (ctrl) 以选择多个选项"
+   },
+   "multipleSelectionWindows": {
+      "message": "按住控制 (ctrl) 按钮以选择多个选项。"
+   },
+   "multipleUserLicense": {
+      "message": "为您的团队购买多用户许可"
+   },
+   "mustSignInToPay": {
+      "message": "您必须登录到谷歌日历，然后等待此扩展加载 ！"
+   },
+   "muteVoice": {
+      "message": "我睡觉时使语音通知静音"
+   },
+   "muteVoiceForToday": {
+      "message": "今天都静音"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "直到明天上午7点都静音"
+   },
+   "muteVoiceForXh": {
+      "message": "静音 $1 h"
+   },
+   "muteVoiceForXm": {
+      "message": "静音 $1 m"
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "我睡觉时静音"
+   },
+   "muteVoiceWhileSleepingToolTip": {
+      "message": "适用于您在晚间离开电脑但语音通知却依然打开的情况。您可以选择此选项，使语音通知在设定的时间内静音"
+   },
+   "nameNoTM": {
+      "message": "Checker Plus for Gmail"
+   },
+   "native": {
+      "message": "默认"
+   },
+   "never": {
+      "message": "从不"
+   },
+   "newEmail": {
+      "message": "新邮件"
+   },
+   "newFeature": {
+      "message": "新功能 ！"
+   },
+   "next": {
+      "message": "前进"
+   },
+   "noUnreadText": {
+      "message": "无未读邮件"
+   },
+   "noUpdateNotifications": {
+      "message": "没有更新通知"
+   },
+   "none": {
+      "message": "不显示"
+   },
+   "notSignedIn": {
+      "message": "未登录"
+   },
+   "notWorking": {
+      "message": "没有正常工作？"
+   },
+   "notification": {
+      "message": "通知"
+   },
+   "notificationButton1": {
+      "message": "通知按钮"
+   },
+   "notificationButton2": {
+      "message": "通知按钮"
+   },
+   "notificationSound": {
+      "message": "通知音效"
+   },
+   "notificationTextToSpeech": {
+      "message": "语音通知"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "标记至少一封未读邮件，然后单击此处，等待查看通知窗口 ！"
+   },
+   "notifications": {
+      "message": "通知"
+   },
+   "of": {
+      "message": "of"
+   },
+   "oneUnreadText": {
+      "message": "封新邮件"
+   },
+   "open": {
+      "message": "打开"
+   },
+   "openComposeInTab": {
+      "message": "在新标签页撰写邮件"
+   },
+   "openComposeInTabToolTip": {
+      "message": "打开一个新标签页（而不是在弹出窗口中）撰写新邮件，也适用于 mailto 链接。"
+   },
+   "openComposeReplyAction": {
+      "message": "点击撰写或回复按钮时"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "在弹出窗口中打开"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "在新标签页中打开"
+   },
+   "openGmailPopupWindow": {
+      "message": "在弹出的窗口中打开 Gmail 收件箱"
+   },
+   "openGmailTab": {
+      "message": "打开 Gmail 网页"
+   },
+   "openGmailTabToolTip": {
+      "message": "禁用弹出窗口预览 （不推荐）。而是新建或在第一个已打开的 Gmail 标签页中显示未读邮件"
+   },
+   "openHelp": {
+      "message": "打开帮助"
+   },
+   "openLabel": {
+      "message": "打开标签"
+   },
+   "openLinkTitle": {
+      "message": "在网页中打开"
+   },
+   "openPopupPreview": {
+      "message": "打开弹出窗口预览"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "总是显示弹出窗口"
+   },
+   "openReply": {
+      "message": "打开 (回复)"
+   },
+   "openThisLabel": {
+      "message": "打开此页面"
+   },
+   "openThisLabelToolTip": {
+      "message": "确定单击电子邮件帐户或扩展图标时，打开哪个指定页面"
+   },
+   "option": {
+      "message": "选项"
+   },
+   "options": {
+      "message": "选项"
+   },
+   "or": {
+      "message": "或"
+   },
+   "original": {
+      "message": "默认"
+   },
+   "paragraph": {
+      "message": "第一段"
+   },
+   "password": {
+      "message": "密码"
+   },
+   "paypalSecurityKeyToolTip": {
+      "message": "如果您正在使用贝宝的 2 步验证，然后选择 \u003Cb>是\u003C/b> \u003Cbr>，如果您不确信然后让它 \u003Cb>不\u003C/b> 作为"
+   },
+   "pitch": {
+      "message": "音高"
+   },
+   "pollNow": {
+      "message": "现在更新"
+   },
+   "pollingAccounts": {
+      "message": "查收邮件"
+   },
+   "pollingInterval": {
+      "message": "更新频率"
+   },
+   "pollingIntervalTooltip": {
+      "message": "从 Google Mail 更新邮件信息的时间间隔"
+   },
+   "popupText": {
+      "message": "您有新邮件 !"
+   },
+   "popupWindowZoom": {
+      "message": "弹出窗口缩放"
+   },
+   "popupWindowZoomToolTip": {
+      "message": "变化的整体缩放，弹出窗口 (不电子邮件预览或通知)"
+   },
+   "positionFromLeft": {
+      "message": "距离左侧"
+   },
+   "positionFromTop": {
+      "message": "距离顶部"
+   },
+   "preview": {
+      "message": "预览"
+   },
+   "previewingMarksAsRead": {
+      "message": "标记已预览邮件为已读 "
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "当您在弹出窗口预览邮件时，会将其标记为已读"
+   },
+   "previous": {
+      "message": "往前"
+   },
+   "primary": {
+      "message": "主要"
+   },
+   "primarySocialPromotionsEtc": {
+      "message": "小学，社会和促销活动选项卡等。"
+   },
+   "priorityInbox": {
+      "message": "智能收件箱"
+   },
+   "promotions": {
+      "message": "促销活动"
+   },
+   "rate": {
+      "message": "语速"
+   },
+   "rateTitle": {
+      "message": "语速: 每分钟朗读单词数"
+   },
+   "read": {
+      "message": "读"
+   },
+   "readLink": {
+      "message": "已读"
+   },
+   "readLinkTitle": {
+      "message": "标记为已读"
+   },
+   "readLinkTitleShort": {
+      "message": ""
+   },
+   "recommended": {
+      "message": "推荐"
+   },
+   "reducedDonationAd_notification": {
+      "message": "好消息！老用户们!演员只是 $1 点击见/隐藏这。"
+   },
+   "reducedDonationAd_popup": {
+      "message": "好消息很长时间用户!\u003Cbr>你可以获取最新信息 $1 只有 50"
+   },
+   "referToAlreadyDonated": {
+      "message": "请参阅 $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "已经捐款"
+   },
+   "refresh": {
+      "message": "更新"
+   },
+   "refreshLinkTitle": {
+      "message": "刷新"
+   },
+   "rememeberReadEmails": {
+      "message": "记住已读电子邮件 （实验性功能）"
+   },
+   "rememeberReadEmailsToolTip": {
+      "message": "显示未读和已读邮件的选项，但它是实验性-在该功能成为beta版本前，请不要基于此对我的扩展进行评分"
+   },
+   "removeFromSystemTray": {
+      "message": "从系统托盘中删除"
+   },
+   "removeShareLinks": {
+      "message": "删除Facebook,Twitter分享链接"
+   },
+   "removeShareLinksTooltip": {
+      "message": "删除弹出式窗口中日历下面的 Facebook、Twitter分享链接"
+   },
+   "reply": {
+      "message": "回复"
+   },
+   "replyLinkTitle": {
+      "message": "回复"
+   },
+   "replyR": {
+      "message": "回复"
+   },
+   "replyToAll": {
+      "message": "全部回复"
+   },
+   "replyingMarksAsRead": {
+      "message": "标记已回复邮件为已读"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "当您在弹出窗口单击打开（回复）按钮时，会将其标记为已读"
+   },
+   "richNotification": {
+      "message": "详细通知"
+   },
+   "richNotificationToolTip": {
+      "message": "采取了可操作的弹出窗口，但非突兀，因为他们会消失几秒钟后自己如果不采取行动。他们想在智能手机上的通知。他们提供相关的实时信息，但您可以选择忽略任何进一步的行动，直到后来。"
+   },
+   "runInBackground": {
+      "message": "谷歌浏览器关闭时，在后台运行"
+   },
+   "runInBackgroundToolTip": {
+      "message": "在您的浏览器关闭时，继续接收通知。仅推荐高级用户使用。"
+   },
+   "runInBackgroundWarning1": {
+      "message": "请仔细阅读 $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "后台应用"
+   },
+   "runInBackgroundWarning2": {
+      "message": "如果您禁用后台应用，可以通过阅读 $1 重新启用"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "后台应用的最后一节"
+   },
+   "runInBackgroundWarning3": {
+      "message": "您可能需要在 Gmail 登录页面启用 $1 "
+   },
+   "runInBackgroundWarning3b": {
+      "message": "保持登录状态"
+   },
+   "saturation": {
+      "message": "饱和度"
+   },
+   "search": {
+      "message": "搜索"
+   },
+   "seeUpdates": {
+      "message": "查看更新"
+   },
+   "seeVideo": {
+      "message": "观赏影片"
+   },
+   "selectQuickActionButtons": {
+      "message": "显示或隐藏操作按钮"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "注意： 这不会隐藏邮件全文视图中的按钮 ！"
+   },
+   "send": {
+      "message": "发送"
+   },
+   "sendPageLinkTitle": {
+      "message": "发送页面链接"
+   },
+   "sending": {
+      "message": "正在发送"
+   },
+   "sent": {
+      "message": "已发送"
+   },
+   "sepia": {
+      "message": "乌贼墨"
+   },
+   "setPositionAndSize": {
+      "message": "设置弹出窗口的位置和大小"
+   },
+   "setPositionAndSizeToolTip": {
+      "message": "覆盖弹出窗口参数的系统默认值，重新设置位置和大小（以像素为单位）"
+   },
+   "severalUnreadText": {
+      "message": "封新邮件"
+   },
+   "share": {
+      "message": "共享"
+   },
+   "shareIntro": {
+      "message": "试一下这个令人惊叹的的 Chrome 扩展"
+   },
+   "shareTitle": {
+      "message": "单击此处，通过社交网站共享按钮把这个优秀的扩展程序告诉你的朋友们。注意： 此消息后单击此处会消失。"
+   },
+   "showActionButtonsOnHover": {
+      "message": "只在鼠标悬停于通知窗口时才显示操作按钮"
+   },
+   "showActionButtonsOnHoverToolTip": {
+      "message": "我建议勾选此选项。但如果您使用的是 Mac，你可能要取消选中而总是显示操作按钮。因为当焦点不在 Chrome 窗口时，悬停显示将无法正常工作。"
+   },
+   "showAllEmails": {
+      "message": "显示所有电子邮件"
+   },
+   "showCheckerPlusButtonsOnlyOnHover": {
+      "message": "仅显示上悬停按钮"
+   },
+   "showCheckerPlusButtonsOnlyOnHoverToolTip": {
+      "message": "不建议如果你正在使用触摸设备，而无需使用鼠标"
+   },
+   "showContactPhoto": {
+      "message": "显示电子邮件联系人的照片"
+   },
+   "showContactPhotoToolTip": {
+      "message": "如果您的联系人有照片，它将被显示。您可以在 Gmail “联系人”页面中为他们添加照片，或者鼠标悬停他们的空白照片时选择“添加照片”。如果没有照片将显示默认图标。获取您的联系人照片需要权限。"
+   },
+   "showDesktopNotifications": {
+      "message": "显示桌面通知"
+   },
+   "showDetails": {
+      "message": "显示详细信息"
+   },
+   "showEOM": {
+      "message": "添加电子邮件结束标记"
+   },
+   "showEOMToolTip": {
+      "message": "EOM - End Of Message. 当您在收到大量简短的邮件时特别有用，使您可以避免点击邮件摘要去查看是否还有更多的文本。"
+   },
+   "showEmailAccount": {
+      "message": "总是显示收到新邮件的电子邮件帐户"
+   },
+   "showEmailAccountToolTip": {
+      "message": "如果您已登录到 2个 或多个帐户时很有用。总是显示收到了新的未读邮件的帐户"
+   },
+   "showHideEmailPreview": {
+      "message": "显示/隐藏电子邮件预览"
+   },
+   "showIconAnimation": {
+      "message": "显示扩展图标动画"
+   },
+   "showIconAnimationToolTip": {
+      "message": "当有新邮件时，显示动画效果"
+   },
+   "showLabelsTitle": {
+      "message": "显示标签"
+   },
+   "showLeftColumnWhenPreviewingEmail": {
+      "message": "在弹出窗口预览邮件时，显示左侧边栏"
+   },
+   "showLeftColumnWhenPreviewingEmailToolTip": {
+      "message": "注意： 如果电子邮件太宽而需要更多空间显示时，左侧边栏会自动隐藏。"
+   },
+   "showMarkAsReadEmails": {
+      "message": "继续显示您 '标记为已读 '的电子邮件"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "显示电子邮件中的第一幅图像的预览"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "显示过时的未读邮件通知（仅用适用于 POP3 帐户）"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "如果未选中，只有收到未读邮件为最新时才会显示桌面通知（在多数情况下建议使用）。但使用POP3收取邮件时，收到邮件的发送时间会早于最新已读邮件，而使其位列于收件箱中间。您选中此选项，桌面通知也会显示这些邮件，但最多显示20封。注意： 如果您将已读邮件重新标记为未读，它将再次出现在桌面通知中！"
+   },
+   "showOptionsButton": {
+      "message": "显示选项按钮"
+   },
+   "showSendAndArchiveButton": {
+      "message": "显示'发送并存档'按钮"
+   },
+   "showTransitions": {
+      "message": "开启翻译"
+   },
+   "showTransitionsToolTip": {
+      "message": "在弹出窗口显示预览或关闭电子邮件时的动画"
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "显示所有的补丁和更新的通知"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "只显示有趣的更新通知"
+   },
+   "signIn": {
+      "message": "登录"
+   },
+   "signInAsUserOfOrg": {
+      "message": "你必须退出，并改用您组织的电子邮件 $1 "
+   },
+   "signInAsUserOfOrg2": {
+      "message": "登录到您的日历"
+   },
+   "signInToYourAccount": {
+      "message": "先登录到您的帐户，然后重新加载此页 ！"
+   },
+   "social": {
+      "message": "社会"
+   },
+   "sound": {
+      "message": "声音"
+   },
+   "spamLink": {
+      "message": "垃圾邮件"
+   },
+   "spamLinkTitle": {
+      "message": "标记为垃圾邮件"
+   },
+   "speechEngine": {
+      "message": "语音引擎"
+   },
+   "spokenWordsLimit": {
+      "message": "仅限朗读"
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "您可以通过单击鼠标或将鼠标悬停在通知窗口上来随时停止朗读。注： 某些语音引擎可能会使用自己的独立设置。"
+   },
+   "standard": {
+      "message": "标准"
+   },
+   "starAndArchive": {
+      "message": "加星并存档"
+   },
+   "starLinkTitle": {
+      "message": "加星"
+   },
+   "stayInTray": {
+      "message": "在系统托盘中保留"
+   },
+   "summary": {
+      "message": "摘要"
+   },
+   "summaryLinkTitle": {
+      "message": "显示摘要"
+   },
+   "switchToCheckerPlus": {
+      "message": "切换到Checker Plus"
+   },
+   "switchToInbox": {
+      "message": "切换到Inbox"
+   },
+   "switchToInboxToolTip": {
+      "message": "单击右键获得更多的信息......"
+   },
+   "tab": {
+      "message": "选项卡"
+   },
+   "tabToolTip": {
+      "message": "在 Gmail 收件箱中弹出窗口中添加选项卡"
+   },
+   "testIt": {
+      "message": "测试一下 ！"
+   },
+   "testOutPopupWindow": {
+      "message": "测试出弹出窗口 ！"
+   },
+   "textNotification": {
+      "message": "文本通知窗口"
+   },
+   "thankYouForYourContribution": {
+      "message": "额外功能现在已解锁。谢谢你的贡献 ！"
+   },
+   "thankYouForYourContribution2": {
+      "message": "关闭此窗口并开始使用 ！"
+   },
+   "theme": {
+      "message": "主题"
+   },
+   "to": {
+      "message": "to"
+   },
+   "tooManyUnread": {
+      "message": "对不起，本程序至多标记 $1 封电子邮件。想标记更多邮件，请使用 Gmail 网站。"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "关闭 Gmail 检查，只检查 Google 企业应用套件中的邮件"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "这将会忽略你的 @gmail.com 帐户 ！"
+   },
+   "undo": {
+      "message": "撤消"
+   },
+   "unlockFeatures": {
+      "message": "只要捐赠一次（无论金额多少），您便能使用已有的和未来将新增的额外功能。立即生效！"
+   },
+   "unlockHeader": {
+      "message": "获得额外的功能，并支持您的开发人员"
+   },
+   "unmuteVoice": {
+      "message": "解除静音"
+   },
+   "unreadLink": {
+      "message": "未读"
+   },
+   "unreadLinkTitle": {
+      "message": "标记为未读"
+   },
+   "unreadLinkTitleShort": {
+      "message": "未读"
+   },
+   "unreadMail": {
+      "message": "未读邮件"
+   },
+   "updates": {
+      "message": "更新"
+   },
+   "useBasicHTMLView": {
+      "message": "使用基本的 HTML 视图"
+   },
+   "useTheseColors": {
+      "message": "启用颜色标识"
+   },
+   "useTheseColorsToolTip": {
+      "message": "为Gmail账户设置相同或者不同的颜色标识。可尝试使用您Gmail主题或公司徽标的颜色，然后勾选该选项框来激活设置。此设置将应用于弹出窗口和高级桌面通知窗口。"
+   },
+   "voice": {
+      "message": "声音"
+   },
+   "voiceInput": {
+      "message": "语音输入"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "只有当你离开电脑旁最少"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "推荐使用此选项。如果您不在电脑前或者电脑空闲时，您可以听到语音通知。"
+   },
+   "voiceTest": {
+      "message": "测试消息"
+   },
+   "volume": {
+      "message": "音量"
+   },
+   "voythas": {
+      "message": "Voythas"
+   },
+   "voythasToolTip": {
+      "message": "由 VoYtHAs 创建的图标"
+   },
+   "welcomeMessage": {
+      "message": "欢迎使用，\u003Cbr>\u003Cbr>请花几天时间来探索本扩展及其诸多选项...\u003Cbr>\u003Cbr>如果您仍有问题，在书写评论 \u003Cu>之前\u003C/u> ，请通过选项页中的帮助链接与我联系。我愿亲自为您提供帮助。"
+   },
+   "wholeEmail": {
+      "message": "整封电子邮件"
+   },
+   "whyContribute": {
+      "message": "我为什么应该捐赠？"
+   },
+   "whyContributeReason1": {
+      "message": "我每周工作数小时来维护和更新 $1 ，以回应你们的建议"
+   },
+   "whyContributeReason1_1": {
+      "message": "我所有的扩展程序"
+   },
+   "whyContributeReason2": {
+      "message": "我仔细阅读你们的每一条评论和建议，并在第一时间给予反馈 :）"
+   },
+   "whyContributeReason3": {
+      "message": "你可以贡献任何款额，我都将表示感激 ！"
+   },
+   "whyContributeReason4": {
+      "message": "此扩展程序持续收到 $1，谢谢 ！"
+   },
+   "whyContributeReason4_1": {
+      "message": "热心人士的评论"
+   },
+   "whyContributeReason5": {
+      "message": "了解更多有关我的情况，请访问 $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "使您或您的团队成为更高效的谷歌用户"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "相比于 $1 实惠多了！"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "width": {
+      "message": "宽度"
+   },
+   "woman": {
+      "message": "女声"
+   },
+   "yesterday": {
+      "message": "昨天"
+   },
+   "youMustChooseTheCheckerPlusPopupWindow": {
+      "message": "您必须切换到 \u003Ci>检查加上\u003C/i> 弹出窗口，以查看这些选项。"
+   },
+   "zoom": {
+      "message": "缩放"
+   }
+}

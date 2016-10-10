@@ -1,0 +1,101 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	margin: 0;
+}
+
+header {
+	height: 100px;
+	text-align: center;
+}
+
+.logo {
+	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+}
+
+main {
+	background: #ebfaff;
+	padding-top: 27px;
+}
+
+article {
+	background: #fff;	
+	border: 1px solid #ddeef4;
+	border-radius: 5px;
+	box-shadow: 0 0 3px 0 rgba(212, 231, 238, 0.75);
+	box-sizing: border-box;
+	margin: auto;
+	padding: 60px 118px 60px;
+	width: 810px;
+}
+
+.article-p {
+	color: #636d70;
+	line-height: 24px;
+	font-weight: 300;
+	margin: 0 0 26px 0;
+}
+
+.highlight {
+	font-weight: 600;
+}
+
+.social {
+	padding: 0;
+	margin: 25px 0 0 0;
+	text-align: center;
+}
+
+.social li {
+	display: inline-block;
+	list-style: none;
+	margin: 0 5px;
+}
+
+#facebook-share:hover, #twitter-share:hover {
+	opacity: 0.9;
+}
+
+.signature {
+	margin-top: 50px;
+}
+
+.left {
+	float: left;
+}
+
+.thanks {
+	color: #636d70;
+}
+
+.name {
+	margin-bottom: 0;
+}
+
+.company {
+	color: #636d70;
+	font-size: 12px;
+	margin-top: 7px;
+}
+
+.right {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.skip-button {
+	color: #95ccde;
+	display: inline-block;
+	border-radius: 3px;
+	font-size: 15px;
+	border: 1px solid #c4e2ec;
+	padding: 12px 48px;
+	margin: 30px calc(50% - 63px) 50px;
+	text-transform: uppercase;
+	cursor: pointer;
+}

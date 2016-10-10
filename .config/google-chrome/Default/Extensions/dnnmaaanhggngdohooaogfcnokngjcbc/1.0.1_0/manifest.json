@@ -1,0 +1,25 @@
+{
+   "author": "Kamran Ahmed",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "assets/icons/icon128.png",
+      "default_title": "TabSwitcher"
+   },
+   "description": "Switch between the tabs with ease",
+   "homepage_url": "https://github.com/kamranahmedse/tab-switcher",
+   "icons": {
+      "128": "assets/icons/icon128.png",
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlB1NVsAaDFQ48y47JGD4PrOi/Pes51Gz2zy3lwRpTCUyLOtLlbJTKpYmHpSYy4wgONw8/+hZRw0sQciJZf8L80EcOJBfcnT1JSjy4rHt4Ki3SZj61PqT0+DB2Eo69SSw3OZZLwUTQqUCgyRmiaRoSN2FlNbv5Z0GWK12BB+R7dZjGmXqS1YO8maBPHmiVOMsZ82wXT30FVX2DhuMcvyNFTRRqlQpAx61mECIqywm3fqWgOu5AeSnkL75NFoh9HffXbdwlbP725UIGOaRRAIk1yDyxGnxS8JKgQOWKVQyzhmcawihiG9PkhzfMXwJsbL00I62Q2wNyzFrDq+fhc8CuQIDAQAB",
+   "manifest_version": 2,
+   "name": "TabSwitcher",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "\u003Call_urls>" ],
+   "short_name": "TabSwitcher",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

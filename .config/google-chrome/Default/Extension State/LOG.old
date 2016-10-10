@@ -1,0 +1,24 @@
+2016/10/10-12:24:46.005 2533 Reusing MANIFEST /home/thesinding/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2016/10/10-12:24:46.005 2533 Recovering log #143
+2016/10/10-12:24:46.011 2533 Reusing old log /home/thesinding/.config/google-chrome/Default/Extension State/000143.log 
+2016/10/10-12:44:17.827 5036 Level-0 table #148: started
+2016/10/10-12:44:17.854 5036 Level-0 table #148: 3705323 bytes OK
+2016/10/10-12:44:17.862 5036 Delete type=0 #143
+2016/10/10-13:37:47.797 5036 Level-0 table #150: started
+2016/10/10-13:37:47.826 5036 Level-0 table #150: 4128403 bytes OK
+2016/10/10-13:37:47.835 5036 Delete type=0 #147
+2016/10/10-14:25:47.864 5036 Level-0 table #152: started
+2016/10/10-14:25:47.900 5036 Level-0 table #152: 4041191 bytes OK
+2016/10/10-14:25:47.909 5036 Delete type=0 #149
+2016/10/10-16:16:55.379 5036 Level-0 table #154: started
+2016/10/10-16:16:55.412 5036 Level-0 table #154: 4172359 bytes OK
+2016/10/10-16:16:55.421 5036 Delete type=0 #151
+2016/10/10-16:16:55.421 5036 Compacting 4@0 + 1@1 files
+2016/10/10-16:16:55.450 5036 Generated table #155@0: 16 keys, 11568 bytes
+2016/10/10-16:16:55.450 5036 Compacted 4@0 + 1@1 files => 11568 bytes
+2016/10/10-16:16:55.468 5036 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/10-16:16:55.468 5036 Delete type=2 #152
+2016/10/10-16:16:55.468 5036 Delete type=2 #150
+2016/10/10-16:16:55.469 5036 Delete type=2 #154
+2016/10/10-16:16:55.469 5036 Delete type=2 #148
+2016/10/10-16:16:55.470 5036 Delete type=2 #145

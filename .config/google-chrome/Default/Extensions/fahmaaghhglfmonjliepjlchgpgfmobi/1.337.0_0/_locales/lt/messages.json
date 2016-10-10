@@ -1,0 +1,4453 @@
+{
+   "1001360787461904844": {
+      "message": "Daugiau $TARGET$ parinkčių",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1008774365351112026": {
+      "message": "Pridėti atributą „$REL_NO_FOLLOW$“ ($LINK_START$sužinokite daugiau$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Įprastas"
+   },
+   "1026450251988549367": {
+      "message": "Neseniai pakeista"
+   },
+   "1035476379650787996": {
+      "message": "Nepavyko įvykdyti užklausos"
+   },
+   "1035734413919296": {
+      "message": "Pridėti muzikos"
+   },
+   "1044946868924904798": {
+      "message": "Nėra ryšio"
+   },
+   "1046700819368184074": {
+      "message": "Aplanko atsisiuntimas"
+   },
+   "1047094450854611275": {
+      "message": "Naudodami mini leistuvę galite valdyti muzikos atkūrimą ne naršyklės lange, nurodyti, kurios dainos jums patinka, ir leisti radijo stotį „Man sekasi“."
+   },
+   "1052242579040192537": {
+      "message": "Kanados aborigenų"
+   },
+   "10524368647766690": {
+      "message": "Nr."
+   },
+   "1054861724689881963": {
+      "message": "Paleisti nemokamą radiją"
+   },
+   "1061567929494389534": {
+      "message": "Nepavyko gauti radijo stočių. Bandykite dar kartą."
+   },
+   "1061598772078003048": {
+      "message": "Siejantysis pastabos pabaigos ženklas"
+   },
+   "1065557748112539713": {
+      "message": "Pristabdomas muzikos atsisiuntimo procesas"
+   },
+   "108743912460085743": {
+      "message": "Krypties iš kairės į dešinę atšaukimas"
+   },
+   "1091846413708174942": {
+      "message": "Jūsų tinklalaidės"
+   },
+   "1099947980448260765": {
+      "message": "Eiti į populiariausių diagramas"
+   },
+   "1105024870503318889": {
+      "message": "Pridėti mano muzikos"
+   },
+   "113306301971655652": {
+      "message": "Krypties iš kairės į dešinę ženklas"
+   },
+   "1143190206278116157": {
+      "message": "Data: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1144407473317535723": {
+      "message": "Prenumeruoti"
+   },
+   "1144614654642966892": {
+      "message": "Atšaukite iki kitos sąskaitos. Iki tol klausykitės."
+   },
+   "1145877575671354635": {
+      "message": "Atnaujinti biblioteką"
+   },
+   "1147358182484006761": {
+      "message": "Parduotuvė"
+   },
+   "1150285978886683433": {
+      "message": "Perjungti pakartojimą iš / į išjungta, viskas ir vienas"
+   },
+   "1152313922995021532": {
+      "message": "64 bitų .rpm („Fedora“ / „openSUSE“)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Pridėta 1 daina}one{ Pridėta {NUM_TRANSFERRED_TRACKS_2} daina}few{ Pridėtos {NUM_TRANSFERRED_TRACKS_2} dainos}many{ {NUM_TRANSFERRED_TRACKS_2} songs added}other{ Pridėta {NUM_TRANSFERRED_TRACKS_2} dainų}}"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minutė}one{{TEXT} minutė}few{{TEXT} minutės}many{{TEXT} minutes}other{{TEXT} minučių}}"
+   },
+   "1181311234668957012": {
+      "message": "Automatinis grojaraštis"
+   },
+   "1182611188595867762": {
+      "message": "2. Kai atsidarys diegimo programa, vadovaukitės instrukcijomis, kad nustatytumėte Muzikos tvarkytuvę."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{Ištrinta 1 daina}one{Ištrinta # daina}few{Ištrintos # dainos}many{# songs deleted}other{Ištrinta # dainų}}"
+   },
+   "1189933439482480473": {
+      "message": "Pasiektas dainų skaičiaus apribojimas."
+   },
+   "1207788277335800169": {
+      "message": "Žr. visus $ARTIST_NAME$ vaizdo įrašus",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1220984280262077870": {
+      "message": "Nemokami ir nupirkti"
+   },
+   "1227051853106034748": {
+      "message": "Peržiūrų paieška negalima"
+   },
+   "1229167447861422460": {
+      "message": "Negalima leisti muzikos iškart dviejuose įrenginiuose"
+   },
+   "1233161892151828431": {
+      "message": "Pasvirasis"
+   },
+   "1238358838717941284": {
+      "message": "Pavyzdys"
+   },
+   "1248987958177161816": {
+      "message": "Redaguoti HTML šaltinį"
+   },
+   "1249846405947826980": {
+      "message": "Ankstesnė serija"
+   },
+   "1257583932123379891": {
+      "message": "Peržiūrėti tinklalaides pagal"
+   },
+   "1275783181441501836": {
+      "message": "Pastraipos skyriklis"
+   },
+   "128003684539571261": {
+      "message": "Valiuta"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 tinklalaidžių}=1{1 tinklalaidė}one{# tinklalaidė}few{# tinklalaidės}many{# tinklalaidės}other{# tinklalaidžių}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Atidarykite aplanką „Programos“ ir du kartus spustelėkite Muzikos tvarkytuvę."
+   },
+   "1291021741111868686": {
+      "message": "64 bitų .deb („Debian“ / „Ubuntu“)"
+   },
+   "1291623607736913474": {
+      "message": "Naršyti stotis pagal"
+   },
+   "1294292881529533213": {
+      "message": "„Google Play“ muzikos logotipas"
+   },
+   "1295614462098694869": {
+      "message": "Peržiūra"
+   },
+   "129672981680457789": {
+      "message": "Hanuno"
+   },
+   "129923171865835166": {
+      "message": "Radijas „Man sekasi“"
+   },
+   "1303647473723340887": {
+      "message": "Pasirinkti elementą, esantį virš dabartinio pasirinkimo"
+   },
+   "131636849522359023": {
+      "message": "Pateikta pagal $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1327813348141810372": {
+      "message": "Bamumų"
+   },
+   "1330646976582013113": {
+      "message": "atsisakyti"
+   },
+   "1341185708905265042": {
+      "message": "# diskas"
+   },
+   "1345511732360402048": {
+      "message": "Senosios tiurkų"
+   },
+   "1348774649041038169": {
+      "message": "Naršymas"
+   },
+   "1370021378292702047": {
+      "message": "„$SONG_TITLE$“ pažymėta kaip netinkama atitiktis.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Įjungti arba išjungti maišymą"
+   },
+   "1372788343021542418": {
+      "message": "Jei norite naudoti mini leistuvę, prisijunkite prie „Google Play“ muzikos žiniatinklyje."
+   },
+   "1382005717519484629": {
+      "message": "Nematomas tarpas"
+   },
+   "1393837337557373364": {
+      "message": "Albumas"
+   },
+   "1404225614691686373": {
+      "message": "Neribota muzika$START_BREAK$iš „Google Play“",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$, spustelėkite, kad pasirinktumėte.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1418504114877368118": {
+      "message": "Parašė $LYRICIST_LIST_JOINED$",
+      "placeholders": {
+         "LYRICIST_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Įveskite tinkintą spalvą, pvz., rožinę, #F00, #D015FF ar rgb(100, 50, 25)"
+   },
+   "1429336442713571177": {
+      "message": "Dainų sąrašai"
+   },
+   "1430061825590893722": {
+      "message": "Atidaryti šią nuorodą naujame lange"
+   },
+   "1433391846042476830": {
+      "message": "Vakar"
+   },
+   "1435809990540516997": {
+      "message": "Pridedama muzikos"
+   },
+   "1444145448465775598": {
+      "message": "Atšaukti"
+   },
+   "1453708590388513852": {
+      "message": "Techninis"
+   },
+   "1464072562214937907": {
+      "message": "Metai"
+   },
+   "147527058386222778": {
+      "message": "Srautinio perdavimo kokybė"
+   },
+   "1483596119706515744": {
+      "message": "Bugisų"
+   },
+   "1486857306659217748": {
+      "message": "Praleisti"
+   },
+   "1487523984872879956": {
+      "message": "Raidės M dydžio kvadratas"
+   },
+   "1490665788833937521": {
+      "message": "Gaukite mini leistuvę"
+   },
+   "1494946186465201682": {
+      "message": "Atšaukti"
+   },
+   "1501458973427096787": {
+      "message": "Klausykite bet ko neprisijungę"
+   },
+   "1504214836895903832": {
+      "message": "Nepavyko prijungti"
+   },
+   "1517865562673472241": {
+      "message": "1. Palaukite, kol diegimo programa baigs procesą."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Nepavyko atsisiųsti 1 dainos}one{ Nepavyko atsisiųsti {NUM_FAILURES_2} dainos}few{ Nepavyko atsisiųsti {NUM_FAILURES_2} dainų}many{ Unable to download {NUM_FAILURES_2} songs}other{ Nepavyko atsisiųsti {NUM_FAILURES_2} dainų}}"
+   },
+   "1558113021895652337": {
+      "message": "Failas apsaugotas naudojant DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugų"
+   },
+   "1567787058497621332": {
+      "message": "Saugokite muziką vienoje vietoje. Klausykite išmaniuoju telefonu, planšetiniu kompiuteriu ir žiniatinklyje."
+   },
+   "1573657685592390905": {
+      "message": "Pasirinkite aplanką..."
+   },
+   "1575810254412583888": {
+      "message": "Takeliai"
+   },
+   "1595478688335662057": {
+      "message": "„Google“ naudotojas"
+   },
+   "1598061158801514509": {
+      "message": "Tęsiamas muzikos atsisiuntimo procesas"
+   },
+   "1607904075839741217": {
+      "message": "Pasirinkti iš kompiuterio"
+   },
+   "1615800076127848008": {
+      "message": "Tajų le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{po # valandų}=1{po # valandos}one{po # valandos}few{po # valandų}many{in # hours}other{po # valandų}}"
+   },
+   "1635932785663944786": {
+      "message": "Skaičių"
+   },
+   "1658346838703079243": {
+      "message": "Pakeisti"
+   },
+   "1664100143082435029": {
+      "message": "Atšaukti"
+   },
+   "1666765550993208796": {
+      "message": "Ar šios dainos netinkamai sulygintos?"
+   },
+   "1673135862760647009": {
+      "message": "Radijas be skelbimų, kuriame galima be apribojimų praleisti dainas"
+   },
+   "1676480944844752785": {
+      "message": "Automatiniai grojaraščiai"
+   },
+   "1686917835491599951": {
+      "message": "Neseniai pridėta prie Mano bibliotekos"
+   },
+   "1689044830718067443": {
+      "message": "Diegti turėtų būti pradėta automatiškai po kelių sekundžių. Reikia $START_LINK$pagalbos$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1689448196820298645": {
+      "message": "Būsimi koncertai"
+   },
+   "1698114086921246480": {
+      "message": "Atšaukti prenumeratą"
+   },
+   "1700078784075267898": {
+      "message": "„Google Play“ muzika"
+   },
+   "1709114386311494800": {
+      "message": "Nuoroda"
+   },
+   "1712333098917352630": {
+      "message": "Radijas"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Jau prenumeruojate. Šiuo metu kuponai pasiekiami tik naujiems naudotojams."
+   },
+   "1722592106949807025": {
+      "message": "Išsaugoti derinimo žurnalus"
+   },
+   "172500938828303105": {
+      "message": "Batakų"
+   },
+   "1726363342938046830": {
+      "message": "Apie"
+   },
+   "1729815731089690989": {
+      "message": "Įsitikinkite, kad esate prisijungę prie interneto"
+   },
+   "174952015183967014": {
+      "message": "„$TITLE$“ – yra tinklalaidžių",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1751129087972897649": {
+      "message": "Standartiniai aramėjų"
+   },
+   "1763795268257640974": {
+      "message": "Nepavyko atšaukti grojaraščio prenumeratos. Bandykite dar kartą."
+   },
+   "1765521785433616250": {
+      "message": "Atsisiuntimo veiksmas netrukus turėtų prasidėti. Jei neprasidės, $START_SPAN$spustelėkite čia$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Nežinomas atlikėjas"
+   },
+   "1790640569414740156": {
+      "message": "Žanrai"
+   },
+   "1796702769044958723": {
+      "message": "32 bitų .deb („Debian“ / „Ubuntu“)"
+   },
+   "1800865039213871505": {
+      "message": "Spustelėkite nuorodą: "
+   },
+   "1803865475179910876": {
+      "message": "„Google Play“ muzika, skirta „Chrome“ (naudojama platformoje „$PLATFORM$“)",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1819368767424033007": {
+      "message": "Istorinis"
+   },
+   "1823843876735462104": {
+      "message": "Grojaraščiai"
+   },
+   "182621168783940405": {
+      "message": "Krypties iš dešinės į kairę ženklas"
+   },
+   "1831178715211281116": {
+      "message": "Deja, šiuo reklamos pasiūlymu galima pasinaudoti tik tam tikruose „Chrome“ OS įrenginiuose. Vis tiek norite neribotai klausytis muzikos?"
+   },
+   "183429683821106611": {
+      "message": "Gerai"
+   },
+   "1838639948466909028": {
+      "message": "Šis puslapis nesuderinamas su jūsų naršykle. Naudokite vieną iš $START_LINK$palaikomų naršyklių$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "184252996364058487": {
+      "message": "0 min."
+   },
+   "1850859858333664648": {
+      "message": "Visa muzika"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Klausyk. radijo su neribojam. praleidim.$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Frazės pabaigos muzikinis ženklas"
+   },
+   "1865818889600889051": {
+      "message": "Your account has changed. Please refresh the page to continue."
+   },
+   "1867674656927443481": {
+      "message": "Visi nauji leidimai"
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mišinių}=1{1 mišinys}one{# mišinys}few{# mišiniai}many{# mišinio}other{# mišinių}}"
+   },
+   "1869588215425319728": {
+      "message": "Uždaryti naršymo skydelį."
+   },
+   "1872101028863972302": {
+      "message": "Atsisiųsta dainų: $NUM_TRANSFERRED_TRACKS$",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Pasirinkti elementą, esantį po dabartiniu pasirinkimu"
+   },
+   "190045585254551934": {
+      "message": "Syloti nagri"
+   },
+   "1914372876923825240": {
+      "message": "Nuoroda į:"
+   },
+   "192481666606780833": {
+      "message": "Neįmanoma paleisti muzikos"
+   },
+   "193503854366151748": {
+      "message": "Įvertinti dabartinę dainą nykščiu žemyn"
+   },
+   "1945037339176024290": {
+      "message": "Įdėta"
+   },
+   "1947306462789680361": {
+      "message": "Prieš $NUM$ min.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Frazės pradžios muzikos ženklas"
+   },
+   "1962559411793600980": {
+      "message": "Avestos"
+   },
+   "1980398532913758377": {
+      "message": "Kompiuterių: $NUM_COMPUTERS$",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "Hanių radikalai su 9 brūkšneliais"
+   },
+   "1981857715812460988": {
+      "message": "Susiję atlikėjai"
+   },
+   "1984987229407697795": {
+      "message": "Tinklalaidės"
+   },
+   "1989564869397178334": {
+      "message": "Antraštė"
+   },
+   "1996585593795647892": {
+      "message": "Pridėti arba pašalinti nuorodą"
+   },
+   "2006786763920466492": {
+      "message": "Ištrynimo data"
+   },
+   "2028747142234068875": {
+      "message": "Rekomenduojama jums"
+   },
+   "2029980907058777630": {
+      "message": "Paslaugų teikimo sąlygos"
+   },
+   "2032972931560484213": {
+      "message": "Autorius $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2035790691811675095": {
+      "message": "Prenumeruokite „Google Play“ muziką ir klausykite šio grojaraščio bei daugybės kitų dainų. Pirmą mėnesį klausykite nemokamai."
+   },
+   "2038339465785978681": {
+      "message": "Nulinis plotis"
+   },
+   "2038618429165152799": {
+      "message": "Be pavadinimo"
+   },
+   "2080060559104348538": {
+      "message": "Pietų Azijos raštai"
+   },
+   "2085941577249285555": {
+      "message": "Prenumeruokite"
+   },
+   "2088175644103984799": {
+      "message": "Khmerų balsė, neatskiriama Aq"
+   },
+   "2093026227428526289": {
+      "message": "Šis pasiūlymas taikomas tik naudojant tam tikrus naujus „Chromebook“ įrenginius šalyse, kuriose pasiekiama „Google Play“ muzikos prenumeratos paslauga$START_LINK$.$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "Raidės N pločio brūkšnys"
+   },
+   "2101525118384454593": {
+      "message": "Išjungti dainų maišymą"
+   },
+   "2102825898069375693": {
+      "message": "Meniu"
+   },
+   "2107375315384298887": {
+      "message": "Apatinis indeksas"
+   },
+   "2109622269343579329": {
+      "message": "Klaidingas el. pašto adresas"
+   },
+   "2139100152161431685": {
+      "message": "Šiame įrenginyje muzika laikinai nepasiekiama. Vėliau bandykite dar kartą. $START_LINK$Pagalba$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Uždaryti"
+   },
+   "2145060893030204211": {
+      "message": "Nepavyko pateikti daugiau informacijos. Vėliau bandykite dar kartą."
+   },
+   "2149165958319691680": {
+      "message": "Pirkti"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 dainų}=1{1 daina}one{{NUM_SONGS_2} daina}few{{NUM_SONGS_2} dainos}many{{NUM_SONGS_2} songs}other{{NUM_SONGS_2} dainų}}"
+   },
+   "2152998011161774228": {
+      "message": "g, tada h"
+   },
+   "2158830056128036057": {
+      "message": "Apdorojami muzikos failai..."
+   },
+   "2159130950882492111": {
+      "message": "Atšaukti"
+   },
+   "216513153459932308": {
+      "message": "Trupmenos / susijusios"
+   },
+   "2173312720188441245": {
+      "message": "Koptų"
+   },
+   "2187022653493279712": {
+      "message": "g, tada e"
+   },
+   "2203397136690479355": {
+      "message": "Nepavyksta apdoroti failo"
+   },
+   "2205522058604794595": {
+      "message": "Afrikiečių raštai"
+   },
+   "2209153283705342590": {
+      "message": "Kaiti"
+   },
+   "2214224657661107347": {
+      "message": "Siųsti dovaną"
+   },
+   "2220879710364134067": {
+      "message": "Redaguoja šiuo metu pasirinktas dainas"
+   },
+   "2239551688895104696": {
+      "message": "Perjungti grojaraščio meniu"
+   },
+   "2246437904181111020": {
+      "message": "„Google Play“ muzika: pasirinkite medijos aplankus"
+   },
+   "2252825622480483246": {
+      "message": "Meroitų kursyvas"
+   },
+   "2256597604224604671": {
+      "message": "Pristabdyti „$TITLE$“",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2262446869382672016": {
+      "message": "Naudodami „Google Play“ muziką galite lengvai klausyti mėgstamos muzikos išmaniuoju telefonu, planšetiniu kompiuteriu ir žiniatinklyje."
+   },
+   "2270666830264677427": {
+      "message": "Vienu metu galima atsisiųsti daugiausia $MAX_TRACKS_IN_ZIP$ dain. Pasirinkite mažiau dainų ir bandykite dar kartą.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2272173107172176330": {
+      "message": "Leisti „$STATION_TITLE$“",
+      "placeholders": {
+         "STATION_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Įvertinti dabartinę dainą paspausdami „Patinka“"
+   },
+   "2280774384387096759": {
+      "message": "Nuvilkite dainas ar aplankus čia, kad pridėtumėte muzikos į savo biblioteką."
+   },
+   "2296431514706414883": {
+      "message": "1. Lange „Atsisiuntimai“ du kartus spustelėkite MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Deja, „Google Play“ muzika jūsų šalyje negalima."
+   },
+   "2299183036960756600": {
+      "message": "po $NUM$ d.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2303154715443443305": {
+      "message": "Atsisiunčiama Muzikos tvarkytuvė..."
+   },
+   "2303727423829841771": {
+      "message": "Oi, atrodo, kad jūsų naršyklėje išjungta „JavaScript“. Norint, kad „Google Play“ veiktų tinkamai, „JavaScript“ turi būti įjungta."
+   },
+   "2304955983019633604": {
+      "message": "Klausykitės dainų iš albumų, panašių į „$TITLE$“ ($ARTIST$)",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "2309808536212982229": {
+      "message": "Veikla"
+   },
+   "2309894433432831059": {
+      "message": "Pristatymo forma, skirta vertikaliam ilgajam brūkšniui"
+   },
+   "2311151671924532713": {
+      "message": "Pašalinti iš grojaraščio"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$ %",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "231679111972850796": {
+      "message": "Pridėta"
+   },
+   "2321398646644344846": {
+      "message": "Rytoj"
+   },
+   "2328554046256236832": {
+      "message": "Nepalaikomas FLAC failas"
+   },
+   "2328629775851907569": {
+      "message": "Naudodami „Google Play“ muziką galite lengvai klausytis mėgstamos muzikos sistemose „Android“, „iOS“ ir žiniatinklyje."
+   },
+   "2329070756809480856": {
+      "message": "Albumas: „$ALBUM_NAME$“",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2339250039074511222": {
+      "message": "Šios nuorodos negalima patikrinti."
+   },
+   "2339750206850776348": {
+      "message": "Likų"
+   },
+   "2357805327369816634": {
+      "message": "Prenumeruokite visą muziką be jokių skelbimų"
+   },
+   "2359922567074115383": {
+      "message": "Išvalyti albumo viršelį"
+   },
+   "2372448112806402757": {
+      "message": "Kita serija"
+   },
+   "2376735487384008742": {
+      "message": "Vingiuotasis brūkšnys"
+   },
+   "2378357177170124823": {
+      "message": "Dešimtainis"
+   },
+   "2382000105167193834": {
+      "message": "Gudžarati"
+   },
+   "2383360664777254925": {
+      "message": "Perjungti naršymo meniu"
+   },
+   "2390557292924554291": {
+      "message": "Nulinė jungtis"
+   },
+   "2407755817901433243": {
+      "message": "Išpirkite kupono kodą, kad galėtumėte prenumeruoti „Google Play“ muziką."
+   },
+   "2434131766046654438": {
+      "message": "Linijinis B"
+   },
+   "2443885011055165607": {
+      "message": "Pasirinkite atsisiuntimo paketą:"
+   },
+   "2447745837421769983": {
+      "message": "Kad galėtumėte efektyviai vykdyti atsisiuntimą, gaukite „Google Play“ muziką, skirtą „Chrome“."
+   },
+   "2461177781520343478": {
+      "message": "Nežinomas takelis"
+   },
+   "247847652023697955": {
+      "message": "Lygos pradžios muzikinis ženklas"
+   },
+   "2483680006830369490": {
+      "message": "g tada p"
+   },
+   "249032153569378306": {
+      "message": "prieš $NUM$ val.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2492300395471245755": {
+      "message": "Atlikėjas"
+   },
+   "250478839881665936": {
+      "message": "g, tada s"
+   },
+   "2506718393130237030": {
+      "message": "Nepalaikomas formatas"
+   },
+   "2512060739274636260": {
+      "message": "Naujoji tajų liu"
+   },
+   "2513370824993175045": {
+      "message": "po $NUM$ d.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Sijos pabaigos muzikinis ženklas"
+   },
+   "2529924385478060648": {
+      "message": "Buhidų"
+   },
+   "2530473232691534250": {
+      "message": "El. pašto adresas"
+   },
+   "2534296837124481552": {
+      "message": "Pakeiskite savo mokėjimo formą – $START_LINK$sužinokite daugiau$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2537475974842549685": {
+      "message": "Uždaryti skelbimą"
+   },
+   "2538866057253567409": {
+      "message": "Desereto"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Prisijunkite$END_LINK$, kad sužinotumėte, ar turite naujų „Chrome“ pasiūlymų.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Sąlygos"
+   },
+   "2550362371114851075": {
+      "message": "Įprastas"
+   },
+   "2558836909854550547": {
+      "message": "Įprastas"
+   },
+   "2565011230196288502": {
+      "message": "Po $NUM$ min.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2567679469483426925": {
+      "message": "Ši funkcija šiuo metu nepasiekiama."
+   },
+   "2570105377175439523": {
+      "message": "PIRKTI"
+   },
+   "2570991997865478028": {
+      "message": "Žr. visus $ARTIST_NAME$ albumus",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2597193119810674616": {
+      "message": "Prenumeruokite „Google Play“ muziką ir nemokamai naudokite ją $OFFER_LENGTH_DAYS$ d.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Siūloma: $FIRST$ iš $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "26023870081082032": {
+      "message": "Vietovė: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Tinklalaidė"
+   },
+   "2610851846609508423": {
+      "message": "ASCII pagrindu"
+   },
+   "2626751888211361777": {
+      "message": "Žr. daugiau populiariausių dainų"
+   },
+   "2634703826856398600": {
+      "message": "(Naujų: $NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Muzikos tvarkytuvė galima tik „Windows“, „Mac“ ir „Linux“."
+   },
+   "2655732800763953732": {
+      "message": "Spartusis mišinys „$TITLE$“",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Komentuoti"
+   },
+   "2665785172586453916": {
+      "message": "Skelbimo vaizdas, susijęs su dabartiniu garso skelbimu"
+   },
+   "2671314447505154224": {
+      "message": "Populiariausių diagramos"
+   },
+   "2673412443855817873": {
+      "message": "Nepatinka"
+   },
+   "2697517010706562809": {
+      "message": "Pasiekite daugiau nei 35 mln. dainų ir neribotą skaičių radijo stočių."
+   },
+   "2707074873770010705": {
+      "message": "Jūsų įrenginys netinkamas pasinaudoti šios reklamos pasiūlymu. Nesijaudinkite, vis tiek galite išbandyti „Google Play“ muziką ir be apribojimų klausytis muzikos. Nemokama 30 dienų."
+   },
+   "2714752802779336020": {
+      "message": "„Google Play“ muzika"
+   },
+   "2721786517672194900": {
+      "message": "Šis apribojimas netaikomas, kai atsisiunčiate naudodami $START_SPAN$„Google Play“ muziką, skirtą „Chrome“$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "272553825640256879": {
+      "message": "Visos formos brūkšnelis (minusas)"
+   },
+   "2728721019095728485": {
+      "message": "Aukšta"
+   },
+   "2732888649509914313": {
+      "message": "Mongolų"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Paskyroje per daug failų"
+   },
+   "2777498733015254880": {
+      "message": "Pagalba ir atsiliepimai"
+   },
+   "2787148143326073325": {
+      "message": "Garso paieška"
+   },
+   "2801094315807039135": {
+      "message": "Tajų viet"
+   },
+   "280973959199634338": {
+      "message": "Rodyti „YouTube“ vaizdo įrašą"
+   },
+   "2809945145618753350": {
+      "message": "Vienos ketvirtosios raidės M pločio tarpas"
+   },
+   "2811509810457668932": {
+      "message": "Fonetika (X-IPA)"
+   },
+   "2826705908408853328": {
+      "message": "Turime nukreipti jus į sistemą „Google Play“, kad galėtumėte užbaigti sąranką. Kai tai atliksite, sugrąžinsime jus atgal į „Google Play“ muziką."
+   },
+   "2834324594183341424": {
+      "message": "Pridėkite esamą muzikos rinkinį prie „Google Play“"
+   },
+   "2840006222747077107": {
+      "message": "Mano biblioteka tuščia"
+   },
+   "2856670286248433202": {
+      "message": "Skelbimas"
+   },
+   "2857356182021649243": {
+      "message": "Eiti į mano dainas"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{prieš # minučių}=1{prieš # minutę}one{prieš # minutę}few{prieš # minutes}many{# minutes ago}other{prieš # minučių}}"
+   },
+   "2881621988818346391": {
+      "message": "Taip"
+   },
+   "2881776379326317082": {
+      "message": "Visada naudoti šią vietą"
+   },
+   "2896688457548770791": {
+      "message": "Kabutė"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 stočių}=1{1 stotis}one{# stotis}few{# stotys}many{# stoties}other{# stočių}}"
+   },
+   "2910989560121976550": {
+      "message": "Patikrinti šią nuorodą"
+   },
+   "2918448970074432239": {
+      "message": "Redaguoti HTML"
+   },
+   "2933981780439742153": {
+      "message": "Rodyti mažąją leistuvę"
+   },
+   "2941843189430218247": {
+      "message": "Klavišai „Shift“ ir q"
+   },
+   "29485262661698811": {
+      "message": "Arabų „Ayah“ pabaigos ženklas"
+   },
+   "2954874827338778826": {
+      "message": "Žiniatinklio adresas"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Siauras jungiamasis tarpas"
+   },
+   "2973169743818593793": {
+      "message": "Hanių radikalai su 5 brūkšneliais"
+   },
+   "29734255682325103": {
+      "message": "Lygiuoti dešiniąją pusę"
+   },
+   "2980847012388128321": {
+      "message": "Nulinio pločio tarpas"
+   },
+   "2980960654248329234": {
+      "message": "Tarpas prieš brūkšnį ir po jo"
+   },
+   "2982463607788408741": {
+      "message": "Buvote atjungti nuo „Google“ paskyros. Atnaujinkite puslapį, kad galėtumėte vėl prisijungti."
+   },
+   "2983216790003568156": {
+      "message": "Nepavyko užmegzti saugaus ryšio"
+   },
+   "3010015422095710725": {
+      "message": "Ištrinti visą mano biblioteką, įskaitant įsigytą ir naudojant „Google Play“ muzikos prenumeratą pridėtą muziką ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Išpirkti pasiūlymą"
+   },
+   "3054851848337350805": {
+      "message": "Viršutinis indeksas"
+   },
+   "305815942371229357": {
+      "message": "Pasiūlymų nėra"
+   },
+   "3067310196368927236": {
+      "message": "Hebrajų skyrybos ženklas – brūkšnelis"
+   },
+   "3072935047674817211": {
+      "message": "Mano biblioteka"
+   },
+   "308732574543176489": {
+      "message": "Nepavyko pakeisti grojaraščio. Bandykite dar kartą."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} valanda}one{{TEXT} valanda}few{{TEXT} valandos}many{{TEXT} hours}other{{TEXT} valandų}}"
+   },
+   "3092124279252305673": {
+      "message": "320 Kb/s, prisitaik."
+   },
+   "309901418176428732": {
+      "message": "Tinklalaidės"
+   },
+   "3099596419835786769": {
+      "message": "Vidutinis matematinis tarpas"
+   },
+   "3099741642167775297": {
+      "message": "Atsisiųsti"
+   },
+   "310152014457055522": {
+      "message": "Prenumeruokite ir klausykite bet kokios dainos ar albumo"
+   },
+   "3117706868107348105": {
+      "message": "Arba nukopijuokite ir įklijuokite šią nuorodą:"
+   },
+   "3125342991297920614": {
+      "message": "Nepavyko atidaryti albumo. Bandykite dar kartą."
+   },
+   "3138864086144358473": {
+      "message": "Hanių radikalai su 11–17 brūkšnelių"
+   },
+   "314582171813087287": {
+      "message": "Jungiamasis brūkšnelis"
+   },
+   "3150614832204809552": {
+      "message": "Tinklalaidė: „$SERIES_NAME$“",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Eiti į mano atlikėjus"
+   },
+   "31530890844887887": {
+      "message": "Stebėti eigą"
+   },
+   "3154951825194528737": {
+      "message": "Atšaukiamas muzikos atsisiuntimo procesas"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Nežinote, ką įdėti į laukelį?$END_BOLD$ Pirmiausia suraskite žiniatinklio puslapį, su kuriuo norite susieti. ($SEARCH_ENGINE_LINK$Paieškos variklis$END_LINK$ gali būti naudingas.) Tada iš naršyklės adreso juostoje esančio laukelio nukopijuokite žiniatinklio adresą ir įklijuokite į viršuje pateiktą laukelį.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3163044740176820503": {
+      "message": "Pradėti"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Ar tikrai norite ištrinti pasirinktą dainą?}one{Ar tikrai norite ištrinti pasirinktas dainas?}few{Ar tikrai norite ištrinti pasirinktas dainas?}many{Are you sure you want to delete the selected songs?}other{Ar tikrai norite ištrinti pasirinktų dainų?}}"
+   },
+   "3167418181223330667": {
+      "message": "Modifikatorius"
+   },
+   "3176546103367076011": {
+      "message": "Žr. visas $ARTIST_NAME$ populiariausias dainas",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3182977091552629211": {
+      "message": "Užveskite pelės žymeklį ant langelio, kad sužinotumėte simbolio pavadinimą."
+   },
+   "3185279424082070029": {
+      "message": "Įsitikinkite, kad kompiuteryje, kuriame saugote šią dainą, veikia Muzikos tvarkytuvė, ir kad kompiuteris prijungtas prie interneto. Daina bus vėl įkelta kitą dieną."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{prieš # dienų}=1{prieš # dieną}one{Prieš # dieną}few{Prieš # dienas}many{# days ago}other{Prieš # dienų}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 dainų}=1{1 daina}one{# daina}few{# dainos}many{# songs}other{# dainų}}"
+   },
+   "3196641196902208501": {
+      "message": "Susieti su el. pašto adresu"
+   },
+   "3198123723060667787": {
+      "message": "Kada"
+   },
+   "3213972439514824911": {
+      "message": "Patinka"
+   },
+   "3220162149541031829": {
+      "message": "Dainų tekstai"
+   },
+   "3225804441370198247": {
+      "message": "Visos mano dainos – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Jidzing / Tai Siuan Dzing"
+   },
+   "3234962763403901834": {
+      "message": "už $NUM$ min.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Nėra"
+   },
+   "3237206613586329862": {
+      "message": "Lydiečių"
+   },
+   "3242312278127054660": {
+      "message": "Matematinis raidinis skaitmeninis"
+   },
+   "3244003434432113241": {
+      "message": "Paleisti"
+   },
+   "3245264696956198335": {
+      "message": "Formatas"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Nepasirinkote jokių į kompiuterį atsisiunčiamų dainų.}=1{Ar tikrai norite atsisiųsti pasirinktą dainą į kompiuterį?}one{Ar tikrai norite atsisiųsti pasirinktą dainą į kompiuterį?}few{Ar tikrai norite atsisiųsti pasirinktas dainas į kompiuterį?}many{Are you sure you want to download the selected songs to your computer?}other{Ar tikrai norite atsisiųsti pasirinktas dainas į kompiuterį?}}"
+   },
+   "3255560926299154386": {
+      "message": "Pasiimkite „iTunes“ muziką su savimi"
+   },
+   "32574714261860078": {
+      "message": "Klausyti"
+   },
+   "3277700190370010726": {
+      "message": "„Google Play“ muzikos reklama laikinai nepasiekiama naudotojui $START_BOLD$$USER_EMAIL$$END_BOLD$. Vėliau bandykite dar kartą.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3299099956700438963": {
+      "message": "Amerikos raštai"
+   },
+   "3307635842875172003": {
+      "message": "Eiti į mano mišinius"
+   },
+   "3310099093781584673": {
+      "message": "g tada m"
+   },
+   "3311269073804742952": {
+      "message": "Dabar klausoma"
+   },
+   "3323193679372503780": {
+      "message": "Ne, ačiū"
+   },
+   "3325286951950012705": {
+      "message": "Rasti bilietų"
+   },
+   "3326102734049980036": {
+      "message": "Liko: $DURATION$",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Žr. visus grojaraščių paieškos rezultatus"
+   },
+   "3335728816495350082": {
+      "message": "Populiariausios dainos – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Rodyti pagrindinę leistuvę"
+   },
+   "3377006691156456363": {
+      "message": "Bendrinama nuoroda"
+   },
+   "3381844160250536550": {
+      "message": "Prisijungimas prie „Chrome“"
+   },
+   "3389797949812522362": {
+      "message": "Hebrajų"
+   },
+   "3390725557414108843": {
+      "message": "Hanių radikalai su 4 brūkšneliais"
+   },
+   "3410315382362912156": {
+      "message": "Grojaraštis $START_SPAN$„$TITLE$“$END_SPAN$ šiuo metu yra privatus. Jei norite jį bendrinti, padarykite viešą.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Šiukšliadėžė"
+   },
+   "3419681791450150574": {
+      "message": "Eiga"
+   },
+   "342127282404571667": {
+      "message": "„Google Play“ muzika, skirta „Chrome“ OS"
+   },
+   "3431116501598202644": {
+      "message": "Nežinomas albumas"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Kokį URL galima pasiekti naudojant šią nuorodą?"
+   },
+   "3445096196133856884": {
+      "message": "Khmerų balsė, neatskiriama Aa"
+   },
+   "3462013384451950074": {
+      "message": "po $NUM$ val.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "Sukūrė $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Klausykite visos savo muzikos. Visur. Tiesiog pridėkite muzikos iš savo kompiuterio į „Google Play“."
+   },
+   "3479964965156370621": {
+      "message": "Skyrybos"
+   },
+   "3483193414050571677": {
+      "message": "Nepatinka"
+   },
+   "3483958460407305290": {
+      "message": "Perbraukimas"
+   },
+   "3491417595697100862": {
+      "message": "Pateikė $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Sumažinti grotuvo garsą"
+   },
+   "3519190023725081398": {
+      "message": "g, tada b"
+   },
+   "352192086869301337": {
+      "message": "Pridėta $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ iš $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Išpirkti „Google Play“ muzikos kuponą"
+   },
+   "3532209277261496348": {
+      "message": "Klaida, bandykite dar kartą."
+   },
+   "3545785371861413299": {
+      "message": "Pradėti naudoti nemokamą bandomąją versiją"
+   },
+   "3545929198870894557": {
+      "message": "Eiti į mano grojaraščius"
+   },
+   "3547729876847212201": {
+      "message": "Raidės N pločio tarpas"
+   },
+   "3565556274692077023": {
+      "message": "Ilgasis brūkšnys"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Visada aukšta"
+   },
+   "3587102960969248092": {
+      "message": "Rekomenduojami nauji leidimai"
+   },
+   "3599940994748621516": {
+      "message": "Prenumeruokite „Google Play“ muziką ir klausykite šios bei daugybės kitų dainų. Pirmą mėnesį klausykite nemokamai."
+   },
+   "3601632218457952692": {
+      "message": "Ji"
+   },
+   "3605470624800934973": {
+      "message": "Ar tikrai norite ištrinti pasirinktą albumą?"
+   },
+   "3605957923037994993": {
+      "message": "Gerai"
+   },
+   "3609204150605625912": {
+      "message": "Patinka"
+   },
+   "3629941396858927174": {
+      "message": "Uždaryti daugiau parinkčių"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3638177113998814964": {
+      "message": "Įkeliama $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Išvalyti paiešką"
+   },
+   "3649938620817393740": {
+      "message": "Mažas"
+   },
+   "3650710698506236041": {
+      "message": "Šešioliktainė spalva"
+   },
+   "3688803517283872334": {
+      "message": "Pusės pločio Hangul užpildas"
+   },
+   "3693467228074689327": {
+      "message": "Tęsti"
+   },
+   "3701910180379922299": {
+      "message": "Šarada"
+   },
+   "370216116393129031": {
+      "message": "Atidaryti eilę"
+   },
+   "3748613043647922063": {
+      "message": "Nematomas skyriklis"
+   },
+   "3748893353086104812": {
+      "message": "Išvalyti vietinę talpyklą ir atnaujinti visą dainų ir grojaraščio informaciją."
+   },
+   "3762887990641668199": {
+      "message": "Armėnų k."
+   },
+   "3768927257183755959": {
+      "message": "Išsaugoti"
+   },
+   "3770594827970207417": {
+      "message": "Mažesnioji antraštė"
+   },
+   "3772706138160001780": {
+      "message": "Horizontali juosta"
+   },
+   "3774172828626803355": {
+      "message": "Čerokių"
+   },
+   "3782346097595894324": {
+      "message": "Nepavyko prisijungti prie serverio. Vėliau bandykite dar kartą."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3789779144889291801": {
+      "message": "Lengvai atsisiųskite sistemoje „Google Play“ įsigytą arba čia įkeltą muziką."
+   },
+   "3795262960327716692": {
+      "message": "Jei norite pridėti dainą, nuvilkite ją ant šoninėje juostoje pateikiamo grojaraščio pavadinimo"
+   },
+   "3801288115809478084": {
+      "message": "Gerai"
+   },
+   "3807050606425965472": {
+      "message": "Bus uždaryti šie langai:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolica"
+   },
+   "3839679337223320857": {
+      "message": "Prisijungta kaip $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radijas „$ITEM_NAME$“",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Apsilankyti „Google Play“ muzikoje"
+   },
+   "3861583677596279097": {
+      "message": "Ataskaitą turi peržiūrėti inžinierių komanda per kitą darbo dieną"
+   },
+   "3865248559890962003": {
+      "message": "Siūloma: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Išpirkite „Google Play“ muzikos kuponą"
+   },
+   "3867367359959377145": {
+      "message": "KLAIDA: „$COLOR$“ nėra galiojanti spalva.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3868119883080041455": {
+      "message": "Radijas „$TITLE$“",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Prisijunkite prie „Google Play“ muzikos žiniatinklyje, kad galėtumėte naudoti „Chrome“ programą."
+   },
+   "3873111853443561979": {
+      "message": "Pabraukti"
+   },
+   "3885497195825665706": {
+      "message": "Kitas"
+   },
+   "3890078112831612818": {
+      "message": "Įsitikinkite, kad kompiuteryje, kuriame saugote šias dainas, veikia muzikos tvarkytuvė ir kompiuteris prijungtas prie interneto. Dainos bus vėl įkeltos kitą dieną."
+   },
+   "3901889124080689046": {
+      "message": "Nepavyksta atidaryti failo"
+   },
+   "3904027274600624417": {
+      "message": "Bet kas gali rasti ir klausyti. Puikiai tinka norint bendrinti."
+   },
+   "3905289916217023036": {
+      "message": "Visam laikui ištrinkite visą įsigytą arba įkeltą muziką."
+   },
+   "3905371920037624514": {
+      "message": "Sudėtingesnis"
+   },
+   "3936240281193464170": {
+      "message": "Atnaujinti"
+   },
+   "3941019069704400974": {
+      "message": "Ar tikrai norite visam laikui ištrinti istoriją, naudojamą suasmenintoms rekomendacijoms teikti? Tai atlikus atskirų takelių įvertinimai ir leidimų skaičiai nebus pašalinti."
+   },
+   "3949911572988594237": {
+      "message": "Sukurti grojaraštį"
+   },
+   "3973260061047030021": {
+      "message": "Paleisti arba pristabdyti muziką"
+   },
+   "3973931101896534797": {
+      "message": "Data"
+   },
+   "3975141127799341224": {
+      "message": "Nuoroda į puslapį ar failą, esantį kur nors žiniatinklyje"
+   },
+   "3980763395698221887": {
+      "message": "{NUM_SONGS,plural, =1{Pridėta 1 daina prie bibliotekos.}one{Pridėta # daina prie bibliotekos.}few{Pridėtos # dainos prie bibliotekos.}many{Pridėta # dainos prie bibliotekos.}other{Pridėta # dainų prie bibliotekos.}}"
+   },
+   "3981724709755713539": {
+      "message": "Naujausi grojaraščiai"
+   },
+   "3982112843644394207": {
+      "message": "2. Naršyklės skiltyje „Atsisiuntimai“ dukart spustelėkite failą musicmanagerinstaller.exe, kad jį atidarytumėte."
+   },
+   "3988935995558346502": {
+      "message": "Kirilica"
+   },
+   "3993484408454658640": {
+      "message": "Parental controls:"
+   },
+   "3996699777412450193": {
+      "message": "Rodyklės"
+   },
+   "4018574576796390012": {
+      "message": "Ar tikrai norite $START_SPAN$visam laikui pašalinti$END_SPAN$ grojaraštį „$PLAYLIST_NAME$“?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4032125743169636815": {
+      "message": " &bull; "
+   },
+   "4034257783857644883": {
+      "message": "Hanių radikalai su 6 brūkšneliais"
+   },
+   "4044663630621281686": {
+      "message": "Arabiškas simbolis „safha“"
+   },
+   "4055580652532057510": {
+      "message": "be pavadinimo"
+   },
+   "405696346909038516": {
+      "message": "Žr. visus tinklalaidžių paieškos rezultatus"
+   },
+   "4061274470931156807": {
+      "message": "Ol čiki"
+   },
+   "4063027937991598166": {
+      "message": "Ištrinti dabartinį pasirinkimą"
+   },
+   "4071581399160046214": {
+      "message": "Home"
+   },
+   "4075286221500750156": {
+      "message": "Versija: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Nepavyko nustatyti kompiuterio."
+   },
+   "4086606389696938932": {
+      "message": "Paskyra"
+   },
+   "4087074177670472082": {
+      "message": "Siejantysis pastabos pradžios ženklas"
+   },
+   "4091426921184034649": {
+      "message": "Naujovinti prenumeratą"
+   },
+   "4110926661719376304": {
+      "message": "Sužinokite, kaip įjungti „JavaScript“"
+   },
+   "4117020323749523105": {
+      "message": "Naujausia veikla"
+   },
+   "4117886182866316912": {
+      "message": "Ieškoti toliau dabartinėje dainoje"
+   },
+   "4136239927282562599": {
+      "message": "Klausykitės radijo stoties, kurioje leidžiama muzika, panaši į $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Šis grojaraštis tuščias"
+   },
+   "4141582858389779168": {
+      "message": "Prisiregistruokite naudoti neribotą muziką vos už $OFFER_PRICE$ per mėn. ir iš karto leiskite daugybę dainų be jokių skelbimų.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Ši daina pažymėta kaip netinkama atitiktis."
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Bus naudojama jūsų, o ne atitinkanti pasirinktos dainos kopija.}one{Bus naudojamos jūsų, o ne atitinkančios pasirinktų dainų kopijos.}few{Bus naudojamos jūsų, o ne atitinkančios pasirinktų dainų kopijos.}many{The selected songs will use your copies instead of the matched copies.}other{Bus naudojamos jūsų, o ne atitinkančios pasirinktų dainų kopijos.}}"
+   },
+   "4171773891797639122": {
+      "message": "Žodžių jungiklis"
+   },
+   "4183640380235728062": {
+      "message": "Kartojimas išjungtas. Spustelėkite, kad pakeistumėte kartojimo režimo nustatymą."
+   },
+   "4204603140063905121": {
+      "message": "Hangulų „jungseong“ simbolis"
+   },
+   "4207298621447602833": {
+      "message": "Geriausia atitiktis"
+   },
+   "4210934092144627539": {
+      "message": "Neseniai leista arba pridėta"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Leiskite daugybę dainų, kada tik norite$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4237178646016840735": {
+      "message": "Prenumeruokite „Google Play“ muziką ir klausykite šio atlikėjo bei daugybės kitų dainų. Pirmą mėnesį klausykite nemokamai."
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ x $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4260036130369028456": {
+      "message": "g, tada g"
+   },
+   "4263959392548297550": {
+      "message": "Atšaukti"
+   },
+   "4267092206833736997": {
+      "message": "Radijo stotys"
+   },
+   "4272173055918340921": {
+      "message": "Įkeliama muzikos biblioteka&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Visada viršuje"
+   },
+   "4285216590250755577": {
+      "message": "Reikia atnaujinti įrenginį, kad galėtume patikrinti, ar jame galima pasinaudoti šios reklamos pasiūlymu."
+   },
+   "4307428996576001111": {
+      "message": "Eiti į ankstesnę dainą"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4323912651038951928": {
+      "message": "Atlikus šį veiksmą taip pat bus ištrinti grojaraščiai, radijo stotys, įvertinimai ir visa informacija apie leistus elementus."
+   },
+   "4326462735503400283": {
+      "message": "Rodytinas tekstas:"
+   },
+   "4329609792835264496": {
+      "message": "Siauras tarpas"
+   },
+   "4330683855002842723": {
+      "message": "Rodyti daugiau parinkčių"
+   },
+   "4333644357236884202": {
+      "message": "Khmerų"
+   },
+   "4338950182024656659": {
+      "message": "Giminė ir genealogija"
+   },
+   "4340616150909089613": {
+      "message": "Ar „$SONG_TITLE$“ susieta su kita daina?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "„MPEG Layer-3“ yra „Fraunhofer IIS“ ir „Thomson“ licencijuota garso kodavimo technologija. Patobulintas garso kodavimas (AAC) naudojamas pagal licenciją, išduodamą „Via Licensing Corporation“. „Google Play“ pasiekiama tam tikra trečiųjų šalių programinė įranga, kuriai turi būti taikomi įspėjimai ir (arba) papildomos taisyklės ir nuostatos. Šie būtini įspėjimai ir (arba) papildomos taisyklės ir nuostatos, taikomos trečiosios šalies programinei įrangai, pateikiamos $START_LINK$trečiosios šalies atskleidimo puslapyje$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Pridėkite muzikos iš „$SOURCE_LIST$“",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Block music marked explicit by content providers."
+   },
+   "437655423845564400": {
+      "message": "Pasiektas dainų skaičiaus apribojimas. Maksimalus galimų įkelti dainų skaičius: $TRACK_LIMIT$.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Pristatymo forma, skirta vertikaliam brūkšniui"
+   },
+   "4383725505132456525": {
+      "message": "Pristabdomas muzikos pridėjimo procesas"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Kurkite savo grojaraščius"
+   },
+   "4396890764725725469": {
+      "message": "Išsaugoti"
+   },
+   "4405073953395157822": {
+      "message": "KJK brūkšneliai"
+   },
+   "4417144592785193889": {
+      "message": "Kiti Rytų Azijos raštai"
+   },
+   "4439965029912183539": {
+      "message": "Lotynų 1 priedas"
+   },
+   "4440466521156769623": {
+      "message": "Sijos pradžios muzikinis ženklas"
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 dainų}=1{1 daina}one{{COUNT_2} daina}few{{COUNT_2} dainos}many{{COUNT_2} dainos}other{{COUNT_2} dainų}}"
+   },
+   "445149490695787423": {
+      "message": "Prisijungti dar kartą"
+   },
+   "4451528286100219680": {
+      "message": "Įterpimas iš kairės į dešinę"
+   },
+   "4452427314943113135": {
+      "message": "Ankstesnė"
+   },
+   "4453762904903445132": {
+      "message": "Pridedant prie grojaraščio įvyko klaida."
+   },
+   "4456793125873199230": {
+      "message": "„Man sekasi“ radijas"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 sekundžių}=1{1 sekundė}one{# sekundė}few{# sekundės}many{# sekundės}other{# sekundžių}}"
+   },
+   "4462494623248108758": {
+      "message": "Grojaraštis"
+   },
+   "4476647413225813774": {
+      "message": "Po $OFFER_LENGTH_DAYS$ d. toliau klausykitės tik už $OFFER_PRICE$ per mėnesį.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4478641030934315579": {
+      "message": "Paprastas"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Kai kurias dainas turite įkelti iš naujo."
+   },
+   "4539806158142214585": {
+      "message": "g tada n"
+   },
+   "4548136982356342217": {
+      "message": "Klavišai „Shift“ ir &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Sukurti naują greitą mišinį naudojant pasirinktą dainą"
+   },
+   "4571105317747127957": {
+      "message": "Brūkšnelis su dviem taškais viršuje"
+   },
+   "4580988005648117665": {
+      "message": "Ieškoti"
+   },
+   "4584074223811370739": {
+      "message": "Nemokamas radijas bet kokiai veiklai. Saugokite 50 000 takelių iš asmeninio rinkinio. Prenumeruokite, kad galėtumėte pagal pareikalavimą pasiekti 35 mln. dainų ir klausyti neprisijungę."
+   },
+   "4590981840116960737": {
+      "message": "Formatas ir nematomas tarpas"
+   },
+   "4601938511613873712": {
+      "message": "Mano įrenginiai"
+   },
+   "4604862300643180159": {
+      "message": "Įsijunkite mūsų muzikos ekspertų komandos parinktą radijo stotį pagal savo nuotaiką ar veiklą."
+   },
+   "4607813303298554353": {
+      "message": "Tana"
+   },
+   "46135825491334308": {
+      "message": "Negrįžtamai ištrinama muzika."
+   },
+   "4624380622618270977": {
+      "message": "Nauji leidimai"
+   },
+   "4624704164651982020": {
+      "message": "Nustatoma „Google Play“ muzika, skirta „Chrome“..."
+   },
+   "4629398054050196678": {
+      "message": "Atsisiųsti muziką į šią vietą:"
+   },
+   "4645609569705949286": {
+      "message": "Tik aš"
+   },
+   "4648993989034133051": {
+      "message": "Pateikiamas šiuo metu pasirinktos dainos meniu"
+   },
+   "46496227337284997": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Nemokamai saugokite iki 50 000 dainų sistemoje „Google Play“.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Pridėkite rinkinį iš „iTunes“, „Windows Media“ leistuvės ar aplankų.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Klausykite žiniatinklyje arba mobiliuosiuose įrenginiuose. Nereikia laidų ar sinchronizuoti.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "4658362967039953209": {
+      "message": "Įkelti muzikos"
+   },
+   "4662613464573260354": {
+      "message": "Pasiūlyta"
+   },
+   "466976558518570343": {
+      "message": "Javų"
+   },
+   "4675570050310339063": {
+      "message": "Nepavyko pridėti. Grojaraščiai apriboti iki $LIMIT$ dain.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4675864222674894697": {
+      "message": "Šo abėcėlė"
+   },
+   "4687189636655044066": {
+      "message": "Tarpo klavišas"
+   },
+   "4688350353916032040": {
+      "message": "Bet kokiai nuotaikai tinkama muzika"
+   },
+   "4688946070631035536": {
+      "message": "Rašybos tikrintuvas"
+   },
+   "470296860672943171": {
+      "message": "Pokyčio ieškiklis"
+   },
+   "4706959263210678625": {
+      "message": "Varianto parinkiklis – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Kad galėtų greitai įkelti muziką, „Google Play“ susieja jūsų muzikos failus su serveryje esančiomis kopijomis. Kartais susiejame netinkamas dainas. Praneškite apie problemą čia ir daina bus vėl įkelta."
+   },
+   "471816275243265264": {
+      "message": "Vieta"
+   },
+   "4718177503702130030": {
+      "message": "Dabartinio takelio laikas: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4722420535011430371": {
+      "message": "„YouTube“ vaizdo įrašas"
+   },
+   "4724245563419948725": {
+      "message": "Užtikrinti, kad „Google Play“ atnaujinta, kai pridedu muzikos šiose vietovėse"
+   },
+   "4742770396342457517": {
+      "message": "Klausyti naudojant „Google Play“ muziką"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "Malajalamų"
+   },
+   "4769480851867061848": {
+      "message": "Leisti $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Priežastis"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 žanrų}=1{1 žanras}one{# žanras}few{# žanrai}many{# genres}other{# žanrų}}"
+   },
+   "4782493710939339680": {
+      "message": "Bendrinti sistemoje „Twitter“"
+   },
+   "4815033911915598343": {
+      "message": "Tarpai"
+   },
+   "4830715100444503860": {
+      "message": "Karošti"
+   },
+   "4836232766167652032": {
+      "message": "Maišyti $ARTIST_NAME$ dainas",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4846792506513649213": {
+      "message": "Stotys"
+   },
+   "4862238057869188402": {
+      "message": "Nepavyko gauti mišinių. Bandykite dar kartą."
+   },
+   "4862902902120611556": {
+      "message": "Žr. visus atlikėjų paieškos rezultatus"
+   },
+   "4867246087786788222": {
+      "message": "Paskyros tipas:"
+   },
+   "4874337908897060929": {
+      "message": "Muzikos pridėjimo veiksmas pristabdytas"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Ar tikrai norite {START_SPAN_1}visam laikui ištrinti{END_SPAN} pasirinktą dainą?}one{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}few{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}many{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}other{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}}"
+   },
+   "4878527640076219954": {
+      "message": "Tamilų"
+   },
+   "4886126295094352182": {
+      "message": "„Google Play“ muzika, skirta „Chrome“"
+   },
+   "4887472194021728050": {
+      "message": "Tajų"
+   },
+   "4902817035128594900": {
+      "message": "Aprašas"
+   },
+   "4916816672463415688": {
+      "message": "Išbandykite „Google Play“ muziką"
+   },
+   "4920482241656423227": {
+      "message": "Teksto fono spalva"
+   },
+   "4920946997448724158": {
+      "message": "Kompozitorius"
+   },
+   "4921096453319030731": {
+      "message": "Sirų trumpinimo ženklas"
+   },
+   "4924253230856131215": {
+      "message": "Pietryčių Azijos raštai"
+   },
+   "4930506384627295710": {
+      "message": "Nustatymai"
+   },
+   "4933504665795531092": {
+      "message": "Naudodami „Google Play“ muzikos prenumeratą gaunate prieigą prie daugiau nei 35 mln. dainų ir neriboto skaičiaus radijo stočių."
+   },
+   "4945228064546795686": {
+      "message": "Žr. visus albumų paieškos rezultatus"
+   },
+   "4962022175989879342": {
+      "message": "Nepadoru"
+   },
+   "496636435516411982": {
+      "message": "Nepavyko įvertinti dainos. Bandykite dar kartą."
+   },
+   "4972659496812307928": {
+      "message": "Muzikos atsisiuntimo veiksmas pristabdytas"
+   },
+   "4980580439123922024": {
+      "message": "Atlikėjai"
+   },
+   "498913874005297914": {
+      "message": "Paryškintasis"
+   },
+   "499152283823240992": {
+      "message": "Samariečių"
+   },
+   "4998030835388374541": {
+      "message": "Keisti albumo viršelį"
+   },
+   "5003850562831597565": {
+      "message": "Neseniai užsiprenumeruota"
+   },
+   "5004312405043027351": {
+      "message": "Atlikta"
+   },
+   "5009878480585609766": {
+      "message": "Hanių – kita"
+   },
+   "5015096128854741514": {
+      "message": "Transporto ir žemėlapių"
+   },
+   "5018227417300461385": {
+      "message": "Trumpasis brūkšnelis (minusas)"
+   },
+   "5029496897209707807": {
+      "message": "„Chrome“ skirtą „Google Play“ muzikos programą reikia atnaujinti. Tai turėtų būti atlikta automatiškai."
+   },
+   "5030096791460456147": {
+      "message": "Vaizdą, kurį bandote nuvilkti, užblokavo prieglobos svetainė."
+   },
+   "5032188163864418301": {
+      "message": "Rašytinis pahlavi"
+   },
+   "5043933900720743682": {
+      "message": "Albumai"
+   },
+   "5049432650728491454": {
+      "message": "Naršykite naujus leidimus, populiariausiųjų diagramas, grojaraščius ir žanrus"
+   },
+   "504977212575871255": {
+      "message": "Nepavyko pakeisti tvarkos. Bandykite dar kartą."
+   },
+   "506090363255226122": {
+      "message": "Apverstas / veidrodinis"
+   },
+   "5067818727161314391": {
+      "message": "Bendrinti sistemoje „Google+“"
+   },
+   "5071594083516657121": {
+      "message": "Failas per didelis"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 albumų}=1{1 albumas}one{# albumas}few{# albumai}many{# albums}other{# albumų}}"
+   },
+   "5085509606319320198": {
+      "message": "Uždaryti eilę"
+   },
+   "5094769877856014729": {
+      "message": "Lygos pabaigos muzikinis ženklas"
+   },
+   "5105404398573470156": {
+      "message": "Geometrinės figūros"
+   },
+   "5113771261593769985": {
+      "message": "Čamų"
+   },
+   "5115900738857721327": {
+      "message": "Jungiamosios grafemos skyriklis"
+   },
+   "5119663120731608161": {
+      "message": "Patikrinkite grojaraštį $START_LINK$Naujausios pridėtos$END_LINK$, kad pamatytumėte naujausias savo dainas.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{Galite praleisti 1 kartą}one{Galite praleisti # kartą}few{Galite praleisti # kartus}many{Galite praleisti # karto}other{Galite praleisti # kartų}}"
+   },
+   "5128240607770067472": {
+      "message": "Apie…"
+   },
+   "5141725357376719861": {
+      "message": "Atsisiųsta $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ iš $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Nuskaitoma..."
+   },
+   "5154374028369457456": {
+      "message": "Naršymo įrankių juosta"
+   },
+   "5161411570094992408": {
+      "message": "Ne dabar"
+   },
+   "5170992049958515620": {
+      "message": "Brūkšnelis"
+   },
+   "5188231675115376764": {
+      "message": "Eiti į mano stotis"
+   },
+   "5189296983337794287": {
+      "message": "Šiuo metu neįmanoma nuvilkti vaizdo failų.\nNuvilkite vaizdą iš žiniatinklio naršyklės."
+   },
+   "5199204386348402183": {
+      "message": "Osmanų"
+   },
+   "5219596981664772816": {
+      "message": "Hanių radikalai su 3 brūkšneliais"
+   },
+   "5232157483592334572": {
+      "message": "Berberų"
+   },
+   "5237204164514638395": {
+      "message": "Siųskite dovaną"
+   },
+   "5256846847077792168": {
+      "message": "Redaguoti žodį"
+   },
+   "5274506773583039432": {
+      "message": "Ar tikrai norite $START_SPAN$visam laikui ištrinti$END_SPAN$ pasirinktą grojaraštį?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "Jaustukai"
+   },
+   "529512324149544235": {
+      "message": "Parental Controls Settings Changed"
+   },
+   "5296780212411063886": {
+      "message": "Naršyti stotis"
+   },
+   "5302287499843369186": {
+      "message": "Nustatoma „Google Play“ muzika"
+   },
+   "531478949469830505": {
+      "message": "Sora sompeng"
+   },
+   "5316998074277327666": {
+      "message": "Dalies turinio autorių teisės &copy; priklauso „Gracenote“ arba jos paslaugų teikėjams."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Ar tikrai norite {START_SPAN_1}visam laikui ištrinti{END_SPAN} pasirinktą dainą?}one{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}few{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}many{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}other{Ar tikrai norite {START_SPAN_2}visam laikui ištrinti{END_SPAN} pasirinktas dainas?}}"
+   },
+   "5326351540290142036": {
+      "message": "Ankstesnė daina"
+   },
+   "5348600594194881699": {
+      "message": "Atsisėskite ir atsipalaiduokite, jūs jau prenumeruojate „Google Play“ muziką!"
+   },
+   "536459166857647880": {
+      "message": "Žymių katalogas"
+   },
+   "5370332239555585516": {
+      "message": "Visa muzika, jokių skelbimų"
+   },
+   "5373550672011878193": {
+      "message": "Runų"
+   },
+   "5378532290721565403": {
+      "message": "Daina įsigyta naudojant kitą „Google Play“ muzikos paskyrą"
+   },
+   "5379453108698089622": {
+      "message": "Eiti į skiltį „Dabar klausoma“"
+   },
+   "5393158295657392839": {
+      "message": "Dainos pažymėtos kaip netinkamai sulygintos."
+   },
+   "5394607018657314633": {
+      "message": "Eilučių skyriklis"
+   },
+   "5395035563228151731": {
+      "message": "Paskyros būsena:"
+   },
+   "5402470227536486835": {
+      "message": "Mažas brūkšnys"
+   },
+   "5404910277282887798": {
+      "message": "Finikiečių"
+   },
+   "5407092932504462689": {
+      "message": "Žr. visus radijo stočių paieškos rezultatus"
+   },
+   "5408241503383428945": {
+      "message": "Kiti Europos raštai"
+   },
+   "5410695385284979104": {
+      "message": "Mišinys „$TITLE$“",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Šeimos grupės nustatymai"
+   },
+   "5432330868773114140": {
+      "message": "Paleisti radiją"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 serijų}=1{1 serija}one{{COUNT_2} serija}few{{COUNT_2} serijos}many{{COUNT_2} serijos}other{{COUNT_2} serijų}}"
+   },
+   "545173546103184657": {
+      "message": "„Google“ paskyra:"
+   },
+   "5452036681614307719": {
+      "message": "Nematomas pliusas"
+   },
+   "5452218284042451605": {
+      "message": "Kad pritaikytumėte kuponą $START_SPAN$$USER_EMAIL$$END_SPAN$, toliau įveskite kodą",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Nežinomas albumas"
+   },
+   "548629550059508920": {
+      "message": "Nepavyko įkelti, nes jau įkeliate iš dviejų paskyrų."
+   },
+   "5492320356892382782": {
+      "message": "Ištrinti visam laikui"
+   },
+   "5497512316841934820": {
+      "message": "„Man sekasi“ mišinys"
+   },
+   "5497627646066282315": {
+      "message": "Jungiama"
+   },
+   "5501301484140201550": {
+      "message": "„Man sekasi“ radijas"
+   },
+   "550380163414655031": {
+      "message": "Toliau užduosime klausimų apie patinkančią muziką, kad padėtume jums atrasti tinkamas dainas."
+   },
+   "5518817744725858296": {
+      "message": "Atlikėjo gyvo garso koncertas netoli jūsų"
+   },
+   "5524426195717036850": {
+      "message": "Atšaukta grojaraščio „{PLAYLIST_TITLE}“ prenumerata"
+   },
+   "5529194084754296998": {
+      "message": "Vienos šeštosios raidės M pločio tarpas"
+   },
+   "5535160370665610524": {
+      "message": "Ieškoti atgal dabartinėje dainoje"
+   },
+   "5541835554879897802": {
+      "message": "Pridedant kai kuriuos takelius prie kolekcijos įvyko klaida. Bandykite dar kartą."
+   },
+   "5562067436939843837": {
+      "message": "Klausykitės milijonų mūsų kataloge pasiekiamų dainų (be skelbimų)."
+   },
+   "5578390534357178026": {
+      "message": "Įsitikinkite, kad esate prisijungę prie „Chrome“ naudodami tą pačią „Google“ paskyrą."
+   },
+   "5584189341216439776": {
+      "message": "Pridėti muzikos"
+   },
+   "5584467594910303696": {
+      "message": "Meroitų hieroglifai"
+   },
+   "5586233271963962252": {
+      "message": "Kita daina"
+   },
+   "5593848105713936399": {
+      "message": "Eilė"
+   },
+   "5594762259680838005": {
+      "message": "Neseniai įsigyta"
+   },
+   "5601530442010506564": {
+      "message": "Supratau"
+   },
+   "5605692130698677333": {
+      "message": "Reikia pagalbos pridedant muzikos iš kompiuterio, kuriame jau įdiegėte „Google Play“ muzikos tvarkytuvę?"
+   },
+   "560627050344405345": {
+      "message": "Praleisti persukant pirmyn 30 sekundžių"
+   },
+   "5607000992339442129": {
+      "message": "Pradėti įkelti muzikos rinkinį į „Google Play“ užtrunka tik kelias minutes."
+   },
+   "5612959352951118540": {
+      "message": "po $NUM$ val.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Formatas"
+   },
+   "5643561794785412000": {
+      "message": "Nepasiekiama"
+   },
+   "5653588624985073807": {
+      "message": "Gurmuki raštas"
+   },
+   "5665391621751941927": {
+      "message": "Nepavyko gauti žanrų. Bandykite dar kartą."
+   },
+   "5671499827182863671": {
+      "message": "Atsijungėte nuo šios paskyros. Spustelėkite mygtuką toliau, kad grįžtumėte prie savo muzikos."
+   },
+   "5672179805519539136": {
+      "message": "Saugokite muziką vienoje vietoje. Klausykitės muzikos naudodami „Android“, „iOS“ ir žiniatinklyje."
+   },
+   "5674048882417502526": {
+      "message": "Keisti iš dešinės į kairę"
+   },
+   "5700613377997995103": {
+      "message": "Skaitmens ilgio brūkšnys"
+   },
+   "5728756163322931984": {
+      "message": "Klausykitės daugybės dainų už albumo kainą"
+   },
+   "5729733224544981434": {
+      "message": "Pridėkite „Google Play“ muzikos, skirtos „Chrome“, kad įgalintumėte nuvilkimo funkciją"
+   },
+   "5729741177183241567": {
+      "message": "{NUM_SONGS,plural, =1{Prie grojaraščio pridėta 1 daina}one{Prie grojaraščio pridėta # daina}few{Prie grojaraščio pridėtos # dainos}many{Prie grojaraščio pridėta # dainos}other{Prie grojaraščio pridėta # dainų}}"
+   },
+   "5755038562791065032": {
+      "message": "Vienos trečiosios raidės M pločio tarpas"
+   },
+   "5756282190263595941": {
+      "message": "Klausykitės dainų, panašių į „$TITLE$“ ($ARTIST$)",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5761798931116026691": {
+      "message": "Nepavyko konvertuoti į MP3"
+   },
+   "5769804815976568558": {
+      "message": "Pasirinkti atsisiuntimo vietą"
+   },
+   "5775493454862732930": {
+      "message": "Armėniškas brūkšnelis"
+   },
+   "5779551937076403073": {
+      "message": "Pridėti"
+   },
+   "5784007894878825338": {
+      "message": "Jungiamasis tarpas"
+   },
+   "5814708421422669024": {
+      "message": "Pirkti už $PRICE_TEXT$",
+      "placeholders": {
+         "PRICE_TEXT": {
+            "content": "$1"
+         }
+      }
+   },
+   "5821233021244850631": {
+      "message": "Aukšta kokybė nepaisant tinklo sąlygų."
+   },
+   "5827343664961087180": {
+      "message": "Prenumeruoti"
+   },
+   "5832435837238304779": {
+      "message": "Leisti „$TITLE$“",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5854234999824329890": {
+      "message": "Tvarkykite šeimos grupės nustatymus"
+   },
+   "585739095777961817": {
+      "message": "autorius"
+   },
+   "5862309805277852777": {
+      "message": "Pavadinimas"
+   },
+   "5863523793538309428": {
+      "message": "Trinama muzika. Palaukite kelias valandas, kol bus pašalinta visa muzika."
+   },
+   "5888141336325862688": {
+      "message": "Eiti į stočių naršymą"
+   },
+   "5889126665299129466": {
+      "message": "Kad galėtumėte naudoti mini leistuvę, turite būti prisijungę prie „Chrome“."
+   },
+   "5889904821719049150": {
+      "message": "Galite klausyti muzikos naudodami bet kurį kompiuterį ir iki dešimt įrenginių. Įrenginių skaičiaus apribojimas išnaudojamas įkeliant ar atsisiunčiant muziką naudojant Muzikos tvarkytuvę arba „Chrome“ skirtą „Google Play“ muziką."
+   },
+   "5890243856676178044": {
+      "message": "Bengalų"
+   },
+   "5891064527381218201": {
+      "message": "Nemokama"
+   },
+   "5914500973755757025": {
+      "message": "Laosiečių"
+   },
+   "5918806792833250096": {
+      "message": "Dantiraštis"
+   },
+   "5923830678189377717": {
+      "message": "Hm..."
+   },
+   "5930857699885919881": {
+      "message": "Nepalaikomas ALAC failas"
+   },
+   "5946473117506990177": {
+      "message": "Padovanokite „Google Play“ muzikos prenumeratą"
+   },
+   "5966249470835718484": {
+      "message": "Žr. visus $ARTIST_NAME$ albumus Mano bibliotekoje",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "5969115558488445506": {
+      "message": "Paantraštė"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Viena iš šių dainų jau yra šiame grojaraštyje.}one{Kai kurios iš šių dainų jau yra šiame grojaraštyje.}few{Kai kurios iš šių dainų jau yra šiame grojaraštyje.}many{Kai kurios iš šių dainų jau yra šiame grojaraštyje.}other{Kai kurios iš šių dainų jau yra šiame grojaraštyje.}}"
+   },
+   "5971001229987621398": {
+      "message": "Siūlomi nauji leidimai"
+   },
+   "5973114702086214474": {
+      "message": "Žr. visus susijusius atlikėjus"
+   },
+   "5983727894875163426": {
+      "message": "Nepavyko praleisti"
+   },
+   "5987565417212088924": {
+      "message": "Garso paieškos grojaraštis"
+   },
+   "5990212441459592050": {
+      "message": "Padaryti viešą"
+   },
+   "599493319699637812": {
+      "message": "Maišyti dainas"
+   },
+   "5999484363963634214": {
+      "message": "Mandų"
+   },
+   "6028312506269896318": {
+      "message": "Ar tikrai norite panaikinti šiam įrenginiui prieigos teisę leisti muziką:"
+   },
+   "6031749391396582225": {
+      "message": "Hangulų simbolis"
+   },
+   "60369026765465265": {
+      "message": "Atnaujinti stotį"
+   },
+   "6037216776738907588": {
+      "message": "Eiti į mano žanrus"
+   },
+   "6042091568356544470": {
+      "message": "Funkcijos taikymas"
+   },
+   "6062704261604405084": {
+      "message": "Nustatykite „Chrome“ skirtą „Google Play“ muziką, kad galėtumėte pridėti muzikos prie savo kolekcijos ir klausytis jos naudodami telefoną, planšetinį arba stalinį kompiuterį."
+   },
+   "6062911693359625717": {
+      "message": "Pralaidumas: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Išbandykite dabar"
+   },
+   "6075813266646535052": {
+      "message": "Prisijungti naudojant „Google“"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Šis grojaraštis šiuo metu tuščias"
+   },
+   "6082171864197428613": {
+      "message": "Įdiegti"
+   },
+   "609463966491943885": {
+      "message": "Pasirinkti aplankus"
+   },
+   "6096654177023939223": {
+      "message": "Sveiki! Prisijunkite prie „Google“ paskyros."
+   },
+   "6097429778714195840": {
+      "message": "Eiti į naujus leidimus"
+   },
+   "6104044107385556653": {
+      "message": "Skiriamos didžiosios ir mažosios kuponų kodų raidės"
+   },
+   "610635793308893528": {
+      "message": "Įterpimas iš dešinės į kairę"
+   },
+   "611472617351658381": {
+      "message": "Nepavyko pridėti stoties. Bandykite dar kartą."
+   },
+   "6115840172404094036": {
+      "message": "Eiti į kitą dainą"
+   },
+   "6125785068086103357": {
+      "message": "Nepavyko pašalinti dainos. Bandykite dar kartą."
+   },
+   "6134905866550808378": {
+      "message": "Visos mano dainos – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Žr. išsamią serijos informaciją"
+   },
+   "6182267200530067545": {
+      "message": "Nustatykite periodinę prenumeratą, kad galėtumėte nuolat klausytis muzikos."
+   },
+   "6202991870072245705": {
+      "message": "Atšaukti prenumeratą"
+   },
+   "6205568685279927986": {
+      "message": "Rejango"
+   },
+   "6211690508928257569": {
+      "message": "Asirų"
+   },
+   "6214362172197372800": {
+      "message": "Prieš tęsdami įsitikinkite, kad atsisiuntėte visų „Google Play“ pirkinių kopijas į kompiuterį."
+   },
+   "6227307047241266902": {
+      "message": "daugiau parinkčių meniu"
+   },
+   "6233107584508657559": {
+      "message": "Nepavyko prisijungti prie „Google“"
+   },
+   "6233799104785293347": {
+      "message": "Naujovinti"
+   },
+   "6238576599909606924": {
+      "message": "netinkamas URL"
+   },
+   "6242354668932209396": {
+      "message": "Kartojamos visos dainos. Spustelėkite, kad pakeistumėte kartojimo režimo nustatymą."
+   },
+   "624368563085644372": {
+      "message": "Nematomas daugiklis"
+   },
+   "624560585652958729": {
+      "message": "Panaikinti prieigos teisę"
+   },
+   "6254019915482435769": {
+      "message": "Diskai"
+   },
+   "6263911096488435737": {
+      "message": "Atnaujinti mišinį"
+   },
+   "6264257099423315684": {
+      "message": "Su kokiu el. pašto adresu tai turi būti susieta?"
+   },
+   "6266962164598137510": {
+      "message": "Nepatinka"
+   },
+   "6295780096198935300": {
+      "message": "Žr. visus dainų paieškos rezultatus"
+   },
+   "630414199054820482": {
+      "message": "Skyrybos tarpas"
+   },
+   "6321629750851370838": {
+      "message": "Atkūrimas"
+   },
+   "6334800505555910746": {
+      "message": "Pateikė $XXX_1$ pagal $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Įkėlimo klaida!"
+   },
+   "6342787164312491730": {
+      "message": "Orų, reginių ir Zodiako ženklų"
+   },
+   "6348993545995904615": {
+      "message": "Maišyti"
+   },
+   "6352462755178724841": {
+      "message": "Pašalinti formatavimą"
+   },
+   "6354300278943883017": {
+      "message": "Grojaraščiai perkelti!"
+   },
+   "6360340926892934518": {
+      "message": "Pridėti aplanką"
+   },
+   "6360662632410865665": {
+      "message": "Galimybė pagal pareikalavimą pasiekti 35 mln. dainų be skelbimų. Atsisiųskite bet ką ir klausykite neprisijungę. Pridėkite 50 000 dainų ir klausykite bet kur."
+   },
+   "6376633306429460166": {
+      "message": "Sauraštrų"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Nėra dainų, kurias būtų galima atsisiųsti tik vieną kartą.}=1{„{XXX_1}“ galima atsisiųsti tik vieną kartą.}=2{„{XXX_1}“ ir „{XXX_2}“ galima atsisiųsti tik vieną kartą.}=3{„{XXX_1}“, „{XXX_2}“ ir „{XXX_3}“ galima atsisiųsti tik vieną kartą.}=4{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar 1 pasirinktą dainą galima atsisiųsti tik vieną kartą.}one{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar {XXX_4} pasirinktą dainą galima atsisiųsti tik vieną kartą.}few{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar {XXX_4} pasirinktas dainas galima atsisiųsti tik vieną kartą.}many{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3},\" and {XXX_4} other selected songs have only 1 download remaining.}other{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar {XXX_4} pasirinktų dainų galima atsisiųsti tik vieną kartą.}}"
+   },
+   "6390744057286457578": {
+      "message": "Lygiuoti centre"
+   },
+   "6392918669949841614": {
+      "message": "Pridėjimo data"
+   },
+   "6397906195939852735": {
+      "message": "Kanadų"
+   },
+   "6397910887534888858": {
+      "message": "Teksto spalva"
+   },
+   "6401620758535187625": {
+      "message": "Atnaujinti mokėjimo informaciją"
+   },
+   "6410017727692959093": {
+      "message": "Vieta"
+   },
+   "6419550114275715130": {
+      "message": "Vis dar leidžiate muziką."
+   },
+   "6425912931786223127": {
+      "message": "priešpiet"
+   },
+   "6426880811380367028": {
+      "message": "Pristabdyti $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6427041476637425542": {
+      "message": "Apatinis indeksas"
+   },
+   "6439365426343089851": {
+      "message": "Bendrieji"
+   },
+   "6447846965513034625": {
+      "message": "Objektų"
+   },
+   "6448771309160517960": {
+      "message": "Pradėkite nemokamai"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Mėgaukitės muzik. mėgėjų sukurt. grojaraščiais$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "Mianmaro"
+   },
+   "6455589326534311330": {
+      "message": "Šis apribojimas netaikomas, kai naudodami $START_SPAN$Muzikos tvarktuvę$END_SPAN$ į kompiuterį atsisiunčiate visą biblioteką.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Nepadorus: turinys gali būti netinkamas vaikams"
+   },
+   "6479183350424120199": {
+      "message": "Žr. visus vaizdo įrašus"
+   },
+   "6482036697464831271": {
+      "message": "Kad greitai įkeltų muziką, „Google Play“ randa atitinkančias jūsų muzikos failų kopijas mūsų serveryje. Kartais atsitiktinai gali būti parenkama netinkama dainos atitiktis. Praneškite apie problemą čia ir dainos bus ištaisytos; jūsų kopija bus naudojama vietoj atitinkančios kopijos."
+   },
+   "6482815137654580311": {
+      "message": "Redaguoti informaciją"
+   },
+   "6484073284972331008": {
+      "message": "Nepavyko atnaujinti leidimų skaičiaus"
+   },
+   "6485379744416240146": {
+      "message": "Patinka"
+   },
+   "6488707262592852720": {
+      "message": "2. Diegimo programos lange vilkite Muzikos tvarkytuvės piktogramą į aplanko „Programos“ piktogramą."
+   },
+   "6502885021177224543": {
+      "message": "„Google Play“ muzika: pasirinkite atsisiuntimo aplanką"
+   },
+   "6504449653938065974": {
+      "message": "Rekomenduojamas grojaraštis"
+   },
+   "6510962485068569110": {
+      "message": "Anuliuoti"
+   },
+   "6513265996872955028": {
+      "message": "Pridėti prie bibliotekos"
+   },
+   "6523257069333866790": {
+      "message": "Muzikos biblioteka"
+   },
+   "6531109671848395983": {
+      "message": "Jei norite pridėti muzikos, įdiekite „Chrome“ skirtą „Google Play“ muziką."
+   },
+   "6531471505721570155": {
+      "message": "Gaukite daugiau"
+   },
+   "653219508056341533": {
+      "message": "Žmonių ir emocijų"
+   },
+   "6538565185460307864": {
+      "message": "Orijų"
+   },
+   "6555053572817998410": {
+      "message": "Pristabdyti"
+   },
+   "6562996658473327600": {
+      "message": "Leidžiama stotis:"
+   },
+   "6568036879894576496": {
+      "message": "Muzika iš nurodytų aplankų bus pridėta prie „Google Play“ muzikos"
+   },
+   "6568649140210842427": {
+      "message": "Anuliuoti"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Kiekvieną dainą žiniatinklyje galima atsisiųsti vieną kartą.}one{ Kiekvieną dainą žiniatinklyje galima atsisiųsti {DOWNLOAD_COUNT_MAX_2} kartą.}few{ Kiekvieną dainą žiniatinklyje galima atsisiųsti {DOWNLOAD_COUNT_MAX_2} kartus.}many{ Each song can be downloaded {DOWNLOAD_COUNT_MAX_2} times on the web.}other{ Kiekvieną dainą žiniatinklyje galima atsisiųsti {DOWNLOAD_COUNT_MAX_2} kartų.}}"
+   },
+   "6591282200798732887": {
+      "message": "Raidės N dydžio kvadratas"
+   },
+   "65984904390749158": {
+      "message": "Baigti"
+   },
+   "66116513409922755": {
+      "message": "Ne"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6634231960955145278": {
+      "message": "Daina"
+   },
+   "6638274938129779637": {
+      "message": "Anuliuoti pritarimą"
+   },
+   "6641147067989080704": {
+      "message": "Kajinų li"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{Pašalinta 1 daina}one{Pašalinta # daina}few{Pašalintos # dainos}many{# songs removed}other{Pašalinta # dainų}}"
+   },
+   "6650633628037596693": {
+      "message": "Bandyti dar kartą"
+   },
+   "6650888720096194474": {
+      "message": "Jei norite naudoti mini leistuvę, turite $START_SPAN$$EMAIL$$END_SPAN$ nustatyti „Google Play“ muziką",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Įprasta"
+   },
+   "6652787256443519035": {
+      "message": "Nepažymėta"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{ Prie „Google Play“ pridėta 1 daina.}one{ Prie „Google Play“ pridėta {NUM_ADDED_2} daina.}few{ Prie „Google Play“ pridėta {NUM_ADDED_2} dainos.}many{ {NUM_ADDED_2} songs added to Google Play.}other{ Prie „Google Play“ pridėta {NUM_ADDED_2} dainų.}}"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Mėgaukitės muzika $START_SPAN_1$„Android“$END_SPAN$ ir $START_SPAN_2$„iOS“$END_SPAN$ įrenginiuose bei žiniatinklyje",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Sumažinti įtrauką"
+   },
+   "6689623864271696040": {
+      "message": "Kėlimo ženklas"
+   },
+   "6703444928647322448": {
+      "message": "Pavadinimas"
+   },
+   "6704452266937792847": {
+      "message": "Pridėti prie bibliotekos"
+   },
+   "6706494172112196654": {
+      "message": "Naujovinkite į šeimos planą (iki 6 šeimos grupės narių)"
+   },
+   "6711475260919070872": {
+      "message": "Senosios persų"
+   },
+   "6716575470159796252": {
+      "message": "„Chrome“ OS"
+   },
+   "6718773735728815040": {
+      "message": "Rekomenduojama"
+   },
+   "6719382961812623394": {
+      "message": "Atliekant sąranką kilo problema"
+   },
+   "6722174221321515493": {
+      "message": "Nulinis skyriklis"
+   },
+   "6724866564770579816": {
+      "message": "Leidimo būdai"
+   },
+   "6732797853205065184": {
+      "message": "Nepaisyti"
+   },
+   "6742017901699269182": {
+      "message": "Eiti į mano albumus"
+   },
+   "6747414430222084644": {
+      "message": "Takelio ilgis: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6750258767236131097": {
+      "message": "Vidurio Rytų raštai"
+   },
+   "6768967544887679189": {
+      "message": "Vingiuotas brūkšnys"
+   },
+   "6774444826375904566": {
+      "message": "Pridėta daina „{TRACK_TITLE}“ prie bibliotekos."
+   },
+   "6790172339432877080": {
+      "message": "Šis L ženklas yra registruotasis prekės ženklas, nurodantis, kad čia esantį turinį teikia įrašų ir vaizdo įrašų kūrimo įmonės."
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "Gerai"
+   },
+   "6820635381009519748": {
+      "message": "Pašalinti iš eilės"
+   },
+   "6821274223204126521": {
+      "message": "Muzikos"
+   },
+   "6830152735949448199": {
+      "message": "„Google Play“ muzikos laboratorijos yra eksperimentinių funkcijų, kurios dar nėra paruoštos, bandymų vieta. Šios funkcijos gali bet kada pasikeisti, neveikti ar būti nutrauktos. Mėgaukitės!"
+   },
+   "6839273670547667172": {
+      "message": "Įvairūs"
+   },
+   "6840919594921167668": {
+      "message": "Patikrinkite kompiuterio atsisiuntimų aplanką, kad pamatytumėte atsisiųstas dainas."
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. Kai atsidarys diegimo programa, vadovaukitės instrukcijomis, kad nustatytumėte Muzikos tvarktuvę."
+   },
+   "686324708947275216": {
+      "message": "Nepavyko pašalinti stoties. Bandykite dar kartą."
+   },
+   "6887831882226099905": {
+      "message": "Ar tikrai norite panaikinti prieigos teisę šiam įrenginiui pridėti muzikos:"
+   },
+   "689233687170647171": {
+      "message": "Spustelėkite anksčiau pateiktą grojaraščio piktogramą arba vilkite dainą į dešinę ir pridėkite ją į grojaraštį."
+   },
+   "6898179631823558149": {
+      "message": "Nepavyko konvertuoti failo į formatą, kurį galima naudoti"
+   },
+   "6930531446322391145": {
+      "message": "Vaizdas"
+   },
+   "6932671848756303275": {
+      "message": "Žema"
+   },
+   "6940170973585783277": {
+      "message": "Naujovinti į šeimos planą"
+   },
+   "6941609127174167431": {
+      "message": "Praleisti persukant atgal 10 sekundžių"
+   },
+   "6943941659433003765": {
+      "message": "Paleisti spartųjį mišinį"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "6962699013778688473": {
+      "message": "Tęsti"
+   },
+   "6990699195498598876": {
+      "message": "Jei norite pradėti, atsisiųskite Muzikos tvarkytuvę, esančią žemiau. Muzikos tvarkytuvė – tai paprasta programa, skirta kompiuteryje esantiems muzikos failams pridėti į „Google Play“."
+   },
+   "699971906528455934": {
+      "message": "Nežinomas atlikėjas"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7002955679222677443": {
+      "message": "Sužinokite daugiau"
+   },
+   "7009828133009731416": {
+      "message": "Nemokama iš „Google“"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7019115336138470191": {
+      "message": "Prenumeruojama"
+   },
+   "7020161279392960480": {
+      "message": "Formatas"
+   },
+   "7022070615528435141": {
+      "message": "Ištrinti"
+   },
+   "7034479228356652023": {
+      "message": "Hanių radikalai su 1 brūkšneliu"
+   },
+   "7035822615949880851": {
+      "message": "Laikinai neįmanoma leisti muzikos šiuo įrenginiu. Vėliau bandykite dar kartą. 442 klaida."
+   },
+   "7043080825985118397": {
+      "message": "Panaikinti trynimą"
+   },
+   "7049182394855721704": {
+      "message": "Gotų"
+   },
+   "7054091192371222228": {
+      "message": " iš "
+   },
+   "7062695654404914711": {
+      "message": "Greitieji mišiniai"
+   },
+   "7067908984080925888": {
+      "message": "Skaityti daugiau"
+   },
+   "7071666053441099517": {
+      "message": "1. Naršyklės lango apačioje, kairėje atidarykite MusicManager.dmg."
+   },
+   "7080245643233785574": {
+      "message": "Kilo „Google Play“ muzikos, skirtos „Chrome“, problema, todėl reikia prisijungti dar kartą."
+   },
+   "7090368974279082159": {
+      "message": "Oi!"
+   },
+   "709740537382334098": {
+      "message": "Ištrinti visą biblioteką, įskaitant įsigytą muziką ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Hangul Čoseong užpildas"
+   },
+   "7100567566985297322": {
+      "message": "Didelis tarpas"
+   },
+   "7102126384411654213": {
+      "message": "Nepavyko pridėti prie rinkinio. Bandykite dar kartą."
+   },
+   "7104210472412766015": {
+      "message": "Siejantysis pastabos skyriklis"
+   },
+   "7105416082849293719": {
+      "message": "Naujausia veikla"
+   },
+   "7111181959300196580": {
+      "message": "Padidinti įtrauką"
+   },
+   "7116872031464114568": {
+      "message": "Identifikuota Garso paieškoje"
+   },
+   "7127937208951634191": {
+      "message": "Simbolis"
+   },
+   "7136816542440442290": {
+      "message": "Iškilo problemų įkeliant radijo stotį."
+   },
+   "7144198039114608569": {
+      "message": "Automatinis grojaraštis"
+   },
+   "716550293954822096": {
+      "message": "Sinhalų"
+   },
+   "7182974689040833178": {
+      "message": "Tęsti"
+   },
+   "7192513315706728552": {
+      "message": "Serverio klaida. Vėliau bandykite dar kartą."
+   },
+   "7194376132387780145": {
+      "message": "Nepavyko suteikti prieigos teisių šiam kompiuteriui, nes jau turite dešimt įrenginių."
+   },
+   "7200522943394315316": {
+      "message": "32 bitų .rpm („Fedora“ / „openSUSE“)"
+   },
+   "7202681158267340446": {
+      "message": "Šriftas"
+   },
+   "720381800527728702": {
+      "message": "Sporto, švenčių ir renginių"
+   },
+   "7212676589977202933": {
+      "message": "Pridėta dainų: $NUM_TRANSFERRED_TRACKS$",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Nepavyko atidaryti grojaraščio. Bandykite dar kartą."
+   },
+   "7228343081607279547": {
+      "message": "Sundų"
+   },
+   "7229202390260081051": {
+      "message": "Didžiausias"
+   },
+   "7249560357803023328": {
+      "message": "Bibliotekos atsisiuntimas"
+   },
+   "7262284142845767114": {
+      "message": "Patinka"
+   },
+   "7277602889799602415": {
+      "message": "Ištrinti Mano biblioteką"
+   },
+   "7281847881697831326": {
+      "message": "Anuliuojant ištrynimą įvyko klaida."
+   },
+   "7282565673166392948": {
+      "message": "Ideografinis aprašymas"
+   },
+   "7283215568776397157": {
+      "message": "Įkeltos dainos:"
+   },
+   "7287006426755387074": {
+      "message": "Padidinti grotuvo garsą"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minučių}=1{1 minutė}one{# minutė}few{# minutės}many{# minutes}other{# minučių}}"
+   },
+   "7292902857194439444": {
+      "message": "Įrenginys"
+   },
+   "7293921570163366209": {
+      "message": "Klausykitės dainų, panašių į atlikėjo $NAME$ dainas",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7293925053370285812": {
+      "message": "Kartojama dabartinė daina. Spustelėkite, kad pakeistumėte kartojimo režimo nustatymą."
+   },
+   "730022297859142476": {
+      "message": "Spartusis mišinys"
+   },
+   "7305504256207181669": {
+      "message": "Ženklinimo sąrašas"
+   },
+   "7306812086707840437": {
+      "message": "Prenumeruokite „Google Play“ muziką ir klausykite šios radijo stoties bei daugybės kitų dainų. Pirmą mėnesį klausykite nemokamai."
+   },
+   "731429515932674572": {
+      "message": "Nutildyti garsą"
+   },
+   "7320133162875658022": {
+      "message": "Įkelti naujų dainų ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7322373231564004139": {
+      "message": "Rasti"
+   },
+   "7331328794127852355": {
+      "message": "Jaustukai"
+   },
+   "7335080673788704461": {
+      "message": "Transporto, žemėlapių ir ženklų"
+   },
+   "7354536653016090160": {
+      "message": "Populiariausių diagrama"
+   },
+   "7354691783317064273": {
+      "message": "Jungiamasi prie „Chrome“ programos."
+   },
+   "7376787658603979700": {
+      "message": "Pirkite daugybę dainų, įskaitant šimtus nemokamų takelių."
+   },
+   "7396303606473621591": {
+      "message": "Viskas"
+   },
+   "7410432243549869948": {
+      "message": "Trukmė"
+   },
+   "7411932913365107274": {
+      "message": "Galite panaikinti keturių įrenginių įgaliojimus per metus."
+   },
+   "741454111929523251": {
+      "message": "Ar norėjote parašyti $START_LINK$„$SUGGESTED_QUERY$“$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Pasirinkite aplankus..."
+   },
+   "7422152161839392092": {
+      "message": "Padovanokite „Google Play“ muzikos prenumeratą"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{po # dienų}=1{po # dienos}one{po # dienos}few{po # dienų}many{in # days}other{po # dienų}}"
+   },
+   "7437730399353044671": {
+      "message": "Prenumeruokite ir pasiekite visą muziką neprisijungę, kai jos panorėsite ir be jokių skelbimų"
+   },
+   "7437894509168051348": {
+      "message": "Hanių radikalai su 7 brūkšneliais"
+   },
+   "744665031629199878": {
+      "message": "Žr. visus su $ARTIST_NAME$ susijusius atlikėjus",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7449358949677606364": {
+      "message": "35 mln. dainų pagal pareikalavimą"
+   },
+   "7467710920158412786": {
+      "message": "Tik jums skirtas privatus grojaraštis."
+   },
+   "747583939629659293": {
+      "message": "Pridėti spalvą"
+   },
+   "7475857386379593056": {
+      "message": "Leisti „$ALBUM_NAME$“",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7480960100390206139": {
+      "message": "Įvairialypis"
+   },
+   "7502695447103329189": {
+      "message": "Klavišai „Shift“ ir &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Nukopijuokite ir įklijuokite šią nuorodą, kad bendrintumėte $START_SPAN$$TITLE$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Pasirinkite mėgstamus atlikėjus"
+   },
+   "7529798479468856973": {
+      "message": "prieš $NUM$ val.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7535122927261158198": {
+      "message": "Paskutinis pridėtas"
+   },
+   "7536172317066333802": {
+      "message": "Įterpti vaizdą"
+   },
+   "7546873952682838388": {
+      "message": "Muzika iš šio kompiuterio"
+   },
+   "7559266156388225108": {
+      "message": "Kaiti skaičiaus ženklas"
+   },
+   "756024699361489239": {
+      "message": "Maišyti"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Mongolų balsių skyriklis"
+   },
+   "7572946295452220765": {
+      "message": "Diegimo nuorodos"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 paleidimų}=1{1 paleidimas}one{{COUNT_2} paleidimas}few{{COUNT_2} paleidimai}many{{COUNT_2} paleidimo}other{{COUNT_2} paleidimų}}"
+   },
+   "7592349062857393820": {
+      "message": "g tada t"
+   },
+   "7596816553523902619": {
+      "message": "Šiandien"
+   },
+   "7598340248282243111": {
+      "message": "Žr. visą naujausią veiklą"
+   },
+   "7599424290971072767": {
+      "message": "Žanras"
+   },
+   "7601688284754148415": {
+      "message": "Matematinis"
+   },
+   "7604883230326131491": {
+      "message": "Grojaraštis „$TITLE$“",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Atsisiuntimas turėtų netrukus prasidėti. Jei jis neprasideda, $START_LINK$spustelėkite čia$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7610552438938511934": {
+      "message": "Pridėta stotis „{STATION_TITLE}“ prie bibliotekos"
+   },
+   "7617664217221228040": {
+      "message": "Baliečių"
+   },
+   "7619560701830330401": {
+      "message": "Įkeliama"
+   },
+   "762389150316771008": {
+      "message": "„Man sekasi“ radijas"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Nepasirinkote jokių į kompiuterį atsisiunčiamų dainų.}=1{Pasirinkta daina jau buvo atsisiųsta daugiausia kartų, kiek galima.}one{Pasirinkta daina jau buvo atsisiųsta daugiausia kartų, kiek galima.}few{Pasirinktos dainos jau buvo atsisiųstos daugiausia kartų, kiek galima.}many{The selected songs have already been downloaded the maximum number of times.}other{Pasirinktos dainos jau buvo atsisiųstos daugiausia kartų, kiek galima.}}"
+   },
+   "7631480327394084350": {
+      "message": "Valdyti paveikslėlius"
+   },
+   "7638759029296490900": {
+      "message": "Atidarykite grojaraščių braižyklę, norėdami peržiūrėti savo grojaraščius."
+   },
+   "763998168115480566": {
+      "message": "Nebegalite praleisti. Pasiekite daugybę dainų neprisijungę, kai jų panorėsite."
+   },
+   "7664246845088850317": {
+      "message": "Prisijungiant prie serverio įvyko klaida, kurios kodas: "
+   },
+   "7669291472367464463": {
+      "message": "Įveskite savo @google.com el. pašto adresą"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7704516203792990151": {
+      "message": "Praėjęs laikas"
+   },
+   "7708364972132250264": {
+      "message": "Couldn't clear cached songs, please try again later."
+   },
+   "7709119284546787990": {
+      "message": "Iš dešinės į kairę"
+   },
+   "7711713319832787051": {
+      "message": "Suporuota"
+   },
+   "7730109880037106848": {
+      "message": "Simboliai"
+   },
+   "7736581252844206600": {
+      "message": "Graikų"
+   },
+   "7737642252665507180": {
+      "message": "Šešioliktainė įvestis"
+   },
+   "7743528314734813641": {
+      "message": "Iškilo problemų įkeliant greitąjį mišinį."
+   },
+   "7756401573104983978": {
+      "message": "Kompiuterio programa"
+   },
+   "7760426006262447033": {
+      "message": "Eilėje nepakanka vietos"
+   },
+   "776736242214904151": {
+      "message": "Bet kada iš naujo leiskite šią dainą ir daugybę kitų"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 dainų}=1{1 daina}one{# daina}few{# dainos}many{# songs}other{# dainų}}"
+   },
+   "7774266771623079214": {
+      "message": "„Play“ muzika"
+   },
+   "7776111286341041808": {
+      "message": "Iš kairės į dešinę"
+   },
+   "7783345534551124847": {
+      "message": "Dainos"
+   },
+   "779262212811541732": {
+      "message": "Senosios Pietų Arabijos k."
+   },
+   "7800122803571674150": {
+      "message": "Sveiki, tai „Google Play“ muzika"
+   },
+   "7801884781403562273": {
+      "message": "Išpirkti"
+   },
+   "7816161180678740448": {
+      "message": "Brailio raštas"
+   },
+   "7819314041543176992": {
+      "message": "Uždaryti"
+   },
+   "7832954852370077811": {
+      "message": "Paleiskite muziką arba spustelėkite albumo, dainos ar grojaraščio piktogramą $MENU_ICON$, kad pridėtumėte prie eilės",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Atšaukiamas muzikos pridėjimo procesas"
+   },
+   "7846689234809169417": {
+      "message": "Gyvūnų, augalų ir maisto"
+   },
+   "7848021326942321162": {
+      "message": "Pašalinta stotis „{STATION_TITLE}“ iš bibliotekos"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 valandų}=1{1 valanda}one{# valanda}few{# valandos}many{# hours}other{# valandų}}"
+   },
+   "7878031641910175480": {
+      "message": "Pastarieji pasirinkimai:"
+   },
+   "7886189590148092330": {
+      "message": "Vieta: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7888286842234266048": {
+      "message": "Uždaras / taškinis"
+   },
+   "7898792314887900865": {
+      "message": "Kipriečių"
+   },
+   "7927039504440585569": {
+      "message": "Lotynų kalba"
+   },
+   "7931527771588976000": {
+      "message": "Fonetika (IPA)"
+   },
+   "7933642402079881815": {
+      "message": "The explicit content filtering settings for this account have changed. Please reload for the changes to take effect."
+   },
+   "7941094066137301803": {
+      "message": "Naujovinkite į „Google+“ ir pradėkite bendrinti su draugais."
+   },
+   "7943877664425892318": {
+      "message": "Atidaryti grojaraščio skydelį"
+   },
+   "7947294997516635657": {
+      "message": "Viskas atnaujinta"
+   },
+   "7954850519963017242": {
+      "message": "prieš $NUM$ d.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arabų ženklas „Sanah“"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 aplankų}=1{1 aplankas}one{# aplankas}few{# aplankai}many{# folders}other{# aplankų}}"
+   },
+   "7980428538910137664": {
+      "message": "Nemokami ir nupirkti"
+   },
+   "7984622936663451936": {
+      "message": "Klaviatūra ir naudotojo sąsaja"
+   },
+   "7985393396166342590": {
+      "message": "Tęsiamas muzikos pridėjimo procesas"
+   },
+   "7988520144814845441": {
+      "message": "Prisijunkite, kad galėtumėte tęsti"
+   },
+   "7996265599642887416": {
+      "message": "Pašalinti iš bibliotekos"
+   },
+   "8001758142015238809": {
+      "message": "Laikina klaida. Bus bandoma įkelti iš naujo."
+   },
+   "8019982600883750632": {
+      "message": "Lygiuoti abi puses"
+   },
+   "8020892463961333112": {
+      "message": "Legato pabaigos muzikinis ženklas"
+   },
+   "8024675506077392847": {
+      "message": "Nepavyko įkelti kitos dainos."
+   },
+   "8030037581414873660": {
+      "message": "Hanių radikalai su 2 brūkšneliais"
+   },
+   "803032414305825807": {
+      "message": "Šrifto dydis"
+   },
+   "803376120920513357": {
+      "message": "prieš $NUM$ d.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Nepavyko užsiprenumeruoti grojaraščio. Bandykite dar kartą."
+   },
+   "8045052194324740729": {
+      "message": "Negalima leisti šiukšliadėžėje esančių dainų."
+   },
+   "8058956869215275454": {
+      "message": "Bendrinti sistemoje „Facebook“"
+   },
+   "8066747296553908214": {
+      "message": "Dvigubas pasvirasis brūkšnys"
+   },
+   "8110367050267853536": {
+      "message": "Daugiau parinkčių"
+   },
+   "8110717721846730575": {
+      "message": "Įjungti garsą"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Nėra dainų, kurių atsisiuntimų apribojimas būtų viršytas.}=1{„{XXX_1}“ jau atsisiųsta {DOWNLOAD_COUNT_MAX} kartą, todėl nebus atsisiųsta.}=2{„{XXX_1}“ ir „{XXX_2}“ jau atsisiųstos {DOWNLOAD_COUNT_MAX} kartus, todėl nebus atsisiųstos.}=3{„{XXX_1}“, „{XXX_2}“ ir „{XXX_3}“ jau atsisiųstos {DOWNLOAD_COUNT_MAX} kartus, todėl nebus atsisiųstos.}=4{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar 1 pasirinkta daina jau atsisiųstos {DOWNLOAD_COUNT_MAX} kartus, todėl nebus atsisiųstos.}one{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar {XXX_4} pasir. dain. jau atsis. {DOWNLOAD_COUNT_MAX} kartą, todėl nebus atsisiųstos.}few{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar {XXX_4} pasir. dain. jau atsis. {DOWNLOAD_COUNT_MAX} kartus, todėl nebus atsisiųstos.}many{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3},\" and {XXX_4} other selected songs have already been downloaded {DOWNLOAD_COUNT_MAX} times and will not be downloaded.}other{„{XXX_1}“, „{XXX_2}“, „{XXX_3}“ ir dar {XXX_4} pasir. dain. jau atsisiųstos {DOWNLOAD_COUNT_MAX} kartų, todėl nebus atsisiųstos.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Siųsti „Google Play“ muzikos naujienas ir pasiūlymus"
+   },
+   "8144474297019493415": {
+      "message": "Naujausias pridėtas"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} diena}one{{TEXT} diena}few{{TEXT} dienos}many{{TEXT} days}other{{TEXT} dienų}}"
+   },
+   "8159976291123989327": {
+      "message": "Redaguoti nuorodą"
+   },
+   "8164274980045228173": {
+      "message": "Įprastinis kryptinis formatavimas"
+   },
+   "8164897103619368290": {
+      "message": "Sunumeruotasis sąrašas"
+   },
+   "8174689178967388837": {
+      "message": "# takelis"
+   },
+   "8191208612330635266": {
+      "message": "Tibetiečių"
+   },
+   "8192298658946835992": {
+      "message": "Nulinis jungiamasis tarpas"
+   },
+   "8193509313274135818": {
+      "message": "Arabiškas išnašos ženklas"
+   },
+   "819996403327805209": {
+      "message": "Sužinokite daugiau"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Taip pat galite {START_SPAN_1}atsisiųsti tiesiogiai{END_SPAN}, bet {START_SPAN_2}vieną dainą galite atsisiųsti tik vieną kartą{END_SPAN}.}one{ Taip pat galite {START_SPAN_1}atsisiųsti tiesiogiai{END_SPAN}, bet {START_SPAN_3}vieną dainą galite atsisiųsti tik {DOWNLOAD_COUNT_MAX_2} kartą{END_SPAN}.}few{ Taip pat galite {START_SPAN_1}atsisiųsti tiesiogiai{END_SPAN}, bet {START_SPAN_3}vieną dainą galite atsisiųsti tik {DOWNLOAD_COUNT_MAX_2} kartus{END_SPAN}.}many{ Taip pat galite {START_SPAN_1}atsisiųsti tiesiogiai{END_SPAN}, bet {START_SPAN_3}vieną dainą galite atsisiųsti tik {DOWNLOAD_COUNT_MAX_2} karto{END_SPAN}.}other{ Taip pat galite {START_SPAN_1}atsisiųsti tiesiogiai{END_SPAN}, bet {START_SPAN_3}vieną dainą galite atsisiųsti tik {DOWNLOAD_COUNT_MAX_2} kartų{END_SPAN}.}}"
+   },
+   "8206726262986846319": {
+      "message": "Pridėti aprašą..."
+   },
+   "8216772648076666728": {
+      "message": "Allow explicit songs."
+   },
+   "8221494968176924260": {
+      "message": "Mano grojaraštis"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Nepavyko pridėti 1 dainos}one{ Nepavyko pridėti {NUM_FAILURES_2} dainos}few{ Nepavyko pridėti {NUM_FAILURES_2} dainų}many{ Unable to add {NUM_FAILURES_2} songs}other{ Nepavyko pridėti {NUM_FAILURES_2} dainų}}"
+   },
+   "823405029831570152": {
+      "message": "Etiopų"
+   },
+   "8235345176344531979": {
+      "message": "g, tada a"
+   },
+   "8239380670132570074": {
+      "message": "Nepavyksta atidaryti laikino failo"
+   },
+   "8249329268828083858": {
+      "message": "Katakana-hiragana dvigubas brūkšnelis"
+   },
+   "8257187280628059022": {
+      "message": "Čia muzika buvo pristabdyta, nes tikriausiai klausote jos kitame įrenginyje. $START_LINK$Sužinokite daugiau$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8265500184685762525": {
+      "message": "Bilietai"
+   },
+   "8275689791574630480": {
+      "message": "Ogaminio rašto tarpo ženklas"
+   },
+   "8277279706638733641": {
+      "message": "Žvaigždutės"
+   },
+   "828700836558117968": {
+      "message": "„Google Play“ muzika"
+   },
+   "8300572760144032022": {
+      "message": "Sukurti naują radijo stotį naudojant pasirinktą dainą"
+   },
+   "8302804816588048941": {
+      "message": "Atlikus šį veiksmą taip pat bus ištrinti grojaraščiai, spartieji mišiniai, įvertinimai ir visa informacija apie leistus elementus."
+   },
+   "8325100368677049569": {
+      "message": "Naršykite naują muziką"
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Pridėti pasikartojančią dainą?}one{Pridėti pasikartojančias dainas?}few{Pridėti pasikartojančias dainas?}many{Pridėti pasikartojančias dainas?}other{Pridėti pasikartojančias dainas?}}"
+   },
+   "8338465287076872825": {
+      "message": "Nepavyksta nuskaityti muzikos iš failo"
+   },
+   "8358697777226306085": {
+      "message": "Egipto hieroglifai"
+   },
+   "8363930857329550333": {
+      "message": "Gruzinų k."
+   },
+   "838509699315651621": {
+      "message": "Ši daina jau yra šiame grojaraštyje"
+   },
+   "8385464685117997940": {
+      "message": "Neseniai leista"
+   },
+   "8386555666648700714": {
+      "message": "Populiariausios dainos"
+   },
+   "8395180429531273524": {
+      "message": "Kodėl mano įrenginys nėra tinkamas?"
+   },
+   "8396767881870375563": {
+      "message": "Žr. visus veiklos paieškos rezultatus"
+   },
+   "8405156617531647050": {
+      "message": "Panašu, kad jau išbandėte „Google Play“ muziką."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Prisijungti"
+   },
+   "8412726756889279816": {
+      "message": "Chakmos"
+   },
+   "8421838551605999158": {
+      "message": "1. Išsaugokite musicmanagerinstaller.exe"
+   },
+   "8424326418312855409": {
+      "message": "Iškilo problemų nustatant „Google Play“ muziką."
+   },
+   "842631328362018283": {
+      "message": "Didelis"
+   },
+   "8437015452970026040": {
+      "message": "Pasiektas rinkinio limitas. Pašalinkite dainų, jei norite pridėti daugiau."
+   },
+   "8439955599488894226": {
+      "message": "Privatumo politika"
+   },
+   "8440128775129354214": {
+      "message": "Privatumas"
+   },
+   "8454237498473122184": {
+      "message": "Brūkšnelis (minusas)"
+   },
+   "8455196866871985315": {
+      "message": "Žr. visus populiariausius albumus"
+   },
+   "8455204924704616723": {
+      "message": "Failas"
+   },
+   "8458476427655018512": {
+      "message": "Tarpas"
+   },
+   "8477224362193738096": {
+      "message": "Atlikėjas: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8482517151370142670": {
+      "message": "Kita"
+   },
+   "848933194605193751": {
+      "message": "Neseniai žiūrėta „YouTube“"
+   },
+   "8492241415183649700": {
+      "message": "Karų"
+   },
+   "851623407011365974": {
+      "message": "Jūsų muzika netrukus bus tęsiama"
+   },
+   "8524322739067915993": {
+      "message": "popiet"
+   },
+   "8527029831666633156": {
+      "message": "Prisijunkite ir nemokamai klausykitės toliau"
+   },
+   "8534560073330554352": {
+      "message": "Paleidimų skaičius"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8564202903947049539": {
+      "message": "Paleisti"
+   },
+   "8574053857298592408": {
+      "message": "Atidaryti naršymo skydelį."
+   },
+   "858254219718239996": {
+      "message": "Autorių teisės &copy; $COPYRIGHT_LIST_JOINED$",
+      "placeholders": {
+         "COPYRIGHT_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Gaukite pagalbos, susijusios su Muzikos tvarkytuvės pašalinimu$END_LINK$ iš kompiuterio.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Kad galėtų greitai įkelti muziką, „Google Play“ sulygina jūsų muzikos failus su serveryje esančiomis kopijomis. Kartais galime sulyginti netinkamas dainas. Praneškite apie problemą čia ir dainos bus vėl įkeltos."
+   },
+   "8608281335099046628": {
+      "message": "Apdorojama muzika..."
+   },
+   "8619410898472620495": {
+      "message": "Apsilankykite „Google Play“ muzikoje žiniatinklyje, kad atnaujintumėte atkūrimą."
+   },
+   "862440714280873951": {
+      "message": "Yra tinklalaidžių"
+   },
+   "8624490471677691415": {
+      "message": "Peržiūrėti muziką pagal"
+   },
+   "8624618794349836904": {
+      "message": "Bus pašalinta istorija, naudojama suasmenintoms rekomendacijoms teikti ir radijui tinkinti. Tai atlikus atskirų takelių įvertinimai ir leidimų skaičiai nebus pašalinti."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{po # minučių}=1{po # minutės}one{po # minutės}few{po # minučių}many{in # minutes}other{po # minučių}}"
+   },
+   "8628766851955432422": {
+      "message": "Pašalinti"
+   },
+   "8637643428005590282": {
+      "message": "Ženklai"
+   },
+   "8639048757911329468": {
+      "message": "„NaCl“ versija: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Negalima ieškoti grojant radijui"
+   },
+   "865328592283008990": {
+      "message": "Nemokamai prie „Google Play“ pridėkite iki 50 000 dainų iš savo rinkinio."
+   },
+   "8674371043496677979": {
+      "message": "Iš albumo: $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Bandyti dar kartą"
+   },
+   "8692453200617588996": {
+      "message": "Pasirinkite mėgstamus žanrus"
+   },
+   "8700121026680200191": {
+      "message": "Išvalyti"
+   },
+   "8733921970136713647": {
+      "message": "Atšaukti prenumeratą"
+   },
+   "8741366833297918126": {
+      "message": "Dainos trukmė"
+   },
+   "8763647985340267403": {
+      "message": "Žaidimo figūros"
+   },
+   "8764339661945610128": {
+      "message": "Rodyti daugiau atlikėjų"
+   },
+   "8768143964455071187": {
+      "message": "Ogaminis"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanva"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{prieš # valandų}=1{prieš # valandą}one{prieš # valandą}few{prieš # valandas}many{# hours ago}other{prieš # valandų}}"
+   },
+   "8783871424196328846": {
+      "message": "128 Kb/s, prisitaik."
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Laboratorijos"
+   },
+   "8801527171487571079": {
+      "message": "Tajų tam"
+   },
+   "8801801881586334412": {
+      "message": "Populiariausi albumai"
+   },
+   "880592275679936810": {
+      "message": "Pridėta $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Šiandien"
+   },
+   "8819361322041128714": {
+      "message": "Ugaritų"
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 grojaraščių}=1{1 grojaraštis}one{# grojaraštis}few{# grojaraščiai}many{# grojaraščio}other{# grojaraščių}}"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Būkite atsargūs.$POSTB$ Atminkite, kad kiekvieną kartą, kai tinklalapyje nurodote el. pašto adresą, pavojingi šlamšto siuntėjai taip pat gali jį aptikti.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$, pasirinkta. Spustelėkite, kad panaikintumėte pasirinkimą.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arabiško skaičiaus simbolis"
+   },
+   "8858058202463451164": {
+      "message": "Lygiuoti kairiąją pusę"
+   },
+   "8868784738343119594": {
+      "message": "Prieš $NUM$ min.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Daugiau dainų"
+   },
+   "8871219022895015530": {
+      "message": "Pridedamos šiuo metu pasirinktos dainos prie eilės"
+   },
+   "8890553633144307762": {
+      "message": "Atgal"
+   },
+   "8892247938951013000": {
+      "message": "Nepavyko pridėti prie grojaraščio. Bandykite dar kartą."
+   },
+   "8892908795692466458": {
+      "message": "Bendrinti"
+   },
+   "8896073810838561095": {
+      "message": "Hanių radikalai su 8 brūkšneliais"
+   },
+   "8901076355007755806": {
+      "message": "Lepčų"
+   },
+   "8910998670732377227": {
+      "message": "Bandyti dar kartą"
+   },
+   "8920100935192456970": {
+      "message": "Žr. visus žanrų paieškos rezultatus"
+   },
+   "8928816882866356838": {
+      "message": "Vieša"
+   },
+   "8931700495296520714": {
+      "message": "Uždaryti mini leistuvę"
+   },
+   "8934299821763129489": {
+      "message": "Senasis italų"
+   },
+   "8936704404804793618": {
+      "message": "Vaizdo įrašai"
+   },
+   "8953033926734869941": {
+      "message": "Pavadinimas"
+   },
+   "8958381934236197373": {
+      "message": "Skaitmens pločio tarpas"
+   },
+   "8961985815150856927": {
+      "message": "Neseniai sukurta"
+   },
+   "8967493310012272750": {
+      "message": "Radijo stotis „$NAME$“",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969179774064404960": {
+      "message": "Garsumas"
+   },
+   "8969573585280830171": {
+      "message": "Turime tinkamos muzikos"
+   },
+   "8971282019539581965": {
+      "message": "Uždarykite dialogo langą „Apie“"
+   },
+   "8979933913103486540": {
+      "message": "Brūkšnys / jungtis"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Atsisiųsta 1 daina}one{ Atsisiųsta {NUM_TRANSFERRED_TRACKS_2} daina}few{ Atsisiųstos {NUM_TRANSFERRED_TRACKS_2} dainos}many{ {NUM_TRANSFERRED_TRACKS_2} songs downloaded}other{ Atsisiųsta {NUM_TRANSFERRED_TRACKS_2} dainų}}"
+   },
+   "8998527640999447691": {
+      "message": "Apimantis"
+   },
+   "9000028459946302905": {
+      "message": "Ištrinti visą į Mano biblioteką įkeltą muziką ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Mongoliškas kėlimo ženklas"
+   },
+   "9001309834415064766": {
+      "message": "Hanių radikalai su 10 brūkšnelių"
+   },
+   "901225307358856093": {
+      "message": "Kanados aborigenų silabikos brūkšnelis"
+   },
+   "902300864627076683": {
+      "message": "Rašytinis partų"
+   },
+   "9024489874326845912": {
+      "message": "Rekomenduojamas albumas"
+   },
+   "903557305746845933": {
+      "message": "160 Kb/s, prisitaik."
+   },
+   "9042260521669277115": {
+      "message": "Pristabdyti"
+   },
+   "9045338265172338590": {
+      "message": "Metei majek"
+   },
+   "9049377337845973204": {
+      "message": "Leisti: „$SONG_NAME$“",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9053704575157030099": {
+      "message": "Nėra"
+   },
+   "9059560719840598868": {
+      "message": "Siųsti atsiliepimą"
+   },
+   "9063659532473030063": {
+      "message": "Orų ir astrologinis"
+   },
+   "908288323950111351": {
+      "message": "Negalima pridėti prie prenumeruojamo grojaraščio."
+   },
+   "9084816336314899019": {
+      "message": "Tęsti"
+   },
+   "9092976405151508175": {
+      "message": "Grąžinti"
+   },
+   "9098679347815545327": {
+      "message": "Nepavyko sukurti grojaraščio. Bandykite dar kartą."
+   },
+   "9099290682020828903": {
+      "message": "Prenumeruojamas grojaraštis „{PLAYLIST_TITLE}“"
+   },
+   "9104232341234454503": {
+      "message": "Neribota muzika"
+   },
+   "9111239821213364249": {
+      "message": "Išbandykite neribotą muziką. Pirmąsias 30 dienų nemokamai."
+   },
+   "9128859482251917046": {
+      "message": "Perjungti atidarytą arba uždarytą eilę"
+   },
+   "9136743822509821032": {
+      "message": "Leisti „$PLAYLIST_TITLE$“",
+      "placeholders": {
+         "PLAYLIST_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9138683078793837147": {
+      "message": "Anuliuoti nepritarimą"
+   },
+   "9143597363285105250": {
+      "message": "Albumo atlikėjas"
+   },
+   "9173411042808904308": {
+      "message": "Įprastas / su užraitais"
+   },
+   "9179661003472285430": {
+      "message": "Atsisiųsti Muzikos tvarkytuvę"
+   },
+   "9184426509557869402": {
+      "message": "Ideografinis tarpas"
+   },
+   "9193901371937110673": {
+      "message": "Nėra įrenginių, kuriems suteikta prieigos teisė"
+   },
+   "9197433560254928186": {
+      "message": "Arabų"
+   },
+   "9205544184671349450": {
+      "message": "Panašu, kad šiame kompiuteryje turite muzikos."
+   },
+   "9209549883741368825": {
+      "message": "Prenumeruokite „Google Play“ muziką ir klausykite šio albumo bei daugybės kitų dainų. Pirmą mėnesį klausykite nemokamai."
+   },
+   "9214517335069385090": {
+      "message": "Arba, jei pageidaujate..."
+   },
+   "9218938714985695055": {
+      "message": "Legato pradžios muzikinis ženklas"
+   },
+   "933914956414602837": {
+      "message": "Kad greitai įkeltų muziką, „Google Play“ randa atitinkančias jūsų muzikos failų kopijas mūsų serveryje. Kartais atsitiktinai gali būti parenkama netinkama dainos atitiktis. Praneškite apie problemą čia ir daina bus ištaisyta; jūsų kopija bus naudojama vietoj atitinkančios kopijos."
+   },
+   "935985887697278449": {
+      "message": "Jau esate prenumeratorius"
+   },
+   "947591000172763449": {
+      "message": "Fags pa"
+   },
+   "949327761578931377": {
+      "message": "Klausykitės už $OFFER_PRICE$ per mėnesį.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Peržiūrėti viską"
+   },
+   "95869773684474447": {
+      "message": "Atkūrimo klaida"
+   },
+   "963232722931839477": {
+      "message": "Eilė tuščia"
+   },
+   "964983733596985457": {
+      "message": "Suderinamumas"
+   },
+   "97224266342934568": {
+      "message": "Viršutinis indeksas"
+   },
+   "993762601773196496": {
+      "message": "Perduoti"
+   },
+   "997742287268027221": {
+      "message": "Nepavyko įkelti failo"
+   },
+   "997890303689941626": {
+      "message": "Žr. visus vaizdo įrašų paieškos rezultatus"
+   }
+}

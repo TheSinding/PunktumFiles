@@ -1,0 +1,143 @@
+<html>
+    <head>
+        <title>MightyText Settings</title>
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script language="JavaScript" type="text/javascript" src="../scripts/libs/jquery-2.1.0.min.js"></script>
+        <script type="text/javascript" src="../scripts/libs/jstorage.js"></script>
+        
+        <link rel="stylesheet" type="text/css" href="../styles/options.css">
+        <link type="text/css" rel="stylesheet" href="../styles/font-awesome-4.2.0/css/font-awesome.css"/>
+    </head>
+    <body>
+          <div class="optionsContainer">
+            <h2 class="settingsTitle"><img src="../img/mightylogo2.png"> <i class="localized-string" local-key="settings_page_title">MightyText Chrome Extension Settings</i></h2>
+            <div class="settings-sub-title">
+                <div class="settings-sub-title-content"><i class="localized-string" local-key="notifications">Notifications</i>: </div>
+                <div class="notif-switch-wrapper" id="global-notifs-switch">
+                    <div class="onoffswitch">
+                        <input type="checkbox" class="onoffswitch-checkbox crx-setting settingsInput" value="1" name="global_notifications" id="global-notifs">
+                        <label class="onoffswitch-label" for="global-notifs">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="all-settings">
+                <div class="settingHolder">
+                    <div class="title localized-string" local-key="message_notifications">
+                        Message Notifications
+                    </div>
+                    <div class="settingsInputHolder">
+                        <input class="crx-setting settingsInput" name="message_notifications" id="message-notifs" type="checkbox"  value="1"/>
+                        <span class="localized-string" local-key="message_notifs_description">
+                            Notify me of incoming SMS, MMS, and Calls
+                        </span>
+                    </div>
+                    <div class="settingsInputHolder">
+                        <input class="crx-setting settingsInput" name="notif_auto_dismiss" id="notif-auto-dismiss" type="checkbox"  value="1"/>
+                        <span>
+                            <i class="localized-string" local-key="auto_dismiss_notifs_description">Automatically dismiss message notifications after</i>:
+                        </span>
+                        <sup><i class="fa fa-question-circle"></i></sup>
+                        <select class="crx-setting settingsSelect" name="notif_auto_dismiss_time" id="notif-auto-dismiss-time">
+                            <option class="localized-string" local-key="10_secs" value="10"></option>
+                            <option class="localized-string" local-key="20_secs" value="20"></option>
+                        </select>
+                    </div>
+                    <div class="sub-setting-holder">
+                        <div class="title localized-string" local-key="message_notifs_privacy">
+                            Message Notifications Privacy
+                        </div>
+                        <div class="settingsInputHolder">
+                            <input class="crx-setting settingsInput" name="notif_content" id="notif-content" type="radio" value="1"/>
+                            <span class="localized-string" local-key="display_sender_name_and_content">
+                                Display both the name of the sender and the message content
+                            </span>
+                        </div>
+                        <div class="settingsInputHolder">
+                            <input class="crx-setting settingsInput" name="notif_content" id="notif-content" type="radio" value="0"/>
+                            <span class="localized-string" local-key="display_sender_name_only">
+                                Only display the name of the sender
+                            </span>
+                        </div>
+                    </div>
+                    <div class="sub-setting-holder">
+                        <div class="title localized-string" local-key="message_notif_sound">
+                            Message Notification Sound
+                        </div>
+                        <div class="settingsInputHolder">
+                            <input class="crx-setting settingsInput" name="notif_sound_mode" id="notif-sound-mode" type="checkbox" value="1"/>
+                            <span class="localized-string" local-key="message_notif_sound_on">
+                                Play a sound on incoming message notifications
+                            </span>
+                        </div>
+                        <div class="settingsInputHolder">
+                            <span>
+                                <i class="localized-string" local-key="notif_sound">Notification Sound</i>:
+                            </span>
+                            <select class="crx-setting settingsSelect" name="notif_sound_tone" id="notif-sound-tone">
+                                <option value="Proxima.ogg">Default</option>
+                                <option value="ping.mp3">Ping</option>
+                                <option value="spring.mp3">Spring</option>
+                                <option value="tink.mp3">Tink</option>
+                                <option value="yeah.mp3">Yeah</option>
+                                <option value="pillsbury.mp3">Pillsbury</option>                                
+                            </select>
+                            <button class="settings-btn" id="sound-preview"><i class="localized-string" local-key="preview">Preview</i> <i class="fa fa-volume-up fa-fw"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="settingHolder">
+                    <div class="title localized-string" local-key="phone_bat_notifs">
+                        Phone Battery Notifications
+                    </div>
+                    <div class="settingsInputHolder">
+                        <input class="crx-setting settingsInput" name="notif_battery_low" id="lowBatteryNotif" type="checkbox" value="1" />
+                        <span class="localized-string" local-key="low_bat_notifs">
+                            Notify me when my phone battery is low
+                        </span>
+                    </div>
+                    <div class="settingsInputHolder">
+                        <input class="crx-setting settingsInput" name="notif_battery_fully_charged" id="fullBatteryNotif" type="checkbox" value="1" />
+                        <span class="localized-string" local-key="full_bat_notifs">
+                            Notify me when my phone battery is fully charged
+                        </span>
+                    </div>
+    
+                </div>
+                <div class="settingHolder">
+                    <div class="title">
+                        <i class="localized-string" local-key="phone_app_notifs">Phone App Notifications</i> <a class="learn-more" href="http://help.mightytext.net/knowledgebase/articles/358125-syncing-phone-app-notifications-to-your-computer" target="_blank"><sup><i class="fa fa-question-circle"></i></sup></a> <span style="font-size: 12px;font-weight: normal;">(<i class="localized-string" local-key="enabled_on_phone">if enabled on phone</i>)</span>
+                    </div>
+                    <div class="settingsInputHolder">
+                        <input class="crx-setting settingsInput" name="phone_app_notifications" id="phone-app-notifs" type="checkbox"  value="1"/>
+                        <span class="localized-string" local-key="push_phone_app_notifs_on">
+                            Notify me of phone app notifications
+                        </span>
+                    </div>
+                </div>
+                <div class="settingHolder" id="contacts-settings">
+                    <div class="title localized-string" local-key="contacts">
+                        Contacts
+                    </div>
+                    <div class="btn-wrapper">
+                        <button class="settings-btn localized-string" id="refresh-phone-contacts" local-key="refresh_contacts">Refresh Contacts</button>
+                    </div>
+                </div>
+            </div>
+            <div class="other-settings">
+            	<i class="localized-string" local-key="all_mt_settings_1">For all MightyText settings, load the settings tab in the</i> <a target="_blank" href="https://mightytext.net/web"> <i class="localized-string" local-key="all_mt_settings_2">MightyText Web App</i></a>
+            </div>
+          </div>
+		  <div class="notification" id="confirmation" style="display:none"><i class="localized-string" local-key="updated">Updated</i> <i class="fa fa-check"></i></div>
+		  <div class="notification" id="explanation" style="display:none">
+    		  <div class="remove-btn"><i class="fa fa-fw fa-times"></i></div>
+    		  <div class="content"></div>
+		  </div>
+		  <div class="notification" id="request-status" style="display: none"></div>
+
+          <script type="text/javascript" src="../scripts/common.js"></script>      
+          <script type="text/javascript" src="../scripts/options.js"></script>
+    </body>
+</html>

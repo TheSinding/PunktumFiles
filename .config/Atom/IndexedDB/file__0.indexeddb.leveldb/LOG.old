@@ -1,0 +1,36 @@
+2016/10/06-18:42:09.831 2417 Reusing MANIFEST /home/thesinding/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2016/10/06-18:42:09.831 2417 Recovering log #31
+2016/10/06-18:42:09.836 2417 Reusing old log /home/thesinding/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000031.log 
+2016/10/06-18:42:59.691 3195 Level-0 table #35: started
+2016/10/06-18:42:59.716 3195 Level-0 table #35: 1340815 bytes OK
+2016/10/06-18:42:59.724 3195 Delete type=0 #31
+2016/10/06-18:42:59.725 3195 Compacting 4@0 + 1@1 files
+2016/10/06-18:42:59.772 3195 Generated table #36: 3 keys, 90667 bytes
+2016/10/06-18:42:59.772 3195 Compacted 4@0 + 1@1 files => 90667 bytes
+2016/10/06-18:42:59.779 3195 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/06-18:42:59.779 3195 Delete type=2 #29
+2016/10/06-18:42:59.780 3195 Delete type=2 #27
+2016/10/06-18:42:59.780 3195 Delete type=2 #35
+2016/10/06-18:42:59.780 3195 Delete type=2 #25
+2016/10/06-18:42:59.780 3195 Delete type=2 #32
+2016/10/06-18:44:25.599 3195 Level-0 table #38: started
+2016/10/06-18:44:25.618 3195 Level-0 table #38: 1273543 bytes OK
+2016/10/06-18:44:25.626 3195 Delete type=0 #34
+2016/10/06-18:45:51.120 3195 Level-0 table #40: started
+2016/10/06-18:45:51.138 3195 Level-0 table #40: 1304622 bytes OK
+2016/10/06-18:45:51.145 3195 Delete type=0 #37
+2016/10/06-18:48:08.846 3195 Level-0 table #42: started
+2016/10/06-18:48:08.868 3195 Level-0 table #42: 1344025 bytes OK
+2016/10/06-18:48:08.876 3195 Delete type=0 #39
+2016/10/06-18:49:13.918 3195 Level-0 table #44: started
+2016/10/06-18:49:13.941 3195 Level-0 table #44: 1262697 bytes OK
+2016/10/06-18:49:13.949 3195 Delete type=0 #41
+2016/10/06-18:49:13.951 3195 Compacting 4@0 + 1@1 files
+2016/10/06-18:49:14.004 3195 Generated table #45: 3 keys, 97668 bytes
+2016/10/06-18:49:14.004 3195 Compacted 4@0 + 1@1 files => 97668 bytes
+2016/10/06-18:49:14.012 3195 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/06-18:49:14.012 3195 Delete type=2 #38
+2016/10/06-18:49:14.013 3195 Delete type=2 #40
+2016/10/06-18:49:14.013 3195 Delete type=2 #44
+2016/10/06-18:49:14.013 3195 Delete type=2 #42
+2016/10/06-18:49:14.014 3195 Delete type=2 #36

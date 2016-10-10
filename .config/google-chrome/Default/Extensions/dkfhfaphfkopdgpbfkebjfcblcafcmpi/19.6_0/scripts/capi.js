@@ -1,0 +1,102 @@
+var globalNewNotifMetadata={},socket,globalHaveCalledProcessPhoneStatusThisSession=!1;
+function _e2b2d8e928dd8c964f76923982d10b7b9686506e(){$.ajax({type:"GET",url:baseUrl+"/getJson?function=getChannelTokenForWebApp&client=CRX_WEBAPP&mins=120",success:function(a){console.log("Response from cloud after channel attempt (should have valid_token prepend): "+a);healthCheckArrayPending=[];time_last_success_mighty_ping=new Date;0>a.search("valid_token:")?console.log("No valid_token prepend found from Channel API!"):(a=a.replace("valid_token:",""),socket=(new goog.appengine.Channel(a)).open(),
+socket.onopen=function(){webapp_crx_time_last_channel_token_obtained=new Date;global_time_last_CAPI_rcvd=new Date;_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Socket Opened via Channel API with token: "+a,"green","14px");93===_ca0c0deea8fb4e9a92f70562c7c71a42822ce3c2(0,100)&&_gaq.push(["_trackEvent","Background","ChannelAPI-Open-Socket-1pct-Sample","",1])},socket.onmessage=function(a){1>Math.floor(1E4*Math.random())&&_gaq.push(["_trackEvent","Background","ChannelAPI-Message-Received-Sample-.01pct",
+"",1]);_2ffcff867d76eaad6c5607a20ef8bcdcca153655();global_time_last_CAPI_rcvd=new Date;_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Just received a CAPI at: "+new Date,"green");console.log("Message arrived via CAPI at: "+new Date+", CAPI data: "+a.data);_8f84d15bdb04c2084c555ca8148a7c4eaa6b0976(a.data)},socket.onerror=function(a){console.error("CAPI socket error!!! About to console the detail object");console.error(a);93===_ca0c0deea8fb4e9a92f70562c7c71a42822ce3c2(0,100)&&(_gaq.push(["_trackEvent",
+"Background","ChannelAPI-Socket-ONERROR-1pct-Sample","",1]),void 0!=a.code&&void 0!=a.description&&("401"==a.code?(_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Channel socket.onerror triggered.  Channel API Token expired!","red"),_gaq.push(["_trackEvent","Background","ChannelAPI-Socket-Error-1pct-Sample","Token Expired",1])):(_gaq.push(["_trackEvent","Background","ChannelAPI-Socket-Error-"+a.code+"-1pct-Sample",a.description,1]),_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Channel socket.onerror triggered.  Error code: "+
+a.code+" Error Description:"+a.description,"red"),socket.close())))},socket.onclose=function(a){_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Channel socket closed!","orange");93===_ca0c0deea8fb4e9a92f70562c7c71a42822ce3c2(0,100)&&_gaq.push(["_trackEvent","Background","ChannelAPI-Socket-ONCLOSE-1pct-Sample","",1]);setTimeout(function(){_e2b2d8e928dd8c964f76923982d10b7b9686506e()},300);console.log("------\x3e get a new Channel Token")})},error:function(a){}})}
+function _314c73d59528148b8daf667b6d9444f224e8a7a0(){var a=((new Date).getTime()-webapp_crx_time_last_channel_token_obtained.getTime())/1E3;console.log(" ");console.log("Seconds Since LAST CHANNEL TOKEN OBTAINED: "+_d2f510f63e504336f5da3c09a7b9b1d7c176712d(a,2)+" ("+_d2f510f63e504336f5da3c09a7b9b1d7c176712d(a/60,2)+" minutes)");13500<a?(console.log("has been > 3.75 hours, get a new channel token"),console.log("Restarting the CRX now..."),_75a3f6791f531f3f04a44f2332e1760564962648("CAPI-Token-Too-Old")):
+console.log("has not been > 3.75 hours since last CAPI channel token was retrieved, no need to get a new one.");console.log(" ")}
+function _9ee476716f1e4c3fb95fafbd6abccb4adf50e828(){var a=((new Date).getTime()-webapp_crx_time_last_successful_health_check_received.getTime())/1E3;console.log(" ");console.log("Seconds Since LAST SUCCESSFUL INCOMING CAPI: "+_d2f510f63e504336f5da3c09a7b9b1d7c176712d(a,2)+"secs ("+_d2f510f63e504336f5da3c09a7b9b1d7c176712d(a/60,2)+" minutes)");300<a&&_7245d443327f59a6033ba61f41db7e56f3676d55();480<a?(console.log("ALERT! has been >8 minutes since last incoming CAPI. Will RESTART CRX in 5 seconds . . ."),
+window.setTimeout(function(){_75a3f6791f531f3f04a44f2332e1760564962648("CAPI-Socket-Health-Check")},5E3)):console.log("----- has NOT been > 8 minutes since last incoming CAPI -- OK");console.log(" ")}
+function _7245d443327f59a6033ba61f41db7e56f3676d55(){console.log(" ");console.log("------------------------------------------------ NEW POLL - HealthCheckCAPI -----------------------------------");console.log("webapp-loop at: "+Date()+" for user email -> "+google_username_currently_logged_in);_314c73d59528148b8daf667b6d9444f224e8a7a0();body_text_to_send="CAPI_HEALTH_CHECK_FROM_CRX -- "+(new Date).getTime().toString();$.ajax({url:baseUrl+"/test?function=capi&body="+body_text_to_send+"&phone_num=123456789",
+type:"POST",dataType:"text",success:function(a){console.log(a);time_last_success_mighty_ping=new Date;-1!=a.search("user not logged in")?(console.log("User is not logged in to MightyText"),_7f994d2d698f4d48e48b760f7dc4815663234040("user-not-logged-in"),socket.close(),"SIGNED_IN"==capi_helper_global_login_state&&(_7090fdea2e3abbf2c7d2451d174f3d9835681edf(),capi_helper_global_login_state="SIGNED_OUT")):-1!=a.search("CAPI test sent successfully")&&(_7f994d2d698f4d48e48b760f7dc4815663234040("user-logged-in"),
+capi_helper_global_login_state="SIGNED_IN")}})}
+
+function recordIncomingMessageNotifImpression(data){
+	if(
+		(typeof data != "undefined")&&
+		(data.hasOwnProperty("new_reminder_btn"))
+	){
+		var eventNameSuffix = "-legacy";
+		
+		if(data.new_reminder_btn != false){
+			eventNameSuffix = "-new-reminder-btn";
+		}
+		
+		if(typeof google_username_currently_logged_in != "undefined"){
+			var firstLetterOfUserEmail = google_username_currently_logged_in.charAt(0),
+				letterToSearchFor = "k";
+			
+			if(firstLetterOfUserEmail == letterToSearchFor){//only users w/ username beginning w/ letter "k"
+				_kmq.push(['record', 'incoming-message-notif-shown'+eventNameSuffix+'-letter-'+letterToSearchFor, {incoming_msg_notif_type: data.msg_type}]);
+			}			
+		}
+
+	}
+	
+}
+
+function _8f84d15bdb04c2084c555ca8148a7c4eaa6b0976(a){webapp_crx_time_last_successful_health_check_received=new Date;var b=!1,c=jQuery.parseJSON(a);if(void 0!==c.new_content){if(a=c.new_content,!(-1<a.body.search("CAPI_HEALTH_CHECK")||-1<a.body.search("USER_UPDATED_SETTINGS_IN_WEBAPP"))){if(!_fc426bc16ecc22002b42ddc8da8731c089594124("message_notifications"))return!1;window.localStorage.notif_content&&"0"==window.localStorage.notif_content&&(b=!0);if(0==a.stale_notif_flag&&61!=a.inbox_outbox&&84!=
+a.type&&85!=a.type){var g="",e="",f,d=_33b4d7d9225174466475299453b314abad6138d3(a.body);10==a.type?(g="",e=d,f="SMS"):11==a.type?void 0!==a.mms_object_key?(g=chrome.i18n.getMessage("pic_msg_from")+" ",e=d,f="MMS"):(g="MMS from ",e="Image is downloading on phone..."):20==a.type?(g=chrome.i18n.getMessage("group_msg_from")+" ",e=d,f="GroupText"):21==a.type?(g=chrome.i18n.getMessage("group_pic_msg_from")+" ",e=d,f="GroupPicText"):80==a.type?g=chrome.i18n.getMessage("incoming_call_from")+" ":81==a.type&&
+(g=chrome.i18n.getMessage("missed_call_from")+" ");var h="",h=_8b6cdd1c24c701cbeb68fb56e089b3c6394b3079(a.phone_num_clean,a.phone_num),d=_784ba23368856b129ccbe0f4e1ca5bd2fbb4f9eb(a.phone_num_clean,a.phone_num),k=Math.floor(4*Math.random());"undefined"!=typeof f&&0===k&&_kmq.push(["record","Incoming-Message-25pct",{Type:f,Client:"CRX"}]);b&&void 0==a.enlargeMMSMode&&(e=chrome.i18n.getMessage("click_to_see_message")+"...");window.localStorage.notif_auto_dismiss&&"1"==window.localStorage.notif_auto_dismiss&&
+(notif_dismissal_time=1E3*parseInt(window.localStorage.notif_auto_dismiss_time));globalNewNotifMetadata[a.id]=a;g+=h;h=e+"\r\n\r\n"+_812b2a0c09b1f74c11e19ddcc0526ef4b39ec299(a.ts_server,!0);f=chrome.i18n.getMessage("reply");if(20==a.type||21==a.type)d=_c946a43efaeeff1db0cbd3d34b30541e024cff09(a.content_author,!0),f=_8b6cdd1c24c701cbeb68fb56e089b3c6394b3079(d,a.content_author),d=_784ba23368856b129ccbe0f4e1ca5bd2fbb4f9eb(d,a.content_author),g=chrome.i18n.getMessage("group_mms_from")+"\r\n"+f,f=_8b6cdd1c24c701cbeb68fb56e089b3c6394b3079("N/A",
+a.phone_num),h=e+"\r\n\r\n("+f+")",f=chrome.i18n.getMessage("reply_to_group");e=chrome.i18n.getMessage("remind_me_in");k="../img/notifications/alarm_bell_snooze-48.png";
+
+//old code
+// "exp-flag-not-set"!=$.jStorage.get("mt_reminders_experiment","exp-flag-not-set")&&(e=chrome.i18n.getMessage("remind_me_in_new"),k="../img/notifications/crx-reminder-inc-msg-snooze5.png");
+if(
+		(a.type == 10)||
+		(a.type == 20)
+){//user's in the exp
+    var checkIfUsersExpFlagIsSet = $.jStorage.get('mt_reminders_experiment', "exp-flag-not-set"),
+        notifImpressionOptions = {
+            msg_type: a.type
+        };
+
+	if(checkIfUsersExpFlagIsSet != 'exp-flag-not-set'){
+		e = chrome.i18n.getMessage("remind_me_in_new");
+		k = "../img/notifications/crx-reminder-inc-msg-snooze5.png";
+		notifImpressionOptions.new_reminder_btn = true;
+	} else {
+		notifImpressionOptions.new_reminder_btn = false;
+	}
+	if(!a.hasOwnProperty("msg_reminder")){//don't record an impression of a LEGACY "reminder" notif (from single contact/group message w/o pic)
+		recordIncomingMessageNotifImpression(notifImpressionOptions);
+	}
+}
+
+if(11==a.type||21==a.type)b||(d=baseUrl+"/imageserve?function=fetchFile&id="+a.id),e=chrome.i18n.getMessage("view_full_pic"),k="../img/notifications/photoview_32.png";
+if(80==a.type||81==a.type)f=chrome.i18n.getMessage("send_text_msg"),80==a.type&&(e=chrome.i18n.getMessage("decline_on_phone"),k="../img/notifications/end_call_notif.png"),a.hasOwnProperty("missed_call_reminder")&&(h=a.body);
+
+if(//don't want to record an impression if the notif is generated from a click of the LEGACY reminder button in the missed call notif
+	(a.type == 81)&&
+	(!a.hasOwnProperty("missed_call_reminder"))
+){
+	recordIncomingMessageNotifImpression({msg_type: a.type,new_reminder_btn: false});	
+}
+
+var defaultButtonArray = [{title:f,iconUrl:"../img/notifications/Reply-256.png"},{title:e,iconUrl:k}];
+b={type:"basic",title:g,message:h,priority:2,eventTime:Date.now(),isClickable:!0,iconUrl:d,buttons:defaultButtonArray};
+
+void 0!==a.enlargeMMSMode?(b={type:"image",title:g,message:h,iconUrl:d,priority:2,eventTime:Date.now(),imageUrl:baseUrl+"/imageserve?function=fetchFile&id="+
+a.id,buttons:[{title:f,iconUrl:"../img/notifications/Reply-256.png"}]},chrome.notifications.create(a.id+"-picture",b,function(a){window.localStorage.notif_auto_dismiss&&"1"==window.localStorage.notif_auto_dismiss&&_501841532e653ca08fe8590565cf915540b3a799(a,notif_dismissal_time);_a0b818d8a313f49406787ab60651b5d5970bed28(a)})):chrome.notifications.create(a.id,b,function(a){_8c845d466fab1a4be9dc6360c537ecc601d06373();_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Just created a Incoming Message Notif at: "+
+new Date+"with the ID "+a,"green");_a0b818d8a313f49406787ab60651b5d5970bed28(a);window.localStorage.notif_auto_dismiss&&"1"==window.localStorage.notif_auto_dismiss&&_501841532e653ca08fe8590565cf915540b3a799(a,notif_dismissal_time)})}}}else if(void 0!==c.initial_mms_wakeup){if(!_fc426bc16ecc22002b42ddc8da8731c089594124("message_notifications"))return!1;a=c.initial_mms_wakeup;d=_c946a43efaeeff1db0cbd3d34b30541e024cff09(a.content_author,!0);b=_8b6cdd1c24c701cbeb68fb56e089b3c6394b3079(d,a.content_author);
+d=_784ba23368856b129ccbe0f4e1ca5bd2fbb4f9eb(d,a.content_author);e="";e=20==a.type?chrome.i18n.getMessage("incoming_group_mms")+" "+b+"...":chrome.i18n.getMessage("incoming_photo_message")+" "+b+"...";chrome.notifications.create("incoming_mms_wakeup",{type:"basic",priority:2,title:e,message:"",iconUrl:d},function(a){_a0b818d8a313f49406787ab60651b5d5970bed28(a);console.log('just created a notif with the ID: "'+a+'"');_501841532e653ca08fe8590565cf915540b3a799(a,1E4)})}else if(void 0!==c.phone_status){b=
+c.phone_status;d="";a=Math.floor(b.battery_level);e=b.battery_is_charging;f=((new Date).getTime()-parseInt($.jStorage.get("ts_last_battery_alert_notif_shown",0)))/1E3;chrome.runtime.sendMessage({phoneStatus:b},function(a){console.log(a)});_997c26a4b5c2e3f26808173b6bcbdf8b37bf9fbc(b);console.log("Num seconds since last battery alert notification on this CRX: "+f);$.jStorage.set("latest_phone_status",b,{TTL:36E4});g=_fc426bc16ecc22002b42ddc8da8731c089594124("notif_battery_fully_charged");h=_fc426bc16ecc22002b42ddc8da8731c089594124("notif_battery_low");
+if("true"==e&&0!=g)return console.log("phone is charging - no notification to consider, unless battery is at 100%"),99<a&&3600<f&&(void 0!==b.ts_phone_utc&&(b=b.ts_phone_utc/1E3,b=moment.unix(b).format("h:mm a"),d="(as of "+b+")"),a={type:"basic",title:chrome.i18n.getMessage("full_batt_notif_title"),message:chrome.i18n.getMessage("full_batt_notif_content")+".\r\n\r\n\r\n"+d,priority:2,eventTime:Date.now(),iconUrl:"../img/notifications/battery-full.png",buttons:[{title:chrome.i18n.getMessage("bat_notif_settings"),
+iconUrl:"../img/notifications/settings.png"}]},b=(new Date).getTime().toString(),$.jStorage.set("ts_last_battery_alert_notif_shown",b),b=_0ffa571a6aba5be7fc6c07a6b3bca90d95a6bf50(4),chrome.notifications.create("notif-battery-full-"+b,a,function(a){_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Just created a Batt Full at: "+new Date+"with the ID "+a,"green");_a0b818d8a313f49406787ab60651b5d5970bed28(a);_501841532e653ca08fe8590565cf915540b3a799(a,4E4)})),!1;"false"==e&&0!=h&&2700<f&&(10>=a||12==a||14==
+a||16==a)&&(void 0!==b.ts_phone_utc&&(b=b.ts_phone_utc/1E3,b=moment.unix(b).format("h:mm a"),d="(as of "+b+")"),a={type:"basic",title:chrome.i18n.getMessage("low_bat_notif_title"),message:chrome.i18n.getMessage("low_bat_notif_content")+": "+a+"%  "+d,priority:2,eventTime:Date.now(),iconUrl:"../img/notifications/low_battery_48.png",buttons:[{title:"Battery alert settings",iconUrl:"../img/notifications/settings.png"}]},b=(new Date).getTime().toString(),$.jStorage.set("ts_last_battery_alert_notif_shown",
+b),b=_0ffa571a6aba5be7fc6c07a6b3bca90d95a6bf50(4),chrome.notifications.create("notif-battery-low-"+b,a,function(a){_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Just created a Batt Low at: "+new Date+"with the ID "+a,"green");_a0b818d8a313f49406787ab60651b5d5970bed28(a);_501841532e653ca08fe8590565cf915540b3a799(a,45E3)}))}else if(void 0!==c.ack_processed)a=c.ack_processed,0>a.status_route&&(console.log("message failed!"),console.log(a),b=a.body,d=a.phone_num_clean,d=_8b6cdd1c24c701cbeb68fb56e089b3c6394b3079(d,
+a.phone_num),console.log({name:d,body:b}),globalNewNotifMetadata[a.id]=a,b={type:"basic",title:"Warning",message:chrome.i18n.getMessage("msg_send_failure").replace("%msg_body%",b).replace("%contact_name%",d),priority:2,eventTime:Date.now(),iconUrl:"../img/notifications/error_icon.png"},chrome.notifications.create("message-send-failure-"+a.id,b,function(a){_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("Just created a Message Failed Notif at: "+new Date+"with the ID "+a,"green");_a0b818d8a313f49406787ab60651b5d5970bed28(a);
+_501841532e653ca08fe8590565cf915540b3a799(a,3E4)}));else if(void 0!==c.device_notification)a=c.device_notification,b=String(a.ts_post),console.log(a),deviceNotifManagerArray[b]={},deviceNotifManagerArray[b].package_name=a.package_name,deviceNotifManagerArray[b].device_id=a.device_id,deviceNotifManagerArray[b].id=a.id,deviceNotifManagerArray[b].app_name=a.app_name,deviceNotifManagerArray[b].original_object=a,0!=_fc426bc16ecc22002b42ddc8da8731c089594124("phone_app_notifications")&&_d11112ea78860908573947206b8187394049cba4(a);
+else if(void 0!==c.end_call_info)a=c.end_call_info,1E4<(new Date).getTime()-a.ts_ended_utc||(b={type:"basic",message:"",priority:2,eventTime:Date.now(),iconUrl:"../img/notifications/end_call_notif.png"},1==a.status?b.title=chrome.i18n.getMessage("call_declined"):0==a.status?b.title=chrome.i18n.getMessage("call_decline_error"):-99==a.status&&(b.title=chrome.i18n.getMessage("call_in_progress"),b.iconUrl="../img/notifications/call_in_progress.png"),chrome.notifications.create("end-call-status"+a.ts_ended_utc,
+b,function(a){_a0b818d8a313f49406787ab60651b5d5970bed28(a);_501841532e653ca08fe8590565cf915540b3a799(a,3E4)}));else if(void 0!==c.client_changed_login_state)console.log(c.client_changed_login_state),setTimeout(function(){_f9384be676e5fe8e6249d6c2432ceb2718a3a09d()},1E3);else if(void 0!=c.contact_photo_refreshed_from_phone)a=c.contact_photo_refreshed_from_phone.phone_num,d=_c946a43efaeeff1db0cbd3d34b30541e024cff09(a,"do_not_zeropad"),_ef432847dd3dbfd96fd64d718981bcd960470e92(a,d);else if(void 0!==
+c.generic_notification){var l={title:"MightyText",type:"basic",priority:2,iconUrl:"../img/48x48_MT_logo_boom_gradient_white.png"};$(c.generic_notification).each(function(a,b){var c=(new Date).getTime();b.hasOwnProperty("subject")&&(b.hasOwnProperty("type")&&"-1"==b.type?(l.title=b.subject,c+="-msg-send-quota"):l.title=b.subject);var d=b.body.replace(/(<\ ?\/?br\ ?\/?>)+/,"\n");l.message=d;b.hasOwnProperty("additional_info")&&-1<b.additional_info.indexOf("show-pro-button")&&(l.buttons=[{title:"Go Pro",
+iconUrl:"../img/notifications/go_pro.png"}]);chrome.notifications.create("generic-notif-"+c,l,function(a){_a0b818d8a313f49406787ab60651b5d5970bed28(a);_501841532e653ca08fe8590565cf915540b3a799(a,3E5);console.log("created generic notif with ID: "+a)})})}else if(c["contacts-names-update-complete"])_ce03771a5f5e428efc4b664ea4bfbdc9d0621070(),_9fcea60249e16ef6e8feae3718db66659eab5e25(function(){_1322958b09686e7c690840bc7de375bf72537dfb();_238a7800e61d7eeb8384cbdf2ef339be8a652455()});else if(c.hasOwnProperty("reminder_id")){if(!_fc426bc16ecc22002b42ddc8da8731c089594124("reminder_notif"))return!1;
+a=c.name;b=c.description;d=c.token_id;e={type:"basic",title:a,message:"",priority:2,iconUrl:"../img/notifications/reminder-crx-notif.png",buttons:[{title:"Snooze...",iconUrl:"../img/notifications/crx-reminder-snooze.png"}]};50<a.length&&(e.title="Reminder",e.message=a);0<e.length&&(e.contextMessage=b);chrome.notifications.create("reminder-"+d,e,function(a){_d4095087ebb34049883e9e6fcbba7d3c64f8bcef(c);_501841532e653ca08fe8590565cf915540b3a799(a,25E3);globalNewNotifMetadata[a]=c})}else c.hasOwnProperty("get_all_device_notifications_transaction_completed")?
+_8c5a30d3198aad25d39f5451535c1ff6a3e3c470({capi:c}):c.hasOwnProperty("cancel_single_device_notification_transaction_completed")?_8c5a30d3198aad25d39f5451535c1ff6a3e3c470({capi:c}):console.log("unknown incoming CAPI content")}function _3416e8e1a645d99e413b11aca7d0fd4c29cfed7d(){webapp_crx_time_last_successful_health_check_received=new Date}
+function _01049b60b64526d73fbcb4724da39cbd9a1bce4b(a,b){_439fc287471807456f79b1fd2d9ee4f7a7e1e6fc("inside of getRefreshedContactPhotoAndSaveToDom.  We are getting a new contact photo for the full num: "+b);var c="phone_num_clean="+a+"&phone_num_full="+encodeURIComponent(b);$.ajax({url:baseUrl+"/phonecontact?function=getPhoneContactPhotos",data:c,type:"POST",dataType:"json",success:function(b){$.jStorage.set(username_prefix_jstrg_purpose+"|PH_PIC_"+a,{contactThumbnailBinary:b.phone_contact_photo_status},
+{TTL:12096E5})},error:function(a){}})}function _d4095087ebb34049883e9e6fcbba7d3c64f8bcef(a){$.ajax({url:a.callback_url,type:"POST",data:{action:"delivered",token_id:a.token_id},dataType:"json",success:function(a){console.log(a)},complete:function(a,c){console.log("request to update complete! status: "+c)}})}
+function _997c26a4b5c2e3f26808173b6bcbdf8b37bf9fbc(a){if(globalHaveCalledProcessPhoneStatusThisSession)return!1;globalHaveCalledProcessPhoneStatusThisSession=!0;a.android_version&&(Intercom("update",{android_version:a.android_version}),5>_ca0c0deea8fb4e9a92f70562c7c71a42822ce3c2(0,100)&&_gaq.push(["_trackEvent","Tracker","Android-Version-5pct-Sample",a.android_version]));if(a.android_version&&0==a.android_version.indexOf("4.4")||0==a.android_version.indexOf("4.3")||0==a.android_version.indexOf("5.0")||
+0==a.android_version.indexOf("5.1"))$.jStorage.set("android_4.3_or_higher",a.android_version),a.notif_listen_enabled&&(5>_ca0c0deea8fb4e9a92f70562c7c71a42822ce3c2(0,100)&&_gaq.push(["_trackEvent","Tracker","Notif-Listen-Enabled-5pct-Sample",a.notif_listen_enabled]),"1"==a.notif_listen_enabled&&$.jStorage.set("notif_listen_on","1",{TTL:12096E5}))}
+function _784ba23368856b129ccbe0f4e1ca5bd2fbb4f9eb(a,b){var c="../img/notifications/silhouette.jpg",g=$.jStorage.get(username_prefix_jstrg_purpose+"|PH_PIC_"+a,"no-jstorage-val-found");"no-jstorage-val-found"==g?_ef432847dd3dbfd96fd64d718981bcd960470e92(b,a):"NO_PHOTO"!=g.contactThumbnailBinary&&2<g.contactThumbnailBinary.length&&(c="data:image/jpeg;base64,"+g.contactThumbnailBinary);return c};

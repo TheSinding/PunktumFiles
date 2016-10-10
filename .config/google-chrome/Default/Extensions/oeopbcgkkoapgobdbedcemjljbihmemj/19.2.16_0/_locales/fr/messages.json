@@ -1,0 +1,1571 @@
+{
+   "24hourMode": {
+      "message": "Horloge en mode 24 heures"
+   },
+   "24hourModeTitle": {
+      "message": "Afficher l'heure en mode 24 heures, par ex. 18:00"
+   },
+   "EOM": {
+      "message": "FDM"
+   },
+   "EOMToolTip": {
+      "message": "Fin Du Message"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NE PAS RETIRER"
+   },
+   "NAME_says": {
+      "message": "$1 dit"
+   },
+   "XNewEmails": {
+      "message": "$1 nouveaux e-mails"
+   },
+   "Xattachments": {
+      "message": "$1 Pièces jointes"
+   },
+   "Xday": {
+      "message": "jour"
+   },
+   "Xdays": {
+      "message": "$1 jours"
+   },
+   "Xhour": {
+      "message": "$1 heure"
+   },
+   "Xhours": {
+      "message": "$1 heures"
+   },
+   "Xline": {
+      "message": "$1 ligne"
+   },
+   "Xlines": {
+      "message": "$1 lignes"
+   },
+   "Xminute": {
+      "message": "$1 minute"
+   },
+   "Xminutes": {
+      "message": "$1 minutes"
+   },
+   "Xseconds": {
+      "message": "$1 secondes"
+   },
+   "Xuser": {
+      "message": "$1 utilisateur"
+   },
+   "Xusers": {
+      "message": "$1 utilisateurs"
+   },
+   "aboutMe": {
+      "message": "A propos de moi"
+   },
+   "accessDetails": {
+      "message": "Détails d'accès"
+   },
+   "account": {
+      "message": "Compte"
+   },
+   "accounts": {
+      "message": "Comptes"
+   },
+   "accountsAndLabels": {
+      "message": "Comptes/Étiquettes"
+   },
+   "actionButtons": {
+      "message": "Boutons d'action pour les pop-up et la fenêtre de notification avancée"
+   },
+   "addAccount": {
+      "message": "Ajouter un compte"
+   },
+   "addAccountsStaySignedIn": {
+      "message": "Ajouter des comptes et rester connecté"
+   },
+   "addEmailAlias": {
+      "message": "Ajouter un alias pour votre courriel"
+   },
+   "addEmailAliasToolTip": {
+      "message": "Ajouter un alias dans la fenêtre popup comme \u003Cb>Jason Email\u003C/b> au lieu de longboringemail@gmail.com"
+   },
+   "addSkinsOrThemes": {
+      "message": "Skins et thèmes"
+   },
+   "addSpeechEngines": {
+      "message": "Ajouter des moteurs de reconnaissance vocale"
+   },
+   "addToGoogleCalendar": {
+      "message": "Ajouter à Google Agenda"
+   },
+   "alias": {
+      "message": "Alias"
+   },
+   "all": {
+      "message": "Tous"
+   },
+   "allMail": {
+      "message": "Tous les messages"
+   },
+   "alreadyDonated": {
+      "message": "J'ai déjà effectué un don"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "Faire un don une fois et débloquer aussi des fonctionnalités supplémentaires de $1"
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "Checker Plus pour Google Calendar"
+   },
+   "alsoTryMy": {
+      "message": "Essayez aussi mon"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "Toujours afficher le contenu externe (par exemple les images)"
+   },
+   "amount": {
+      "message": "Montant"
+   },
+   "archiveLink": {
+      "message": "Archive"
+   },
+   "archiveLinkTitle": {
+      "message": "Archiver le message"
+   },
+   "archive_read": {
+      "message": "L'archivage du message le marque comme lu"
+   },
+   "archive_readToolTip": {
+      "message": "Marquer un message comme lu lorsque vous l'archivez"
+   },
+   "autoAdjust": {
+      "message": "Réglage auto"
+   },
+   "autoAdjustAndImages": {
+      "message": "Réglage automatique + images"
+   },
+   "autoAdvanceTo": {
+      "message": "Passage automatique à"
+   },
+   "autoDetectAccounts": {
+      "message": "Cette appli va automatiquement détecter les comptes auxquels vous êtes connecté."
+   },
+   "autoDetectAccountsStaySignedIn": {
+      "message": "Détection automatique des comptes authentifiés "
+   },
+   "back": {
+      "message": "En arrière"
+   },
+   "backToInbox": {
+      "message": "Retour à la boîte de réception"
+   },
+   "backgroundColor": {
+      "message": "Couleur d'arrière-plan"
+   },
+   "brightness": {
+      "message": "Luminosité"
+   },
+   "button": {
+      "message": "Bouton"
+   },
+   "buttonClickAction": {
+      "message": "Action du clic de bouton"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "changeButtonClickActionToOpenGmail": {
+      "message": "Pour que le clic de l'icône ouvre Gmail"
+   },
+   "changeLabels": {
+      "message": "Modifier les étiquettes"
+   },
+   "changeSummary": {
+      "message": "Changer le format du sommaire"
+   },
+   "changeTheme": {
+      "message": "Changer les thèmes"
+   },
+   "changeThisDomain": {
+      "message": "Pour modifier le nom de domaine de l'adresse électronique maintenant $1"
+   },
+   "changeThisDomain2": {
+      "message": "Déconnectez-vous puis reconnectez-vous sous un autre nom d'utilisateur"
+   },
+   "changelog": {
+      "message": "Changelog"
+   },
+   "checkPrimaryOrMore": {
+      "message": "Vérifier l'étiquette principale ou autre"
+   },
+   "checkerPlusPopupWindow": {
+      "message": "Checker Plus fenêtre pop-up"
+   },
+   "chime": {
+      "message": "Carillon"
+   },
+   "chooseEndColor": {
+      "message": "Choisissez la couleur de fin"
+   },
+   "chooseNoUnreadEmail": {
+      "message": "Choisissez l'icône lorsqu'il n'y a aucun courriel non lu"
+   },
+   "choosePaymentMethod": {
+      "message": "Choisissez un mode de paiement par carte de crédit"
+   },
+   "chooseSignedOutIcon": {
+      "message": "Choisissez l'icône lorsque vous êtes déconnecté"
+   },
+   "chooseStartColor": {
+      "message": "Choisissez la couleur de début"
+   },
+   "chooseUnreadEmail": {
+      "message": "Choisissez l'icône pour les courriels non lus"
+   },
+   "chromePlaced2ButtonLimit": {
+      "message": "Chrome a placé une limite de 2 boutons !"
+   },
+   "clickForMoreInfo": {
+      "message": "Cliquez ici pour plus d'informations"
+   },
+   "clickToPreviewEmail": {
+      "message": "Cliquez pour afficher un aperçu de l'email"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "Cliquer n'importe où sur la notification"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "En cliquant sur le logo Checker Plus for Gmail"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "closeAfterX": {
+      "message": "Fermer après"
+   },
+   "closeAfterX_andThen": {
+      "message": "et puis"
+   },
+   "closesPopupWindow": {
+      "message": "Ferme la fenêtre pop-up"
+   },
+   "collapseEmailAccounts": {
+      "message": "Par défaut, réduire les comptes de messagerie"
+   },
+   "collapseEmailAccountsToolTip": {
+      "message": "Utilisez cette option pour donner une meilleure vue d'ensemble de tous les comptes emails non lus, de sorte que vous pouvez choisir lesquels ouvrir avec la flèche"
+   },
+   "colorMessage": {
+      "message": "Un don est requis pour enregistrer ces couleurs !"
+   },
+   "colorSubject": {
+      "message": "Courriel d'échantillon pour jouer avec les couleurs"
+   },
+   "colors": {
+      "message": "Couleurs"
+   },
+   "comfortable": {
+      "message": "Confortable"
+   },
+   "commaSeparatedEmails": {
+      "message": "c'est à dire, séparées par des virgules."
+   },
+   "compact": {
+      "message": "Compact"
+   },
+   "compose": {
+      "message": "Composer"
+   },
+   "composeLinkTitle": {
+      "message": "Nouveau message"
+   },
+   "contacts": {
+      "message": "Contacts"
+   },
+   "contactsHome": {
+      "message": "D"
+   },
+   "contactsMessage": {
+      "message": "Survolez les photos pour zoomer"
+   },
+   "contactsMobile": {
+      "message": "P"
+   },
+   "contactsOther": {
+      "message": "A"
+   },
+   "contactsWork": {
+      "message": "T"
+   },
+   "continue": {
+      "message": "Continuer"
+   },
+   "continueToOptions": {
+      "message": "Continuer vers les options"
+   },
+   "continueWithoutFeatures": {
+      "message": "Continuer à utiliser cette extension, sans ses fonctionnalités supplémentaires."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "Continuer sans déverrouiller les fonctionnalités supplémentaires"
+   },
+   "contrast": {
+      "message": "Contraste"
+   },
+   "contribute": {
+      "message": "Contribuer"
+   },
+   "contributeToContinue": {
+      "message": "Faites un don pour continuer"
+   },
+   "conversationList": {
+      "message": "Liste de conversation"
+   },
+   "conversationView": {
+      "message": "Vue conversation"
+   },
+   "conversationViewToolTip": {
+      "message": "Définit si les courriels du même sujet sont regroupés"
+   },
+   "copyEmailAddress": {
+      "message": "Copier l'adresse de courriel"
+   },
+   "cozy": {
+      "message": "Douillet"
+   },
+   "custom": {
+      "message": "Changer"
+   },
+   "customButtonsToolTip": {
+      "message": "Définissez votre propre couleur"
+   },
+   "customToThisExtension": {
+      "message": "Changer pour cette extension"
+   },
+   "dark": {
+      "message": "Sombre"
+   },
+   "darkToolTip": {
+      "message": "Contraste foncé"
+   },
+   "dayAgo": {
+      "message": "Il y a $1 jour"
+   },
+   "daysAgo": {
+      "message": "Il y a $1 jours"
+   },
+   "daysArray": {
+      "message": "dimanche,lundi,mardi,mercredi,jeudi,vendredi,samedi"
+   },
+   "daysArrayShort": {
+      "message": "dim,lun,mar,mer,jeu,ven,sam"
+   },
+   "default": {
+      "message": "Défaut"
+   },
+   "delete": {
+      "message": "Supprimer"
+   },
+   "deleteLink": {
+      "message": "Supprimer"
+   },
+   "deleteLinkTitle": {
+      "message": "Supprimer le message"
+   },
+   "deletingMarksAsRead": {
+      "message": "Marquer un message comme lu lorsque vouz supprimer"
+   },
+   "description": {
+      "message": "Affiche les messages non lus dans votre Google Mail et Google Apps, ou même de les écouter en cours de lecture"
+   },
+   "developingMore": {
+      "message": "Je n'oublie pas vos autres suggestions... J'y travaille !"
+   },
+   "differentSounds": {
+      "message": "Sons pour les comptes de messagerie différents, étiquettes ou personnes"
+   },
+   "differentSoundsToolTip": {
+      "message": "Vous pouvez déjà choisir un son pour tous vos comptes de messagerie, mais cette options permet de choisir des sons différents par compte de messagerie, étiquette ou personne !"
+   },
+   "ding": {
+      "message": "Ding"
+   },
+   "discoverMyApps": {
+      "message": "Découvrez mes apps"
+   },
+   "dismiss": {
+      "message": "Ignorer"
+   },
+   "display": {
+      "message": "Affichage"
+   },
+   "displayDensity": {
+      "message": "Densité de l'écran"
+   },
+   "displayImagesBelow": {
+      "message": "Afficher les images ci-dessous"
+   },
+   "displaySenders_1": {
+      "message": "Expéditeur affichage"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "Pas me prévenir des mises à jour"
+   },
+   "doNotShowNotificationIfGmailTabActive": {
+      "message": "Ne pas afficher de notification si vous êtes déjà dans votre onglet Gmail"
+   },
+   "doNotShowNotificationIfGmailTabActiveToolTip": {
+      "message": "Utile si vous « vivez » dans votre fenêtre Gmail :) et que vous verrez probablement le nouveau courriel en même temps que la notification"
+   },
+   "doTheSameThing": {
+      "message": "Faire la même chose"
+   },
+   "donate": {
+      "message": "Faire un don"
+   },
+   "donationRequired": {
+      "message": "Contribution requise"
+   },
+   "done": {
+      "message": "Terminé"
+   },
+   "dropshadow": {
+      "message": "Ombre"
+   },
+   "duplicateLabelWarning": {
+      "message": "Je vous recommande de sélectionner seulement 1 des 3 principaux labels (boîte de réception, Important, tout le courrier), sinon vous obtiendrez des doublons !"
+   },
+   "email": {
+      "message": "Courriel"
+   },
+   "emailFrom_NAME": {
+      "message": "Email de $1"
+   },
+   "emailPreview": {
+      "message": "Aperçu du courriel"
+   },
+   "emailPreviewToolTip": {
+      "message": "Si cette option est \u003Cb>cochée\u003C/b> et que vous cliquez n'importe où sur un email dans la fenêtre (ex. le sommaire), un aperçu plus grand s'ouvrira.\u003Cbr>Si l'option est \u003Cb>décochée\u003C/b>, en cliquant sur le courriel, cela l'ouvrira dans la page Web de Gmail"
+   },
+   "emailSummary": {
+      "message": "Sommaire du courriel"
+   },
+   "emailSummaryToolTip": {
+      "message": "Le petit extrait de texte sous chaque courriel affiche les premières lignes du message dans la fenêtre pop-up"
+   },
+   "email_from": {
+      "message": "expéditeur"
+   },
+   "email_message": {
+      "message": "message"
+   },
+   "email_subject": {
+      "message": "objet"
+   },
+   "enableLanguageDetection": {
+      "message": "Détecter la langue dans le courrier"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "Parler dans la langue qui est détectée dans le courrier électronique en utilisant le service detectlanguage.com !"
+   },
+   "enableVoiceInputToolTip": {
+      "message": "Ajoute un microphone, à votre page Web de Gmail, au bas d'une boîte de message ou d'une réponse"
+   },
+   "enjoyingThisApp": {
+      "message": "... vous aimez ? $1 à propos !"
+   },
+   "enter": {
+      "message": "Entrez"
+   },
+   "enterAnAmount": {
+      "message": "Vous devez entrer un montant !"
+   },
+   "esc": {
+      "message": "Aperçu du courriel afficher/masquer"
+   },
+   "example": {
+      "message": "exemple"
+   },
+   "exceptionsToChooseFrom": {
+      "message": "Choisir l'exception de"
+   },
+   "extensionUpdated": {
+      "message": "Extension mise à jour !"
+   },
+   "extensionUpdates": {
+      "message": "Pas me prévenir des mises à jour"
+   },
+   "extraFeatures": {
+      "message": "Fonctionnalités supplémentaires"
+   },
+   "extraFeaturesClicked": {
+      "message": "Vous avez essayé d'utiliser l'une de ces fonctionnalités supplémentaires..."
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Annulation ou échec de la transaction Paypal ! Essayer Google Checkout ?"
+   },
+   "feedback": {
+      "message": "Vos commentaires"
+   },
+   "fetchContactsEvery": {
+      "message": "Extraire les contacts tous les"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "Attribuez une valeur plus élevée si vous avez beaucoup de contacts ou un internet lent"
+   },
+   "firstAndLastName": {
+      "message": "Prénom "
+   },
+   "firstNameOnly": {
+      "message": "prénom seulement"
+   },
+   "followMe": {
+      "message": "Suis-moi"
+   },
+   "forever": {
+      "message": "Toujours"
+   },
+   "forums": {
+      "message": "Forums"
+   },
+   "from": {
+      "message": "De"
+   },
+   "fullLinkTitle": {
+      "message": "Afficher le message"
+   },
+   "general": {
+      "message": "Général"
+   },
+   "grantAccess": {
+      "message": "Accorder l'accès"
+   },
+   "grantAccessAgain": {
+      "message": "Accorder l'accès à nouveau"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "Utile uniquement si vous possédez plusieurs comptes de connexion et que vous souhaitez accorder l'autorisation à chacun d'entre eux pour les photos"
+   },
+   "grantedTo": {
+      "message": "Accordée à"
+   },
+   "grayscale": {
+      "message": "Nuances de gris"
+   },
+   "green": {
+      "message": "Vert"
+   },
+   "greenToolTip": {
+      "message": "Mon thème de recyclage !"
+   },
+   "groupByLabels": {
+      "message": "Grouper les courriels en fonction des étiquettes"
+   },
+   "groupByLabelsToolTip": {
+      "message": "Regrouper et trier les courriels non lus grâce aux étiquettes que vous avez choisi de surveiller. Ceci ajoutera un petit en-tête avec l'étiquette au-dessus de vos courriels (comme « Inbox », etc.) dans l'aperçu et la fenêtre de notification avancée"
+   },
+   "guideForInboxByGmail": {
+      "message": "Guide pour les utilisateurs d'Inbox by Gmail"
+   },
+   "guideForPrimaryCategory": {
+      "message": "Guide pour la catégorie principale"
+   },
+   "hearEmail": {
+      "message": "Entendre le courriel"
+   },
+   "hearEmailMessage": {
+      "message": "Écouter le message du courriel"
+   },
+   "hearEmailSubject": {
+      "message": "Écouter le sujet du courriel"
+   },
+   "hearEmailToolTip": {
+      "message": "Sélectionner quelles parties de l'email vous voulez entendre... \u003Cb>de\u003C/b> (expéditeur), \u003Cb>sujet\u003C/b> ou \u003Cb>message\u003C/b> (corps) du courriel"
+   },
+   "height": {
+      "message": "Hauteur"
+   },
+   "help": {
+      "message": "Aide"
+   },
+   "hideByJason": {
+      "message": "Masquer 'par JasonSavard.com'"
+   },
+   "hideByJasonToolTip": {
+      "message": "Cacher \u003Ci>de JasonSavard.com\u003C/i> dans la fenêtre pop-up"
+   },
+   "hideMarkAsReadEmails": {
+      "message": "Masquer les courriels marqués comme lus"
+   },
+   "hideMyName": {
+      "message": "Masquer 'par Jason Savard'"
+   },
+   "hideReadEmails": {
+      "message": "Masquer les courriels lus"
+   },
+   "hideSentFrom": {
+      "message": "Masquer les signatures de courriels comme 'envoyés depuis mon...'"
+   },
+   "hideSentFromToolTip": {
+      "message": "Cochez cette case pour masquer les signatures de courriels envoyés à partir de périphériques tels que 'Envoyé de mon iPhone ou Blackberry' etc."
+   },
+   "hideUnreadCount": {
+      "message": "Masquer le nombre de messages non lus"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "Masquer le nombre de non lus sur l'icone du navigateur"
+   },
+   "hourAgo": {
+      "message": "Il y a $1 heure"
+   },
+   "hours": {
+      "message": "heures"
+   },
+   "hoursAgo": {
+      "message": "Il y a $1 heures"
+   },
+   "icon": {
+      "message": "Icône"
+   },
+   "identifyEmailAccountsWithColors": {
+      "message": "Identifier vos comptes de messagerie avec vos propres couleurs"
+   },
+   "ifNoUnreadMail": {
+      "message": "Si aucun email non lu"
+   },
+   "ignoreTheseAccounts": {
+      "message": "Ignorer ces comptes"
+   },
+   "ignoreThisAccount": {
+      "message": "Ignorer ce compte"
+   },
+   "ignored": {
+      "message": "Ignoré"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "Les images ne sont pas affichées."
+   },
+   "important": {
+      "message": "-Full featured Gmail inbox dans une popup \u003Cbr>-vue que toute étiquette \u003Cbr>\u003Cb>- pas\u003C/b> \u003Cbr>personnalisable \u003Cb>- non\u003C/b> recommandé pour plusieurs comptes \u003Cbr>\u003Cbr>\u003Ci>essayer le lien « Plus d'informations » ci-dessus\u003C/i>"
+   },
+   "importantMail": {
+      "message": "Courrier important"
+   },
+   "inbox": {
+      "message": "Boîte de réception"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "indefinitely": {
+      "message": "Indéfiniment"
+   },
+   "invert": {
+      "message": "Inverser"
+   },
+   "keyboardShortcuts": {
+      "message": "raccourcis clavier"
+   },
+   "keys": {
+      "message": "Raccourcis"
+   },
+   "label": {
+      "message": "Étiquette"
+   },
+   "labels": {
+      "message": "Étiquettes"
+   },
+   "language": {
+      "message": "Langue"
+   },
+   "languageName": {
+      "message": "Français"
+   },
+   "languageToolTip": {
+      "message": "Change la langue de l'affichage et des notifications vocales. Remarque : Vous verrez peut-être plusieurs langues à la fois. Voici pourquoi : ce qui a déjà été traduit s'affichera dans la langue que vous avez sélectionnée. Si certains termes n'ont pas encore été traduits, ils s'afficheront dans la langue de votre navigateur. Si la traduction dans cette langue n'est pas disponible non plus, le texte s'affichera en anglais."
+   },
+   "licenseOnlyValidFor": {
+      "message": "La licence ne sera valable que pour les utilisateurs qui se connectent à leur compte Google avec"
+   },
+   "linesInSummary": {
+      "message": "Format de résumé"
+   },
+   "linesInSummaryToolTip": {
+      "message": ""
+   },
+   "listenToYourEmail": {
+      "message": "Écouter votre courriel"
+   },
+   "loading": {
+      "message": "Chargement en cours…"
+   },
+   "loadingSettings": {
+      "message": "Chargement des paramètres"
+   },
+   "mailtoLinks": {
+      "message": "Ouvrir les liens mailto avec Gmail"
+   },
+   "mailtoLinksToolTip": {
+      "message": "Cliquer sur des liens mailto (habituellement des liens courriel) ouvrira Gmail au lieu de votre client de courrier régulier. Des autorisations supplémentaires sont nécessaires pour analyser ces liens sur les sites que vous visitez"
+   },
+   "makeButtonOpenGmail": {
+      "message": "Pour que l'icône ouvre Gmail"
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "Faire une contribution mensuelle"
+   },
+   "man": {
+      "message": "Homme"
+   },
+   "markAllAsRead": {
+      "message": "Tout comme lu"
+   },
+   "markAllAsReadTitle": {
+      "message": "Marquer tout comme lu"
+   },
+   "markAsReadInNotificationWindow": {
+      "message": "Afficher le courriel comme \"lu\" dans la fenêtre de notification"
+   },
+   "markAsReadR": {
+      "message": "Marquer comme \u003Cb>L\u003C/b>u"
+   },
+   "markDone": {
+      "message": "Afficher complété"
+   },
+   "maxEmailsToShowPerAccount": {
+      "message": "Nombre de courriels maximal à afficher par compte"
+   },
+   "me": {
+      "message": "moi"
+   },
+   "meetMe": {
+      "message": "Faites ma connaissance"
+   },
+   "meetMeTitle": {
+      "message": "Découvrez-moi dans une vidéo !"
+   },
+   "message": {
+      "message": "Message"
+   },
+   "minimumAmount": {
+      "message": "Vous devez entrer un minimum de $1"
+   },
+   "minutesAgo": {
+      "message": "Il y a $1 minutes"
+   },
+   "monitor": {
+      "message": "Surveiller"
+   },
+   "monitorThisLabel": {
+      "message": "Surveiller ces étiquettes"
+   },
+   "monitorThisLabelToolTip": {
+      "message": "Détermine quelles étiquettes l'extension surveillera pour les nouveaux messages"
+   },
+   "month": {
+      "message": "Mois"
+   },
+   "monthsArray": {
+      "message": "jan,fev,mar,avr,mai,jun,jul,aoû,sep,oct,nov,dec"
+   },
+   "monthsArrayShort": {
+      "message": "Jan,Fév,Mar,Avr,Mai,Juin,Juil,Aoû,Sep,Oct,Nov,Déc"
+   },
+   "more": {
+      "message": "plus"
+   },
+   "moreInfo": {
+      "message": "Plus d'infos"
+   },
+   "morning": {
+      "message": "Matin"
+   },
+   "moveLabel": {
+      "message": "Déplacer vers"
+   },
+   "multipleSelectionMac": {
+      "message": "Maintenez enfoncé le bouton de commande pour sélectionner des options multiples"
+   },
+   "multipleSelectionWindows": {
+      "message": "Maintenez enfoncée la touche contrôle (ctrl) pour sélectionner plusieurs options."
+   },
+   "multipleUserLicense": {
+      "message": "Obtenez une licence multi-utilisateur pour votre organisation"
+   },
+   "multipleUserLicenseFor": {
+      "message": "Licence de multiples utilisateurs pour $1"
+   },
+   "mustSignInToPay": {
+      "message": "Vous devez vous connecter à votre compte Gmail et attendre que cette extension se charge !"
+   },
+   "muteVoice": {
+      "message": "Sourdine"
+   },
+   "muteVoiceForToday": {
+      "message": "Sourdine pour aujourd'hui"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "Sourdines jusqu'à demain 07h00"
+   },
+   "muteVoiceForXh": {
+      "message": "Mise en sourdine pour $1 h"
+   },
+   "muteVoiceForXm": {
+      "message": "Mise en sourdine pour $1 m"
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "Voix muette pendant que je dors"
+   },
+   "muteVoiceWhileSleepingToolTip": {
+      "message": "Pour ceux qui quittent leur ordinateur la nuit, vous pouvez activer cette option pour désactiver la notification vocale entre certaines heures"
+   },
+   "native": {
+      "message": "natif"
+   },
+   "never": {
+      "message": "Jamais"
+   },
+   "newEmail": {
+      "message": "Nouvel email"
+   },
+   "newFeature": {
+      "message": "Nouvelle fonctionnalité !"
+   },
+   "newer": {
+      "message": "Plus récent"
+   },
+   "next": {
+      "message": "Suivant"
+   },
+   "nickname": {
+      "message": "Pseudo"
+   },
+   "night": {
+      "message": "Nuit"
+   },
+   "noUnreadText": {
+      "message": "Aucun nouveau message"
+   },
+   "noUpdateNotifications": {
+      "message": "Aucune notification de mise à jour"
+   },
+   "none": {
+      "message": "Aucun"
+   },
+   "notSignedIn": {
+      "message": "Pas connecté"
+   },
+   "notWorking": {
+      "message": "Ne fonctionne pas ?"
+   },
+   "notification": {
+      "message": "Notification"
+   },
+   "notificationButton1": {
+      "message": "Bouton de notification #1"
+   },
+   "notificationButton2": {
+      "message": "Bouton de notification #2"
+   },
+   "notificationSound": {
+      "message": "Notification sonore"
+   },
+   "notificationTextToSpeech": {
+      "message": "Notification vocale"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "Marquer au moins un de vos courriels comme non lu puis cliquez-ici et attendez de voir la fenêtre de notification !"
+   },
+   "notifications": {
+      "message": "Notifications"
+   },
+   "of": {
+      "message": "de"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "older": {
+      "message": "Plus ancien"
+   },
+   "oneUnreadText": {
+      "message": "nouveau message"
+   },
+   "open": {
+      "message": "Ouvrir"
+   },
+   "openComposeInTab": {
+      "message": "Ouvrir la rédaction d'un nouveau message dans un onglet"
+   },
+   "openComposeInTabToolTip": {
+      "message": "Ouvrir la rédaction d'un nouveau message dans un onglet au lieu d'une petite fenêtre (s'applique également aux liens mailto)"
+   },
+   "openComposeReplyAction": {
+      "message": "Boutons pour composer et répondre"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "Ouvrir dans une fenêtre popup"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "Ouvrir dans un onglet"
+   },
+   "openEmailDisplayedInNotificationWindow": {
+      "message": "Afficher le courriel dans la fenêtre de notification"
+   },
+   "openGmailPopupWindow": {
+      "message": "Ouvrir la boîte de réception Gmail dans une fenêtre popup"
+   },
+   "openGmailTab": {
+      "message": "Ouvrir l'onglet Gmail"
+   },
+   "openGmailTabToolTip": {
+      "message": "Désactive la fenêtre popup d'aperçu (non recommandée) et ouvre ou sélectionne le premier onglet avec le courrier non lu"
+   },
+   "openHelp": {
+      "message": "Ouvrir l'aide"
+   },
+   "openLabel": {
+      "message": "Ouvrir l'étiquette"
+   },
+   "openLinkTitle": {
+      "message": "Ouvrir dans webmail"
+   },
+   "openLinksToInboxByGmailWarning": {
+      "message": "Fonction bêta. \u003Cbr>\u003Cbr>Utilisez cette option \u003Cb>uniquement\u003C/b> si vous avez activé la boîte de réception 'Inbox by Gmail'. S'il vous plaît veuillez lire la suite en utilisant le lien « Plus d'informations »"
+   },
+   "openPopupPreview": {
+      "message": "Ouvrir l'aperçu Checker Plus"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "Toujours afficher la fenêtre d'aperçu"
+   },
+   "openReply": {
+      "message": "Ouvrir (répondre)"
+   },
+   "openThisLabel": {
+      "message": "Ouvrez cette étiquette"
+   },
+   "openThisLabelToolTip": {
+      "message": "Détermine où l'utilisateur va être dirigé lorsqu'il clique sur le courriel du compte ou l'icône de l'extension"
+   },
+   "option": {
+      "message": "Option"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "or": {
+      "message": "ou"
+   },
+   "original": {
+      "message": "Original"
+   },
+   "origins_googleusercontent": {
+      "message": "*://*.googleusercontent.com/*"
+   },
+   "otherAmount": {
+      "message": "Autre montant"
+   },
+   "otherPlans": {
+      "message": "Autres forfaits"
+   },
+   "otherPlansDescription": {
+      "message": "Éducation, tarification, annuelle..."
+   },
+   "paragraph": {
+      "message": "paragraphe"
+   },
+   "password": {
+      "message": "Mot de passe"
+   },
+   "pitch": {
+      "message": "Pitch"
+   },
+   "pollNow": {
+      "message": "Actualiser"
+   },
+   "pollingAccounts": {
+      "message": "Comptes à récupérer"
+   },
+   "pollingInterval": {
+      "message": "Intervalle de vérification"
+   },
+   "pollingIntervalTooltip": {
+      "message": "Intervalle de vérification des courriels"
+   },
+   "popout": {
+      "message": "PopOut"
+   },
+   "popupText": {
+      "message": "Vous avez reçu un nouveau message !"
+   },
+   "popupWindowZoom": {
+      "message": "Zoom du fenêtre Popup"
+   },
+   "popupWindowZoomToolTip": {
+      "message": "Change le zoom global pour la fenêtre popup (pas l'aperçu de l'e-mail ou la notification)"
+   },
+   "positionFromLeft": {
+      "message": "Position à partir de la gauche"
+   },
+   "positionFromTop": {
+      "message": "Position à partir du haut"
+   },
+   "preview": {
+      "message": "Aperçu"
+   },
+   "previewingMarksAsRead": {
+      "message": "L'aperçu du message le marque comme lu"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "Marquer un message comme lu quand il est aperçu dans la fenêtre pop-up"
+   },
+   "previous": {
+      "message": "Précédent"
+   },
+   "primary": {
+      "message": "Primaire"
+   },
+   "primarySocialPromotionsEtc": {
+      "message": "Primaire, sociaux et promotion onglets etc.."
+   },
+   "priorityInbox": {
+      "message": "Boîte de réception prioritaire"
+   },
+   "promotions": {
+      "message": "Promotions"
+   },
+   "quickComposeEmail": {
+      "message": "Contact rapide"
+   },
+   "rate": {
+      "message": "Taux"
+   },
+   "rateTitle": {
+      "message": "Vitesse de la parole : mots / minute"
+   },
+   "read": {
+      "message": "Lire"
+   },
+   "readLink": {
+      "message": "Lu"
+   },
+   "readLinkTitle": {
+      "message": "Marquer comme lu"
+   },
+   "readLinkTitleShort": {
+      "message": ""
+   },
+   "recommended": {
+      "message": "Recommandé"
+   },
+   "reducedDonationAd_notification": {
+      "message": "Utilisateur de longue date de bonnes nouvelles ! Extras sont seulement $1 cliquez pour voir/masquer ceci."
+   },
+   "reducedDonationAd_popup": {
+      "message": "Utilisateur de longue date de bonnes nouvelles !\u003Cbr>Vous pouvez obtenir la dernière version $1 pour seulement 50&cent;"
+   },
+   "referToAlreadyDonated": {
+      "message": "Se référer à $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "vous avez déjà donné"
+   },
+   "refresh": {
+      "message": "Rafraîchir"
+   },
+   "refreshLinkTitle": {
+      "message": "Rafraîchir toutes les boîtes mail"
+   },
+   "rememeberReadEmails": {
+      "message": "Se rappeller des courriels lus (fonction bêta donc expérimentale)"
+   },
+   "rememeberReadEmailsToolTip": {
+      "message": "Option pour afficher les courriels non lus et lus. Cette option est \u003Cb>expérimentale\u003C/b> — s'il vous plaît, ne me notez pas à cause de cette fonction"
+   },
+   "removeAccount": {
+      "message": "Supprimer compte"
+   },
+   "removeAccountIcon": {
+      "message": "Supprimer l'icône du compte"
+   },
+   "removeFromSystemTray": {
+      "message": "supprimer de la barre d'état système"
+   },
+   "removeShareLinks": {
+      "message": "Supprimer les liens de Facebook, Twitter etc."
+   },
+   "removeShareLinksTooltip": {
+      "message": "Supprime les liens en-dessous du calendrier popup"
+   },
+   "reply": {
+      "message": "Répondre"
+   },
+   "replyLinkTitle": {
+      "message": "Répondre"
+   },
+   "replyR": {
+      "message": "\u003Cb>R\u003C/b>épondre"
+   },
+   "replyToAll": {
+      "message": "Répondre à tous"
+   },
+   "replyingMarksAsRead": {
+      "message": "Répondre au message le marque comme lu"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "En cliquant sur le bouton répondre vous marquerez le courriel comme lu"
+   },
+   "revertAutoSizing": {
+      "message": "Inverser la redimensionnement"
+   },
+   "richNotification": {
+      "message": "Notification enrichie"
+   },
+   "richNotificationToolTip": {
+      "message": "Popups avec des boutons, mais pas gênante puisqu'elles disparaissent en quelques secondes si aucune action n'est prise. Pensez à eux comme les notifications de votre smartphone. Elles fournissent des informations pertinentes, en temps réel mais vous pouvez choisir d'ignorer toute autre action"
+   },
+   "runInBackground": {
+      "message": "Exécuter en arrière-plan lorsque Google Chrome est fermé"
+   },
+   "runInBackgroundToolTip": {
+      "message": "Continuer à recevoir les notifications de courrier même si votre navigateur est fermé ! Conseil : utilisateurs avancés uniquement."
+   },
+   "runInBackgroundWarning1": {
+      "message": "Lire attentivement pour $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "applis en arrière-plan"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Si vous avez désactivé les applis en arrière-plan dans Chrome, vous pouvez les réactiver en lisant $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "dernière section cliquable"
+   },
+   "runInBackgroundWarning3": {
+      "message": "Il peut être nécessaire d'utiliser le $1 depuis la page de connexion Gmail"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "rester connecté"
+   },
+   "saturation": {
+      "message": "Saturation"
+   },
+   "save": {
+      "message": "Sauvegarder"
+   },
+   "saving": {
+      "message": "Enregistrement..."
+   },
+   "schedule": {
+      "message": "Annexe"
+   },
+   "search": {
+      "message": "Rechercher"
+   },
+   "seeUpdates": {
+      "message": "Voir les mises à jour"
+   },
+   "seeVideo": {
+      "message": "Voir la vidéo"
+   },
+   "selectEmailAccount": {
+      "message": "Sélectionnez un compte de messagerie"
+   },
+   "selectQuickActionButtons": {
+      "message": "Afficher ou masquer les boutons d'action"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "Remarque : Ceci ne masquera pas les boutons dans l'affichage complet du courriel !"
+   },
+   "send": {
+      "message": "Envoyer"
+   },
+   "sendPageLinkTitle": {
+      "message": "Envoyer le lien de la page"
+   },
+   "sending": {
+      "message": "Envoi"
+   },
+   "sent": {
+      "message": "Envoyé"
+   },
+   "sepia": {
+      "message": "Sépia"
+   },
+   "setAccountIcon": {
+      "message": "Ajouter l'icône du compte"
+   },
+   "setPositionAndSize": {
+      "message": "Définir la position et la taille de la fenêtre pop-up"
+   },
+   "setPositionAndSizeToolTip": {
+      "message": "Substituer les valeurs par défaut pour les fenêtres popup nouveau message/répondre et définissez la position et la taille en pixels de la fenêtre"
+   },
+   "severalUnreadText": {
+      "message": "nouveaux messages"
+   },
+   "share": {
+      "message": "Partager"
+   },
+   "shareIntro": {
+      "message": "Essayez cette extension fantastique pour Chrome"
+   },
+   "shareTitle": {
+      "message": "Cliquez ici pour en savoir plus. Remarque : Ce message disparaîtra après avoir cliqué ici."
+   },
+   "shortcutKeysHeader": {
+      "message": "Ces clés sont valables \u003Cb>uniquement\u003C/b> pour la fenêtre supérieure qui est activée par le bouton"
+   },
+   "showActionButtonsOnHover": {
+      "message": "Afficher uniquement les boutons d'action lorsque vous survolez la fenêtre de notification"
+   },
+   "showActionButtonsOnHoverToolTip": {
+      "message": "Je recommande de garder activé, mais si vous avez Mac, vous pouvez désactiver ceci parce que parfois le survol ne fonctionne pas quand la fenêtre de Chrome n'as pas le focus"
+   },
+   "showAllEmails": {
+      "message": "Montrer tous les courriels"
+   },
+   "showButtonTooltip": {
+      "message": "Afficher les info-bulle lors du passage au-dessus de l'icône"
+   },
+   "showCheckerPlusButtonsOnlyOnHover": {
+      "message": "Afficher les boutons uniquement au survol"
+   },
+   "showCheckerPlusButtonsOnlyOnHoverToolTip": {
+      "message": "Non recommandé si vous utilisez un écran tactile sans souris"
+   },
+   "showConsoleMessages": {
+      "message": "Messages dans la Console Javascript"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "Pour le débogage uniquement et peut ralentir l'extension un petit peu !"
+   },
+   "showContactPhoto": {
+      "message": "Voir les photos des contacts"
+   },
+   "showContactPhotoToolTip": {
+      "message": "Si votre contact a une photo, elle sera montrée, ou bien ajoutez leurs photos dans vos Contacts Google ou survolez leurs photos vides dans Gmail pour ajouter une photo. Si aucune photo n'est trouvée, le logo par défaut apparaîtra à la place. Des autorisations sont requises pour extraire les photos de vos contacts"
+   },
+   "showContactPhotos": {
+      "message": "Voir les photos des contacts"
+   },
+   "showContextMenuItem": {
+      "message": "Montrez le menu contextuel au clic droit de la souris"
+   },
+   "showDesktopNotifications": {
+      "message": "Voir les notifications de bureau"
+   },
+   "showDetails": {
+      "message": "Afficher les détails"
+   },
+   "showEOM": {
+      "message": "Ajouter un marqueur pour indiquer la fin du résumé du courriel [FDM]"
+   },
+   "showEOMToolTip": {
+      "message": "FDM - fin du Message. Utile lorsque vous recevez beaucoup de petits courriels rapides pour éviter d'avoir à cliquer sur l'Aperçu pour voir si il n'y a encore du texte dans l'aperçu"
+   },
+   "showEmailAccount": {
+      "message": "Toujours afficher la boîte de réception du courriel"
+   },
+   "showEmailAccountToolTip": {
+      "message": "Utile si vous vérifiez 2 ou plusieurs comptes. Cela affiche la boîte de réception actuelle qui a reçu la nouvelle notification de courrier non lu"
+   },
+   "showHideEmailPreview": {
+      "message": "Afficher/masquer l'aperçu du courriel"
+   },
+   "showIconAnimation": {
+      "message": "Afficher l'animation de l'icône"
+   },
+   "showIconAnimationToolTip": {
+      "message": "Anime l'icône quand il y a des nouveaux messages"
+   },
+   "showLabelsTitle": {
+      "message": "Afficher les étiquettes"
+   },
+   "showLeftColumnWhenPreviewingEmail": {
+      "message": "Voir la colonne de gauche dans le menu contextuel lorsque vous prévisualisez le courriel"
+   },
+   "showLeftColumnWhenPreviewingEmailToolTip": {
+      "message": "Remarque : Cette colonne peut être automatiquement masquée si le courriel est trop large et a besoin de plus d'espace"
+   },
+   "showMarkAsReadEmails": {
+      "message": "Continuer à montrer les courriels que vous avez marqués comme lus"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "Afficher l'aperçu de la première image à l'intérieur du courriel"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "Afficher les notifications pour les anciens courriels (utile uniquement pour les comptes POP3)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": ""
+   },
+   "showOptionsButton": {
+      "message": "Afficher le bouton d'options"
+   },
+   "showTransitions": {
+      "message": "Activez les transitions"
+   },
+   "showTransitionsToolTip": {
+      "message": "Afficher les animations dans la fenêtre pop-up lors de la prévisualisation ou la fermeture de courriels"
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "Afficher les notifications pour toutes les mises à jour et corrections de bugs"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "Afficher les notifications pour les mises à jour intéressantes"
+   },
+   "signIn": {
+      "message": "Connexion"
+   },
+   "signInAsUserOfOrg": {
+      "message": "Vous devez vous $1 avec l'adresse électronique de votre organisation"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "déconnectez-vous puis reconnectez-voous à votre compte Gmail"
+   },
+   "signInToYourAccount": {
+      "message": "D'abord connectez-vous à vo(s)tre compte(s), puis recharger cette page !"
+   },
+   "social": {
+      "message": "Social"
+   },
+   "sound": {
+      "message": "Sons"
+   },
+   "spamLink": {
+      "message": "Spam"
+   },
+   "spamLinkTitle": {
+      "message": "Signaler comme spam"
+   },
+   "speechEngine": {
+      "message": "Moteur de reconnaissance vocale"
+   },
+   "spokenWordsLimit": {
+      "message": "Limiter le nombre de mots à"
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "Vous pouvez arrêter la lecture à tout moment en cliquant sur le bouton ou en survolant la fenêtre de notification. Note : Certains moteurs de reconnaissance vocale peuvent imposer leur propre limite"
+   },
+   "standard": {
+      "message": "Standard"
+   },
+   "starAndArchive": {
+      "message": "Activer le suivi & Archiver"
+   },
+   "starLinkTitle": {
+      "message": "Activer le suivi"
+   },
+   "starringAppliesInboxLabel": {
+      "message": "L'étoile applique l'étiquette de la boîte de réception"
+   },
+   "stayInTray": {
+      "message": "rester dans la barre d'état système"
+   },
+   "subject": {
+      "message": "Sujet"
+   },
+   "summary": {
+      "message": "résumé"
+   },
+   "summaryLinkTitle": {
+      "message": "Afficher le résumé"
+   },
+   "switchToCheckerPlus": {
+      "message": "Ouvrir l'aperçu Checker Plus"
+   },
+   "switchToInbox": {
+      "message": "Boîte de réception"
+   },
+   "switchToInboxToolTip": {
+      "message": "Faites un clic droit pour plus d'infos..."
+   },
+   "syncSignInOrder": {
+      "message": "Synchronisez l'ordre de l'authentication"
+   },
+   "syncSignInOrderToolTip": {
+      "message": "L'ordre de l'authentication de vos comptes Gmail sur la page web peut différer des comptes énumérés ici. Parfois, l'ouverture des liens à l'intérieur de Checker Plus mènera à la mauvaise boîte de réception. Cela permet de re-synchroniser les comptes."
+   },
+   "tab": {
+      "message": "Onglet"
+   },
+   "tabToolTip": {
+      "message": "Ajouter des onglets dans la fenêtre pop-up de Gmail inbox"
+   },
+   "testIt": {
+      "message": "Essayer !"
+   },
+   "testOutPopupWindow": {
+      "message": "Testez la fenêtre pop-up !"
+   },
+   "textNotification": {
+      "message": "Fenêtre de notification"
+   },
+   "textNotificationToolTip": {
+      "message": "Vous informe des derniers courriels non lus. Compatible avec OS X Notification Center et je pense Growl aussi"
+   },
+   "thankYouForYourContribution": {
+      "message": "Les options supplémentaires sont maintenant déverrouillées. Merci de votre contribution !"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Fermez cette fenêtre et profitez des options supplémentaires !"
+   },
+   "theme": {
+      "message": "Thème"
+   },
+   "to": {
+      "message": "à"
+   },
+   "today": {
+      "message": "Aujourd'hui"
+   },
+   "toggleNotificationCheckboxes": {
+      "message": "Activer/désactiver les cases de notification"
+   },
+   "tomorrow": {
+      "message": "Demain"
+   },
+   "tooManyUnread": {
+      "message": "Désolé, je ne peux marquer qu'à la fois $1 ou moins de courriels. S'il vous plaît utilisez le site Web de Gmail à la place"
+   },
+   "transparent": {
+      "message": "Transparent"
+   },
+   "tryCheckerPlusWindowFirst": {
+      "message": "Essayez d'abord la fenêtre popup Checker Plus pour quelques jours, c'est plus puissant :)"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "Désactiver la vérification de Gmail et ne vérifiez que Google Apps"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "Ceci ignorera vos comptes @gmail.com !"
+   },
+   "uncheckInboxLabel": {
+      "message": "Décochez l'étiquette de la boîte de réception"
+   },
+   "undo": {
+      "message": "Annuler"
+   },
+   "unknownSender": {
+      "message": "Expéditeur inconnu"
+   },
+   "unlimited": {
+      "message": "Illimité"
+   },
+   "unlockFeatures": {
+      "message": "Faites un don pour déverrouiller immédiatement ces fonctionnalités supplémentaires et profiter de celles qui seront ajoutées par la suite."
+   },
+   "unlockHeader": {
+      "message": "Profitez de fonctionnalités supplémentaires et soutenez le développeur"
+   },
+   "unmuteVoice": {
+      "message": "Activer le son de la voix"
+   },
+   "unreadLink": {
+      "message": "Non lu"
+   },
+   "unreadLinkTitle": {
+      "message": "Marquer comme non lu"
+   },
+   "unreadLinkTitleShort": {
+      "message": "Non lu"
+   },
+   "unreadMail": {
+      "message": "Courrier non lu"
+   },
+   "update": {
+      "message": "Mise à jour"
+   },
+   "updates": {
+      "message": "Mises à jour"
+   },
+   "useBasicHTMLView": {
+      "message": "Utiliser l'affichage HTML simplifié"
+   },
+   "useInboxByGmail": {
+      "message": "Utilisez Inbox by Gmail"
+   },
+   "useTheseColors": {
+      "message": "Utiliser ces couleurs"
+   },
+   "useTheseColorsToolTip": {
+      "message": "Jouer avec les différentes couleurs ou définissez les deux de la même couleur pour n'avoir qu'une seule couleur. Essayez de correspondre à votre thème de Gmail. Puis cochez la case ci-dessous pour les activer. Cela aura une incidence sur l'aperçu de la fenêtre et la fenêtre de notification avancée"
+   },
+   "voice": {
+      "message": "Voix"
+   },
+   "voiceInput": {
+      "message": "Entrée vocale"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Seulement si vous êtes éloigné de l’ordinateur pendant au moins"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "(recommandée): Utilisez cette option si vous ne voulez activer les notifications vocales QUE si vous n’utilisez pas votre ordinateur, si vous n'êtes pas devant ou s'il est en veille"
+   },
+   "voiceTest": {
+      "message": "Message de test"
+   },
+   "volume": {
+      "message": "volume"
+   },
+   "voythas": {
+      "message": "Voythas"
+   },
+   "voythasToolTip": {
+      "message": "Icônes créées par VoYtHAs"
+   },
+   "wholeEmail": {
+      "message": "courriel en entier"
+   },
+   "whyContribute": {
+      "message": "Pourquoi devrais-je contribuer ?"
+   },
+   "whyContributeReason1": {
+      "message": "Je travaille dur pour mettre à jour et assurer le support de $1 afin de répondre à vos suggestions"
+   },
+   "whyContributeReason1_1": {
+      "message": "toutes mes extensions"
+   },
+   "whyContributeReason2": {
+      "message": "Je lis vos commentaires et critiques, et j'y réponds rapidement."
+   },
+   "whyContributeReason3": {
+      "message": "Vous pouvez effectuer un don du montant de votre choix, je vous en serai reconnaissant"
+   },
+   "whyContributeReason4": {
+      "message": "Vous êtes nombreux à effectuer des dons de $1 pour cette extension, soyez-en remerciés !"
+   },
+   "whyContributeReason4_1": {
+      "message": "commentaires"
+   },
+   "whyContributeReason5": {
+      "message": "Visitez $1 pour en savoir plus sur moi"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Soyez un utilisateur \"Google Calendar\" plus productif pour vous ou votre entreprise"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Beaucoup moins cher que $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "width": {
+      "message": "Largeur"
+   },
+   "woman": {
+      "message": "Femme"
+   },
+   "yesterday": {
+      "message": "hier"
+   },
+   "youMustChooseTheCheckerPlusPopupWindow": {
+      "message": "Vous devez utilisez l'aperçu de \u003Ci>Checker Plus\u003C/i> pour voir ces options."
+   },
+   "zoom": {
+      "message": "Zoom"
+   }
+}

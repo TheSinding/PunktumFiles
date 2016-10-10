@@ -1,0 +1,4453 @@
+{
+   "1001360787461904844": {
+      "message": "Više opcija za $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1008774365351112026": {
+      "message": "Dodaj atribut \"$REL_NO_FOLLOW$\" ($LINK_START$Saznajte više$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normalan"
+   },
+   "1026450251988549367": {
+      "message": "Nedavno izmijenjeno"
+   },
+   "1035476379650787996": {
+      "message": "Zahtjev nije moguće izvršiti"
+   },
+   "1035734413919296": {
+      "message": "Dodaj glazbu"
+   },
+   "1044946868924904798": {
+      "message": "Niste povezani"
+   },
+   "1046700819368184074": {
+      "message": "Preuzimanje mape"
+   },
+   "1047094450854611275": {
+      "message": "Pomoću miniplayera možete upravljati reprodukcijom glazbe izvan prozora preglednika, kliknuti Palac gore za pjesme i reproducirati radijsku postaju Prati me sreća."
+   },
+   "1052242579040192537": {
+      "message": "kanadsko aboridžinsko"
+   },
+   "10524368647766690": {
+      "message": "#"
+   },
+   "1054861724689881963": {
+      "message": "Pokreni Besplatni radio"
+   },
+   "1061567929494389534": {
+      "message": "Nije moguće dohvatiti radijske postaje. Pokušajte ponovo."
+   },
+   "1061598772078003048": {
+      "message": "Graničnik za napomene između redaka"
+   },
+   "1065557748112539713": {
+      "message": "Pauziranje preuzimanja glazbe"
+   },
+   "108743912460085743": {
+      "message": "Nadjačavnje slijeva nadesno"
+   },
+   "1091846413708174942": {
+      "message": "Vaši podcastovi"
+   },
+   "1099947980448260765": {
+      "message": "Idi na top liste"
+   },
+   "1105024870503318889": {
+      "message": "Dodaj moju glazbu"
+   },
+   "113306301971655652": {
+      "message": "Oznaka slijeva nadesno"
+   },
+   "1143190206278116157": {
+      "message": "Datum: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1144407473317535723": {
+      "message": "Pretplati me"
+   },
+   "1144614654642966892": {
+      "message": "Otkaži prije sljedeće naplate. Nastavite slušati do tada."
+   },
+   "1145877575671354635": {
+      "message": "Osvježi fonoteku"
+   },
+   "1147358182484006761": {
+      "message": "Trgovina"
+   },
+   "1150285978886683433": {
+      "message": "Prebacivanje ponavljanja između isključeno, svi zapisi ili jedan zapis."
+   },
+   "1152313922995021532": {
+      "message": "64-bitni .rpm (za operacijske sustave Fedora/openSuse)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Dodana je 1 pjesma}one{ Dodana je {NUM_TRANSFERRED_TRACKS_2} pjesma}few{ Dodane su {NUM_TRANSFERRED_TRACKS_2} pjesme}other{ Dodano je {NUM_TRANSFERRED_TRACKS_2} pjesama}}"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuta}one{{TEXT} minuta}few{{TEXT} minute}other{{TEXT} minuta}}"
+   },
+   "1181311234668957012": {
+      "message": "Automatski popisi pjesama"
+   },
+   "1182611188595867762": {
+      "message": "2. Kada se alat za instalaciju otvori, slijedite njegove upute za postavljanje Upravitelja glazbe."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{Izbrisana je 1 pjesma}one{Izbrisana je # pjesma}few{Izbrisane su # pjesme}other{Izbrisano je # pjesama}}"
+   },
+   "1189933439482480473": {
+      "message": "Dostignuto je ograničenje broja pjesama."
+   },
+   "1207788277335800169": {
+      "message": "Pogledajte sve videozapise izvođača $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1220984280262077870": {
+      "message": "Besplatno i kupljeno"
+   },
+   "1227051853106034748": {
+      "message": "Traženje pregleda nije moguće"
+   },
+   "1229167447861422460": {
+      "message": "Glazbu nije moguće istovremeno reproducirati na dva uređaja"
+   },
+   "1233161892151828431": {
+      "message": "Kurziv"
+   },
+   "1238358838717941284": {
+      "message": "Uzorak"
+   },
+   "1248987958177161816": {
+      "message": "Uređivanje HTML izvora"
+   },
+   "1249846405947826980": {
+      "message": "Prethodna epizoda"
+   },
+   "1257583932123379891": {
+      "message": "Prikaz podcastova:"
+   },
+   "1275783181441501836": {
+      "message": "Razdjelnik odlomka"
+   },
+   "128003684539571261": {
+      "message": "Valuta"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcastova}=1{1 podcast}one{# podcast}few{# podcasta}other{# podcastova}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Otvorite mapu Aplikacija i dvaput kliknite stavku Upravitelj glazbe."
+   },
+   "1291021741111868686": {
+      "message": "64-bitni .deb (za operacijske sustave Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Pregledavanje postaja:"
+   },
+   "1294292881529533213": {
+      "message": "Logotip Google Play glazbe"
+   },
+   "1295614462098694869": {
+      "message": "Pregled"
+   },
+   "129672981680457789": {
+      "message": "hanunooško"
+   },
+   "129923171865835166": {
+      "message": "Radiogumb \"Prati me sreća\""
+   },
+   "1303647473723340887": {
+      "message": "Odaberite stavku iznad trenutačnog odabira"
+   },
+   "131636849522359023": {
+      "message": "Pruža se pod licencom $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1327813348141810372": {
+      "message": "bamun"
+   },
+   "1330646976582013113": {
+      "message": "odbaci"
+   },
+   "1341185708905265042": {
+      "message": "Disk br."
+   },
+   "1345511732360402048": {
+      "message": "starotursko"
+   },
+   "1348774649041038169": {
+      "message": "Navigacija"
+   },
+   "1370021378292702047": {
+      "message": "Pjesma \"$SONG_TITLE$\" označena je kao netočno podudaranje.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Uključivanje/isključivanje nasumične reprodukcije."
+   },
+   "1372788343021542418": {
+      "message": "Da biste upotrebljavali miniplayer, prijavite se na Google Play glazbu na webu."
+   },
+   "1382005717519484629": {
+      "message": "Razmak"
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Neograničena glazba$START_BREAK$s usluge Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$, kliknite za odabir.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1418504114877368118": {
+      "message": "Autor teksta: $LYRICIST_LIST_JOINED$",
+      "placeholders": {
+         "LYRICIST_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Umetanje prilagođene boje, tj. ružičaste , #F00, #D015FF ili RGB (100, 50, 25)"
+   },
+   "1429336442713571177": {
+      "message": "Popisi pjesama"
+   },
+   "1430061825590893722": {
+      "message": "Ovu vezu otvori u novom prozoru"
+   },
+   "1433391846042476830": {
+      "message": "Jučer"
+   },
+   "1435809990540516997": {
+      "message": "Dodavanje glazbe"
+   },
+   "1444145448465775598": {
+      "message": "Odustani"
+   },
+   "1453708590388513852": {
+      "message": "Tehnički"
+   },
+   "1464072562214937907": {
+      "message": "Godina"
+   },
+   "147527058386222778": {
+      "message": "Kvaliteta strujanja"
+   },
+   "1483596119706515744": {
+      "message": "bugijsko"
+   },
+   "1486857306659217748": {
+      "message": "Preskoči"
+   },
+   "1487523984872879956": {
+      "message": "Dugi kvadrant"
+   },
+   "1490665788833937521": {
+      "message": "Preuzmite miniplayer"
+   },
+   "1494946186465201682": {
+      "message": "Odustani"
+   },
+   "1501458973427096787": {
+      "message": "Izvanmrežno slušajte bilo koju pjesmu"
+   },
+   "1504214836895903832": {
+      "message": "Spajanje nije bilo moguće"
+   },
+   "1517865562673472241": {
+      "message": "1. Pričekajte da alat dovrši instalaciju."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Jedna pjesma nije preuzeta}one{ {NUM_FAILURES_2} pjesma nije preuzeta}few{ {NUM_FAILURES_2} pjesme nisu preuzete}other{ {NUM_FAILURES_2} pjesama nije preuzeto}}"
+   },
+   "1558113021895652337": {
+      "message": "Datoteka je zaštićena DRM protokolom"
+   },
+   "1561656335740427643": {
+      "message": "teluško"
+   },
+   "1567787058497621332": {
+      "message": "Pohranite svoju glazbu na jednom mjestu. Slušajte je na pametnom telefonu, tabletu i webu."
+   },
+   "1573657685592390905": {
+      "message": "Odaberi mapu..."
+   },
+   "1575810254412583888": {
+      "message": "Zvučni zapisi"
+   },
+   "1595478688335662057": {
+      "message": "Googleov korisnik"
+   },
+   "1598061158801514509": {
+      "message": "Nastavljanje preuzimanja glazbe"
+   },
+   "1607904075839741217": {
+      "message": "Odaberite s računala"
+   },
+   "1615800076127848008": {
+      "message": "tajski le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{za # sati}=1{za # sat}one{za # sat}few{za # sata}other{za # sati}}"
+   },
+   "1635932785663944786": {
+      "message": "Broj"
+   },
+   "1658346838703079243": {
+      "message": "Izmijeni"
+   },
+   "1664100143082435029": {
+      "message": "Odustani"
+   },
+   "1666765550993208796": {
+      "message": "Jesu li podudaranja tih pjesama pogrešna?"
+   },
+   "1673135862760647009": {
+      "message": "Radio bez oglasa s neograničenim brojem preskanja"
+   },
+   "1676480944844752785": {
+      "message": "Automatski popisi pjesama"
+   },
+   "1686917835491599951": {
+      "message": "Nedavno dodano u Moju glazbu"
+   },
+   "1689044830718067443": {
+      "message": "Instalacija bi se trebala automatski pokrenuti u roku od nekoliko sekundi. Trebate $START_LINK$pomoć$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1689448196820298645": {
+      "message": "Predstojeći koncerti"
+   },
+   "1698114086921246480": {
+      "message": "Otkaži pretplatu"
+   },
+   "1700078784075267898": {
+      "message": "Google Play glazba"
+   },
+   "1709114386311494800": {
+      "message": "Veza"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Već ste pretplatnik. Kuponi su trenutačno dostupni samo novim korisnicima."
+   },
+   "1722592106949807025": {
+      "message": "Spremanje zapisnika o otklanjanju programskih pogrešaka"
+   },
+   "172500938828303105": {
+      "message": "batačko"
+   },
+   "1726363342938046830": {
+      "message": "O aplikaciji"
+   },
+   "1729815731089690989": {
+      "message": "Provjerite jeste li povezani s internetom"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ – ima podcastove",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1751129087972897649": {
+      "message": "imperijalno aramejsko"
+   },
+   "1763795268257640974": {
+      "message": "Nije bilo moguće otkazati pretplatu za popis pjesama. Pokušajte ponovo."
+   },
+   "1765521785433616250": {
+      "message": "Preuzimanje će uskoro početi. U suprotnom, $START_SPAN$kliknite ovdje$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Nepoznat izvođač"
+   },
+   "1790640569414740156": {
+      "message": "Žanrovi"
+   },
+   "1796702769044958723": {
+      "message": "32-bitni .deb (za operacijske sustave Debian/Ubuntu)"
+   },
+   "1800865039213871505": {
+      "message": "Idi na vezu: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play glazba za Chrome na platformi $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1819368767424033007": {
+      "message": "Povijesni"
+   },
+   "1823843876735462104": {
+      "message": "Popisi pjesama"
+   },
+   "182621168783940405": {
+      "message": "Oznaka zdesna nalijevo"
+   },
+   "1831178715211281116": {
+      "message": "Nažalost, samo odabrani uređaji s OS-om Chrome ispunjavaju uvjete za tu promociju. Želite li i dalje neograničenu glazbu?"
+   },
+   "183429683821106611": {
+      "message": "U redu"
+   },
+   "1838639948466909028": {
+      "message": "Ova stranica nije kompatibilna s vašim preglednikom. Upotrijebite jedan od $START_LINK$podržanih preglednika$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "184252996364058487": {
+      "message": "0 minuta"
+   },
+   "1850859858333664648": {
+      "message": "Sva glazba"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Slušajte radio i preskačite do mile volje$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Glazbeni simbol kraja fraze"
+   },
+   "1865818889600889051": {
+      "message": "Your account has changed. Please refresh the page to continue."
+   },
+   "1867674656927443481": {
+      "message": "Sva nova izdanja"
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mikseva}=1{1 miks}one{# miks}few{# miksa}other{# mikseva}}"
+   },
+   "1869588215425319728": {
+      "message": "Zatvori ladicu za navigaciju."
+   },
+   "1872101028863972302": {
+      "message": "Broj preuzetih pjesama: $NUM_TRANSFERRED_TRACKS$",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Odaberite stavku ispod trenutačnog odabira"
+   },
+   "190045585254551934": {
+      "message": "siletsko"
+   },
+   "1914372876923825240": {
+      "message": "Veza s URL-om:"
+   },
+   "192481666606780833": {
+      "message": "Reprodukcija glazbe nije moguća"
+   },
+   "193503854366151748": {
+      "message": "Ocijeni trenutačnu pjesmu palcem prema dolje"
+   },
+   "1945037339176024290": {
+      "message": "Zagrade"
+   },
+   "1947306462789680361": {
+      "message": "prije $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Glazbeni simbol za početak fraze"
+   },
+   "1962559411793600980": {
+      "message": "avestičko"
+   },
+   "1980398532913758377": {
+      "message": "Broj računala: $NUM_COMPUTERS$",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "hanski znakovi u devet poteza"
+   },
+   "1981857715812460988": {
+      "message": "Slični izvođači"
+   },
+   "1984987229407697795": {
+      "message": "Podcastovi"
+   },
+   "1989564869397178334": {
+      "message": "Naslov"
+   },
+   "1996585593795647892": {
+      "message": "Dodavanje ili uklanjanje veze"
+   },
+   "2006786763920466492": {
+      "message": "Datum brisanja"
+   },
+   "2028747142234068875": {
+      "message": "Preporučujemo vam"
+   },
+   "2029980907058777630": {
+      "message": "Uvjeti pružanja usluge"
+   },
+   "2032972931560484213": {
+      "message": "Autor: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2035790691811675095": {
+      "message": "Pretplatite se na Google Play glazbu i slušajte ovaj popis i milijune drugih pjesama. Prvi mjesec besplatno."
+   },
+   "2038339465785978681": {
+      "message": "Bez razmaka"
+   },
+   "2038618429165152799": {
+      "message": "Bez naslova"
+   },
+   "2080060559104348538": {
+      "message": "Južnoazijska pisma"
+   },
+   "2085941577249285555": {
+      "message": "Pretplatite se"
+   },
+   "2088175644103984799": {
+      "message": "Inherentni samoglasnik aq u kmerskom"
+   },
+   "2093026227428526289": {
+      "message": "Ova je ponuda dostupna samo na određenim novim Chromebookovima u zemljama u kojima je $START_LINK$dostupna$END_LINK$ usluga pretplate na Google Play glazbu.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "Kratka crtica"
+   },
+   "2101525118384454593": {
+      "message": "Isključi nasumičnu reprodukciju pjesama"
+   },
+   "2102825898069375693": {
+      "message": "Izbornik"
+   },
+   "2107375315384298887": {
+      "message": "Indeks"
+   },
+   "2109622269343579329": {
+      "message": "Nevažeća e-adresa"
+   },
+   "2139100152161431685": {
+      "message": "Vaša je glazba trenutačno nedostupna s ovog uređaja. Pokušajte ponovo kasnije. $START_LINK$Pomoć$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Zatvori"
+   },
+   "2145060893030204211": {
+      "message": "Ne možemo pružiti više informacija. Pokušajte ponovo kasnije."
+   },
+   "2149165958319691680": {
+      "message": "Kupi"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 pjesama}=1{1 pjesma}one{{NUM_SONGS_2} pjesma}few{{NUM_SONGS_2} pjesme}other{{NUM_SONGS_2} pjesama}}"
+   },
+   "2152998011161774228": {
+      "message": "g, a zatim h"
+   },
+   "2158830056128036057": {
+      "message": "Obrada glazbenih datoteka..."
+   },
+   "2159130950882492111": {
+      "message": "Poništi"
+   },
+   "216513153459932308": {
+      "message": "Razlomci/povezano"
+   },
+   "2173312720188441245": {
+      "message": "koptsko"
+   },
+   "2187022653493279712": {
+      "message": "g, a zatim e"
+   },
+   "2203397136690479355": {
+      "message": "Datoteku nije moguće obraditi"
+   },
+   "2205522058604794595": {
+      "message": "Afrička pisma"
+   },
+   "2209153283705342590": {
+      "message": "kaithi"
+   },
+   "2214224657661107347": {
+      "message": "Pošalji dar"
+   },
+   "2220879710364134067": {
+      "message": "Uređuje trenutačno odabrane pjesme"
+   },
+   "2239551688895104696": {
+      "message": "Prikazivanje/sakrivanje izbornika popisa pjesama"
+   },
+   "2246437904181111020": {
+      "message": "Google Play glazba: odabir medijskih mapa"
+   },
+   "2252825622480483246": {
+      "message": "meroitski kurziv"
+   },
+   "2256597604224604671": {
+      "message": "Pauziraj $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2262446869382672016": {
+      "message": "Google Play glazba omogućuje vam jednostavno slušanje omiljene glazbe na pametnom telefonu, tabletu i webu."
+   },
+   "2270666830264677427": {
+      "message": "Najveći broj pjesama koje možete preuzeti odjednom iznosi $MAX_TRACKS_IN_ZIP$. Odaberite manje pjesama i pokušajte ponovo.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2272173107172176330": {
+      "message": "Reproduciraj $STATION_TITLE$",
+      "placeholders": {
+         "STATION_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Ocijeni trenutačnu pjesmu palcem prema gore"
+   },
+   "2280774384387096759": {
+      "message": "Povucite pjesme ili mape da biste dodali glazbu u svoju fonoteku."
+   },
+   "2296431514706414883": {
+      "message": "1. U prozoru Preuzimanja dvaput kliknite stavku MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Nažalost, Google Play glazba nije dostupna u vašoj zemlji."
+   },
+   "2299183036960756600": {
+      "message": "za $NUM$ dan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2303154715443443305": {
+      "message": "Preuzimanje Upravitelja glazbe..."
+   },
+   "2303727423829841771": {
+      "message": "Čini se da vam je u pregledniku isključen JavaScript. JavaScript mora biti uključen kako bi Google Play ispravno radio."
+   },
+   "2304955983019633604": {
+      "message": "Slušajte pjesme s albuma kao što je $TITLE$, $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "2309808536212982229": {
+      "message": "Aktivnosti"
+   },
+   "2309894433432831059": {
+      "message": "Oblik prikaza za okomitu dugačku crticu"
+   },
+   "2311151671924532713": {
+      "message": "Ukloni s popisa pjesama"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$%",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "231679111972850796": {
+      "message": "Dodano"
+   },
+   "2321398646644344846": {
+      "message": "Sutra"
+   },
+   "2328554046256236832": {
+      "message": "FLAC datoteka nije podržana"
+   },
+   "2328629775851907569": {
+      "message": "Google Play glazba olakšava vam slušanje omiljene glazbe na uređajima sa sustavima Android i iOS te na webu."
+   },
+   "2329070756809480856": {
+      "message": "Album: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2339250039074511222": {
+      "message": "Tu vezu nije moguće testirati."
+   },
+   "2339750206850776348": {
+      "message": "licijsko"
+   },
+   "2357805327369816634": {
+      "message": "Pretplatite se i slušajte samo glazbu bez oglasa"
+   },
+   "2359922567074115383": {
+      "message": "Izbriši sliku naslovnice albuma"
+   },
+   "2372448112806402757": {
+      "message": "Sljedeća epizoda"
+   },
+   "2376735487384008742": {
+      "message": "Valovita povlaka"
+   },
+   "2378357177170124823": {
+      "message": "Decimala"
+   },
+   "2382000105167193834": {
+      "message": "gudžaratsko"
+   },
+   "2383360664777254925": {
+      "message": "Prikazivanje/sakrivanje navigacijskog izbornika"
+   },
+   "2390557292924554291": {
+      "message": "Poveznik nulte širine"
+   },
+   "2407755817901433243": {
+      "message": "Iskoristite kupon za pretplatu na Google Play glazbu."
+   },
+   "2434131766046654438": {
+      "message": "linear B"
+   },
+   "2443885011055165607": {
+      "message": "Odaberite paket za preuzimanje:"
+   },
+   "2447745837421769983": {
+      "message": "Za najbolje preuzimanje nabavite Google Play glazbu za Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Nepoznata pjesma"
+   },
+   "247847652023697955": {
+      "message": "Glazbeni simbol početne ligature"
+   },
+   "2483680006830369490": {
+      "message": "g, a zatim p"
+   },
+   "249032153569378306": {
+      "message": "prije $NUM$ sat",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2492300395471245755": {
+      "message": "Izvođač"
+   },
+   "250478839881665936": {
+      "message": "g, a zatim s"
+   },
+   "2506718393130237030": {
+      "message": "Oblik nije podržan"
+   },
+   "2512060739274636260": {
+      "message": "novi tajski lue"
+   },
+   "2513370824993175045": {
+      "message": "za $NUM$ dana",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Glazbeni simbol završne spone"
+   },
+   "2529924385478060648": {
+      "message": "buhidsko"
+   },
+   "2530473232691534250": {
+      "message": "E-adresa"
+   },
+   "2534296837124481552": {
+      "message": "Promijenite oblik plaćanja – $START_LINK$saznajte više$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2537475974842549685": {
+      "message": "Zatvori oglas"
+   },
+   "2538866057253567409": {
+      "message": "deseretsko"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Prijavite se$END_LINK$ da biste saznali očekuju li vas neke Chromeove pogodnosti.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Uvjeti"
+   },
+   "2550362371114851075": {
+      "message": "Normalan"
+   },
+   "2558836909854550547": {
+      "message": "Normalan"
+   },
+   "2565011230196288502": {
+      "message": "za $NUM$ minutu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2567679469483426925": {
+      "message": "Taj mali dodatak trenutačno nije dostupan."
+   },
+   "2570105377175439523": {
+      "message": "KUPI"
+   },
+   "2570991997865478028": {
+      "message": "Pogledajte sve albume izvođača $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2597193119810674616": {
+      "message": "Pretplatite se na Google Play glazbu i nagradit ćemo vas besplatnim razdobljem od $OFFER_LENGTH_DAYS$ dana.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Predloženo: $FIRST$ od $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "26023870081082032": {
+      "message": "Lokacija: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2610851846609508423": {
+      "message": "Na temelju ASCII kodiranja"
+   },
+   "2626751888211361777": {
+      "message": "Pogledajte još najpopularnijih pjesama"
+   },
+   "2634703826856398600": {
+      "message": "(Broj novih pjesama: $NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Upravitelj glazbe dostupan je samo za Windows, Mac i Linux."
+   },
+   "2655732800763953732": {
+      "message": "Instant miks $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Komentar"
+   },
+   "2665785172586453916": {
+      "message": "Oglašavačka slika povezana s trenutačnim audiooglasom"
+   },
+   "2671314447505154224": {
+      "message": "Top liste"
+   },
+   "2673412443855817873": {
+      "message": "Palac dolje"
+   },
+   "2697517010706562809": {
+      "message": "Nudimo vam pristup za više od 35 milijuna pjesama i neograničeni radio."
+   },
+   "2707074873770010705": {
+      "message": "Vaš uređaj ne ispunjava uvjete za tu promociju. Ne brinite se, svejedno možete dobiti neograničen pristup glazbi ako isprobate Google Play glazbu. Besplatno razdoblje traje 30 dana."
+   },
+   "2714752802779336020": {
+      "message": "Google Play glazba"
+   },
+   "2721786517672194900": {
+      "message": "To se ograničenje ne primjenjuje kada za preuzimanje upotrebljavate $START_SPAN$Google Play glazbu za Chrome$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "272553825640256879": {
+      "message": "Crtica – minus pune širine"
+   },
+   "2728721019095728485": {
+      "message": "Visoka"
+   },
+   "2732888649509914313": {
+      "message": "mongolsko"
+   },
+   "2746055492028991938": {
+      "message": "bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Previše datoteka na računu"
+   },
+   "2777498733015254880": {
+      "message": "Pomoć i povratne informacije"
+   },
+   "2787148143326073325": {
+      "message": "Pretraživanje glazbe"
+   },
+   "2801094315807039135": {
+      "message": "tajski viet"
+   },
+   "280973959199634338": {
+      "message": "Prikaz videozapisa s YouTubea"
+   },
+   "2809945145618753350": {
+      "message": "Četvrtina dugog razmaka"
+   },
+   "2811509810457668932": {
+      "message": "Fonetski (X-IPA)"
+   },
+   "2826705908408853328": {
+      "message": "Preusmjerit ćemo vas na Google Play kako biste tamo dovršili postavljanje. Kad budete gotovi, vratit ćemo vas na Play glazbu."
+   },
+   "2834324594183341424": {
+      "message": "Dodavanje postojeće glazbene zbirke na Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Mapa Moja glazba je prazna"
+   },
+   "2856670286248433202": {
+      "message": "Oglas"
+   },
+   "2857356182021649243": {
+      "message": "Otvaraju se vaše pjesme"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{prije # minuta}=1{prije # minute}one{prije # minute}few{prije # minute}other{prije # minuta}}"
+   },
+   "2881621988818346391": {
+      "message": "Da"
+   },
+   "2881776379326317082": {
+      "message": "Uvijek upotrebljavaj ovu lokaciju"
+   },
+   "2896688457548770791": {
+      "message": "Citat"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 postaja}=1{1 postaja}one{# postaja}few{# postaje}other{# postaja}}"
+   },
+   "2910989560121976550": {
+      "message": "Testiraj ovu vezu"
+   },
+   "2918448970074432239": {
+      "message": "Uređivanje HTML-a"
+   },
+   "2933981780439742153": {
+      "message": "Prikaz miniplayera"
+   },
+   "2941843189430218247": {
+      "message": "Shift q"
+   },
+   "29485262661698811": {
+      "message": "Kraj ayahe u arapskom"
+   },
+   "2954874827338778826": {
+      "message": "Web-adresa"
+   },
+   "2968801718595938980": {
+      "message": "hangul"
+   },
+   "2972470287059252937": {
+      "message": "Uski nerastavljajući razmak"
+   },
+   "2973169743818593793": {
+      "message": "hanski znakovi u pet poteza"
+   },
+   "29734255682325103": {
+      "message": "Poravnanje desno"
+   },
+   "2980847012388128321": {
+      "message": "Razmak nulte širine"
+   },
+   "2980960654248329234": {
+      "message": "Najkraći razmak"
+   },
+   "2982463607788408741": {
+      "message": "Odjavljeni ste sa svojeg Google računa. Osvježite da biste se ponovo prijavili."
+   },
+   "2983216790003568156": {
+      "message": "Sigurna veza nije uspostavljena"
+   },
+   "3010015422095710725": {
+      "message": "Izbriši moju cijelu fonoteku, uključujući kupljenu glazbu i glazbu dodanu putem moje pretplate na Google Play glazbu ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Iskoristi ponudu"
+   },
+   "3054851848337350805": {
+      "message": "Eksponent"
+   },
+   "305815942371229357": {
+      "message": "Nema prijedloga"
+   },
+   "3067310196368927236": {
+      "message": "Interpunkcija makaf u hebrejskom"
+   },
+   "3072935047674817211": {
+      "message": "Moja glazba"
+   },
+   "308732574543176489": {
+      "message": "Nije bilo moguće izmijeniti popis pjesama. Pokušajte ponovo."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} sat}one{{TEXT} sat}few{{TEXT} sata}other{{TEXT} sati}}"
+   },
+   "3092124279252305673": {
+      "message": "320 kbps, prilagodljiva."
+   },
+   "309901418176428732": {
+      "message": "Podcastovi"
+   },
+   "3099596419835786769": {
+      "message": "Matematički razmak srednje širine"
+   },
+   "3099741642167775297": {
+      "message": "Preuzmi"
+   },
+   "310152014457055522": {
+      "message": "Pretplatite se da biste slušali bilo koju pjesmu ili album"
+   },
+   "3117706868107348105": {
+      "message": "Ili kopirajte i zalijepite ovu vezu:"
+   },
+   "3125342991297920614": {
+      "message": "Nije moguće otvoriti album. Pokušajte ponovo."
+   },
+   "3138864086144358473": {
+      "message": "hanski znakovi od 11 do 17 poteza"
+   },
+   "314582171813087287": {
+      "message": "Nerastavljajuća crtica"
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Otvaraju se vaši autori"
+   },
+   "31530890844887887": {
+      "message": "Trajanje pjesme"
+   },
+   "3154951825194528737": {
+      "message": "Otkazivanje preuzimanja glazbe"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Niste sigurni što biste trebali unijeti u okvir?$END_BOLD$ Najprije pronađite stranicu na webu s kojom se želite povezati. (Možete se poslužiti $SEARCH_ENGINE_LINK$tražilicom$END_LINK$.) Zatim kopirajte web-adresu iz okvira adresne trake preglednika u gornji okvir.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3163044740176820503": {
+      "message": "Počnite s radom"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Jeste li sigurni da želite izbrisati odabranu pjesmu?}one{Jeste li sigurni da želite izbrisati odabrane pjesme?}few{Jeste li sigurni da želite izbrisati odabrane pjesme?}other{Jeste li sigurni da želite izbrisati odabrane pjesme?}}"
+   },
+   "3167418181223330667": {
+      "message": "Modifikator"
+   },
+   "3176546103367076011": {
+      "message": "Pogledajte sve najpopularnije pjesme izvođača $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3182977091552629211": {
+      "message": "Zadržite pokazivač iznad ćelije za prikaz naziva znaka."
+   },
+   "3185279424082070029": {
+      "message": "Na računalu na kojem ste spremili tu pjesmu provjerite izvršava li se Upravitelj glazbe te je li računalo povezano s internetom. Pjesma će se prenijeti ponovo tijekom sljedećeg dana."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{prije # dana}=1{prije # dan}one{prije # dan}few{prije # dana}other{prije # dana}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 pjesama}=1{1 pjesma}one{# pjesma}few{# pjesme}other{# pjesama}}"
+   },
+   "3196641196902208501": {
+      "message": "Veza s e-adresom"
+   },
+   "3198123723060667787": {
+      "message": "Kada"
+   },
+   "3213972439514824911": {
+      "message": "Palac gore"
+   },
+   "3220162149541031829": {
+      "message": "Tekst pjesme"
+   },
+   "3225804441370198247": {
+      "message": "Sve moje pjesme: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "yijing/tai xuan jing"
+   },
+   "3234962763403901834": {
+      "message": "za $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Ništa"
+   },
+   "3237206613586329862": {
+      "message": "lidijsko"
+   },
+   "3242312278127054660": {
+      "message": "Matematički alfanumerički"
+   },
+   "3244003434432113241": {
+      "message": "Reproduciraj"
+   },
+   "3245264696956198335": {
+      "message": "Oblik"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Niste odabrali nijednu pjesmu za preuzimanje na svoje računalo.}=1{Doista želite preuzeti odabranu pjesmu na svoje računalo?}one{Doista želite preuzeti odabrane pjesme na svoje računalo?}few{Doista želite preuzeti odabrane pjesme na svoje računalo?}other{Doista želite preuzeti odabrane pjesme na svoje računalo?}}"
+   },
+   "3255560926299154386": {
+      "message": "Uključite i svoju glazbu iz programa iTunes."
+   },
+   "32574714261860078": {
+      "message": "Slušajte"
+   },
+   "3277700190370010726": {
+      "message": "Promocija Glazbe za Google Play za korisnika $START_BOLD$$USER_EMAIL$$END_BOLD$ trenutačno nije dostupna. Pokušajte ponovo kasnije.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3299099956700438963": {
+      "message": "Američka pisma"
+   },
+   "3307635842875172003": {
+      "message": "Idi na moje mikseve"
+   },
+   "3310099093781584673": {
+      "message": "g, a zatim m"
+   },
+   "3311269073804742952": {
+      "message": "Slušaj odmah"
+   },
+   "3323193679372503780": {
+      "message": "Ne, hvala"
+   },
+   "3325286951950012705": {
+      "message": "Pronađite ulaznice"
+   },
+   "3326102734049980036": {
+      "message": "Još $DURATION$",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Pogledajte sve rezultate pretraživanja popisa pjesama"
+   },
+   "3335728816495350082": {
+      "message": "Najpopularnije pjesme: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Prikaz glavnog playera"
+   },
+   "3377006691156456363": {
+      "message": "Veza za dijeljenje"
+   },
+   "3381844160250536550": {
+      "message": "Prijavite se u Chrome"
+   },
+   "3389797949812522362": {
+      "message": "hebrejsko"
+   },
+   "3390725557414108843": {
+      "message": "hanski znakovi u četiri poteza"
+   },
+   "3410315382362912156": {
+      "message": "Popis pjesama $START_SPAN$$TITLE$$END_SPAN$ trenutačno je privatan. Postavite ga na javno da biste ga dijelili.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Otpad"
+   },
+   "3419681791450150574": {
+      "message": "Napredak"
+   },
+   "342127282404571667": {
+      "message": "Google Play glazba za OS Chrome"
+   },
+   "3431116501598202644": {
+      "message": "Nepoznati album"
+   },
+   "3439291896675389753": {
+      "message": "nko"
+   },
+   "3444326079109550157": {
+      "message": "Na koji URL treba voditi ova veza?"
+   },
+   "3445096196133856884": {
+      "message": "Inherentni samoglasnik aa u kmerskom"
+   },
+   "3462013384451950074": {
+      "message": "za $NUM$ sat",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "Autor: $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Slušajte svu svoju glazbu. Bilo gdje. Jednostavno dodajte glazbu sa svojeg računala na Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Interpunkcija"
+   },
+   "3483193414050571677": {
+      "message": "Palac dolje"
+   },
+   "3483958460407305290": {
+      "message": "Precrtavanje"
+   },
+   "3491417595697100862": {
+      "message": "Pruža $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Smanjenje glasnoće playera"
+   },
+   "3519190023725081398": {
+      "message": "g, a zatim b"
+   },
+   "352192086869301337": {
+      "message": "Dodano: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ od $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Iskoristite kupon Google Play glazbe"
+   },
+   "3532209277261496348": {
+      "message": "Pogreška. Pokušajte ponovo."
+   },
+   "3545785371861413299": {
+      "message": "Započni besplatno probno razdoblje"
+   },
+   "3545929198870894557": {
+      "message": "Idi na moje popise pjesama"
+   },
+   "3547729876847212201": {
+      "message": "Kratki razmak"
+   },
+   "3565556274692077023": {
+      "message": "Duga crtica"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Uvijek visoka"
+   },
+   "3587102960969248092": {
+      "message": "Preporučena nova izdanja"
+   },
+   "3599940994748621516": {
+      "message": "Pretplatite se na Google Play glazbu i slušajte ovu i milijune drugih pjesama. Prvi mjesec besplatno."
+   },
+   "3601632218457952692": {
+      "message": "ji"
+   },
+   "3605470624800934973": {
+      "message": "Želite li zaista izbrisati odabrani album?"
+   },
+   "3605957923037994993": {
+      "message": "U redu"
+   },
+   "3609204150605625912": {
+      "message": "Palac gore"
+   },
+   "3629941396858927174": {
+      "message": "Zatvaranje više opcija"
+   },
+   "3631504127812962801": {
+      "message": "lisusko"
+   },
+   "3638177113998814964": {
+      "message": "Učitavanje zapisa $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Izbriši pretraživanje"
+   },
+   "3649938620817393740": {
+      "message": "Malen"
+   },
+   "3650710698506236041": {
+      "message": "Heksadecimalna boja"
+   },
+   "3688803517283872334": {
+      "message": "Polovica širine umetka u pismu hangul"
+   },
+   "3693467228074689327": {
+      "message": "Nastavi"
+   },
+   "3701910180379922299": {
+      "message": "šarada"
+   },
+   "370216116393129031": {
+      "message": "Otvori red čekanja"
+   },
+   "3748613043647922063": {
+      "message": "Nevidljivi razdjelnik"
+   },
+   "3748893353086104812": {
+      "message": "Izbrišite lokalnu predmemoriju i osvježite sve podatke o pjesmama i popisima pjesama."
+   },
+   "3762887990641668199": {
+      "message": "armensko"
+   },
+   "3768927257183755959": {
+      "message": "Spremi"
+   },
+   "3770594827970207417": {
+      "message": "Manji naslov"
+   },
+   "3772706138160001780": {
+      "message": "Vodoravna traka"
+   },
+   "3774172828626803355": {
+      "message": "čerokijsko"
+   },
+   "3782346097595894324": {
+      "message": "Povezivanje s poslužiteljem nije uspjelo. Pokušajte ponovno kasnije."
+   },
+   "3784429870217408370": {
+      "message": "brahmi"
+   },
+   "3789779144889291801": {
+      "message": "Jednostavno preuzmite glazbu koju ste kupili ili prenijeli na Google Play."
+   },
+   "3795262960327716692": {
+      "message": "Da biste dodali pjesmu, povucite je na naziv popisa pjesama u bočnoj traci"
+   },
+   "3801288115809478084": {
+      "message": "U redu"
+   },
+   "3807050606425965472": {
+      "message": "Sljedeći će se prozori zatvoriti:\n"
+   },
+   "3832446507144709355": {
+      "message": "glagoljica"
+   },
+   "3839679337223320857": {
+      "message": "Prijavljeni ste kao $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radio $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Otvori Google Play glazbu"
+   },
+   "3861583677596279097": {
+      "message": "Izvješće mora doći do inženjera najkasnije do kraja sljedećeg radnog dana"
+   },
+   "3865248559890962003": {
+      "message": "Predloženo: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Iskoristite kupon za Google Play glazbu"
+   },
+   "3867367359959377145": {
+      "message": "POGREŠKA: \"$COLOR$\" nije važeća boja.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3868119883080041455": {
+      "message": "Radio $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Prijavite se na Google Play glazbu na webu kako biste mogli upotrebljavati aplikaciju Chrome."
+   },
+   "3873111853443561979": {
+      "message": "Podcrtavanje"
+   },
+   "3885497195825665706": {
+      "message": "Dalje"
+   },
+   "3890078112831612818": {
+      "message": "Na računalu na kojem ste spremili te pjesme provjerite izvršava li se Upravitelj glazbe te je li računalo povezano s internetom. Pjesme će se prenijeti ponovo tijekom sljedećeg dana."
+   },
+   "3901889124080689046": {
+      "message": "Datoteku nije moguće otvoriti"
+   },
+   "3904027274600624417": {
+      "message": "Svi mogu pronaći i slušati. Savršeno za dijeljenje."
+   },
+   "3905289916217023036": {
+      "message": "Trajno brisanje sve kupljene ili prenesene glazbe."
+   },
+   "3905371920037624514": {
+      "message": "Manje uobičajeni"
+   },
+   "3936240281193464170": {
+      "message": "Osvježi"
+   },
+   "3941019069704400974": {
+      "message": "Jeste li sigurni da želite trajno izbrisati povijest na temelju koje dobivate prilagođene preporuke? Time se neće ukloniti vaše ocjene i broj reprodukcija pojedinačnih pjesama."
+   },
+   "3949911572988594237": {
+      "message": "Izradi popis pjesama"
+   },
+   "3973260061047030021": {
+      "message": "Reproduciranje ili pauziranje glazbe"
+   },
+   "3973931101896534797": {
+      "message": "Datum"
+   },
+   "3975141127799341224": {
+      "message": "Veza sa stranicom ili datotekom negdje drugdje na webu"
+   },
+   "3980763395698221887": {
+      "message": "{NUM_SONGS,plural, =1{U vašu fonoteku dodana je 1 pjesma.}one{U vašu fonoteku dodana je # pjesma.}few{U vašu fonoteku dodane su # pjesme.}other{U vašu fonoteku dodano je # pjesama.}}"
+   },
+   "3981724709755713539": {
+      "message": "Nedavni popisi pjesama"
+   },
+   "3982112843644394207": {
+      "message": "2. U mapi preglednika Preuzimanja dvaput kliknite musicmanagerinstaller.exe da biste otvorili tu stavku."
+   },
+   "3988935995558346502": {
+      "message": "ćirilica"
+   },
+   "3993484408454658640": {
+      "message": "Parental controls:"
+   },
+   "3996699777412450193": {
+      "message": "Strelice"
+   },
+   "4018574576796390012": {
+      "message": "Želite li doista $START_SPAN$trajno izbrisati$END_SPAN$ popis \"$PLAYLIST_NAME$\"?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4032125743169636815": {
+      "message": " &bull; "
+   },
+   "4034257783857644883": {
+      "message": "hanski znakovi u šest poteza"
+   },
+   "4044663630621281686": {
+      "message": "Arapski znak safha"
+   },
+   "4055580652532057510": {
+      "message": "bez naziva"
+   },
+   "405696346909038516": {
+      "message": "Pogledajte sve rezultate pretraživanja podcastova"
+   },
+   "4061274470931156807": {
+      "message": "olčiki"
+   },
+   "4063027937991598166": {
+      "message": "Brisanje trenutačnog odabira"
+   },
+   "4071581399160046214": {
+      "message": "Home"
+   },
+   "4075286221500750156": {
+      "message": "Verzija: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Računalo nije prepoznato."
+   },
+   "4086606389696938932": {
+      "message": "Račun"
+   },
+   "4087074177670472082": {
+      "message": "Sidro za napomene između redaka"
+   },
+   "4091426921184034649": {
+      "message": "Nadogradnja pretplate"
+   },
+   "4110926661719376304": {
+      "message": "Saznajte kako uključiti JavaScript"
+   },
+   "4117020323749523105": {
+      "message": "Nedavna aktivnost"
+   },
+   "4117886182866316912": {
+      "message": "Traženje unaprijed u trenutačnoj pjesmi"
+   },
+   "4136239927282562599": {
+      "message": "Slušajte radio s glazbom koja je slična vašem odabiru ($START_SPAN$$TITLE$$END_SPAN$).",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Ovaj je popis pjesama prazan"
+   },
+   "4141582858389779168": {
+      "message": "Registrirajte se za neograničenu glazbu za samo $OFFER_PRICE$ mjesečno i slušajte milijune pjesama odmah i bez oglasa.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Pjesma je označena kao pogrešno podudaranje."
+   },
+   "4170374596716717299": {
+      "message": "hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Odabrana pjesma upotrijebit će vašu, a ne podudarnu kopiju.}one{Odabrane pjesme upotrijebit će vaše, a ne podudarne kopije.}few{Odabrane pjesme upotrijebit će vaše, a ne podudarne kopije.}other{Odabrane pjesme upotrijebit će vaše, a ne podudarne kopije.}}"
+   },
+   "4171773891797639122": {
+      "message": "Poveznik riječi"
+   },
+   "4183640380235728062": {
+      "message": "Ponavljanje je isključeno. Kliknite za promjenu načina ponavljanja."
+   },
+   "4204603140063905121": {
+      "message": "Umetak u pismu hangul jungseong"
+   },
+   "4207298621447602833": {
+      "message": "Najbolje podudaranje"
+   },
+   "4210934092144627539": {
+      "message": "Nedavno slušano ili dodano"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Slušajte milijune pjesama kad god želite$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4237178646016840735": {
+      "message": "Pretplatite se na Google Play glazbu i slušajte ovog autora i milijune drugih pjesama. Prvi mjesec besplatno."
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ na $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4260036130369028456": {
+      "message": "g, a zatim g"
+   },
+   "4263959392548297550": {
+      "message": "Odustani"
+   },
+   "4267092206833736997": {
+      "message": "Radijske postaje"
+   },
+   "4272173055918340921": {
+      "message": "Učitavanje fonoteke&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Uvijek na vrhu"
+   },
+   "4285216590250755577": {
+      "message": "Vaš se uređaj mora ažurirati kako bismo mogli provjeriti ispunjava li uvjete za tu promociju."
+   },
+   "4307428996576001111": {
+      "message": "Idi na prethodnu pjesmu"
+   },
+   "4318639872744852657": {
+      "message": "takri"
+   },
+   "4323912651038951928": {
+      "message": "Tom se radnjom brišu i vaš popis pjesama, radiopostaje, ocjene i podaci o broju reprodukcija."
+   },
+   "4326462735503400283": {
+      "message": "Tekst za prikaz:"
+   },
+   "4329609792835264496": {
+      "message": "Tanki razmak"
+   },
+   "4330683855002842723": {
+      "message": "Prikaz više opcija"
+   },
+   "4333644357236884202": {
+      "message": "kmersko"
+   },
+   "4338950182024656659": {
+      "message": "Spol i genealogija"
+   },
+   "4340616150909089613": {
+      "message": "Podudara li se pjesma \"$SONG_TITLE$\" s nekom drugom pjesmom?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Tehnologiju kodiranja zvuka MPEG Layer-3 licenciraju Fraunhofer IIS i Thomson. Advanced Audio Coding (AAC) upotrebljava se pod licencom kojom upravlja tvrtka Via Licensing Corporation. Google Play sadrži određeni softver treće strane koji zahtijeva obavijesti i/ili dodatne uvjete i odredbe. Te obavezne obavijesti i/ili dodatni uvjeti i odredbe softvera treće strane nalaze se na $START_LINK$stranici s pravilima o otkrivanju podataka treće strane$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Dodajte glazbu sa sljedećih izvora: $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Block music marked explicit by content providers."
+   },
+   "437655423845564400": {
+      "message": "Dostignuto je ograničenje broja pjesama. Možete prenijeti najviše ovoliko pjesama: $TRACK_LIMIT$.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Oblik prikaza za okomitu kratku crticu"
+   },
+   "4383725505132456525": {
+      "message": "Pauziranje dodavanja glazbe"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Napravite vlastite popise pjesama"
+   },
+   "4396890764725725469": {
+      "message": "Spremi"
+   },
+   "4405073953395157822": {
+      "message": "CJK potezi"
+   },
+   "4417144592785193889": {
+      "message": "Druga istočnoazijska pisma"
+   },
+   "4439965029912183539": {
+      "message": "1. latinični dodatak"
+   },
+   "4440466521156769623": {
+      "message": "Glazbeni simbol početne spone"
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 pjesama}=1{1 pjesma}one{{COUNT_2} pjesma}few{{COUNT_2} pjesme}other{{COUNT_2} pjesama}}"
+   },
+   "445149490695787423": {
+      "message": "Prijavite se ponovno"
+   },
+   "4451528286100219680": {
+      "message": "Ulaganje slijeva nadesno"
+   },
+   "4452427314943113135": {
+      "message": "Prethodna"
+   },
+   "4453762904903445132": {
+      "message": "Pogreška prilikom dodavanja na popis pjesama."
+   },
+   "4456793125873199230": {
+      "message": "Radio \"Prati me sreća\""
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 sekundi}=1{1 sekunda}one{# sekunda}few{# sekunde}other{# sekundi}}"
+   },
+   "4462494623248108758": {
+      "message": "Popis pjesama"
+   },
+   "4476647413225813774": {
+      "message": "Nakon $OFFER_LENGTH_DAYS$ dana nastavite slušati za samo $OFFER_PRICE$ mjesečno.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4478641030934315579": {
+      "message": "Uobičajeni"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Neke vaše pjesme moraju se ponovo prenijeti."
+   },
+   "4539806158142214585": {
+      "message": "g, a zatim n"
+   },
+   "4548136982356342217": {
+      "message": "Shift &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Stvaranje novog instant miksa od odabrane pjesme"
+   },
+   "4571105317747127957": {
+      "message": "Crtica s dijarezom"
+   },
+   "4580988005648117665": {
+      "message": "Pretraživanje"
+   },
+   "4584074223811370739": {
+      "message": "Besplatni radio za sve što radite. Pohranite 50.000 zapisa iz osobne zbirke. Pretplatite se za pristup za 35 milijuna pjesama na zahtjev i izvanmrežno slušanje."
+   },
+   "4590981840116960737": {
+      "message": "Oblik i razmak"
+   },
+   "4601938511613873712": {
+      "message": "Moji uređaji"
+   },
+   "4604862300643180159": {
+      "message": "Uživajte u radijskim postajama za sva raspoloženja ili aktivnosti koje ručno uređuju glazbeni stručnjaci iz našeg tima."
+   },
+   "4607813303298554353": {
+      "message": "tana"
+   },
+   "46135825491334308": {
+      "message": "Brisanje glazbe trajno je."
+   },
+   "4624380622618270977": {
+      "message": "Nova izdanja"
+   },
+   "4624704164651982020": {
+      "message": "Postavljanje Glazbe za Google Play za Chrome..."
+   },
+   "4629398054050196678": {
+      "message": "Preuzmi glazbu na sljedeću lokaciju:"
+   },
+   "4645609569705949286": {
+      "message": "Samo ja"
+   },
+   "4648993989034133051": {
+      "message": "Prikazuje izbornik za trenutačno odabranu pjesmu"
+   },
+   "46496227337284997": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Besplatno pohranite do 50.000 pjesama na Google Playu.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Dodajte svoju zbirku iz iTunesa, Windows Media Playera ili mapa.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Slušajte je na webu ili svojim mobilnim uređajima bez petljanja sa žicama ili sinkronizacijom.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "4658362967039953209": {
+      "message": "Prenesi glazbu"
+   },
+   "4662613464573260354": {
+      "message": "Predloženo"
+   },
+   "466976558518570343": {
+      "message": "javansko"
+   },
+   "4675570050310339063": {
+      "message": "Dodavanje nije uspjelo. Broj pjesama na popisu ograničen je na $LIMIT$.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4675864222674894697": {
+      "message": "šavijansko"
+   },
+   "4687189636655044066": {
+      "message": "Razmaknica"
+   },
+   "4688350353916032040": {
+      "message": "Glazba za svako raspoloženje"
+   },
+   "4688946070631035536": {
+      "message": "Provjera pravopisa"
+   },
+   "470296860672943171": {
+      "message": "Izbornik varijacija"
+   },
+   "4706959263210678625": {
+      "message": "Izbornik varijacija – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Kako bi brzo prenio vašu glazbu, Google Play uspoređuje vaše glazbene datoteke s kopijama na našem poslužitelju. Ponekad može doći do povezivanja pogrešnih pjesama. Prijavite problem ovdje i pjesme će se ponovo prenijeti."
+   },
+   "471816275243265264": {
+      "message": "Lokacija"
+   },
+   "4718177503702130030": {
+      "message": "Trenutačno vrijeme pjesme: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4722420535011430371": {
+      "message": "Videozapis na YouTubeu"
+   },
+   "4724245563419948725": {
+      "message": "Ažuriraj Google Play kada dodam novu glazbu na ove lokacije"
+   },
+   "4742770396342457517": {
+      "message": "Slušajte na Google Play glazbi"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "malajalamsko"
+   },
+   "4769480851867061848": {
+      "message": "Reproduciraj $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Razlog"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 žanrova}=1{1 žanr}one{# žanr}few{# žanra}other{# žanrova}}"
+   },
+   "4782493710939339680": {
+      "message": "Podijeli na Twitteru"
+   },
+   "4815033911915598343": {
+      "message": "Razmak"
+   },
+   "4830715100444503860": {
+      "message": "karošti"
+   },
+   "4836232766167652032": {
+      "message": "Nasumično reproduciraj $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4846792506513649213": {
+      "message": "Postaje"
+   },
+   "4862238057869188402": {
+      "message": "Nije moguće dohvatiti miksove. Pokušajte ponovo."
+   },
+   "4862902902120611556": {
+      "message": "Pogledajte sve rezultate pretraživanja izvođača"
+   },
+   "4867246087786788222": {
+      "message": "Vrsta računa:"
+   },
+   "4874337908897060929": {
+      "message": "Dodavanje glazbe je pauzirano"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Jeste li sigurni da želite {START_SPAN_1}trajno izbrisati{END_SPAN} odabranu pjesmu?}one{Jeste li sigurni da želite {START_SPAN_2}trajno izbrisati{END_SPAN} odabrane pjesme?}few{Jeste li sigurni da želite {START_SPAN_2}trajno izbrisati{END_SPAN} odabrane pjesme?}other{Jeste li sigurni da želite {START_SPAN_2}trajno izbrisati{END_SPAN} odabrane pjesme?}}"
+   },
+   "4878527640076219954": {
+      "message": "tamilsko"
+   },
+   "4886126295094352182": {
+      "message": "Google Play glazba za Chrome"
+   },
+   "4887472194021728050": {
+      "message": "tajsko"
+   },
+   "4902817035128594900": {
+      "message": "Opis"
+   },
+   "4916816672463415688": {
+      "message": "Isprobaj Google Play glazbu"
+   },
+   "4920482241656423227": {
+      "message": "Boja pozadine teksta"
+   },
+   "4920946997448724158": {
+      "message": "Skladatelj"
+   },
+   "4921096453319030731": {
+      "message": "Znak za skraćenicu u sirijskom"
+   },
+   "4924253230856131215": {
+      "message": "Pisma jugoistočne Azije"
+   },
+   "4930506384627295710": {
+      "message": "Postavke"
+   },
+   "4933504665795531092": {
+      "message": "Pretplata na Google Play glazbu pruža vam pristup za više od 35 milijuna pjesama i neograničeni radio."
+   },
+   "4945228064546795686": {
+      "message": "Pogledajte sve rezultate pretraživanja albuma"
+   },
+   "4962022175989879342": {
+      "message": "Eksplicitno"
+   },
+   "496636435516411982": {
+      "message": "Nije bilo moguće ocijeniti pjesmu. Pokušajte ponovo."
+   },
+   "4972659496812307928": {
+      "message": "Preuzimanje glazbe je pauzirano"
+   },
+   "4980580439123922024": {
+      "message": "Izvođači"
+   },
+   "498913874005297914": {
+      "message": "Podebljavanje"
+   },
+   "499152283823240992": {
+      "message": "samaritansko"
+   },
+   "4998030835388374541": {
+      "message": "Promjena slike naslovnice albuma"
+   },
+   "5003850562831597565": {
+      "message": "Nedavno ste se pretplatili"
+   },
+   "5004312405043027351": {
+      "message": "Završeno"
+   },
+   "5009878480585609766": {
+      "message": "hanski – ostalo"
+   },
+   "5015096128854741514": {
+      "message": "Prijevoz i karte"
+   },
+   "5018227417300461385": {
+      "message": "Mala crtica – minus"
+   },
+   "5029496897209707807": {
+      "message": "Google Play glazba za Chrome mora se ažurirati. To bi se trebalo dogoditi automatski."
+   },
+   "5030096791460456147": {
+      "message": "Sliku koju pokušavate povući blokirala je web-lokacija koja je hostira."
+   },
+   "5032188163864418301": {
+      "message": "pahlavi iz zapisa"
+   },
+   "5043933900720743682": {
+      "message": "Albumi"
+   },
+   "5049432650728491454": {
+      "message": "Pregledajte nova izdanja, top liste, popise pjesama i žanrove"
+   },
+   "504977212575871255": {
+      "message": "Nije bilo moguće promeniti promijeniti redoslijed. Pokušajte ponovo."
+   },
+   "506090363255226122": {
+      "message": "Preokrenuti/zrcaljeni"
+   },
+   "5067818727161314391": {
+      "message": "Podijeli na Googleu+"
+   },
+   "5071594083516657121": {
+      "message": "Datoteka je prevelika"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 albuma}=1{1 album}one{# album}few{# albuma}other{# albuma}}"
+   },
+   "5085509606319320198": {
+      "message": "Zatvori red čekanja"
+   },
+   "5094769877856014729": {
+      "message": "Glazbeni simbol završne ligature"
+   },
+   "5105404398573470156": {
+      "message": "Geometrijski likovi"
+   },
+   "5113771261593769985": {
+      "message": "čamsko"
+   },
+   "5115900738857721327": {
+      "message": "Kombinirani poveznik grafema"
+   },
+   "5119663120731608161": {
+      "message": "Pogledajte popis pjesama $START_LINK$Posljednje dodano$END_LINK$ da biste vidjeli svoje najnovije pjesme.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{Preostalo je 1 preskakanje}one{Preostalo je # preskakanje}few{Preostala su # preskakanja}other{Preostalo je # preskakanja}}"
+   },
+   "5128240607770067472": {
+      "message": "O aplikaciji..."
+   },
+   "5141725357376719861": {
+      "message": "Preuzeto: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ od $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Traženje..."
+   },
+   "5154374028369457456": {
+      "message": "Alatna traka za navigaciju"
+   },
+   "5161411570094992408": {
+      "message": "Ne sada"
+   },
+   "5170992049958515620": {
+      "message": "Crtica"
+   },
+   "5188231675115376764": {
+      "message": "Idi na moje radijske postaje"
+   },
+   "5189296983337794287": {
+      "message": "Slikovne datoteke trenutačno nije moguće povući i ispustiti.\nPovucite sliku iz web-preglednika."
+   },
+   "5199204386348402183": {
+      "message": "somalsko"
+   },
+   "5219596981664772816": {
+      "message": "hanski znakovi u tri poteza"
+   },
+   "5232157483592334572": {
+      "message": "tifinagh"
+   },
+   "5237204164514638395": {
+      "message": "Pošaljite dar"
+   },
+   "5256846847077792168": {
+      "message": "Uređivanje riječi"
+   },
+   "5274506773583039432": {
+      "message": "Želite li doista $START_SPAN$trajno izbrisati$END_SPAN$ odabrani popis?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "Emotikoni"
+   },
+   "529512324149544235": {
+      "message": "Parental Controls Settings Changed"
+   },
+   "5296780212411063886": {
+      "message": "Pregledaj postaje"
+   },
+   "5302287499843369186": {
+      "message": "Postavljanje Google Play glazbe"
+   },
+   "531478949469830505": {
+      "message": "sorsko"
+   },
+   "5316998074277327666": {
+      "message": "Dijelovi sadržaja zaštićena su autorska djela &copy; Gracenotea ili njegovih davatelja usluge."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Jeste li sigurni da želite {START_SPAN_1}trajno izbrisati{END_SPAN} odabranu pjesmu?}one{Jeste li sigurni da želite {START_SPAN_2}trajno izbrisati{END_SPAN} odabrane pjesme?}few{Jeste li sigurni da želite {START_SPAN_2}trajno izbrisati{END_SPAN} odabrane pjesme?}other{Jeste li sigurni da želite {START_SPAN_2}trajno izbrisati{END_SPAN} odabrane pjesme?}}"
+   },
+   "5326351540290142036": {
+      "message": "Prethodna pjesma"
+   },
+   "5348600594194881699": {
+      "message": "Slobodno se opustite, već ste se pretplatili na Google Play glazbu!"
+   },
+   "536459166857647880": {
+      "message": "tagaloško"
+   },
+   "5370332239555585516": {
+      "message": "Samo glazba, bez oglasa"
+   },
+   "5373550672011878193": {
+      "message": "runsko"
+   },
+   "5378532290721565403": {
+      "message": "Pjesma je kupljena putem drugog računa usluge Google Play glazba"
+   },
+   "5379453108698089622": {
+      "message": "Otvara se Slušaj odmah"
+   },
+   "5393158295657392839": {
+      "message": "Pjesme koje su označene kao netočno podudaranje."
+   },
+   "5394607018657314633": {
+      "message": "Razdjelnik redaka"
+   },
+   "5395035563228151731": {
+      "message": "Stanje računa:"
+   },
+   "5402470227536486835": {
+      "message": "Mala duga crtica"
+   },
+   "5404910277282887798": {
+      "message": "feničko"
+   },
+   "5407092932504462689": {
+      "message": "Pogledajte sve rezultate pretraživanja radijskih postaja"
+   },
+   "5408241503383428945": {
+      "message": "Ostala europska pisma"
+   },
+   "5410695385284979104": {
+      "message": "$TITLE$ – miks",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Postavke obitelji"
+   },
+   "5432330868773114140": {
+      "message": "Pokreni radio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 epizoda}=1{1 epizoda}one{{COUNT_2} epizoda}few{{COUNT_2} epizode}other{{COUNT_2} epizoda}}"
+   },
+   "545173546103184657": {
+      "message": "Google račun:"
+   },
+   "5452036681614307719": {
+      "message": "Nevidljivi znak zbrajanja"
+   },
+   "5452218284042451605": {
+      "message": "Da biste primijenili kupon na $START_SPAN$$USER_EMAIL$$END_SPAN$, unesite kôd u nastavku",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Nepoznati album"
+   },
+   "548629550059508920": {
+      "message": "Prijenos nije uspio jer već prenosite s dva računa."
+   },
+   "5492320356892382782": {
+      "message": "Trajno izbriši"
+   },
+   "5497512316841934820": {
+      "message": "Miks \"Prati me sreća\""
+   },
+   "5497627646066282315": {
+      "message": "Povezivanje"
+   },
+   "5501301484140201550": {
+      "message": "Radio \"Prati me sreća\""
+   },
+   "550380163414655031": {
+      "message": "Zatim ćemo od vas tražiti malo informacija o vašem glazbenom ukusu kako bismo vam pomogli otkriti pjesme koje vam se sviđaju."
+   },
+   "5518817744725858296": {
+      "message": "Izvođač koji nastupa u vašoj blizini"
+   },
+   "5524426195717036850": {
+      "message": "Otkazali ste pretplatu na popis pjesama \"{PLAYLIST_TITLE}\""
+   },
+   "5529194084754296998": {
+      "message": "Šestina dugog razmaka"
+   },
+   "5535160370665610524": {
+      "message": "Traženje unatrag u trenutačnoj pjesmi"
+   },
+   "5541835554879897802": {
+      "message": "Nije uspjelo dodavanje nekih pjesama u zbirku. Pokušajte ponovo."
+   },
+   "5562067436939843837": {
+      "message": "Slušajte glazbu iz našeg kataloga s milijunima pjesama i to bez oglasa."
+   },
+   "5578390534357178026": {
+      "message": "Morate se prijaviti na Chrome istim Google računom."
+   },
+   "5584189341216439776": {
+      "message": "Dodajte svoju glazbu"
+   },
+   "5584467594910303696": {
+      "message": "meroitski hijeroglifi"
+   },
+   "5586233271963962252": {
+      "message": "Sljedeća pjesma"
+   },
+   "5593848105713936399": {
+      "message": "Red čekanja"
+   },
+   "5594762259680838005": {
+      "message": "Nedavno kupljeno"
+   },
+   "5601530442010506564": {
+      "message": "Shvaćam"
+   },
+   "5605692130698677333": {
+      "message": "Treba li vam pomoć za dodavanje glazbe s računala na kojem ste već instalirali Upravitelj glazbe usluge Google Play?"
+   },
+   "560627050344405345": {
+      "message": "Preskoči 30 sekundi unaprijed"
+   },
+   "5607000992339442129": {
+      "message": "Potrebno je samo nekoliko minuta da biste počeli s prijenosom svoje glazbene zbirke na uslugu Google Play."
+   },
+   "5612959352951118540": {
+      "message": "za $NUM$ h",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Oblik"
+   },
+   "5643561794785412000": {
+      "message": "Nedostupno"
+   },
+   "5653588624985073807": {
+      "message": "gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "Nije moguće dohvatiti žanrove. Pokušajte ponovo."
+   },
+   "5671499827182863671": {
+      "message": "Odjavili ste se s računa. Kliknite gumb u nastavku da biste se vratili na svoju glazbu."
+   },
+   "5672179805519539136": {
+      "message": "Pohranite svoju glazbu na jednom mjestu. Slušajte je na Androidu, iOS-u i webu."
+   },
+   "5674048882417502526": {
+      "message": "Nadjačavanje zdesna nalijevo"
+   },
+   "5700613377997995103": {
+      "message": "Crtica za brojke"
+   },
+   "5728756163322931984": {
+      "message": "Slušajte milijune pjesama po cijeni jednog albuma"
+   },
+   "5729733224544981434": {
+      "message": "Dodajte Google Play glazbu za Chrome kako bi se omogućilo povlačenje i ispuštanje"
+   },
+   "5729741177183241567": {
+      "message": "{NUM_SONGS,plural, =1{Na popis je dodana 1 pjesma}one{Na popis je dodana # pjesma}few{Na popis su dodane # pjesme}other{Na popis je dodano # pjesama}}"
+   },
+   "5755038562791065032": {
+      "message": "Trećina dugog razmaka"
+   },
+   "5756282190263595941": {
+      "message": "Slušajte pjesme kao što je $TITLE$, $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5761798931116026691": {
+      "message": "Pretvorba u MP3 nije uspjela"
+   },
+   "5769804815976568558": {
+      "message": "Odaberite lokaciju za preuzimanje"
+   },
+   "5775493454862732930": {
+      "message": "Crtica u armenskom"
+   },
+   "5779551937076403073": {
+      "message": "Dodaj"
+   },
+   "5784007894878825338": {
+      "message": "Nerastavljajući razmak"
+   },
+   "5814708421422669024": {
+      "message": "Kupi za $PRICE_TEXT$",
+      "placeholders": {
+         "PRICE_TEXT": {
+            "content": "$1"
+         }
+      }
+   },
+   "5821233021244850631": {
+      "message": "Visoka kvaliteta bez obzira na mrežne uvjete."
+   },
+   "5827343664961087180": {
+      "message": "Pretplati se"
+   },
+   "5832435837238304779": {
+      "message": "Reproduciraj $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5854234999824329890": {
+      "message": "Upravljanje postavkama obitelji"
+   },
+   "585739095777961817": {
+      "message": ","
+   },
+   "5862309805277852777": {
+      "message": "Naziv"
+   },
+   "5863523793538309428": {
+      "message": "Vaša se glazba briše. Strpite se nekoliko sati dok sva glazba ne bude uklonjena."
+   },
+   "5888141336325862688": {
+      "message": "Idi na radijske postaje"
+   },
+   "5889126665299129466": {
+      "message": "Da biste upotrebljavali miniplayer, morate se prijaviti na Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Slušajte svoju glazbu na bilo kojem računalu i na čak deset dodatnih uređaja. Prijenos ili preuzimanje glazbe pomoću Upravitelja glazbe ili Google Play glazbe za Chrome ubraja se u ograničenje uređaja."
+   },
+   "5890243856676178044": {
+      "message": "bengalsko"
+   },
+   "5891064527381218201": {
+      "message": "Besplatno"
+   },
+   "5914500973755757025": {
+      "message": "laosko"
+   },
+   "5918806792833250096": {
+      "message": "klinopis"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5930857699885919881": {
+      "message": "ALAC datoteka nije podržana"
+   },
+   "5946473117506990177": {
+      "message": "Darujte pretplatu na Google Play glazbu"
+   },
+   "5966249470835718484": {
+      "message": "Pogledajte sve albume izvođača $ARTIST_NAME$ u Mojoj glazbi",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "5969115558488445506": {
+      "message": "Podnaslov"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Jedna od tih pjesama već se nalazi na popisu.}one{Neke od tih pjesama već se nalaze na popisu.}few{Neke od tih pjesama već se nalaze na popisu.}other{Neke od tih pjesama već se nalaze na popisu.}}"
+   },
+   "5971001229987621398": {
+      "message": "Preporučeno novo izdanje"
+   },
+   "5973114702086214474": {
+      "message": "Pogledajte sve srodne izvođače"
+   },
+   "5983727894875163426": {
+      "message": "Preskakanje nije uspjelo"
+   },
+   "5987565417212088924": {
+      "message": "Popis pjesama Pretraživanja glazbe"
+   },
+   "5990212441459592050": {
+      "message": "Učini javnim"
+   },
+   "599493319699637812": {
+      "message": "Nasumična reprodukcija pjesama"
+   },
+   "5999484363963634214": {
+      "message": "mandejsko"
+   },
+   "6028312506269896318": {
+      "message": "Jeste li sigurni da želite otkazati autorizaciju sljedećeg uređaja za reprodukciju glazbe:"
+   },
+   "6031749391396582225": {
+      "message": "Umetak u pismu hangul"
+   },
+   "60369026765465265": {
+      "message": "Osvježi postaju"
+   },
+   "6037216776738907588": {
+      "message": "Otvaraju se vaši žanrovi"
+   },
+   "6042091568356544470": {
+      "message": "Aplikacija funkcije"
+   },
+   "6062704261604405084": {
+      "message": "Postavite Google Play glazbu za Chrome tako da dodaje vašu fonoteku kako biste mogli slušati svoju glazbu na telefonu, tabletu i računalu."
+   },
+   "6062911693359625717": {
+      "message": "Brzina prijenosa: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Isprobajte odmah"
+   },
+   "6075813266646535052": {
+      "message": "Prijava putem Googlea"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Popis pjesama trenutačno je prazan"
+   },
+   "6082171864197428613": {
+      "message": "Instaliraj"
+   },
+   "609463966491943885": {
+      "message": "Odaberi mape"
+   },
+   "6096654177023939223": {
+      "message": "Pozdrav! Prijavite se na Google račun."
+   },
+   "6097429778714195840": {
+      "message": "Idi na nova izdanja"
+   },
+   "6104044107385556653": {
+      "message": "Kodovi kupona razlikuju mala i velika slova"
+   },
+   "610635793308893528": {
+      "message": "Ulaganje zdesna nalijevo"
+   },
+   "611472617351658381": {
+      "message": "Dodavanje postaje nije uspjelo. Pokušajte ponovo."
+   },
+   "6115840172404094036": {
+      "message": "Idi na sljedeću pjesmu"
+   },
+   "6125785068086103357": {
+      "message": "Pjesma nije uklonjena. Pokušajte ponovo."
+   },
+   "6134905866550808378": {
+      "message": "Sve moje pjesme: $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Prikaži pojedinosti o epizodi"
+   },
+   "6182267200530067545": {
+      "message": "Postavite obnavljajuću pretplatu odmah kako biste nastavili slušati glazbu."
+   },
+   "6202991870072245705": {
+      "message": "Otkaži pretplatu"
+   },
+   "6205568685279927986": {
+      "message": "redžang"
+   },
+   "6211690508928257569": {
+      "message": "sirijsko"
+   },
+   "6214362172197372800": {
+      "message": "Prije nego što nastavite, svakako na računalo prenesite kopiju sadržaja koje ste kupili na Google Playu."
+   },
+   "6227307047241266902": {
+      "message": "izbornik s više opcija"
+   },
+   "6233107584508657559": {
+      "message": "Povezivanje s Googleom nije uspjelo"
+   },
+   "6233799104785293347": {
+      "message": "Nadogradite"
+   },
+   "6238576599909606924": {
+      "message": "nevažeći url"
+   },
+   "6242354668932209396": {
+      "message": "Ponavljanje svih pjesama. Kliknite za promjenu načina ponavljanja."
+   },
+   "624368563085644372": {
+      "message": "Nevidljivi znak množenja"
+   },
+   "624560585652958729": {
+      "message": "Otkaži autorizaciju"
+   },
+   "6254019915482435769": {
+      "message": "Diskovi"
+   },
+   "6263911096488435737": {
+      "message": "Osvježi miks"
+   },
+   "6264257099423315684": {
+      "message": "Na koju e-adresu treba voditi ta veza?"
+   },
+   "6266962164598137510": {
+      "message": "Palac dolje"
+   },
+   "6295780096198935300": {
+      "message": "Pogledajte sve rezultate pretraživanja pjesme"
+   },
+   "630414199054820482": {
+      "message": "Razmak širine interpunkcijskog znaka"
+   },
+   "6321629750851370838": {
+      "message": "Reprodukcija"
+   },
+   "6334800505555910746": {
+      "message": "Pruža $XXX_1$ pod licencom $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Pogreška u prijenosu!"
+   },
+   "6342787164312491730": {
+      "message": "Vrijeme, prizori i zodijački znakovi"
+   },
+   "6348993545995904615": {
+      "message": "Nasumična reprodukcija"
+   },
+   "6352462755178724841": {
+      "message": "Uklanjanje oblikovanja"
+   },
+   "6354300278943883017": {
+      "message": "Popisi su premješteni!"
+   },
+   "6360340926892934518": {
+      "message": "Dodaj mapu"
+   },
+   "6360662632410865665": {
+      "message": "Pristup bez oglasa za 35 milijuna pjesama na zahtjev. Preuzmite pjesme koje želite slušati kad niste povezani. Dodajte 50.000 svojih pjesama i slušajte na bilo kojem mjestu."
+   },
+   "6376633306429460166": {
+      "message": "sauraštrijsko"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Nijedna pjesma nema samo jedno preostalo preuzimanje.}=1{Pjesma \"{XXX_1}\" ima samo jedno preostalo preuzimanje.}=2{Pjesme \"{XXX_1}\" i \"{XXX_2}\" moguće je preuzeti samo još jednom.}=3{Pjesme \"{XXX_1}\", \"{XXX_2}\" i \"{XXX_3}\" moguće je preuzeti samo još jednom.}=4{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i još jednu odabranu pjesmu moguće je preuzeti samo još jednom.}one{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i još {XXX_4} odabranu pjesmu moguće je preuzeti samo još jednom.}few{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i još {XXX_4} odabrane pjesme moguće je preuzeti samo još jednom.}other{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i još {XXX_4} odabranih pjesama moguće je preuzeti samo još jednom.}}"
+   },
+   "6390744057286457578": {
+      "message": "Poravnanje po sredini"
+   },
+   "6392918669949841614": {
+      "message": "Datum dodavanja"
+   },
+   "6397906195939852735": {
+      "message": "kanada"
+   },
+   "6397910887534888858": {
+      "message": "Boja teksta"
+   },
+   "6401620758535187625": {
+      "message": "Ažuriraj podatke o plaćanju"
+   },
+   "6410017727692959093": {
+      "message": "Mjesto održavanja"
+   },
+   "6419550114275715130": {
+      "message": "Glazba se još uvijek reproducira."
+   },
+   "6425912931786223127": {
+      "message": "prijepodne"
+   },
+   "6426880811380367028": {
+      "message": "Pauziraj $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6427041476637425542": {
+      "message": "Indeks"
+   },
+   "6439365426343089851": {
+      "message": "Općenito"
+   },
+   "6447846965513034625": {
+      "message": "Objekti"
+   },
+   "6448771309160517960": {
+      "message": "Započnite besplatno"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Uživajte u odabirima naših glazboljubaca$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "mjanmarsko"
+   },
+   "6455589326534311330": {
+      "message": "To se ograničenje ne primjenjuje kada upotrebljavate $START_SPAN$Upravitelj glazbe$END_SPAN$ za preuzimanje čitave fonoteke na računalo.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Eksplicitno: uključuje sadržaj koji je možda neprikladan za djecu"
+   },
+   "6479183350424120199": {
+      "message": "Pogledajte sve videozapise"
+   },
+   "6482036697464831271": {
+      "message": "Kako bi se vaša glazba brzo prenijela, Google Play uspoređuje vaše glazbene datoteke s kopijama na svojim poslužiteljima. Može se dogoditi da povežemo vaše datoteke s pogrešnim pjesmama. Prijavite problem ovdje i pjesme će se ispraviti, odnosno, upotrijebit će se vaša, a ne podudarna kopija."
+   },
+   "6482815137654580311": {
+      "message": "Uređivanje informacija"
+   },
+   "6484073284972331008": {
+      "message": "Ažuriranje broja reproduciranja nije uspjelo"
+   },
+   "6485379744416240146": {
+      "message": "Palac gore"
+   },
+   "6488707262592852720": {
+      "message": "2. U prozoru alata za instalaciju povucite ikonu Upravitelja glazbe na ikonu Aplikacija."
+   },
+   "6502885021177224543": {
+      "message": "Google Play glazba: odabir mape za preuzimanja"
+   },
+   "6504449653938065974": {
+      "message": "Preporučeni popis pjesama"
+   },
+   "6510962485068569110": {
+      "message": "Poništavanje radnje"
+   },
+   "6513265996872955028": {
+      "message": "Dodaj u fonoteku"
+   },
+   "6523257069333866790": {
+      "message": "Fonoteka"
+   },
+   "6531109671848395983": {
+      "message": "Da biste dodali glazbu, instalirajte Google Play glazbu za Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Više"
+   },
+   "653219508056341533": {
+      "message": "Ljudi i osjećaji"
+   },
+   "6538565185460307864": {
+      "message": "orijsko"
+   },
+   "6555053572817998410": {
+      "message": "Pauziraj"
+   },
+   "6562996658473327600": {
+      "message": "Reproducira se:"
+   },
+   "6568036879894576496": {
+      "message": "Glazba iz sljedećih mapa dodat će se Google Play glazbi"
+   },
+   "6568649140210842427": {
+      "message": "Poništi"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Svaka se pjesma može preuzeti jedanput na webu.}one{ Svaka se pjesma može preuzeti {DOWNLOAD_COUNT_MAX_2} put na webu.}few{ Svaka se pjesma može preuzeti {DOWNLOAD_COUNT_MAX_2} puta na webu.}other{ Svaka se pjesma može preuzeti {DOWNLOAD_COUNT_MAX_2} puta na webu.}}"
+   },
+   "6591282200798732887": {
+      "message": "Kratki kvadrant"
+   },
+   "65984904390749158": {
+      "message": "Završi"
+   },
+   "66116513409922755": {
+      "message": "Ne"
+   },
+   "6612115524763399815": {
+      "message": "devanagari"
+   },
+   "6634231960955145278": {
+      "message": "Pjesma"
+   },
+   "6638274938129779637": {
+      "message": "Poništi palac gore"
+   },
+   "6641147067989080704": {
+      "message": "kajaško"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{Uklonjena je jedna pjesma}one{Uklonjena je # pjesma}few{Uklonjene su # pjesme}other{Uklonjeno je # pjesama}}"
+   },
+   "6650633628037596693": {
+      "message": "Pokušajte ponovo"
+   },
+   "6650888720096194474": {
+      "message": "Da biste upotrebljavali miniplayer, morate postaviti Google Play glazbu za $START_SPAN$$EMAIL$$END_SPAN$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Uobičajena"
+   },
+   "6652787256443519035": {
+      "message": "Neoznačeno"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{ Jedna pjesma dodana je na Google Play.}one{ {NUM_ADDED_2} pjesma dodana je na Google Play.}few{ {NUM_ADDED_2} pjesme dodane su na Google Play.}other{ {NUM_ADDED_2} pjesama dodano je na Google Play.}}"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Uživajte u glazbi na $START_SPAN_1$Androidu$END_SPAN$, $START_SPAN_2$iOS-u$END_SPAN$ i webu",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Smanjenje uvlake"
+   },
+   "6689623864271696040": {
+      "message": "Meka crtica"
+   },
+   "6703444928647322448": {
+      "message": "Naziv"
+   },
+   "6704452266937792847": {
+      "message": "Dodaj u fonoteku"
+   },
+   "6706494172112196654": {
+      "message": "Nadogradnja na obiteljski paket, do šest članova obitelji"
+   },
+   "6711475260919070872": {
+      "message": "staroperzijsko"
+   },
+   "6716575470159796252": {
+      "message": "OS Chrome"
+   },
+   "6718773735728815040": {
+      "message": "Preporučeno vama"
+   },
+   "6719382961812623394": {
+      "message": "Pojavio se problem s postavljanjem"
+   },
+   "6722174221321515493": {
+      "message": "Nepoveznik nulte širine"
+   },
+   "6724866564770579816": {
+      "message": "Načini reprodukcije"
+   },
+   "6732797853205065184": {
+      "message": "Zanemari"
+   },
+   "6742017901699269182": {
+      "message": "Otvaraju se vaši albumi"
+   },
+   "6747414430222084644": {
+      "message": "Duljina pjesme: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6750258767236131097": {
+      "message": "Bliskoistočna pisma"
+   },
+   "6768967544887679189": {
+      "message": "Valovita crtica"
+   },
+   "6774444826375904566": {
+      "message": "Pjesma \"{TRACK_TITLE}\" dodana je u vašu fonoteku."
+   },
+   "6790172339432877080": {
+      "message": "Ova oznaka L registrirani je zaštitni znak koji označava da su ovaj sadržaj ustupile izdavačke kuće i tvrtke za produkciju videozapisa."
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "U redu"
+   },
+   "6820635381009519748": {
+      "message": "Ukloni iz reda čekanja"
+   },
+   "6821274223204126521": {
+      "message": "Glazbeni"
+   },
+   "6830152735949448199": {
+      "message": "Laboratoriji Google Play glazbe testno su područje za eksperimentalne značajke koje još nisu posve spremne za široke mase. Mogu se promijeniti, prekinuti ili nestati u bilo kojem trenutku. Uživajte!"
+   },
+   "6839273670547667172": {
+      "message": "Razni"
+   },
+   "6840919594921167668": {
+      "message": "Pogledajte mapu Preuzimanja na računalu da biste vidjeli preuzete pjesme."
+   },
+   "6843333688253399564": {
+      "message": "katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. Kada se alat za instalaciju otvori, slijedite njegove upute za postavljanje Upravitelja glazbe."
+   },
+   "686324708947275216": {
+      "message": "Uklanjanje postaje nije uspjelo. Pokušajte ponovo."
+   },
+   "6887831882226099905": {
+      "message": "Jeste li sigurni da želite otkazati autorizaciju sljedećeg uređaja za dodavanje glazbe:"
+   },
+   "689233687170647171": {
+      "message": "Kliknite ikonu popisa pjesama u gornjem dijelu ili povucite pjesmu udesno da biste je dodali na popis."
+   },
+   "6898179631823558149": {
+      "message": "Nije uspjela pretvorba datoteke u upotrebljiv oblik"
+   },
+   "6930531446322391145": {
+      "message": "Slika"
+   },
+   "6932671848756303275": {
+      "message": "Niska"
+   },
+   "6940170973585783277": {
+      "message": "Nadogradi na obiteljski paket"
+   },
+   "6941609127174167431": {
+      "message": "Preskoči 10 sekundi unatrag"
+   },
+   "6943941659433003765": {
+      "message": "Pokreni instant miks"
+   },
+   "6958966284437922286": {
+      "message": "vai"
+   },
+   "6962699013778688473": {
+      "message": "Nastavi"
+   },
+   "6990699195498598876": {
+      "message": "Za početak preuzmite Music Manager u nastavku. Music Manager jednostavna je aplikacija za dodavanje glazbenih datoteka s računala na Google Play."
+   },
+   "699971906528455934": {
+      "message": "Nepoznati izvođač"
+   },
+   "700030425158051007": {
+      "message": "limbuško"
+   },
+   "7002955679222677443": {
+      "message": "Saznajte više"
+   },
+   "7009828133009731416": {
+      "message": "Besplatno s Googlea"
+   },
+   "7015870297337540921": {
+      "message": "miao"
+   },
+   "7019115336138470191": {
+      "message": "Pretplaćen"
+   },
+   "7020161279392960480": {
+      "message": "Oblik"
+   },
+   "7022070615528435141": {
+      "message": "Izbriši"
+   },
+   "7034479228356652023": {
+      "message": "hanski znakovi u jednom potezu"
+   },
+   "7035822615949880851": {
+      "message": "Vaša je glazba trenutačno nedostupna s ovog uređaja. Pokušajte ponovo kasnije. Pogreška 442."
+   },
+   "7043080825985118397": {
+      "message": "Poništi brisanje"
+   },
+   "7049182394855721704": {
+      "message": "gotica"
+   },
+   "7054091192371222228": {
+      "message": " od "
+   },
+   "7062695654404914711": {
+      "message": "Instant miksevi"
+   },
+   "7067908984080925888": {
+      "message": "Pročitajte više"
+   },
+   "7071666053441099517": {
+      "message": "1. Otvorite datoteku MusicManager.dmg u donjem lijevom dijelu prozora preglednika."
+   },
+   "7080245643233785574": {
+      "message": "Google Play glazba za Chrome naišla je na problem, pa se morate ponovno prijaviti."
+   },
+   "7090368974279082159": {
+      "message": "Ups"
+   },
+   "709740537382334098": {
+      "message": "Izbriši moju cijelu biblioteku, uključujući kupljenu glazbu ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Umetak u pismu hangul choseong"
+   },
+   "7100567566985297322": {
+      "message": "Dugi razmak"
+   },
+   "7102126384411654213": {
+      "message": "Nije bilo moguće dodati u zbirku. Pokušajte ponovo."
+   },
+   "7104210472412766015": {
+      "message": "Razdjelnik za napomene između redaka"
+   },
+   "7105416082849293719": {
+      "message": "Nedavna aktivnost"
+   },
+   "7111181959300196580": {
+      "message": "Povećanje uvlake"
+   },
+   "7116872031464114568": {
+      "message": "Prepoznato na Pretraživanju glazbe"
+   },
+   "7127937208951634191": {
+      "message": "Simbol"
+   },
+   "7136816542440442290": {
+      "message": "Pojavio se problem prilikom učitavanja radijske postaje."
+   },
+   "7144198039114608569": {
+      "message": "Automatski popisi pjesama"
+   },
+   "716550293954822096": {
+      "message": "sinhalsko"
+   },
+   "7182974689040833178": {
+      "message": "Nastavi"
+   },
+   "7192513315706728552": {
+      "message": "Pogreška poslužitelja. Pokušajte ponovo kasnije."
+   },
+   "7194376132387780145": {
+      "message": "Računalo nije autorizirano jer već imate deset uređaja."
+   },
+   "7200522943394315316": {
+      "message": "32-bitni .rpm (za operacijske sustave Fedora/openSUSE)"
+   },
+   "7202681158267340446": {
+      "message": "Font"
+   },
+   "720381800527728702": {
+      "message": "Sportovi, proslave i aktivnosti"
+   },
+   "7212676589977202933": {
+      "message": "Broj dodanih pjesama: $NUM_TRANSFERRED_TRACKS$",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Nije moguće otvoriti popis pjesama. Pokušajte ponovo."
+   },
+   "7228343081607279547": {
+      "message": "sundsko"
+   },
+   "7229202390260081051": {
+      "message": "Ogroman"
+   },
+   "7249560357803023328": {
+      "message": "Preuzimanje fonoteke"
+   },
+   "7262284142845767114": {
+      "message": "Palac gore"
+   },
+   "7277602889799602415": {
+      "message": "Izbriši mapu Moja glazba"
+   },
+   "7281847881697831326": {
+      "message": "Došlo je do pogreške prilikom poništavanja brisanja"
+   },
+   "7282565673166392948": {
+      "message": "Ideografski opis"
+   },
+   "7283215568776397157": {
+      "message": "Prenesene pjesme:"
+   },
+   "7287006426755387074": {
+      "message": "Pojačavanje glasnoće playera"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minuta}=1{1 minutu}one{# minutu}few{# minute}other{# minuta}}"
+   },
+   "7292902857194439444": {
+      "message": "Uređaj"
+   },
+   "7293921570163366209": {
+      "message": "Slušajte pjesme slične onima koje izvodi $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7293925053370285812": {
+      "message": "Ponavljanje trenutačne pjesme. Kliknite za promjenu načina ponavljanja."
+   },
+   "730022297859142476": {
+      "message": "Instant miks"
+   },
+   "7305504256207181669": {
+      "message": "Popis s grafičkim oznakama"
+   },
+   "7306812086707840437": {
+      "message": "Pretplatite se na Google Play glazbu i slušajte tu radijsku postaju i milijune drugih pjesama. Prvi mjesec besplatno."
+   },
+   "731429515932674572": {
+      "message": "Isključi zvuk"
+   },
+   "7320133162875658022": {
+      "message": "Prijenos novih pjesama ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7322373231564004139": {
+      "message": "Pronađi"
+   },
+   "7331328794127852355": {
+      "message": "Emoji"
+   },
+   "7335080673788704461": {
+      "message": "Prijevoz, karte i znakovlje"
+   },
+   "7354536653016090160": {
+      "message": "Najpopularnije"
+   },
+   "7354691783317064273": {
+      "message": "Aplikacija Chrome se povezuje."
+   },
+   "7376787658603979700": {
+      "message": "Birajte među milijunima pjesama za kupnju, uključujući i stotine besplatnih pjesama."
+   },
+   "7396303606473621591": {
+      "message": "Sve"
+   },
+   "7410432243549869948": {
+      "message": "Trajanje"
+   },
+   "7411932913365107274": {
+      "message": "Možete ukinuti ovlaštenje za četiri uređaja godišnje."
+   },
+   "741454111929523251": {
+      "message": "Jeste li mislili: $START_LINK$$SUGGESTED_QUERY$$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Odaberite mape..."
+   },
+   "7422152161839392092": {
+      "message": "Darujte pretplatu na Google Play glazbu"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{za # dana}=1{za # dan}one{za # dan}few{za # dana}other{za # dana}}"
+   },
+   "7437730399353044671": {
+      "message": "Pretplatite se i slušajte glazbu na zahtjev i izvanmrežno, bez oglasa"
+   },
+   "7437894509168051348": {
+      "message": "hanski znakovi u sedam poteza"
+   },
+   "744665031629199878": {
+      "message": "Pogledajte sve izvođače koji su srodni izvođaču $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7449358949677606364": {
+      "message": "35 milijuna pjesama na zahtjev"
+   },
+   "7467710920158412786": {
+      "message": "Privatan popis pjesama namijenjen je samo vama."
+   },
+   "747583939629659293": {
+      "message": "Dodavanje boje"
+   },
+   "7475857386379593056": {
+      "message": "Reproduciraj $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7480960100390206139": {
+      "message": "Ostali"
+   },
+   "7502695447103329189": {
+      "message": "Shift &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Kopirajte i zalijepite tu vezu da biste dijelili stavku $START_SPAN$$TITLE$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Odaberite izvođače koji vam se sviđaju"
+   },
+   "7529798479468856973": {
+      "message": "prije $NUM$ h",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7535122927261158198": {
+      "message": "Posljednje dodano"
+   },
+   "7536172317066333802": {
+      "message": "Umetanje slike"
+   },
+   "7546873952682838388": {
+      "message": "Glazba s ovog računala"
+   },
+   "7559266156388225108": {
+      "message": "Kaithi broj"
+   },
+   "756024699361489239": {
+      "message": "Reproduciraj nasumično"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Razdjelnik samoglasnika u mongolskom"
+   },
+   "7572946295452220765": {
+      "message": "Upute za instaliranje"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 reprodukcija}=1{1 reprodukcija}one{{COUNT_2} reprodukcija}few{{COUNT_2} reprodukcije}other{{COUNT_2} reprodukcija}}"
+   },
+   "7592349062857393820": {
+      "message": "g, a zatim t"
+   },
+   "7596816553523902619": {
+      "message": "Danas"
+   },
+   "7598340248282243111": {
+      "message": "Pogledajte sve nedavne aktivnosti"
+   },
+   "7599424290971072767": {
+      "message": "Žanr"
+   },
+   "7601688284754148415": {
+      "message": "Matematički"
+   },
+   "7604883230326131491": {
+      "message": "Popis pjesama $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Preuzimanje bi uskoro trebalo početi. U protivnom, $START_LINK$kliknite ovdje$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7610552438938511934": {
+      "message": "Postaja \"{STATION_TITLE}\" dodana je u vašu fonoteku"
+   },
+   "7617664217221228040": {
+      "message": "balijsko"
+   },
+   "7619560701830330401": {
+      "message": "Učitavanje"
+   },
+   "762389150316771008": {
+      "message": "Radio \"Prati me sreća\""
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Niste odabrali nijednu pjesmu za preuzimanje na svoje računalo.}=1{Odabrana pjesma već je preuzeta najveći dopušteni broj puta.}one{Odabrane pjesme već su preuzete najveći dopušteni broj puta.}few{Odabrane pjesme već su preuzete najveći dopušteni broj puta.}other{Odabrane pjesme već su preuzete najveći dopušteni broj puta.}}"
+   },
+   "7631480327394084350": {
+      "message": "Kontrolne slike"
+   },
+   "7638759029296490900": {
+      "message": "Otvorite ladicu popisa pjesama da biste pregledali svoje popise."
+   },
+   "763998168115480566": {
+      "message": "Više ne možete preskakati. Pristupajte milijunima pjesama na zahtjev i izvanmrežno."
+   },
+   "7664246845088850317": {
+      "message": "Povezivanje s poslužiteljem nije uspjelo uz kôd pogreške: "
+   },
+   "7669291472367464463": {
+      "message": "Unesite svoju @google.com e-adresu"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7704516203792990151": {
+      "message": "Proteklo vrijeme"
+   },
+   "7708364972132250264": {
+      "message": "Couldn't clear cached songs, please try again later."
+   },
+   "7709119284546787990": {
+      "message": "Zdesna nalijevo"
+   },
+   "7711713319832787051": {
+      "message": "Upareno"
+   },
+   "7730109880037106848": {
+      "message": "Simboli"
+   },
+   "7736581252844206600": {
+      "message": "grčko"
+   },
+   "7737642252665507180": {
+      "message": "Heksadecimalni unos"
+   },
+   "7743528314734813641": {
+      "message": "Pojavio se problem prilikom učitavanja instant miksa."
+   },
+   "7756401573104983978": {
+      "message": "Računalna aplikacija"
+   },
+   "7760426006262447033": {
+      "message": "Nema dovoljno mjesta u redu"
+   },
+   "776736242214904151": {
+      "message": "Ponovo poslušajte tu i milijune drugih pjesama, bilo kada"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 pjesama}=1{1 pjesma}one{# pjesma}few{# pjesme}other{# pjesama}}"
+   },
+   "7774266771623079214": {
+      "message": "Google Play glazba"
+   },
+   "7776111286341041808": {
+      "message": "Slijeva nadesno"
+   },
+   "7783345534551124847": {
+      "message": "Pjesme"
+   },
+   "779262212811541732": {
+      "message": "staro južnoarapsko"
+   },
+   "7800122803571674150": {
+      "message": "Dobro došli u aplikaciju Google Play glazba"
+   },
+   "7801884781403562273": {
+      "message": "Iskoristi"
+   },
+   "7816161180678740448": {
+      "message": "Brajica"
+   },
+   "7819314041543176992": {
+      "message": "Zatvori"
+   },
+   "7832954852370077811": {
+      "message": "Pokrenite neku glazbu ili kliknite ikonu $MENU_ICON$ na albumu, pjesmi ili popisu pjesama da biste ih dodali u red čekanja",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Otkazivanje dodavanja glazbe"
+   },
+   "7846689234809169417": {
+      "message": "Životinje, biljke i hrana"
+   },
+   "7848021326942321162": {
+      "message": "Postaja \"{STATION_TITLE}\" uklonjena je iz vaše fonoteke"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 sati}=1{1 sat}one{# sat}few{# sata}other{# sati}}"
+   },
+   "7878031641910175480": {
+      "message": "Nedavno odabrano:"
+   },
+   "7886189590148092330": {
+      "message": "Mjesto održavanja: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7888286842234266048": {
+      "message": "U zagradama/istočkano"
+   },
+   "7898792314887900865": {
+      "message": "ciparsko"
+   },
+   "7927039504440585569": {
+      "message": "Latinica"
+   },
+   "7931527771588976000": {
+      "message": "Fonetski (IPA)"
+   },
+   "7933642402079881815": {
+      "message": "The explicit content filtering settings for this account have changed. Please reload for the changes to take effect."
+   },
+   "7941094066137301803": {
+      "message": "Nadogradite na Google+ da biste započeli dijeljenje sa svojim prijateljima."
+   },
+   "7943877664425892318": {
+      "message": "Otvori ladicu popisa pjesama"
+   },
+   "7947294997516635657": {
+      "message": "Sve je ažurno"
+   },
+   "7954850519963017242": {
+      "message": "prije $NUM$ dan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arapski znak sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mapa}=1{1 mapa}one{# mapa}few{# mape}other{# mapa}}"
+   },
+   "7980428538910137664": {
+      "message": "Besplatno i kupljeno"
+   },
+   "7984622936663451936": {
+      "message": "Tipkovnica i korisničko sučelje"
+   },
+   "7985393396166342590": {
+      "message": "Nastavljanje dodavanja glazbe"
+   },
+   "7988520144814845441": {
+      "message": "Prijavite se da biste nastavili"
+   },
+   "7996265599642887416": {
+      "message": "Ukloni iz fonoteke"
+   },
+   "8001758142015238809": {
+      "message": "Privremena pogreška. Prijenos će se ponoviti."
+   },
+   "8019982600883750632": {
+      "message": "Obostrano poravnanje"
+   },
+   "8020892463961333112": {
+      "message": "Glazbeni simbol završnog legata"
+   },
+   "8024675506077392847": {
+      "message": "Nije bilo moguće učitati sljedeću pjesmu."
+   },
+   "8030037581414873660": {
+      "message": "hanski znakovi u dva poteza"
+   },
+   "803032414305825807": {
+      "message": "Veličina fonta"
+   },
+   "803376120920513357": {
+      "message": "prije $NUM$ dana",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Nije bilo moguće pretplatiti se na popis pjesama. Pokušajte ponovo."
+   },
+   "8045052194324740729": {
+      "message": "Ne mogu reproducirati pjesme iz otpada."
+   },
+   "8058956869215275454": {
+      "message": "Podijeli na Facebooku"
+   },
+   "8066747296553908214": {
+      "message": "Ukošeni znak jednakosti"
+   },
+   "8110367050267853536": {
+      "message": "Više opcija"
+   },
+   "8110717721846730575": {
+      "message": "Uključi zvuk"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Nijedna pjesma nije premašila ograničenje preuzimanja.}=1{Pjesma \"{XXX_1}\" preuzeta je već {DOWNLOAD_COUNT_MAX} put i neće biti preuzeta.}=2{Pjesme \"{XXX_1}\" i \"{XXX_2}\" preuzete su već {DOWNLOAD_COUNT_MAX} puta i neće biti preuzete.}=3{Pjesme \"{XXX_1}\", \"{XXX_2}\" i \"{XXX_3}\" preuzete su već {DOWNLOAD_COUNT_MAX} puta i neće biti preuzete.}=4{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i još jedna odabrana pjesma već su preuzete {DOWNLOAD_COUNT_MAX} puta i neće biti preuzete.}one{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i još {XXX_4} druga odabrana pjesma već su preuzete {DOWNLOAD_COUNT_MAX} put i neće biti preuzete.}few{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i još {XXX_4} odabrane pjesme preuzete su već {DOWNLOAD_COUNT_MAX} puta i neće biti preuzete.}other{Pjesme \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i {XXX_4} drugih odabranih pjesama već je preuzeto {DOWNLOAD_COUNT_MAX} puta i neće biti preuzete.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Šaljite mi obavijesti i ponude Google Play glazbe"
+   },
+   "8144474297019493415": {
+      "message": "Posljednje dodano"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dan}one{{TEXT} dan}few{{TEXT} dana}other{{TEXT} dana}}"
+   },
+   "8159976291123989327": {
+      "message": "Uređivanje veze"
+   },
+   "8164274980045228173": {
+      "message": "Otvaranje usmjerenog oblikovanja"
+   },
+   "8164897103619368290": {
+      "message": "Numerirani popis"
+   },
+   "8174689178967388837": {
+      "message": "Zvučni zapis br."
+   },
+   "8191208612330635266": {
+      "message": "tibetansko"
+   },
+   "8192298658946835992": {
+      "message": "Nerastavljajući razmak nulte širine"
+   },
+   "8193509313274135818": {
+      "message": "Oznaka fusnote u arapskom"
+   },
+   "819996403327805209": {
+      "message": "Saznajte više"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Možete {START_SPAN_1}preuzimati i izravno{END_SPAN}, ali samo {START_SPAN_2}jedanput po pjesmi{END_SPAN}.}one{ Možete {START_SPAN_1}preuzimati i izravno{END_SPAN}, ali samo {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} put po pjesmi{END_SPAN}.}few{ Možete {START_SPAN_1}preuzimati i izravno{END_SPAN}, ali samo {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} puta po pjesmi{END_SPAN}.}other{ Možete {START_SPAN_1}preuzimati i izravno{END_SPAN}, ali samo {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} puta po pjesmi{END_SPAN}.}}"
+   },
+   "8206726262986846319": {
+      "message": "Dodaj opis..."
+   },
+   "8216772648076666728": {
+      "message": "Allow explicit songs."
+   },
+   "8221494968176924260": {
+      "message": "Moj popis pjesama"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Jedna pjesma nije dodana}one{ {NUM_FAILURES_2} pjesma nije dodana}few{ {NUM_FAILURES_2} pjesme nisu dodane}other{ {NUM_FAILURES_2} pjesama nije dodano}}"
+   },
+   "823405029831570152": {
+      "message": "etiopsko"
+   },
+   "8235345176344531979": {
+      "message": "g, a zatim a"
+   },
+   "8239380670132570074": {
+      "message": "Privremenu datoteku nije moguće otvoriti"
+   },
+   "8249329268828083858": {
+      "message": "Dvostruka crtica u pismu katakana-hiragana"
+   },
+   "8257187280628059022": {
+      "message": "Glazba je pauzirana jer se čini da je slušate na drugom uređaju. $START_LINK$Saznajte više$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8265500184685762525": {
+      "message": "Ulaznice"
+   },
+   "8275689791574630480": {
+      "message": "Oznaka razmaka u ogamskom"
+   },
+   "8277279706638733641": {
+      "message": "Zvjezdice"
+   },
+   "828700836558117968": {
+      "message": "Google Play glazba"
+   },
+   "8300572760144032022": {
+      "message": "Izrada nove radijske postaje od odabrane pjesme"
+   },
+   "8302804816588048941": {
+      "message": "Tom se radnjom brišu i popisi glazbe, instant miksevi, ocjene i podaci o broju reprodukcija."
+   },
+   "8325100368677049569": {
+      "message": "Istražite novu glazbu"
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Želite li dodati dupliciranu pjesmu?}one{Želite li dodati duplicirane pjesme?}few{Želite li dodati duplicirane pjesme?}other{Želite li dodati duplicirane pjesme?}}"
+   },
+   "8338465287076872825": {
+      "message": "Nije moguće čitanje glazbe iz videoteke"
+   },
+   "8358697777226306085": {
+      "message": "egipatski hijeroglifi"
+   },
+   "8363930857329550333": {
+      "message": "gruzijsko"
+   },
+   "838509699315651621": {
+      "message": "Ta se pjesma već nalazi na popisu"
+   },
+   "8385464685117997940": {
+      "message": "Nedavno slušano"
+   },
+   "8386555666648700714": {
+      "message": "Najpopularnije pjesme"
+   },
+   "8395180429531273524": {
+      "message": "Zašto moj uređaj ne ispunjava uvjete?"
+   },
+   "8396767881870375563": {
+      "message": "Pogledajte sve rezultate pretraživanja aktivnosti"
+   },
+   "8405156617531647050": {
+      "message": "Izgleda da ste već isprobali Google Play glazbu."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Prijava"
+   },
+   "8412726756889279816": {
+      "message": "čakmijsko"
+   },
+   "8421838551605999158": {
+      "message": "1. Spremite musicmanagerinstaller.exe"
+   },
+   "8424326418312855409": {
+      "message": "Prilikom postavljanja Google Play glazbe pojavio se problem."
+   },
+   "842631328362018283": {
+      "message": "Velik"
+   },
+   "8437015452970026040": {
+      "message": "Dosegnuto je ograničenje zbirke. Uklonite neke pjesme ako želite dodati još njih."
+   },
+   "8439955599488894226": {
+      "message": "Pravila o privatnosti"
+   },
+   "8440128775129354214": {
+      "message": "Privatnost"
+   },
+   "8454237498473122184": {
+      "message": "Crtica – minus"
+   },
+   "8455196866871985315": {
+      "message": "Pogledajte sve najpopularnije albume"
+   },
+   "8455204924704616723": {
+      "message": "Datoteka"
+   },
+   "8458476427655018512": {
+      "message": "Razmak"
+   },
+   "8477224362193738096": {
+      "message": "Izvođač: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8482517151370142670": {
+      "message": "Ostalo"
+   },
+   "848933194605193751": {
+      "message": "Nedavno gledano na YouTubeu"
+   },
+   "8492241415183649700": {
+      "message": "karijsko"
+   },
+   "851623407011365974": {
+      "message": "Glazba će se nastaviti uskoro"
+   },
+   "8524322739067915993": {
+      "message": "poslijepodne"
+   },
+   "8527029831666633156": {
+      "message": "Prijavite se da biste nastavili slušati, besplatno"
+   },
+   "8534560073330554352": {
+      "message": "Broj reprodukcija"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8564202903947049539": {
+      "message": "Reproduciraj"
+   },
+   "8574053857298592408": {
+      "message": "Otvori ladicu za navigaciju."
+   },
+   "858254219718239996": {
+      "message": "Autorska prava &copy; $COPYRIGHT_LIST_JOINED$",
+      "placeholders": {
+         "COPYRIGHT_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Pomoć za uklanjanje alata za upravljanje glazbom$END_LINK$ s vašeg računala.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Kako bi brzo prenio vašu glazbu, Google Play uspoređuje vaše glazbene datoteke s kopijama na našem poslužitelju. Ponekad može doći do povezivanja pogrešnih pjesama. Prijavite problem ovdje i pjesme će se ponovo prenijeti."
+   },
+   "8608281335099046628": {
+      "message": "Obrada glazbe..."
+   },
+   "8619410898472620495": {
+      "message": "Otvorite Google Play glazbu na webu da biste nastavili reprodukciju."
+   },
+   "862440714280873951": {
+      "message": "Ima podcastove"
+   },
+   "8624490471677691415": {
+      "message": "Prikaz glazbe:"
+   },
+   "8624618794349836904": {
+      "message": "Uklanjanje povijesti na temelju koje vam se daju prilagođene preporuke i prilagođava radio. Time se neće ukloniti ocjene i broj reprodukcija pojedinačnih pjesama."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{za # minuta}=1{za # minutu}one{za # minutu}few{za # minute}other{za # minuta}}"
+   },
+   "8628766851955432422": {
+      "message": "Ukloni"
+   },
+   "8637643428005590282": {
+      "message": "Oznake"
+   },
+   "8639048757911329468": {
+      "message": "Verzija NaCl-a: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Tijekom reprodukcije radija traženje nije moguće"
+   },
+   "865328592283008990": {
+      "message": "Dodajte do 50.000 pjesama iz svoje kolekcije na Google Play besplatno."
+   },
+   "8674371043496677979": {
+      "message": "Iz albuma: $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Pokušaj ponovo"
+   },
+   "8692453200617588996": {
+      "message": "Odaberite žanrove koji vam se sviđaju"
+   },
+   "8700121026680200191": {
+      "message": "Izbriši"
+   },
+   "8733921970136713647": {
+      "message": "Otkaži pretplatu"
+   },
+   "8741366833297918126": {
+      "message": "Duljina pjesme"
+   },
+   "8763647985340267403": {
+      "message": "Igraće figure"
+   },
+   "8764339661945610128": {
+      "message": "Prikaži više autora"
+   },
+   "8768143964455071187": {
+      "message": "ogamsko"
+   },
+   "8771272263124601486": {
+      "message": "tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{prije # sati}=1{prije # sat}one{prije # sat}few{prije # sata}other{prije # sati}}"
+   },
+   "8783871424196328846": {
+      "message": "128 kbps, prilagodljiva."
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Laboratoriji"
+   },
+   "8801527171487571079": {
+      "message": "tajski tham"
+   },
+   "8801801881586334412": {
+      "message": "Najprod. albumi"
+   },
+   "880592275679936810": {
+      "message": "Dodano: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Danas"
+   },
+   "8819361322041128714": {
+      "message": "ugaritsko"
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 popisa pjesama}=1{1 popis pjesama}one{# popis pjesama}few{# popisa pjesama}other{# popisa pjesama}}"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Budite oprezni.$POSTB$ Imajte na umu da zlonamjerni pošiljatelji neželjene pošte mogu pronaći e-adresu kad god je upišete na neku web-stranicu.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$, odabrano. Kliknite da biste poništili odabir.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arapski broj"
+   },
+   "8858058202463451164": {
+      "message": "Poravnanje lijevo"
+   },
+   "8868784738343119594": {
+      "message": "prije $NUM$ minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Više pjesama"
+   },
+   "8871219022895015530": {
+      "message": "Dodaje trenutačno odabrane pjesme u red čekanja"
+   },
+   "8890553633144307762": {
+      "message": "Natrag"
+   },
+   "8892247938951013000": {
+      "message": "Nije dodano na popis pjesama. Pokušajte ponovo."
+   },
+   "8892908795692466458": {
+      "message": "Dijeli"
+   },
+   "8896073810838561095": {
+      "message": "hanski znakovi u osam poteza"
+   },
+   "8901076355007755806": {
+      "message": "lepčansko"
+   },
+   "8910998670732377227": {
+      "message": "Pokušaj ponovo"
+   },
+   "8920100935192456970": {
+      "message": "Pogledajte sve rezultate pretraživanja žanra"
+   },
+   "8928816882866356838": {
+      "message": "Javno"
+   },
+   "8931700495296520714": {
+      "message": "Zatvori miniplayer"
+   },
+   "8934299821763129489": {
+      "message": "staroitalsko"
+   },
+   "8936704404804793618": {
+      "message": "Videozapisi"
+   },
+   "8953033926734869941": {
+      "message": "Naziv"
+   },
+   "8958381934236197373": {
+      "message": "Razmak širine jednog znaka"
+   },
+   "8961985815150856927": {
+      "message": "Nedavno izrađeno"
+   },
+   "8967493310012272750": {
+      "message": "Radio $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969179774064404960": {
+      "message": "Glasnoća"
+   },
+   "8969573585280830171": {
+      "message": "Prava glazba za svaku situaciju…"
+   },
+   "8971282019539581965": {
+      "message": "Zatvaranje dijaloškog okvira \"O...\""
+   },
+   "8979933913103486540": {
+      "message": "Crtica/spojnica"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Preuzeta je 1 pjesma}one{ Preuzeta je {NUM_TRANSFERRED_TRACKS_2} pjesma}few{ Preuzete su {NUM_TRANSFERRED_TRACKS_2} pjesme}other{ Preuzeto je {NUM_TRANSFERRED_TRACKS_2} pjesama}}"
+   },
+   "8998527640999447691": {
+      "message": "U zagradama"
+   },
+   "9000028459946302905": {
+      "message": "Izbriši svu glazbu koju sam prenio u Moju glazbu ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Meka crtica u mongolskom"
+   },
+   "9001309834415064766": {
+      "message": "hanski znakovi u deset poteza"
+   },
+   "901225307358856093": {
+      "message": "Crtica kanadskog slogovnog pisma"
+   },
+   "902300864627076683": {
+      "message": "partski iz zapisa"
+   },
+   "9024489874326845912": {
+      "message": "Preporučeni album"
+   },
+   "903557305746845933": {
+      "message": "160 kbps, prilagodljiva."
+   },
+   "9042260521669277115": {
+      "message": "Pauziraj"
+   },
+   "9045338265172338590": {
+      "message": "meitei mayek"
+   },
+   "9049377337845973204": {
+      "message": "Reproduciraj: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9053704575157030099": {
+      "message": "Ništa"
+   },
+   "9059560719840598868": {
+      "message": "Pošaljite povratne informacije"
+   },
+   "9063659532473030063": {
+      "message": "Vrijeme i astrologija"
+   },
+   "908288323950111351": {
+      "message": "Dodavanje na popis pjesama na koji ste se pretplatili nije moguće."
+   },
+   "9084816336314899019": {
+      "message": "Nastavi"
+   },
+   "9092976405151508175": {
+      "message": "Ponavljanje radnje"
+   },
+   "9098679347815545327": {
+      "message": "Popis pjesama nije izrađen. Pokušajte ponovo."
+   },
+   "9099290682020828903": {
+      "message": "Pretplatili ste se na popis pjesama \"{PLAYLIST_TITLE}\""
+   },
+   "9104232341234454503": {
+      "message": "Neograničena glazba"
+   },
+   "9111239821213364249": {
+      "message": "Isprobajte neograničenu glazbu. Častimo vas s prvih 30 dana."
+   },
+   "9128859482251917046": {
+      "message": "Otvaranje/zatvaranje reda čekanja"
+   },
+   "9136743822509821032": {
+      "message": "Reproduciraj $PLAYLIST_TITLE$",
+      "placeholders": {
+         "PLAYLIST_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9138683078793837147": {
+      "message": "Poništi palac dolje"
+   },
+   "9143597363285105250": {
+      "message": "Autor albuma"
+   },
+   "9173411042808904308": {
+      "message": "Normalan/serif"
+   },
+   "9179661003472285430": {
+      "message": "Preuzimanje Upravitelja glazbe "
+   },
+   "9184426509557869402": {
+      "message": "Ideografski razmak"
+   },
+   "9193901371937110673": {
+      "message": "Nema autoriziranih uređaja"
+   },
+   "9197433560254928186": {
+      "message": "arapsko"
+   },
+   "9205544184671349450": {
+      "message": "Čini se da već imate glazbu na računalu."
+   },
+   "9209549883741368825": {
+      "message": "Pretplatite se na Google Play glazbu i slušajte ovaj album i milijune drugih pjesama. Prvi mjesec besplatno."
+   },
+   "9214517335069385090": {
+      "message": "Ili, ako vam je draže..."
+   },
+   "9218938714985695055": {
+      "message": "Glazbeni simbol početnog legata"
+   },
+   "933914956414602837": {
+      "message": "Kako bi se vaša glazba brzo prenijela, Google Play uspoređuje vaše glazbene datoteke s kopijama na svojim poslužiteljima. Može se dogoditi da povežemo vašu datoteku s pogrešnom pjesmom. Prijavite problem ovdje i pjesma će se ispraviti, odnosno, upotrijebit će se vaša, a ne podudarna kopija."
+   },
+   "935985887697278449": {
+      "message": "Već ste pretplatnik"
+   },
+   "947591000172763449": {
+      "message": "phags pa"
+   },
+   "949327761578931377": {
+      "message": "Nastavite slušati za $OFFER_PRICE$ mjesečno.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Prikaži sve"
+   },
+   "95869773684474447": {
+      "message": "Pogreška prilikom reprodukcije"
+   },
+   "963232722931839477": {
+      "message": "Vaš je red čekanja prazan"
+   },
+   "964983733596985457": {
+      "message": "Kompatibilnost"
+   },
+   "97224266342934568": {
+      "message": "Eksponent"
+   },
+   "993762601773196496": {
+      "message": "Emitiranje"
+   },
+   "997742287268027221": {
+      "message": "Učitavanje datoteke nije uspjelo"
+   },
+   "997890303689941626": {
+      "message": "Pogledajte sve rezultate pretraživanja videozapisa"
+   }
+}

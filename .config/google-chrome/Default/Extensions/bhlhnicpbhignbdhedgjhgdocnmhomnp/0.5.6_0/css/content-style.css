@@ -1,0 +1,101 @@
+#colorzilla-status-panel,
+#colorzilla-status-panel * {
+    vertical-align: top;
+    margin: 0;
+	padding: 0;
+	border: 0;
+    background: none;
+    font-family: arial, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: left;
+}
+
+#colorzilla-status-panel {
+    display: block;
+    position: fixed;
+    width: 700px;
+    top: 0;
+    left: 50%;
+    margin-left: -350px;
+    height: 40px;
+    z-index: 2147483647;
+    text-align: left;
+    border: 1px solid #999;
+    border-top: none;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    -webkit-box-shadow:2px 2px 6px 0px rgba(0, 0, 0, 0.5);
+    background: -webkit-linear-gradient(top, #444444 0%,#000000 100%);
+    color:#fff;
+}
+
+#colorzilla-status-panel,
+#colorzilla-status-panel * {
+     cursor: default !important;
+}
+
+#colorzilla-status-panel .colorzilla-close-button {
+    float: right;
+    width: 20px;
+    height: 25px;
+    margin: 6px 4px 4px 0px;
+    cursor: pointer !important;
+    background: no-repeat center center url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMJJREFUeNrUk00KwjAUhJuaZYl3KWQhFFx4GI%2FRYwmCeoDuewChEMFNXRviBKbwDDUU3OjAR9P3R9%2BQqhBC8Y3U7w3ouk7hsQLPpFYDb619ayhnmltwAZVIVYy1rJkfABmwBw04sLHiuWHOpJ8lNYIdOLHhyPgGOObG3IConoVnNkbdGOvT4vKDuVcwiPeBsWLJgGnnGtxJLTzJDtDCsLjzljhhrM4N8DTQiZ0nTxxzfslFMqnb0Bo80ouk%2Fv9negkwANd3SpXqFz68AAAAAElFTkSuQmCC');
+}
+
+#colorzilla-status-panel .colorzilla-collapse-button {
+    float: right;
+    width: 16px;
+    height: 25px;
+    margin: 6px 0px 4px 0px;
+    cursor: pointer !important;
+    background: no-repeat center center url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAINJREFUeNpi%2FP%2F%2FPwMlgAWb4OnTp%2FFqMjU1hbOZGCgE%2BAyYA8TSlBhgBsTbgViUXANAQBeItwAxD7kGwFyyEYjZyDUABJyAeDUQM5NrAAjYA7EKuQa8A2JnIL5JjgGvoZrPEp0SkcALqOZr5MTCZSB2wKeZkAuiKU3KRAFGSrMzQIABAAr5Fk9Vy8eaAAAAAElFTkSuQmCC');
+}
+
+#colorzilla-status-panel.colorzilla-collapsed .colorzilla-collapse-button {
+    -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+#colorzilla-status-panel .colorzilla-current-color {
+    display: inline-block;
+    margin: 6px 4px 4px 8px;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #fff;
+    backgrouned: blue;
+}
+
+#colorzilla-status-panel .colorzilla-current-status { 
+    display: inline-block;
+    margin: 6px 4px 4px 8px;
+    line-height:25px;
+    height:25px;
+    max-width: 580px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#colorzilla-status-panel.colorzilla-collapsed { width: 80px; margin-left: -40px; }
+#colorzilla-status-panel.colorzilla-collapsed .colorzilla-current-status { display: none; }
+
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-sep { color: #666; margin: 0 5px; }
+
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-panel { display: inline-block; }
+
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-rgb-color { min-width: 105px; }
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-hex-color { min-width: 58px; }
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-dimensions { min-width: 65px; }
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-elem-long-name { color: #bbb; }
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-elem-long-name .class-id { color: #fff; }
+
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-property { color: #bbb; }
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-value { color: #fff; }
+
+#colorzilla-status-panel .colorzilla-current-status .colorzilla-copied-message {
+    color: #fff;
+    font-weight: bold;
+    padding-left: 25px;
+    background: no-repeat center left url('/images/checkmark-icon.png');
+}

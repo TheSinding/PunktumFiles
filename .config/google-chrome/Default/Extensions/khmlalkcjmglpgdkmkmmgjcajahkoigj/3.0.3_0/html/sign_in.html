@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="nubela">
+        <title>Sign in</title>
+
+        <link href="/vendor/bower/snackbarjs/dist/snackbar.min.css" rel="stylesheet">
+        <link href="/vendor/bower/snackbarjs/themes-css/material.css" rel="stylesheet">
+        <link href="/vendor/bower/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="/html/main.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic|Open+Sans:300italic,400italic,600italic,700italic,700,300,600,400' rel='stylesheet' type='text/css'>
+
+        <script src="/vendor/aes.js"></script>
+        <script src="/vendor/bower/jquery/dist/jquery.min.js"></script>
+        <script src="/vendor/bower/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="/vendor/bower/parsleyjs/dist/parsley.min.js"></script>
+        <script src="/vendor/bower/spin.js/spin.js"></script>
+        <script src="/vendor/bower/ladda/dist/ladda.min.js"></script>
+        <link href="/vendor/bower/ladda/dist/ladda-themeless.min.css" rel="stylesheet" media="screen">
+
+        <script src="/vendor/oauth2/oauth2.js"></script>
+        <script src="/vendor/bower/snackbarjs/dist/snackbar.min.js"></script>
+        <script src="/html/sign_in.js"></script>
+        <script src="/vendor/analytics.js"></script>
+    </head>
+
+    <body>
+        <nav class="navbar custom-navbar">
+            <div class="container">
+                <div class="row">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" id="logo-anchor">
+                            <span class="invis-rounded" id="logo">
+                                PICTUREMATE
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <div class="sign-in-logo">
+                        <img src="/resources/imgs/picturebook_btn.png">
+                    </div>
+                    <div id="sign-in-seamlessly">
+                        <h1>
+                            NO MORE ADS
+                        </h1>
+                        <p class="lead">
+                            GO PRO TO REMOVE ADS
+                        </p>
+
+                        <form data-parsley-validate class="hidden creation" id="email-form">
+                            <div class="entry" id="email-entry">
+                                <input type="text" placeholder="Email address" data-parsley-type="email" class="full-input" id="email">
+                            </div>
+                            <button class="btn btn-primary btn-faux-raised btn-raised btn-block sign-in-btn" id="next-btn">
+                                <div data-style="expand-right" class="inner-btn ladda-button" id="next-ladda-btn">
+                                    NEXT
+                                </div>
+                            </button>
+                        </form>
+                        <a class="btn btn-primary btn-faux-raised btn-raised btn-block sign-in-btn" id="sign-in-btn">
+                            <div data-style="expand-right" class="inner-btn ladda-button" id="sign-in-ladda-btn">
+                                SIGN IN WITH GOOGLE
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

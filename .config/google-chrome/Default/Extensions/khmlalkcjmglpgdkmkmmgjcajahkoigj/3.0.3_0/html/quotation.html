@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="nubela">
+        <title>Proceeding with payment</title>
+
+        <link href="/vendor/bower/snackbarjs/dist/snackbar.min.css" rel="stylesheet">
+        <link href="/vendor/material.min.css" rel="stylesheet">
+        <link href="/vendor/bower/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="/vendor/ripples.min.css" rel="stylesheet">
+        <link href="/vendor/material.min.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic|Open+Sans:300italic,400italic,600italic,700italic,700,300,600,400' rel='stylesheet' type='text/css'>
+
+        <script src="/vendor/aes.js"></script>
+        <script src="/vendor/bower/jquery/dist/jquery.min.js"></script>
+        <script src="/vendor/bower/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="/vendor/bower/parsleyjs/dist/parsley.min.js"></script>
+        <script src="/vendor/bower/spin.js/spin.js"></script>
+
+        <script src="/vendor/bower/ladda/dist/ladda.min.js"></script>
+        <link href="/vendor/bower/ladda/dist/ladda-themeless.min.css" rel="stylesheet" media="screen">
+
+        <script src="/vendor/bower/snackbarjs/dist/snackbar.min.js"></script>
+        <link href="/html/main.css" rel="stylesheet">
+        <script src="/html/quotation.js"></script>
+        <script src="/vendor/analytics.js"></script>
+    </head>
+
+    <body>
+        <nav class="navbar custom-navbar">
+            <div class="container">
+                <div class="row">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" id="logo-anchor">
+                            <span class="invis-rounded" id="logo">
+                                PICTUREMATE
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <div id="quotation">
+                        <h1 class="page-header-desc">
+                            Proceeding with payment
+                        </h1>
+
+                        <div class="shadow-box text-center">
+                            <h4>
+                                <small>1. Review pricing (<strong id="plan-name">Picturemate Pro</strong>)</small>
+                            </h4>
+                            <div class="price">
+                                <div class="figure">
+                                    <span id="raw">&nbsp;</span>
+                                    <span class="small">
+                                        price
+                                    </span>
+                                </div>
+                                <div class="sign">
+                                    +
+                                </div>
+                                <div class="figure">
+                                    <span id="fee">&nbsp;</span>
+                                    <span class="small">
+                                        card processing fee
+                                    </span>
+                                </div>
+                                <div class="sign">
+                                    &#61;
+                                </div>
+                                <div class="figure">
+                                    <span id="total">&nbsp;</span>
+                                    <span class="small">
+                                        total
+                                    </span>
+                                </div>
+                            </div>
+
+                            <h4 id="select-payment-method">
+                                <small>2. Select payment method</small>
+                            </h4>
+                            <div class="payment-buttons">
+                                <a class="btn btn-faux-raised btn-raised" id="pay-now">
+                                    <img src="/resources/imgs/paypal_btn.png">
+                                </a>
+
+                                <form method="POST" action="https://sites.fastspring.com/getgom/product/gompro" id="saasy-form">
+                                    <btn class="btn btn-faux-raised btn-raised" id="saasy-pay-now">
+                                        <img src="/resources/imgs/card_btn.png">
+                                    </btn>
+                                </form>
+                            </div>
+
+
+                            <div class="hidden" id="saasy-payment-block">
+                                <br>
+                                <br>
+                                <a class="link" id="saasy-pay-now">
+                                    Or, pay by card directly
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

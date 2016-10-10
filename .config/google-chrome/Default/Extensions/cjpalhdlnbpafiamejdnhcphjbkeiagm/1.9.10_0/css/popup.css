@@ -1,0 +1,511 @@
+body {
+    background-color: white;
+    border: 0;
+    float: left;
+    margin: 0;
+    opacity: 1;
+    overflow: hidden;
+    padding: 0;
+    white-space: nowrap;
+    }
+body.fullsize {
+    overflow: auto;
+    }
+/**
+ https://github.com/gorhill/uBlock/issues/83
+ .portrait = portrait mode = width is constrained = optimize layout accordingly.
+ */
+body.portrait {
+    width: 100%;
+    }
+
+h2 {
+    background-color: #eee;
+    border: 0;
+    color: #666;
+    font-size: 14px;
+    font-weight: normal;
+    margin:  1em 0 0.5em 0;
+    padding: 2px 0;
+    text-align: center;
+    }
+h2:nth-of-type(1) {
+    margin-top: 0;
+    }
+a {
+    color: inherit;
+    text-decoration: none;
+    }
+:focus {
+    outline: 0;
+    }
+#gotoPrefs {
+    background-color: #444;
+    border: 0;
+    color: #bbb;
+    cursor: pointer;
+    display: block;
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0;
+    padding: 3px 0;
+    position: relative;
+    text-align: center;
+    }
+#version {
+    font-size: 10px;
+    font-weight: normal;
+    }
+#gotoPrefs > span:nth-of-type(3) {
+    opacity: 0.5;
+    position: absolute;
+    }
+body[dir="ltr"] #gotoPrefs > span:nth-of-type(3) {
+    left: 3px;
+    }
+body[dir="rtl"] #gotoPrefs > span:nth-of-type(3) {
+    right: 3px;
+    }
+body[dir="ltr"] #panes {
+    direction: rtl;
+    }
+body[dir="rtl"] #panes {
+    direction: ltr;
+    }
+body, #panes {
+    text-align: right; /* this helps the popup render better at "intermediate" widths */
+    }
+
+#panes > div {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    }
+body.portrait #panes > div {
+    display: block;
+    width: 100%;
+    }
+body[dir="ltr"] #panes > div {
+    direction: ltr;
+    }
+body[dir="rtl"] #panes > div {
+    direction: rtl;
+    }
+#panes > div:nth-of-type(2) {
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 320px;
+    }
+/**
+ Scroll bar to the left.
+ */
+body[dir="ltr"] #panes > div:nth-of-type(2) {
+    direction: rtl;
+    margin-right: 1px;
+    }
+/**
+ Scroll bar to the right.
+ Firefox bug: when popup is rendered inside hamburger menu panel, Firefox is
+              unable to render the scroll bar to the left.
+              Maybe <https://bugzilla.mozilla.org/show_bug.cgi?id=1139306>?
+ */
+body[dir="rtl"] #panes > div:nth-of-type(2),
+body.portrait[dir="ltr"] #panes > div:nth-of-type(2) {
+    direction: ltr;
+    margin-left: 1px;
+    }
+#panes:not(.dfEnabled) > div:nth-of-type(2) {
+    display: none;
+    }
+#panes > div:nth-of-type(1) {
+    min-width: 160px;
+    padding: 0;
+    }
+p {
+    text-align: center;
+    white-space: nowrap;
+    }
+#switch {
+    margin: 8px 0;
+    }
+#switch .fa {
+    color: #0046ff;
+    cursor: pointer;
+    font-size: 96px;
+    margin: 0;
+    }
+#switch .fa:hover {
+    opacity: 0.9;
+    }
+body.off #switch .fa {
+    color: #ccc;
+    }
+#page-blocked {
+    font-size: 20px;
+    }
+.statName {
+    color: #888;
+    font-size: small;
+    margin: 1em 0.2em 0.2em 0.2em;
+    text-align: center;
+    }
+.statValue {
+    font-size: 14px;
+    margin: 0;
+    text-align: center;
+    }
+.tool {
+    color: #aaa;
+    cursor: pointer;
+    display: none;
+    font-size: 14px;
+    unicode-bidi: embed;
+    }
+.tool.enabled {
+    display: inline;
+    }
+.tool:hover {
+    color: #444;
+    }
+#extraTools {
+    background-color: #eee;
+    border: 0;
+    color: #aaa;
+    font-weight: normal;
+    margin:  1em 0 0 0;
+    padding: 4px 0 2px 0;
+    text-align: center;
+    }
+#extraTools > span {
+    cursor: pointer;
+    font-size: 18px;
+    margin: 0 0.45em;
+    position: relative;
+    }
+#extraTools > span > span.badge {
+    color: #222;
+    bottom: -1px;
+    font: 10.5px sans-serif;
+    position: absolute;
+    }
+body[dir="ltr"] #extraTools > span > span.badge {
+    left: 100%;
+    }
+body[dir="rtl"] #extraTools > span > span.badge {
+    right: 100%;
+    }
+#extraTools > span.on > span:last-of-type {
+    color: #e00;
+    font-size: 20px;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    }
+#extraTools > span.on > span:last-of-type:after {
+    content: '\2715';
+    }
+#extraTools > span:hover {
+    color: #444;
+    }
+
+body.advancedUser h2 {
+    cursor: pointer;
+    }
+body.advancedUser h2:before {
+    color: #aaa;
+    content: '+ ';
+    }
+body.advancedUser #panes.dfEnabled h2:before {
+    content: '\2212  ';
+    }
+
+#refresh {
+    background-color: #ffe;
+    border: 1px solid #ddc;
+    border-radius: 4px;
+    color: #888;
+    cursor: pointer;
+    display: none;
+    font-size: 3.5em;
+    left: 4px;
+    line-height: 1;
+    padding: 4px 8px;
+    position: absolute;
+    right: 4px;
+    text-align: center;
+    }
+body.dirty #refresh {
+    display: block;
+    }
+body.dirty #refresh:hover {
+    color: black;
+    }
+
+#tooltip {
+    background-color: #ffffee;
+    border: 1px solid gray;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px gray;
+    box-sizing: border-box;
+    color: black;
+    cursor: pointer;
+    direction: ltr;
+    font: 12px sans-serif;
+    left: 5%;
+    line-height: 130%;
+    margin: 0.5em 0;
+    opacity: 0;
+    padding: 4px 6px;
+    pointer-events: none;
+    position: absolute;
+    text-align: center;
+    visibility: hidden;
+    white-space: pre-line;
+    width: 90%;
+    z-index: 100;
+    }
+body[dir="rtl"] #tooltip {
+    direction: rtl;
+    }
+#tooltip.show {
+    transition: opacity 0.15s 0.5s;
+    -webkit-transition: opacity 0.15s 0.5s;
+    visibility: visible;
+    opacity: 1;
+    }
+
+#firewallContainer {
+    border: 0;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    }
+#firewallContainer > div {
+    background-color: #e6e6e6;
+    border: 0;
+    border-bottom: 1px solid white;
+    direction: ltr;
+    margin: 0;
+    padding: 0;
+    }
+#firewallContainer > div:hover {
+    background-color: #f0f0f0;
+    }
+#firewallContainer.minimized > div.isSubDomain {
+    display: none;
+    }
+#firewallContainer > div > span {
+    background-color: transparent;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    color: #000;
+    display: inline-block;
+    height: 22px;
+    line-height: 22px;
+    overflow: hidden;
+    position: relative;
+    vertical-align: middle;
+    }
+#firewallContainer > div:nth-of-type(1) > span {
+    height: 18px;
+    line-height: 20px;
+    }
+#firewallContainer > div:nth-of-type(1) > span:nth-of-type(1) {
+    cursor: pointer;
+    }
+#firewallContainer > div > span:nth-of-type(1) {
+    border-right: 1px solid white;
+    padding-right: 2px;
+    position: relative;
+    text-overflow: ellipsis;
+    width: 70%;
+    }
+#firewallContainer > div > span:nth-of-type(2),
+#firewallContainer > div > span:nth-of-type(3),
+#firewallContainer > div > span:nth-of-type(4) {
+    cursor: pointer;
+    width: 15%;
+    }
+#firewallContainer > div > span:nth-of-type(3),
+#firewallContainer > div > span:nth-of-type(4) {
+    border-left: 1px solid white;
+    color: #444;
+    font-family: monospace;
+    font-size: 11.5px;
+    text-align: center;
+    }
+body.portrait #firewallContainer > div > span:nth-of-type(3),
+body.portrait #firewallContainer > div > span:nth-of-type(4) {
+    font-family: monospace;
+    font-size: 9px;
+    }
+#firewallContainer > div > span:nth-of-type(4) {
+    display: none;
+    }
+#firewallContainer > div.isDomain > span:nth-of-type(1) {
+    font-weight: bold;
+    }
+#firewallContainer > div:nth-of-type(1) > span:nth-of-type(1):before {
+    color: #aaa;
+    content: '\2012';
+    padding-right: 0.25em;
+    }
+#firewallContainer.minimized > div:nth-of-type(1) > span:nth-of-type(1):before {
+    content: '+';
+    }
+#firewallContainer.minimized > div.isDomain > span:nth-of-type(3) {
+    display: none;
+    }
+#firewallContainer.minimized > div.isDomain > span:nth-of-type(4) {
+    display: inline-block;
+    }
+
+/**
+ Small coloured label at the left of a row
+ */
+#firewallContainer > div.allowed > span:nth-of-type(1):before,
+#firewallContainer > div.blocked > span:nth-of-type(1):before,
+#firewallContainer.minimized > div.isDomain.totalAllowed > span:nth-of-type(1):before,
+#firewallContainer.minimized > div.isDomain.totalBlocked > span:nth-of-type(1):before {
+    box-sizing: border-box;
+    content: '';
+    display: inline-block;
+    height: 100%;
+    left: 0;
+    opacity: 0.4;
+    position: absolute;
+    width: 7px;
+    }
+/**
+ Source for color-blind color scheme from https://github.com/WyohKnott:
+ https://github.com/chrisaljoudi/uBlock/issues/467#issuecomment-95177219
+ */
+#firewallContainer > div.allowed > span:nth-of-type(1):before,
+#firewallContainer.minimized > div.isDomain.totalAllowed > span:nth-of-type(1):before {
+    background-color: rgb(0, 160, 0);
+    }
+#firewallContainer.colorBlind > div.allowed > span:nth-of-type(1):before,
+#firewallContainer.colorBlind.minimized > div.isDomain.totalAllowed > span:nth-of-type(1):before {
+    background-color: rgb(255, 194, 57);
+    }
+#firewallContainer > div.blocked > span:nth-of-type(1):before,
+#firewallContainer.minimized > div.isDomain.totalBlocked > span:nth-of-type(1):before {
+    background-color: rgb(192, 0, 0);
+    }
+#firewallContainer.colorBlind > div.blocked > span:nth-of-type(1):before,
+#firewallContainer.colorBlind.minimized > div.isDomain.totalBlocked > span:nth-of-type(1):before {
+    background-color: rgb(0, 19, 110);
+    }
+#firewallContainer > div.allowed.blocked > span:nth-of-type(1):before,
+#firewallContainer.minimized > div.isDomain.totalAllowed.totalBlocked > span:nth-of-type(1):before {
+    background-color: rgb(192, 160, 0);
+    }
+/* Rule cells */
+#firewallContainer > div > span.aRule {
+    background-color: rgba(0, 160, 0, 0.3);
+    }
+#firewallContainer.colorBlind > div > span.aRule {
+    background-color: rgba(255, 194, 57, 0.4);
+    }
+#firewallContainer > div > span.bRule {
+    background-color: rgba(192, 0, 0, 0.3);
+    }
+#firewallContainer.colorBlind > div > span.bRule {
+    background-color: rgba(0, 19, 110, 0.4);
+    }
+#firewallContainer > div > span.nRule {
+    background-color: rgba(108, 108, 108, 0.3);
+    }
+#firewallContainer.colorBlind > div > span.nRule {
+    background-color: rgba(96, 96, 96, 0.4);
+    }
+#firewallContainer > div > span.ownRule {
+    color: white;
+    }
+#firewallContainer > div > span.aRule.ownRule {
+    background-color: rgba(0, 160, 0, 1);
+    }
+#firewallContainer.colorBlind > div > span.aRule.ownRule {
+    background-color: rgba(255, 194, 57, 1);
+    }
+#firewallContainer > div > span.bRule.ownRule {
+    background-color: rgba(192, 0, 0, 1);
+    }
+#firewallContainer.colorBlind > div > span.bRule.ownRule {
+    background-color: rgba(0, 19, 110, 1);
+    }
+#firewallContainer > div > span.nRule.ownRule {
+    background-color: rgba(108, 108, 108, 1);
+    }
+
+#actionSelector {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    }
+#actionSelector > span {
+    display: inline-block;
+    height: 22px;
+    opacity: 0.2;
+    width: 33.33%;
+    }
+#actionSelector > span:hover {
+    opacity: 0.75;
+    }
+#actionSelector > span:nth-of-type(1) {
+    background-color: rgb(0, 160, 0);
+    }
+#actionSelector.colorBlind > span:nth-of-type(1) {
+    background-color: rgb(255, 194, 57);
+    }
+#actionSelector > span:nth-of-type(2) {
+    background-color: rgb(108, 108, 108);
+    }
+#actionSelector > span:nth-of-type(3) {
+    background-color: rgb(192, 0, 0);
+    }
+#actionSelector.colorBlind > span:nth-of-type(3) {
+    background-color: rgb(0, 19, 110);
+    }
+#firewallContainer span.aRule #actionSelector > span:nth-of-type(1),
+#firewallContainer span.nRule #actionSelector > span:nth-of-type(2),
+#firewallContainer span.bRule #actionSelector > span:nth-of-type(3) {
+    visibility: hidden;
+    }
+
+#rulesetTools {
+    background-color: transparent;
+    border: 0;
+    color: #888;
+    display: none;
+    left: 4px;
+    padding: 0;
+    position: fixed;
+    top: 4px;
+    }
+#rulesetTools > span {
+    background-color: #ffe;
+    border: 1px solid #ddc;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.7em;
+    line-height: 1.0;
+    margin: 0;
+    margin-right: 0.1em;
+    padding: 0.2em 0.4em;
+    text-align: center;
+    width: 1em;
+    }
+#firewallContainer.dirty ~ #rulesetTools {
+    display: block;
+    }
+#firewallContainer.dirty ~ #rulesetTools > span:hover {
+    color: black;
+    }

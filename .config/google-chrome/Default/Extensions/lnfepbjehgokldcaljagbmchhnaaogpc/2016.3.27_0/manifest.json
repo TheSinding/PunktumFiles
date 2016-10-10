@@ -1,0 +1,48 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "lib/base64.js", "lib/chrome-api-promise.js", "services/settings.js", "services/protectedMemory.js", "background/background.js" ]
+   },
+   "commands": {
+      "_execute_page_action": {
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+Space",
+            "linux": "Ctrl+Shift+Space",
+            "mac": "Command+Shift+Space",
+            "windows": "Ctrl+Shift+Space"
+         }
+      }
+   },
+   "description": "Readonly KeePass password database integration for Chrome™",
+   "icons": {
+      "16": "assets/icons/logo_16.png",
+      "48": "assets/icons/logo_48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg6mZuGtDqhMc9rJSd1EUxjGfOvYpGnOt2pGszrKPpJKWrjUiNh8bA1r+VMcarovr0DulASrZ/ifCpr0qgkloD0hKfJZzegLmsMzl8NMJKJy5p6+CFyuXaRsOPY1fCKb4Ia0pbjObqhnuUsuB9KOn+hKfzxqlL/qiRhelrQLr95zneCTAvAgL0jQX9pwRIjwEhR1tuW07rdJNpSOgJreYEJm+xMBgWxIwZn7+OG+M8PyBW2tbuOPLrfEP2XYzj0pzvKnL5IGEzMG8bdtSbzNOQLK7V5gs9AXV4MdzVV81xhw3H6KVvoa+fVTFuJXIS58oL1VdAZpSayqElLJislXTZwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "48",
+   "name": "CKP - KeePass integration for Chrome™",
+   "oauth2": {
+      "client_id": "252911279862-spv4ks48i07fqbjvd3isorei5au254b5.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/drive.readonly", "https://www.googleapis.com/auth/chromewebstore.readonly" ]
+   },
+   "optional_permissions": [ "https://*/", "http://*/", "file:///*/" ],
+   "options_page": "options/options.html",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options/options.html"
+   },
+   "page_action": {
+      "default_icon": {
+         "19": "assets/icons/logo_19.png",
+         "38": "assets/icons/logo_38.png"
+      },
+      "default_popup": "popups/popup.html",
+      "default_title": "Input field detected.  Click here or press Ctrl-Shift-Space to access your KeePass passwords."
+   },
+   "permissions": [ "activeTab", "storage", "clipboardWrite", "identity", "declarativeContent", "alarms", "notifications" ],
+   "short_name": "CKP Extension",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2016.3.27"
+}

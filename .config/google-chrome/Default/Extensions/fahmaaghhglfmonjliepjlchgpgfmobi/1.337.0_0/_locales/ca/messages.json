@@ -1,0 +1,4453 @@
+{
+   "1001360787461904844": {
+      "message": "Més opcions per a $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1008774365351112026": {
+      "message": "Afegeix l'atribut \"$REL_NO_FOLLOW$\" ($LINK_START$més informació$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normal"
+   },
+   "1026450251988549367": {
+      "message": "Modificat recentment"
+   },
+   "1035476379650787996": {
+      "message": "No es pot completar la teva sol·licitud"
+   },
+   "1035734413919296": {
+      "message": "Afegeix música"
+   },
+   "1044946868924904798": {
+      "message": "Sense connexió"
+   },
+   "1046700819368184074": {
+      "message": "Carpeta de baixada"
+   },
+   "1047094450854611275": {
+      "message": "Amb el minireproductor, pots controlar la reproducció de música fora de la finestra del navegador, indicar les cançons que t'agraden i reproduir l'emissora de ràdio Em sento afortunat."
+   },
+   "1052242579040192537": {
+      "message": "Aborigen canadenc"
+   },
+   "10524368647766690": {
+      "message": "Núm."
+   },
+   "1054861724689881963": {
+      "message": "Inicia la ràdio gratuïta"
+   },
+   "1061567929494389534": {
+      "message": "No s'han pogut recuperar les emissores de ràdio. Torna-ho a provar."
+   },
+   "1061598772078003048": {
+      "message": "Terminació d'anotació interlineal"
+   },
+   "1065557748112539713": {
+      "message": "S'està aturant la baixada de música."
+   },
+   "108743912460085743": {
+      "message": "Substitució d'esquerra a dreta"
+   },
+   "1091846413708174942": {
+      "message": "Els teus podcasts"
+   },
+   "1099947980448260765": {
+      "message": "Vés a Top èxits"
+   },
+   "1105024870503318889": {
+      "message": "Afegeix la meva música"
+   },
+   "113306301971655652": {
+      "message": "Marca d'esquerra a dreta"
+   },
+   "1143190206278116157": {
+      "message": "Data: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1144407473317535723": {
+      "message": "Subscriu-m'hi"
+   },
+   "1144614654642966892": {
+      "message": "Cancel·la la subscripció abans de la pròxima factura. Continua escoltant música fins al moment."
+   },
+   "1145877575671354635": {
+      "message": "Actualitza la música"
+   },
+   "1147358182484006761": {
+      "message": "Botiga"
+   },
+   "1150285978886683433": {
+      "message": "Activa la repetició entre apagat, tots i un."
+   },
+   "1152313922995021532": {
+      "message": "64 bit .rpm (per a Fedora/openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ S'ha afegit 1 cançó.}other{ S'han afegit {NUM_TRANSFERRED_TRACKS_2} cançons.}}"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minut}other{{TEXT} minuts}}"
+   },
+   "1181311234668957012": {
+      "message": "Llista de reproducció automàtica"
+   },
+   "1182611188595867762": {
+      "message": "2. Quan s'obri l'instal·lador, segueix les instruccions per configurar Music Manager."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{S'ha suprimit 1 cançó}other{S'han suprimit # cançons}}"
+   },
+   "1189933439482480473": {
+      "message": "Has arribat al límit de cançons."
+   },
+   "1207788277335800169": {
+      "message": "Consulta tots els vídeos de: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1220984280262077870": {
+      "message": "Gratuïtes i comprades"
+   },
+   "1227051853106034748": {
+      "message": "No es poden cercar lesprevisualitzacions"
+   },
+   "1229167447861422460": {
+      "message": "No es pot reproduir música en dos dispositius alhora"
+   },
+   "1233161892151828431": {
+      "message": "Cursiva"
+   },
+   "1238358838717941284": {
+      "message": "Mostra"
+   },
+   "1248987958177161816": {
+      "message": "Edita la font HTML"
+   },
+   "1249846405947826980": {
+      "message": "Episodi anterior"
+   },
+   "1257583932123379891": {
+      "message": "Mostra podcasts per"
+   },
+   "1275783181441501836": {
+      "message": "Separador de paràgrafs"
+   },
+   "128003684539571261": {
+      "message": "Moneda"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcasts}=1{1 podcast}other{# podcasts}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Obre la carpeta Aplicacions i fes doble clic a Music Manager."
+   },
+   "1291021741111868686": {
+      "message": "64 bit .deb (per a Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Cerca emissores per"
+   },
+   "1294292881529533213": {
+      "message": "Logotip de Google Play Música"
+   },
+   "1295614462098694869": {
+      "message": "Previsualització"
+   },
+   "129672981680457789": {
+      "message": "Hanunoo"
+   },
+   "129923171865835166": {
+      "message": "Ràdio Segur que tinc sort"
+   },
+   "1303647473723340887": {
+      "message": "Selecciona l'element a sobre de la selecció actual"
+   },
+   "131636849522359023": {
+      "message": "Amb la llicència $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1327813348141810372": {
+      "message": "Bamum"
+   },
+   "1330646976582013113": {
+      "message": "descarta"
+   },
+   "1341185708905265042": {
+      "message": "Disc núm."
+   },
+   "1345511732360402048": {
+      "message": "Turc antic"
+   },
+   "1348774649041038169": {
+      "message": "Navegació"
+   },
+   "1370021378292702047": {
+      "message": "\"$SONG_TITLE$\" s'ha marcat com una coincidència incorrecta.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Activa o desactiva la barreja."
+   },
+   "1372788343021542418": {
+      "message": "Per utilitzar el minireproductor, inicia la sessió a Google Play Música al web."
+   },
+   "1382005717519484629": {
+      "message": "Espai en blanc"
+   },
+   "1393837337557373364": {
+      "message": "Àlbum"
+   },
+   "1404225614691686373": {
+      "message": "Música il·limitada$START_BREAK$de Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$, fes clic per seleccionar.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1418504114877368118": {
+      "message": "Lletra escrita per $LYRICIST_LIST_JOINED$",
+      "placeholders": {
+         "LYRICIST_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Introdueix un color personalitzat, p. ex., rosa: #F00, #D015FF o rgb(100, 50, 25)."
+   },
+   "1429336442713571177": {
+      "message": "Llistes de cançons"
+   },
+   "1430061825590893722": {
+      "message": "Obre aquest enllaç en una finestra nova"
+   },
+   "1433391846042476830": {
+      "message": "Ahir"
+   },
+   "1435809990540516997": {
+      "message": "S'està afegint música."
+   },
+   "1444145448465775598": {
+      "message": "Cancel·la"
+   },
+   "1453708590388513852": {
+      "message": "Tècnic"
+   },
+   "1464072562214937907": {
+      "message": "Any"
+   },
+   "147527058386222778": {
+      "message": "Qualitat de reproducció"
+   },
+   "1483596119706515744": {
+      "message": "Buginès"
+   },
+   "1486857306659217748": {
+      "message": "Omet"
+   },
+   "1487523984872879956": {
+      "message": "Quadratí llarg"
+   },
+   "1490665788833937521": {
+      "message": "Baixa el minireproductor"
+   },
+   "1494946186465201682": {
+      "message": "Cancel·la"
+   },
+   "1501458973427096787": {
+      "message": "Escolta música sense connexió"
+   },
+   "1504214836895903832": {
+      "message": "No s'ha pogut connectar."
+   },
+   "1517865562673472241": {
+      "message": "1. Espera que l'instal·lador finalitzi."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ No s'ha pogut baixar 1 cançó.}other{ No s'han pogut baixar {NUM_FAILURES_2} cançons.}}"
+   },
+   "1558113021895652337": {
+      "message": "El fitxer està protegit amb gestió de drets digitals"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1567787058497621332": {
+      "message": "Desa la música en un únic lloc i escolta-la al telèfon intel·ligent, a la tauleta i al web."
+   },
+   "1573657685592390905": {
+      "message": "Selecciona una carpeta..."
+   },
+   "1575810254412583888": {
+      "message": "Cançons"
+   },
+   "1595478688335662057": {
+      "message": "Un usuari de Google"
+   },
+   "1598061158801514509": {
+      "message": "S'està reprenent la baixada de música."
+   },
+   "1607904075839741217": {
+      "message": "Selecciona de l'ordinador"
+   },
+   "1615800076127848008": {
+      "message": "Tai Le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{d'aquí a # hores}=1{d'aquí a # hora}other{d'aquí a # hores}}"
+   },
+   "1635932785663944786": {
+      "message": "Nombre"
+   },
+   "1658346838703079243": {
+      "message": "Canvia"
+   },
+   "1664100143082435029": {
+      "message": "Cancel·la"
+   },
+   "1666765550993208796": {
+      "message": "Aquestes cançons s'han marcat com a coincidència de manera incorrecta?"
+   },
+   "1673135862760647009": {
+      "message": "Ràdio sense publicitat que permet saltar cançons de manera il·limitada"
+   },
+   "1676480944844752785": {
+      "message": "Llistes automàtiques"
+   },
+   "1686917835491599951": {
+      "message": "Afegit recentment a La meva música"
+   },
+   "1689044830718067443": {
+      "message": "La instal·lació hauria de començar automàticament d'aquí a una estona. $START_LINK$Ajuda$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1689448196820298645": {
+      "message": "Propers concerts"
+   },
+   "1698114086921246480": {
+      "message": "Cancel·la la subscripció"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Música"
+   },
+   "1709114386311494800": {
+      "message": "Enllaça"
+   },
+   "1712333098917352630": {
+      "message": "Ràdio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Ja estàs subscrit. Els cupons només estan disponibles per als nous usuaris."
+   },
+   "1722592106949807025": {
+      "message": "Desa els registres de depuració"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "Quant a"
+   },
+   "1729815731089690989": {
+      "message": "Assegura't que estiguis connectat a Internet."
+   },
+   "174952015183967014": {
+      "message": "$TITLE$: conté podcasts",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1751129087972897649": {
+      "message": "Arameu imperial"
+   },
+   "1763795268257640974": {
+      "message": "No es pot cancel·lar la teva subscripció a la llista de reproducció. Torna-ho a provar."
+   },
+   "1765521785433616250": {
+      "message": "La baixada començarà aviat. Si no ho fa, $START_SPAN$fes clic aquí$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Artista desconegut"
+   },
+   "1790640569414740156": {
+      "message": "Gèneres"
+   },
+   "1796702769044958723": {
+      "message": "32 bit .deb (per a Debian/Ubuntu)"
+   },
+   "1800865039213871505": {
+      "message": "Vés a l'enllaç: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play Música per a Chrome a $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1819368767424033007": {
+      "message": "Històric"
+   },
+   "1823843876735462104": {
+      "message": "Llistes de reproducció"
+   },
+   "182621168783940405": {
+      "message": "Marca de dreta a esquerra"
+   },
+   "1831178715211281116": {
+      "message": "Només els dispositius Chrome OS seleccionats poden participar en aquesta promoció. Vols gaudir de música il·limitada de totes maneres?"
+   },
+   "183429683821106611": {
+      "message": "D'acord"
+   },
+   "1838639948466909028": {
+      "message": "Aquesta pàgina no és compatible amb el teu navegador. Fes servir un dels $START_LINK$navegadors compatibles$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "184252996364058487": {
+      "message": "0 minuts"
+   },
+   "1850859858333664648": {
+      "message": "Tota la música"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Escolta la ràdio i salta les cançons tant com vulguis$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Símbol musical de final de frase"
+   },
+   "1865818889600889051": {
+      "message": "Your account has changed. Please refresh the page to continue."
+   },
+   "1867674656927443481": {
+      "message": "Totes les novetats"
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mixos}=1{1 mix}other{# mixos}}"
+   },
+   "1869588215425319728": {
+      "message": "Tanca el tauler de navegació"
+   },
+   "1872101028863972302": {
+      "message": "S'han baixat $NUM_TRANSFERRED_TRACKS$ cançons.",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Selecciona l'element a sota de la selecció actual"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1914372876923825240": {
+      "message": "Enllaça amb:"
+   },
+   "192481666606780833": {
+      "message": "No es pot reproduir la música"
+   },
+   "193503854366151748": {
+      "message": "Puntua la cançó actual amb No m'agrada"
+   },
+   "1945037339176024290": {
+      "message": "Tancats"
+   },
+   "1947306462789680361": {
+      "message": "fa $NUM$ minuts",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Símbol musical d'inici de frase"
+   },
+   "1962559411793600980": {
+      "message": "Avèstic"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ ordinadors",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "Radicals de 9 traços han"
+   },
+   "1981857715812460988": {
+      "message": "Artistes relacionats"
+   },
+   "1984987229407697795": {
+      "message": "Podcasts"
+   },
+   "1989564869397178334": {
+      "message": "Títol"
+   },
+   "1996585593795647892": {
+      "message": "Afegeix o suprimeix l'enllaç"
+   },
+   "2006786763920466492": {
+      "message": "Data de supressió"
+   },
+   "2028747142234068875": {
+      "message": "Recomanacions personalitzades"
+   },
+   "2029980907058777630": {
+      "message": "Condicions del servei"
+   },
+   "2032972931560484213": {
+      "message": "De $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2035790691811675095": {
+      "message": "Subscriu-te a Google Play Música i escolta aquesta llista de reproducció i milions d'altres. El primer mes és de franc."
+   },
+   "2038339465785978681": {
+      "message": "Sense espai"
+   },
+   "2038618429165152799": {
+      "message": "Sense títol"
+   },
+   "2080060559104348538": {
+      "message": "Scripts del sud d'Àsia"
+   },
+   "2085941577249285555": {
+      "message": "Subscriu-m'hi"
+   },
+   "2088175644103984799": {
+      "message": "Vocal Aq inherent al kmer"
+   },
+   "2093026227428526289": {
+      "message": "Aquesta oferta només està disponible per a alguns Chromebook nous en països on el servei de subscripció de Google Play Música $START_LINK$estigui disponible$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "Guió curt"
+   },
+   "2101525118384454593": {
+      "message": "Desactiva la reproducció aleatòria"
+   },
+   "2102825898069375693": {
+      "message": "Menú"
+   },
+   "2107375315384298887": {
+      "message": "Subíndex"
+   },
+   "2109622269343579329": {
+      "message": "L'adreça electrònica no és vàlida."
+   },
+   "2139100152161431685": {
+      "message": "La teva música no està disponible temporalment des d'aquest dispositiu. Torna-ho a provar més tard. $START_LINK$Ajuda$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Tanca"
+   },
+   "2145060893030204211": {
+      "message": "No et podem donar més informació. Torna-ho a provar més tard."
+   },
+   "2149165958319691680": {
+      "message": "Compra"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{Cap cançó}=1{1 cançó}other{{NUM_SONGS_2} cançons}}"
+   },
+   "2152998011161774228": {
+      "message": "G i després H"
+   },
+   "2158830056128036057": {
+      "message": "S'estan processant els teus fitxers de música..."
+   },
+   "2159130950882492111": {
+      "message": "Cancel·la"
+   },
+   "216513153459932308": {
+      "message": "Fraccions/relacionats"
+   },
+   "2173312720188441245": {
+      "message": "Copte"
+   },
+   "2187022653493279712": {
+      "message": "G i després E"
+   },
+   "2203397136690479355": {
+      "message": "El fitxer no es pot processar"
+   },
+   "2205522058604794595": {
+      "message": "Scripts d'Àfrica"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2214224657661107347": {
+      "message": "Envia un regal"
+   },
+   "2220879710364134067": {
+      "message": "Edita les cançons seleccionades actualment"
+   },
+   "2239551688895104696": {
+      "message": "Activa o desactiva el menú de llistes de reproducció"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Música: selecció de les carpetes per al contingut multimèdia"
+   },
+   "2252825622480483246": {
+      "message": "Cursiva meroítica"
+   },
+   "2256597604224604671": {
+      "message": "Posa en pausa $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2262446869382672016": {
+      "message": "Google Play Música et permet escoltar fàcilment la música que més t'agrada al telèfon intel·ligent, a la tauleta i al web."
+   },
+   "2270666830264677427": {
+      "message": "Pots baixar un màxim de $MAX_TRACKS_IN_ZIP$ cançons alhora. Selecciona'n menys i torna-ho a provar.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2272173107172176330": {
+      "message": "Reprodueix $STATION_TITLE$",
+      "placeholders": {
+         "STATION_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "M'agrada"
+   },
+   "2280774384387096759": {
+      "message": "Arrossega cançons o carpetes aquí per afegir música a la teva col·lecció."
+   },
+   "2296431514706414883": {
+      "message": "1. A la finestra Baixades, fes doble clic al fitxer MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Google Play Música no està disponible al teu país."
+   },
+   "2299183036960756600": {
+      "message": "d'aquí a $NUM$ dia",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2303154715443443305": {
+      "message": "S'està baixant Music Manager..."
+   },
+   "2303727423829841771": {
+      "message": "Sembla que JavaScript està desactivat al navegador. Google Play ha de tenir JavaScript activat per funcionar correctament."
+   },
+   "2304955983019633604": {
+      "message": "Escolta cançons d'àlbums semblants a $TITLE$ de l'artista $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "2309808536212982229": {
+      "message": "Activitats"
+   },
+   "2309894433432831059": {
+      "message": "Formulari de presentació per a guió llarg vertical"
+   },
+   "2311151671924532713": {
+      "message": "Suprimeix de la llista de reproducció"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$%",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "231679111972850796": {
+      "message": "S'ha afegit"
+   },
+   "2321398646644344846": {
+      "message": "Demà"
+   },
+   "2328554046256236832": {
+      "message": "Fitxer FLAC no compatible"
+   },
+   "2328629775851907569": {
+      "message": "Amb Google Play Música, escoltar la teva música preferida a Android, a iOS i al web és bufar i fer ampolles."
+   },
+   "2329070756809480856": {
+      "message": "Àlbum: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2339250039074511222": {
+      "message": "Aquest enllaç no es pot provar."
+   },
+   "2339750206850776348": {
+      "message": "Lici"
+   },
+   "2357805327369816634": {
+      "message": "Subscriu-te al servei per obtenir tota la música sense cap anunci"
+   },
+   "2359922567074115383": {
+      "message": "Esborra la portada de l'àlbum"
+   },
+   "2372448112806402757": {
+      "message": "Episodi següent"
+   },
+   "2376735487384008742": {
+      "message": "Guió en forma d'essa"
+   },
+   "2378357177170124823": {
+      "message": "Decimal"
+   },
+   "2382000105167193834": {
+      "message": "Gujarati"
+   },
+   "2383360664777254925": {
+      "message": "Obre o tanca el menú de navegació"
+   },
+   "2390557292924554291": {
+      "message": "Unió d'amplada nul·la"
+   },
+   "2407755817901433243": {
+      "message": "Bescanvia un codi de cupó per obtenir una subscripció a Google Play Música."
+   },
+   "2434131766046654438": {
+      "message": "Lineal B"
+   },
+   "2443885011055165607": {
+      "message": "Selecciona el teu paquet de baixada:"
+   },
+   "2447745837421769983": {
+      "message": "Si vols obtenir la millor experiència de baixada, instal·la Google Play Música per a Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Cançó desconeguda"
+   },
+   "247847652023697955": {
+      "message": "Símbol musical d'inici de lligadura de prolongació"
+   },
+   "2483680006830369490": {
+      "message": "g i després p"
+   },
+   "249032153569378306": {
+      "message": "fa $NUM$ hora",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2492300395471245755": {
+      "message": "Artista"
+   },
+   "250478839881665936": {
+      "message": "G i després S"
+   },
+   "2506718393130237030": {
+      "message": "Format no compatible"
+   },
+   "2512060739274636260": {
+      "message": "Tai Lue nou"
+   },
+   "2513370824993175045": {
+      "message": "d'aquí a $NUM$ dies",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Símbol musical de final de compàs"
+   },
+   "2529924385478060648": {
+      "message": "Buhid"
+   },
+   "2530473232691534250": {
+      "message": "Adreça electrònica"
+   },
+   "2534296837124481552": {
+      "message": "Canvia la teva forma de pagament. $START_LINK$Més informació$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2537475974842549685": {
+      "message": "Tanca l'anunci"
+   },
+   "2538866057253567409": {
+      "message": "Deseret"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Inicia la sessió$END_LINK$ per veure si tens extres de Chrome disponibles.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Condicions"
+   },
+   "2550362371114851075": {
+      "message": "Normal"
+   },
+   "2558836909854550547": {
+      "message": "Normal"
+   },
+   "2565011230196288502": {
+      "message": "d'aquí a $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2567679469483426925": {
+      "message": "En aquest moment l'accessori no està disponible."
+   },
+   "2570105377175439523": {
+      "message": "COMPRA"
+   },
+   "2570991997865478028": {
+      "message": "Consulta tots els àlbums de: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2597193119810674616": {
+      "message": "Subscriu-te a Google Play Música i aconsegueix $OFFER_LENGTH_DAYS$ dies gratis.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Suggeriment: $FIRST$ de $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "26023870081082032": {
+      "message": "Ubicació: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2610851846609508423": {
+      "message": "Basat en ASCII"
+   },
+   "2626751888211361777": {
+      "message": "Consulta més top cançons"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ cançons noves)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Music Manager només està disponible per a Windows, Mac i Linux."
+   },
+   "2655732800763953732": {
+      "message": "Mix instantani $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Comentari"
+   },
+   "2665785172586453916": {
+      "message": "Imatge publicitària relacionada amb l'anunci d'àudio actual"
+   },
+   "2671314447505154224": {
+      "message": "Top èxits"
+   },
+   "2673412443855817873": {
+      "message": "No m'agrada"
+   },
+   "2697517010706562809": {
+      "message": "Obtén accés a més de 35 milions de cançons i a ràdio sense límits."
+   },
+   "2707074873770010705": {
+      "message": "El teu dispositiu no pot participar en aquesta promoció, però no pateixis: pots continuar obtenint música il·limitada amb Google Play Música. És gratuït durant 30 dies."
+   },
+   "2714752802779336020": {
+      "message": "Google Play Música"
+   },
+   "2721786517672194900": {
+      "message": "Aquest límit no s'aplica quan s'utilitza $START_SPAN$Google Play Música per a Chrome$END_SPAN$ per baixar cançons.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "272553825640256879": {
+      "message": "Guió de resta d'amplada completa"
+   },
+   "2728721019095728485": {
+      "message": "Alta"
+   },
+   "2732888649509914313": {
+      "message": "Mongol"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2763267855550833920": {
+      "message": "Massa fitxers al compte"
+   },
+   "2777498733015254880": {
+      "message": "Ajuda i suggeriments"
+   },
+   "2787148143326073325": {
+      "message": "Sound Search"
+   },
+   "2801094315807039135": {
+      "message": "Tai Viet"
+   },
+   "280973959199634338": {
+      "message": "Mostra el vídeo de YouTube"
+   },
+   "2809945145618753350": {
+      "message": "Quart d'espai"
+   },
+   "2811509810457668932": {
+      "message": "Fonètica: AFI ampliat (alfabet fonètic internacional ampliat)"
+   },
+   "2826705908408853328": {
+      "message": "T'hem de dirigir a Google Play per finalitzar la configuració. Et tornarem a Play Música quan hagis acabat."
+   },
+   "2834324594183341424": {
+      "message": "Afegeix la teva col·lecció de música a Google Play"
+   },
+   "2840006222747077107": {
+      "message": "No hi ha música"
+   },
+   "2856670286248433202": {
+      "message": "Anunci"
+   },
+   "2857356182021649243": {
+      "message": "Va a les teves cançons"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{fa # minuts}=1{fa # minut}other{fa # minuts}}"
+   },
+   "2881621988818346391": {
+      "message": "Sí"
+   },
+   "2881776379326317082": {
+      "message": "Utilitza sempre aquesta ubicació"
+   },
+   "2896688457548770791": {
+      "message": "Cita"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 emissores}=1{1 emissora}other{# emissores}}"
+   },
+   "2910989560121976550": {
+      "message": "Prova aquest enllaç"
+   },
+   "2918448970074432239": {
+      "message": "Edita l'HTML"
+   },
+   "2933981780439742153": {
+      "message": "Mostra el minireproductor"
+   },
+   "2941843189430218247": {
+      "message": "Maj Q"
+   },
+   "29485262661698811": {
+      "message": "Caràcter àrab de final d'aleia"
+   },
+   "2954874827338778826": {
+      "message": "Adreça web"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Espai de no separació estret"
+   },
+   "2973169743818593793": {
+      "message": "Radicals de 5 traços han"
+   },
+   "29734255682325103": {
+      "message": "Alinea a la dreta"
+   },
+   "2980847012388128321": {
+      "message": "Espai de no separació"
+   },
+   "2980960654248329234": {
+      "message": "Espai molt fi"
+   },
+   "2982463607788408741": {
+      "message": "Has tancat la sessió del teu compte de Google. Actualitza per tornar a iniciar la sessió."
+   },
+   "2983216790003568156": {
+      "message": "No es pot establir una connexió segura"
+   },
+   "3010015422095710725": {
+      "message": "Suprimeix tota la meva música inclosa la música comprada i la música afegida mitjançant la subscripció de Google Play Música ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Bescanvia l'oferta"
+   },
+   "3054851848337350805": {
+      "message": "Superíndex"
+   },
+   "305815942371229357": {
+      "message": "Cap suggeriment"
+   },
+   "3067310196368927236": {
+      "message": "Maqaf de puntuació de l'hebreu"
+   },
+   "3072935047674817211": {
+      "message": "La meva música"
+   },
+   "308732574543176489": {
+      "message": "No s'ha pogut modificar la llista de reproducció. Torna-ho a provar."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} hora}other{{TEXT} hores}}"
+   },
+   "3092124279252305673": {
+      "message": "320 kbps, adaptable"
+   },
+   "309901418176428732": {
+      "message": "Podcasts"
+   },
+   "3099596419835786769": {
+      "message": "Espai matemàtic intermedi"
+   },
+   "3099741642167775297": {
+      "message": "Baixa"
+   },
+   "310152014457055522": {
+      "message": "Subscriu-t'hi per reproduir qualsevol cançó o àlbum"
+   },
+   "3117706868107348105": {
+      "message": "També pots copiar i enganxar aquest enllaç:"
+   },
+   "3125342991297920614": {
+      "message": "No s'ha pogut obrir l'àlbum. Torna-ho a provar."
+   },
+   "3138864086144358473": {
+      "message": "Radicals d'11 a 17 traços han"
+   },
+   "314582171813087287": {
+      "message": "Guionet de no separació"
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Va als teus artistes"
+   },
+   "31530890844887887": {
+      "message": "Feu el seguiment del progrés"
+   },
+   "3154951825194528737": {
+      "message": "S'està cancel·lant la baixada de música."
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$No saps què pots posar al quadre?$END_BOLD$ Primer, cerca la pàgina del web amb la qual vulguis enllaçar-lo (et pot ser útil fer servir un $SEARCH_ENGINE_LINK$motor de cerca$END_LINK$). A continuació, copia l'adreça web del quadre de la barra d'adreces del navegador i enganxa-la al quadre anterior.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3163044740176820503": {
+      "message": "Comença"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Estàs segur que vols suprimir la cançó seleccionada?}other{Estàs segur que vols suprimir les cançons seleccionades?}}"
+   },
+   "3167418181223330667": {
+      "message": "Modificador"
+   },
+   "3176546103367076011": {
+      "message": "Consulta totes les top cançons de: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3182977091552629211": {
+      "message": "Passa el ratolí per sobre de cada cel·la per obtenir el nom del caràcter."
+   },
+   "3185279424082070029": {
+      "message": "Assegura't que l'equip on tens aquesta cançó tingui Music Manager i que estigui connectat a Internet. La cançó es tornarà a penjar durant el dia de demà."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{fa # dies}=1{fa # dia}other{fa # dies}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{Cap cançó}=1{1 cançó}other{# cançons}}"
+   },
+   "3196641196902208501": {
+      "message": "Enllaça amb una adreça electrònica."
+   },
+   "3198123723060667787": {
+      "message": "Data"
+   },
+   "3213972439514824911": {
+      "message": "M'agrada"
+   },
+   "3220162149541031829": {
+      "message": "Lletres de cançons"
+   },
+   "3225804441370198247": {
+      "message": "Totes les meves cançons: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing/Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "d'aquí a $NUM$ minuts",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Cap"
+   },
+   "3237206613586329862": {
+      "message": "Lidi"
+   },
+   "3242312278127054660": {
+      "message": "Matemàtiques alfanumèric"
+   },
+   "3244003434432113241": {
+      "message": "Reprodueix"
+   },
+   "3245264696956198335": {
+      "message": "Format"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{No has seleccionat cap cançó per baixar a l'ordinador.}=1{Confirmes que vols baixar la cançó seleccionada a l'ordinador?}other{Confirmes que vols baixar les cançons seleccionades a l'ordinador?}}"
+   },
+   "3255560926299154386": {
+      "message": "Porta la teva música d'iTunes a tot arreu"
+   },
+   "32574714261860078": {
+      "message": "Escolta"
+   },
+   "3277700190370010726": {
+      "message": "La promoció de Google Play Música per a $START_BOLD$$USER_EMAIL$$END_BOLD$ no està disponible temporalment. Torna-ho a provar més tard.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3299099956700438963": {
+      "message": "Scripts d'Amèrica"
+   },
+   "3307635842875172003": {
+      "message": "Vés als meus mixos"
+   },
+   "3310099093781584673": {
+      "message": "g i després m"
+   },
+   "3311269073804742952": {
+      "message": "Escolta ara"
+   },
+   "3323193679372503780": {
+      "message": "No gràcies"
+   },
+   "3325286951950012705": {
+      "message": "Troba entrades"
+   },
+   "3326102734049980036": {
+      "message": "Temps restant: $DURATION$",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Consulta tots els resultats de la cerca de llistes de reproducció"
+   },
+   "3335728816495350082": {
+      "message": "Top cançons: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Mostra el reproductor principal"
+   },
+   "3377006691156456363": {
+      "message": "Enllaç que es pot compartir"
+   },
+   "3381844160250536550": {
+      "message": "Inici de la sessió a Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Hebreu"
+   },
+   "3390725557414108843": {
+      "message": "Radicals de 4 traços han"
+   },
+   "3410315382362912156": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ és una llista privada. Has de fer-la pública per compartir-la.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Paperera"
+   },
+   "3419681791450150574": {
+      "message": "Progrés"
+   },
+   "342127282404571667": {
+      "message": "Google Play Música per a Chrome OS"
+   },
+   "3431116501598202644": {
+      "message": "Àlbum desconegut"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "A quin URL ha d'anar aquest enllaç?"
+   },
+   "3445096196133856884": {
+      "message": "Vocal Aa inherent al kmer"
+   },
+   "3462013384451950074": {
+      "message": "d'aquí a $NUM$ hora",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "De: $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Escolta la teva música des de qualsevol lloc. Només has d'afegir la música del teu ordinador a Google Play."
+   },
+   "3479964965156370621": {
+      "message": "Puntuació"
+   },
+   "3483193414050571677": {
+      "message": "No m'agrada"
+   },
+   "3483958460407305290": {
+      "message": "Ratllat"
+   },
+   "3491417595697100862": {
+      "message": "Proporcionat per $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Redueix el volum del reproductor"
+   },
+   "3519190023725081398": {
+      "message": "G i després B"
+   },
+   "352192086869301337": {
+      "message": "S'han afegit $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ cançons de $NUM_TOTAL_TRACKS$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Bescanvia el cupó de Google Play Música"
+   },
+   "3532209277261496348": {
+      "message": "Error. Torna-ho a provar."
+   },
+   "3545785371861413299": {
+      "message": "Inicia la prova gratuïta"
+   },
+   "3545929198870894557": {
+      "message": "Vés a les meves llistes de reproducció"
+   },
+   "3547729876847212201": {
+      "message": "Espai curt"
+   },
+   "3565556274692077023": {
+      "message": "Guió llarg"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Sempre qualitat alta"
+   },
+   "3587102960969248092": {
+      "message": "Novetats recomanades"
+   },
+   "3599940994748621516": {
+      "message": "Subscriu-te a Google Play Música i escolta aquesta cançó i milions d'altres. El primer mes és de franc."
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605470624800934973": {
+      "message": "Confirmes que vols suprimir l'àlbum seleccionat?"
+   },
+   "3605957923037994993": {
+      "message": "D'acord"
+   },
+   "3609204150605625912": {
+      "message": "M'agrada"
+   },
+   "3629941396858927174": {
+      "message": "No mostris més opcions"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3638177113998814964": {
+      "message": "$TARGET$ s'està carregant...",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Esborra la cerca"
+   },
+   "3649938620817393740": {
+      "message": "Petita"
+   },
+   "3650710698506236041": {
+      "message": "Color hex"
+   },
+   "3688803517283872334": {
+      "message": "Caràcter d'emplenament hangul de mitja amplada"
+   },
+   "3693467228074689327": {
+      "message": "Continua"
+   },
+   "3701910180379922299": {
+      "message": "Sharada"
+   },
+   "370216116393129031": {
+      "message": "Obre la cua"
+   },
+   "3748613043647922063": {
+      "message": "Separador invisible"
+   },
+   "3748893353086104812": {
+      "message": "Esborra la memòria cau local i actualitza la informació de les cançons i de les llistes de reproducció."
+   },
+   "3762887990641668199": {
+      "message": "Armeni"
+   },
+   "3768927257183755959": {
+      "message": "Desa"
+   },
+   "3770594827970207417": {
+      "message": "Títol secundari"
+   },
+   "3772706138160001780": {
+      "message": "Barra horitzontal"
+   },
+   "3774172828626803355": {
+      "message": "Cherokee"
+   },
+   "3782346097595894324": {
+      "message": "No es pot connectar amb el servidor. Torna-ho a provar més tard."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3789779144889291801": {
+      "message": "Baixa fàcilment la música que has comprat o penjat a Google Play."
+   },
+   "3795262960327716692": {
+      "message": "Per afegir-hi una cançó, arrossega-la fins al nom de la llista de reproducció de la barra lateral."
+   },
+   "3801288115809478084": {
+      "message": "D’acord"
+   },
+   "3807050606425965472": {
+      "message": "Es tancaran les finestres següents:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolític"
+   },
+   "3839679337223320857": {
+      "message": "Sessió iniciada com a $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Ràdio $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Accedeix a Google Play Música"
+   },
+   "3861583677596279097": {
+      "message": "L'informe requereix l'atenció de l'equip d'enginyeria durant el proper dia laborable"
+   },
+   "3865248559890962003": {
+      "message": "Suggeriment: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Bescanvia el cupó de Google Play Música"
+   },
+   "3867367359959377145": {
+      "message": "ERROR: \"$COLOR$\" no és un color vàlid.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3868119883080041455": {
+      "message": "Ràdio $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Inicia la sessió a Google Play Música des del web abans no facis servir l'aplicació per a Chrome."
+   },
+   "3873111853443561979": {
+      "message": "Subratlla"
+   },
+   "3885497195825665706": {
+      "message": "Següent"
+   },
+   "3890078112831612818": {
+      "message": "Assegura't que l'equip on tens aquestes cançons tingui Music Manager i que estigui connectat a Internet. Les cançons es tornaran a penjar durant el dia de demà."
+   },
+   "3901889124080689046": {
+      "message": "El fitxer no es pot obrir"
+   },
+   "3904027274600624417": {
+      "message": "Qualsevol persona pot cercar i escoltar aquest contingut. És perfecte per compartir."
+   },
+   "3905289916217023036": {
+      "message": "Suprimeix permanentment tota la música comprada o penjada."
+   },
+   "3905371920037624514": {
+      "message": "Menys comú"
+   },
+   "3936240281193464170": {
+      "message": "Actualitza"
+   },
+   "3941019069704400974": {
+      "message": "Confirmes que vols suprimir permanentment l'historial que es fa servir per oferir-te recomanacions personalitzades? Amb aquesta acció no se suprimiran les puntuacions de les pistes individuals ni els recomptes de reproduccions."
+   },
+   "3949911572988594237": {
+      "message": "Crea una llista de reproducció"
+   },
+   "3973260061047030021": {
+      "message": "Reprodueix música o la posa en pausa"
+   },
+   "3973931101896534797": {
+      "message": "Data"
+   },
+   "3975141127799341224": {
+      "message": "Enllaça amb una pàgina o amb un fitxer al web."
+   },
+   "3980763395698221887": {
+      "message": "{NUM_SONGS,plural, =1{S'ha afegit 1 cançó a la teva música.}other{S'han afegit # cançons a la teva música.}}"
+   },
+   "3981724709755713539": {
+      "message": "Llistes de reproducció recents"
+   },
+   "3982112843644394207": {
+      "message": "2. A les baixades del navegador, fes doble clic al fitxer musicmanagerinstaller.exe per obrir-lo."
+   },
+   "3988935995558346502": {
+      "message": "Ciríl·lic"
+   },
+   "3993484408454658640": {
+      "message": "Controls parentals:"
+   },
+   "3996699777412450193": {
+      "message": "Fletxes"
+   },
+   "4018574576796390012": {
+      "message": "Confirmes que vols $START_SPAN$suprimir de manera permanent$END_SPAN$ la llista de reproducció \"$PLAYLIST_NAME$\"?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4032125743169636815": {
+      "message": " &bull; "
+   },
+   "4034257783857644883": {
+      "message": "Radicals de 6 traços han"
+   },
+   "4044663630621281686": {
+      "message": "Signe àrab safha"
+   },
+   "4055580652532057510": {
+      "message": "sense nom"
+   },
+   "405696346909038516": {
+      "message": "Consulta tots els resultats de la cerca de podcasts"
+   },
+   "4061274470931156807": {
+      "message": "Ol Chiki"
+   },
+   "4063027937991598166": {
+      "message": "Suprimeix la selecció actual"
+   },
+   "4071581399160046214": {
+      "message": "Pàgina d'inici"
+   },
+   "4075286221500750156": {
+      "message": "Versió: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "No s'ha pogut identificar l'ordinador."
+   },
+   "4086606389696938932": {
+      "message": "Compte"
+   },
+   "4087074177670472082": {
+      "message": "Àncora d'anotació interlineal"
+   },
+   "4091426921184034649": {
+      "message": "Actualitza la subscripció"
+   },
+   "4110926661719376304": {
+      "message": "Més informació sobre com activar JavaScript"
+   },
+   "4117020323749523105": {
+      "message": "Activitat recent"
+   },
+   "4117886182866316912": {
+      "message": "Cerca cap endavant a la cançó actual"
+   },
+   "4136239927282562599": {
+      "message": "Escolta la ràdio amb música semblant a $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "La llista de reproducció és buida"
+   },
+   "4141582858389779168": {
+      "message": "Registra't per accedir a música il·limitada per només $OFFER_PRICE$ al mes i reprodueix milions de cançons a l'instant i sense anuncis.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "S'ha marcat que la coincidència d'aquesta cançó no és correcta."
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{La cançó seleccionada utilitzarà la teva còpia en lloc de la còpia coincident.}other{Les cançons seleccionades utilitzaran les teves còpies en lloc de les còpies coincidents.}}"
+   },
+   "4171773891797639122": {
+      "message": "Unió de paraules"
+   },
+   "4183640380235728062": {
+      "message": "No repetir. Fes clic per canviar el mode de repetició."
+   },
+   "4204603140063905121": {
+      "message": "Emplenament jungseong de hangul"
+   },
+   "4207298621447602833": {
+      "message": "Millor coincidència"
+   },
+   "4210934092144627539": {
+      "message": "Reproduït o afegit recentment"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Reprodueix milions de cançons quan tu vulguis$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4237178646016840735": {
+      "message": "Subscriu-te a Google Play Música i escolta aquest artista i milions d'altres cançons. El primer mes és de franc."
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ per $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4260036130369028456": {
+      "message": "G i després G"
+   },
+   "4263959392548297550": {
+      "message": "Cancel·la"
+   },
+   "4267092206833736997": {
+      "message": "Emissores de ràdio"
+   },
+   "4272173055918340921": {
+      "message": "S'està carregant la música&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Sempre a dalt"
+   },
+   "4285216590250755577": {
+      "message": "Has d'actualitzar el dispositiu perquè puguem comprovar si és apte per participar en aquesta promoció."
+   },
+   "4307428996576001111": {
+      "message": "Va a la cançó anterior"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4323912651038951928": {
+      "message": "Amb aquesta acció també se suprimiran les llistes de reproducció, les emissores de ràdio, les puntuacions i qualsevol informació relacionada amb el nombre de reproduccions."
+   },
+   "4326462735503400283": {
+      "message": "Text que es mostrarà:"
+   },
+   "4329609792835264496": {
+      "message": "Espai fi"
+   },
+   "4330683855002842723": {
+      "message": "Mostra més opcions"
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Gènere i genealogia"
+   },
+   "4340616150909089613": {
+      "message": "\"$SONG_TITLE$\" coincideix amb una altra cançó?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Tecnologia de codificació d'àudio MPEG Layer-3 amb llicència de Fraunhofer IIS i Thomson. La codificació d'àudio avançada (AAC) s'utilitza sota llicència administrada per Via Licensing Corporation. Google Play inclou programari de tercers que requereixen un avís i altres termes i condicions disponibles a la $START_LINK$pàgina de divulgació de tercers$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Afegeix música de la llista $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Bloqueja la música marcada com a explícita pels proveïdors de contingut."
+   },
+   "437655423845564400": {
+      "message": "Has arribat al límit de cançons. Pots penjar fins a $TRACK_LIMIT$ cançons.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Formulari de presentació per a guió curt vertical"
+   },
+   "4383725505132456525": {
+      "message": "S'està aturant l'addició de música."
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Crea les teves llistes de reproducció"
+   },
+   "4396890764725725469": {
+      "message": "Desa"
+   },
+   "4405073953395157822": {
+      "message": "Traços CJK"
+   },
+   "4417144592785193889": {
+      "message": "Altres scripts de l'est d'Àsia"
+   },
+   "4439965029912183539": {
+      "message": "Suplement llatí 1"
+   },
+   "4440466521156769623": {
+      "message": "Símbol musical d'inici de compàs"
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{Cap cançó}=1{1 cançó}other{{COUNT_2} cançons}}"
+   },
+   "445149490695787423": {
+      "message": "Torna a iniciar la sessió"
+   },
+   "4451528286100219680": {
+      "message": "Integració d'esquerra a dreta"
+   },
+   "4452427314943113135": {
+      "message": "Anterior"
+   },
+   "4453762904903445132": {
+      "message": "S'ha produït un error en afegir a la llista de reproducció."
+   },
+   "4456793125873199230": {
+      "message": "Ràdio Segur que tinc sort"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 segons}=1{1 segon}other{# segons}}"
+   },
+   "4462494623248108758": {
+      "message": "Llista de reproducció"
+   },
+   "4476647413225813774": {
+      "message": "Quan hagin passat els $OFFER_LENGTH_DAYS$ dies, pots continuar gaudint del servei per només $OFFER_PRICE$ al mes.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4478641030934315579": {
+      "message": "Comú"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Cal que tornis a penjar algunes de les teves cançons."
+   },
+   "4539806158142214585": {
+      "message": "g i després n"
+   },
+   "4548136982356342217": {
+      "message": "Maj &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Crea un mix instantani nou a partir de la cançó seleccionada"
+   },
+   "4571105317747127957": {
+      "message": "Guió amb dièresi"
+   },
+   "4580988005648117665": {
+      "message": "Cerca"
+   },
+   "4584074223811370739": {
+      "message": "Ràdio gratuïta per a tot el que facis. Emmagatzema 50.000 pistes de la teva col·lecció personal. Subscriu-te per poder accedir a 35 milions de cançons a la carta i escoltar música sense connexió."
+   },
+   "4590981840116960737": {
+      "message": "Format i espai en blanc"
+   },
+   "4601938511613873712": {
+      "message": "Els meus dispositius"
+   },
+   "4604862300643180159": {
+      "message": "Gaudeix d'emissores de ràdio creades pel nostre equip d'experts en música. N'hi ha per a qualsevol estat d'ànim o activitat."
+   },
+   "4607813303298554353": {
+      "message": "Thaana"
+   },
+   "46135825491334308": {
+      "message": "La teva música se suprimirà de manera permanent"
+   },
+   "4624380622618270977": {
+      "message": "Novetats"
+   },
+   "4624704164651982020": {
+      "message": "S'està configurant Google Play Música per a Chrome..."
+   },
+   "4629398054050196678": {
+      "message": "Baixa la música a aquesta ubicació:"
+   },
+   "4645609569705949286": {
+      "message": "Només jo"
+   },
+   "4648993989034133051": {
+      "message": "Mostra el menú de la cançó seleccionada actualment"
+   },
+   "46496227337284997": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Emmagatzema fins a 50.000 cançons a Google Play de manera gratuïta.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Afegeix la teva col·lecció d'iTunes, del reproductor Windows Media o d'altres carpetes.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Escolta la teva música al web o als teus dispositius mòbils sense cables ni sincronitzacions.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "4658362967039953209": {
+      "message": "Penja música"
+   },
+   "4662613464573260354": {
+      "message": "Suggeriment"
+   },
+   "466976558518570343": {
+      "message": "Javanès"
+   },
+   "4675570050310339063": {
+      "message": "No s'ha pogut afegir. Les llistes de reproducció estan limitades a $LIMIT$ cançons.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4675864222674894697": {
+      "message": "Shavian"
+   },
+   "4687189636655044066": {
+      "message": "Barra espaiadora"
+   },
+   "4688350353916032040": {
+      "message": "Música per a tots els estats d'ànim"
+   },
+   "4688946070631035536": {
+      "message": "Corrector ortogràfic"
+   },
+   "470296860672943171": {
+      "message": "Selector de variació"
+   },
+   "4706959263210678625": {
+      "message": "Selector de variació: $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Per poder penjar la música més ràpidament, Google Play cerca coincidències dels teus fitxers de música amb les còpies que en tenim als nostres servidors. De vegades pot passar que la coincidència sigui incorrecta. Informa'ns del problema aquí i es tornarà a penjar la cançó."
+   },
+   "471816275243265264": {
+      "message": "Ubicació"
+   },
+   "4718177503702130030": {
+      "message": "Temps de la cançó actual: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4722420535011430371": {
+      "message": "Vídeo de YouTube"
+   },
+   "4724245563419948725": {
+      "message": "Actualitza Google Play en afegir música nova a aquestes ubicacions"
+   },
+   "4742770396342457517": {
+      "message": "Pots escoltar la música a Google Play Música."
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "Malaiàlam"
+   },
+   "4769480851867061848": {
+      "message": "Reprodueix $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Motiu"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{Cap gènere}=1{1 gènere}other{# gèneres}}"
+   },
+   "4782493710939339680": {
+      "message": "Comparteix a Twitter"
+   },
+   "4815033911915598343": {
+      "message": "Espaiat"
+   },
+   "4830715100444503860": {
+      "message": "Kharoshthi"
+   },
+   "4836232766167652032": {
+      "message": "Reprodueix aleatòriament $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4846792506513649213": {
+      "message": "Emissores"
+   },
+   "4862238057869188402": {
+      "message": "No s'han pogut recuperar els mix. Torna-ho a provar."
+   },
+   "4862902902120611556": {
+      "message": "Consulta tots els resultats de la cerca d'artistes"
+   },
+   "4867246087786788222": {
+      "message": "Tipus de compte:"
+   },
+   "4874337908897060929": {
+      "message": "Càrrega de música en pausa"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Confirmes que vols {START_SPAN_1}suprimir de manera permanent{END_SPAN} la cançó seleccionada?}other{Confirmes que vols {START_SPAN_2}suprimir de manera permanent{END_SPAN} les cançons seleccionades?}}"
+   },
+   "4878527640076219954": {
+      "message": "Tàmil"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Música per a Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Tailandès"
+   },
+   "4902817035128594900": {
+      "message": "Descripció"
+   },
+   "4916816672463415688": {
+      "message": "Prova Google Play Música"
+   },
+   "4920482241656423227": {
+      "message": "Color de fons del text"
+   },
+   "4920946997448724158": {
+      "message": "Compositor"
+   },
+   "4921096453319030731": {
+      "message": "Marca d'abreviació del siríac"
+   },
+   "4924253230856131215": {
+      "message": "Scripts del sud-est d'Àsia"
+   },
+   "4930506384627295710": {
+      "message": "Configuració"
+   },
+   "4933504665795531092": {
+      "message": "Amb la subscripció de Google Play Música, pots accedir a més de 35 milions de cançons i escoltar la ràdio sense límits."
+   },
+   "4945228064546795686": {
+      "message": "Consulta tots els resultats de la cerca d'àlbums"
+   },
+   "4962022175989879342": {
+      "message": "Contingut explícit"
+   },
+   "496636435516411982": {
+      "message": "No s'ha pogut puntuar la cançó. Torna-ho a provar."
+   },
+   "4972659496812307928": {
+      "message": "La baixada de música s'ha posat en pausa."
+   },
+   "4980580439123922024": {
+      "message": "Artistes"
+   },
+   "498913874005297914": {
+      "message": "Negreta"
+   },
+   "499152283823240992": {
+      "message": "Samarità"
+   },
+   "4998030835388374541": {
+      "message": "Canvia la portada de l'àlbum"
+   },
+   "5003850562831597565": {
+      "message": "Subscripció recent"
+   },
+   "5004312405043027351": {
+      "message": "Fet"
+   },
+   "5009878480585609766": {
+      "message": "Han: altres"
+   },
+   "5015096128854741514": {
+      "message": "Transport i mapes"
+   },
+   "5018227417300461385": {
+      "message": "Guió de resta petit"
+   },
+   "5029496897209707807": {
+      "message": "Cal actualitzar Google Play Música per a Chrome. Normalment, aquest procés es duu a terme automàticament."
+   },
+   "5030096791460456147": {
+      "message": "El lloc amfitrió ha bloquejat la imatge que proveu d'arrossegar."
+   },
+   "5032188163864418301": {
+      "message": "Pahlavi inscripcional"
+   },
+   "5043933900720743682": {
+      "message": "Àlbums"
+   },
+   "5049432650728491454": {
+      "message": "Explora les novetats, llistes d'èxits, llistes de reproducció i diversos gèneres."
+   },
+   "504977212575871255": {
+      "message": "No s'ha pogut canviar l'ordre. Torna-ho a provar."
+   },
+   "506090363255226122": {
+      "message": "Girat/reflectit"
+   },
+   "5067818727161314391": {
+      "message": "Comparteix a Google+"
+   },
+   "5071594083516657121": {
+      "message": "El fitxer és massa gran"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{Cap àlbum}=1{1 àlbum}other{# àlbums}}"
+   },
+   "5085509606319320198": {
+      "message": "Tanca la cua"
+   },
+   "5094769877856014729": {
+      "message": "Símbol musical de final de lligadura de prolongació"
+   },
+   "5105404398573470156": {
+      "message": "Formes geomètriques"
+   },
+   "5113771261593769985": {
+      "message": "Txam"
+   },
+   "5115900738857721327": {
+      "message": "Unió de grafema combinable"
+   },
+   "5119663120731608161": {
+      "message": "Fes una ullada a la llista de reproducció $START_LINK$Afegides recentment$END_LINK$ per veure les cançons que has afegit fa poc.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{Només pots saltar 1 cançó més}other{Només pots saltar # cançons més}}"
+   },
+   "5128240607770067472": {
+      "message": "Quant a..."
+   },
+   "5141725357376719861": {
+      "message": "S'han baixat $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ cançons de $NUM_TOTAL_TRACKS$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "S'està cercant…"
+   },
+   "5154374028369457456": {
+      "message": "Barra d'eines de navegació"
+   },
+   "5161411570094992408": {
+      "message": "Ara no"
+   },
+   "5170992049958515620": {
+      "message": "Guionet"
+   },
+   "5188231675115376764": {
+      "message": "Vés a les meves emissores"
+   },
+   "5189296983337794287": {
+      "message": "En aquest moment no es poden arrossegar i deixar anar fitxers d'imatge.\nArrossega una imatge des del navegador web."
+   },
+   "5199204386348402183": {
+      "message": "Osmanlí"
+   },
+   "5219596981664772816": {
+      "message": "Radicals de 3 traços han"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagh"
+   },
+   "5237204164514638395": {
+      "message": "Enviar un regal"
+   },
+   "5256846847077792168": {
+      "message": "Edició de la paraula"
+   },
+   "5274506773583039432": {
+      "message": "Confirmes que vols $START_SPAN$ suprimir de manera permanent $END_SPAN$ la llista de reproducció seleccionada?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "Emoticones"
+   },
+   "529512324149544235": {
+      "message": "Parental Controls Settings Changed"
+   },
+   "5296780212411063886": {
+      "message": "Explora emissores"
+   },
+   "5302287499843369186": {
+      "message": "S'està configurant Google Play Música"
+   },
+   "531478949469830505": {
+      "message": "Sora Sompeng"
+   },
+   "5316998074277327666": {
+      "message": "Gracenote o els seus proveïdors són els titulars dels drets d'autor &copy; d'algunes parts del contingut."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Confirmes que vols {START_SPAN_1}suprimir de manera permanent{END_SPAN} la cançó seleccionada?}other{Confirmes que vols {START_SPAN_2}suprimir de manera permanent{END_SPAN} les cançons seleccionades?}}"
+   },
+   "5326351540290142036": {
+      "message": "Cançó anterior"
+   },
+   "5348600594194881699": {
+      "message": "Posa't còmode i relaxa't. Ja ets subscriptor de Google Play Música."
+   },
+   "536459166857647880": {
+      "message": "Tagal"
+   },
+   "5370332239555585516": {
+      "message": "Tota la música i cap anunci"
+   },
+   "5373550672011878193": {
+      "message": "Rúnic"
+   },
+   "5378532290721565403": {
+      "message": "La cançó s'ha comprat amb un altre compte de Google Play Música"
+   },
+   "5379453108698089622": {
+      "message": "Va a Escolta ara"
+   },
+   "5393158295657392839": {
+      "message": "Les cançons s'han marcat com a coincidència incorrecta."
+   },
+   "5394607018657314633": {
+      "message": "Separador de línia"
+   },
+   "5395035563228151731": {
+      "message": "Estat del compte:"
+   },
+   "5402470227536486835": {
+      "message": "Guió llarg petit"
+   },
+   "5404910277282887798": {
+      "message": "Fenici"
+   },
+   "5407092932504462689": {
+      "message": "Consulta tots els resultats de la cerca d'emissores de ràdio"
+   },
+   "5408241503383428945": {
+      "message": "Altres scripts d'Europa"
+   },
+   "5410695385284979104": {
+      "message": "Mix de $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Configuració familiar"
+   },
+   "5432330868773114140": {
+      "message": "Inicia la ràdio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 episodis}=1{1 episodi}other{{COUNT_2} episodis}}"
+   },
+   "545173546103184657": {
+      "message": "Compte de Google:"
+   },
+   "5452036681614307719": {
+      "message": "Més invisible"
+   },
+   "5452218284042451605": {
+      "message": "Per aplicar un cupó a $START_SPAN$$USER_EMAIL$$END_SPAN$, introdueix el codi més avall.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Àlbum desconegut"
+   },
+   "548629550059508920": {
+      "message": "No s'ha pogut penjar perquè ja estàs fent càrregues des de dos comptes."
+   },
+   "5492320356892382782": {
+      "message": "Suprimeix de manera permanent"
+   },
+   "5497512316841934820": {
+      "message": "Mix Em sento afortunat"
+   },
+   "5497627646066282315": {
+      "message": "S'està connectant."
+   },
+   "5501301484140201550": {
+      "message": "Ràdio Segur que tinc sort"
+   },
+   "550380163414655031": {
+      "message": "A continuació, et farem unes quantes preguntes relacionades amb els teus gustos per poder-te ajudar a descobrir la música que més s'adigui a les teves preferències."
+   },
+   "5518817744725858296": {
+      "message": "Artista que actua en directe a prop teu"
+   },
+   "5524426195717036850": {
+      "message": "Has cancel·lat la subscripció de la llista de reproducció {PLAYLIST_TITLE}"
+   },
+   "5529194084754296998": {
+      "message": "Sisè d'espai"
+   },
+   "5535160370665610524": {
+      "message": "Cerca cap enrere a la cançó actual"
+   },
+   "5541835554879897802": {
+      "message": "S'ha produït un error en afegir algunes cançons a la col·lecció. Torna-ho a provar."
+   },
+   "5562067436939843837": {
+      "message": "Escolta tota la música que vulguis al nostre catàleg de milions de cançons, sense publicitat."
+   },
+   "5578390534357178026": {
+      "message": "Comprova que tinguis la sessió iniciada a Chrome amb el mateix compte de Google."
+   },
+   "5584189341216439776": {
+      "message": "Afegeix la teva música"
+   },
+   "5584467594910303696": {
+      "message": "Jeroglífics meroítics"
+   },
+   "5586233271963962252": {
+      "message": "Cançó següent"
+   },
+   "5593848105713936399": {
+      "message": "Cua"
+   },
+   "5594762259680838005": {
+      "message": "Comprat recentment"
+   },
+   "5601530442010506564": {
+      "message": "D'acord"
+   },
+   "5605692130698677333": {
+      "message": "Necessites ajuda per afegir música des d'un ordinador amb Google Play Music Manager instal·lat?"
+   },
+   "560627050344405345": {
+      "message": "Avança 30 segons"
+   },
+   "5607000992339442129": {
+      "message": "Només necessites uns quants minuts per començar a penjar la teva col·lecció de música a Google Play."
+   },
+   "5612959352951118540": {
+      "message": "d'aquí a $NUM$ hores",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5629201590189718876": {
+      "message": "Format"
+   },
+   "5643561794785412000": {
+      "message": "No disponible"
+   },
+   "5653588624985073807": {
+      "message": "Gurmukhi"
+   },
+   "5665391621751941927": {
+      "message": "No s'han pogut recuperar els gèneres. Torna-ho a provar."
+   },
+   "5671499827182863671": {
+      "message": "T'han tancat la sessió d'aquest compte. Fes clic al botó següent per tornar a la música."
+   },
+   "5672179805519539136": {
+      "message": "Emmagatzema la teva música en un lloc i escolta-la a Android, iOS i al Web."
+   },
+   "5674048882417502526": {
+      "message": "Substitució de dreta a esquerra"
+   },
+   "5700613377997995103": {
+      "message": "Guió numèric"
+   },
+   "5728756163322931984": {
+      "message": "Escolta milions de cançons pel preu d'un àlbum."
+   },
+   "5729733224544981434": {
+      "message": "Afegeix Google Play Música per a Chrome per activar l'opció d'arrossegar i deixar anar."
+   },
+   "5729741177183241567": {
+      "message": "{NUM_SONGS,plural, =1{S'ha afegit 1 cançó a la llista de reproducció}other{S'han afegit # cançons a la llista de reproducció}}"
+   },
+   "5755038562791065032": {
+      "message": "Terç d'espai"
+   },
+   "5756282190263595941": {
+      "message": "Escolta cançons semblants a $TITLE$ de l'artista $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5761798931116026691": {
+      "message": "No s'ha pogut convertir a MP3"
+   },
+   "5769804815976568558": {
+      "message": "Selecciona la ubicació de baixada"
+   },
+   "5775493454862732930": {
+      "message": "Guió armeni"
+   },
+   "5779551937076403073": {
+      "message": "Afegeix"
+   },
+   "5784007894878825338": {
+      "message": "Espai de no separació"
+   },
+   "5814708421422669024": {
+      "message": "Compra per $PRICE_TEXT$",
+      "placeholders": {
+         "PRICE_TEXT": {
+            "content": "$1"
+         }
+      }
+   },
+   "5821233021244850631": {
+      "message": "Qualitat alta independentment de l'estat de la xarxa."
+   },
+   "5827343664961087180": {
+      "message": "Subscriu-m'hi"
+   },
+   "5832435837238304779": {
+      "message": "Reprodueix $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5854234999824329890": {
+      "message": "Gestiona la configuració familiar"
+   },
+   "585739095777961817": {
+      "message": "de"
+   },
+   "5862309805277852777": {
+      "message": "Nom"
+   },
+   "5863523793538309428": {
+      "message": "S'està suprimint la teva música. Aquest procés trigarà unes quantes hores."
+   },
+   "5888141336325862688": {
+      "message": "Vés a l'opció per explorar emissores"
+   },
+   "5889126665299129466": {
+      "message": "Has de tenir la sessió iniciada a Chrome per utilitzar el minireproductor."
+   },
+   "5889904821719049150": {
+      "message": "Escolta la teva música en qualsevol ordinador i en un màxim de deu dispositius. Penjar i baixar música mitjançant Music Manager o Google Play Música per a Chrome compten en el límit de dispositius."
+   },
+   "5890243856676178044": {
+      "message": "Bengalí"
+   },
+   "5891064527381218201": {
+      "message": "Gratis"
+   },
+   "5914500973755757025": {
+      "message": "Laosià"
+   },
+   "5918806792833250096": {
+      "message": "Cuneïforme"
+   },
+   "5923830678189377717": {
+      "message": "A veure..."
+   },
+   "5930857699885919881": {
+      "message": "Fitxer ALAC no compatible"
+   },
+   "5946473117506990177": {
+      "message": "Regala una subscripció a Google Play Música"
+   },
+   "5966249470835718484": {
+      "message": "Consulta tots els àlbums de l'artista $ARTIST_NAME$ a La meva música",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "5969115558488445506": {
+      "message": "Subtítol"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Una d'aquestes cançons ja és a la llista de reproducció.}other{Algunes d'aquestes cançons ja són a la llista de reproducció.}}"
+   },
+   "5971001229987621398": {
+      "message": "Novetat recomanada"
+   },
+   "5973114702086214474": {
+      "message": "Consulta tots els artistes relacionats"
+   },
+   "5983727894875163426": {
+      "message": "S'ha produït un error en passar la cançó"
+   },
+   "5987565417212088924": {
+      "message": "Llista de reproducció de Sound Search"
+   },
+   "5990212441459592050": {
+      "message": "Fes-la pública"
+   },
+   "599493319699637812": {
+      "message": "Reproducció aleatòria"
+   },
+   "5999484363963634214": {
+      "message": "Mandaic"
+   },
+   "6028312506269896318": {
+      "message": "Estàs segur que vols desautoritzar aquest dispositiu perquè no pugui reproduir música?"
+   },
+   "6031749391396582225": {
+      "message": "Emplenament de hangul"
+   },
+   "60369026765465265": {
+      "message": "Actualitza l'emissora"
+   },
+   "6037216776738907588": {
+      "message": "Va als teus gèneres"
+   },
+   "6042091568356544470": {
+      "message": "Aplicació de funció"
+   },
+   "6062704261604405084": {
+      "message": "Configura Google Play Música per a Chrome per afegir la teva col·lecció de música i gaudir-ne al telèfon, a la tauleta i a l'ordinador."
+   },
+   "6062911693359625717": {
+      "message": "Taxa de bits: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Prova-ho ara"
+   },
+   "6075813266646535052": {
+      "message": "Inicia la sessió amb Google"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Aquesta llista de reproducció està buida."
+   },
+   "6082171864197428613": {
+      "message": "Instal·la"
+   },
+   "609463966491943885": {
+      "message": "Selecciona les carpetes"
+   },
+   "6096654177023939223": {
+      "message": "Hola! Inicia la sessió al compte de Google."
+   },
+   "6097429778714195840": {
+      "message": "Vés a les novetats"
+   },
+   "6104044107385556653": {
+      "message": "Els codis dels cupons distingeixen entre majúscules i minúscules."
+   },
+   "610635793308893528": {
+      "message": "Integració de dreta a esquerra"
+   },
+   "611472617351658381": {
+      "message": "No s'ha pogut afegir l'emissora. Torna-ho a provar."
+   },
+   "6115840172404094036": {
+      "message": "Va a la cançó següent"
+   },
+   "6125785068086103357": {
+      "message": "No s'ha pogut suprimir la cançó. Torna-ho a provar."
+   },
+   "6134905866550808378": {
+      "message": "Totes les meves cançons: $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Mostra els detalls de l'episodi"
+   },
+   "6182267200530067545": {
+      "message": "Configura la teva subscripció periòdica i que no pari la música."
+   },
+   "6202991870072245705": {
+      "message": "Cancel·la la subscripció"
+   },
+   "6205568685279927986": {
+      "message": "Rejang"
+   },
+   "6211690508928257569": {
+      "message": "Siríac"
+   },
+   "6214362172197372800": {
+      "message": "Abans de continuar, assegura't que hagis baixat a l'ordinador una còpia de les compres fetes a Google Play."
+   },
+   "6227307047241266902": {
+      "message": "menú de més opcions"
+   },
+   "6233107584508657559": {
+      "message": "No s'ha pogut connectar amb Google"
+   },
+   "6233799104785293347": {
+      "message": "Actualitzar"
+   },
+   "6238576599909606924": {
+      "message": "URL no vàlid"
+   },
+   "6242354668932209396": {
+      "message": "Repetir totes les cançons. Fes clic per canviar el mode de repetició."
+   },
+   "624368563085644372": {
+      "message": "Multiplicació invisible"
+   },
+   "624560585652958729": {
+      "message": "Desautoritza"
+   },
+   "6254019915482435769": {
+      "message": "Discos"
+   },
+   "6263911096488435737": {
+      "message": "Actualitza el mix"
+   },
+   "6264257099423315684": {
+      "message": "Amb quina adreça electrònica s'ha d'enllaçar?"
+   },
+   "6266962164598137510": {
+      "message": "No m'agrada"
+   },
+   "6295780096198935300": {
+      "message": "Consulta tots els resultats de la cerca de cançons"
+   },
+   "630414199054820482": {
+      "message": "Espai de puntuació"
+   },
+   "6321629750851370838": {
+      "message": "Reproducció"
+   },
+   "6334800505555910746": {
+      "message": "Proporcionat per $XXX_1$ amb la llicència $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Error de càrrega"
+   },
+   "6342787164312491730": {
+      "message": "Temps, paisatges i signes del zodíac"
+   },
+   "6348993545995904615": {
+      "message": "Reprodueix aleatòriament"
+   },
+   "6352462755178724841": {
+      "message": "Suprimeix el format"
+   },
+   "6354300278943883017": {
+      "message": "Les llistes de reproducció han canviat d'ubicació"
+   },
+   "6360340926892934518": {
+      "message": "Afegeix una carpeta"
+   },
+   "6360662632410865665": {
+      "message": "Accés a 35 milions de cançons a la carta i sense publicitat. Baixa les pistes que vulguis escoltar quan no tinguis connexió. Afegeix 50.000 cançons teves i escolta-les vagis on vagis."
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{No hi ha cap cançó a la qual només li quedi una baixada.}=1{\"{XXX_1}\": només 1 baixada restant.}=2{\"{XXX_1}\" i \"{XXX_2}\": només 1 baixada restant.}=3{\"{XXX_1}\", \"{XXX_2}\" i \"{XXX_3}\": només 1 baixada restant.}=4{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i 1 altra cançó seleccionada: només 1 baixada restant.}other{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i {XXX_4} cançons seleccionades més: només 1 baixada restant.}}"
+   },
+   "6390744057286457578": {
+      "message": "Alinea al centre"
+   },
+   "6392918669949841614": {
+      "message": "Data en què s'ha afegit"
+   },
+   "6397906195939852735": {
+      "message": "Kanarès"
+   },
+   "6397910887534888858": {
+      "message": "Color del text"
+   },
+   "6401620758535187625": {
+      "message": "Actualitza la informació de pagament"
+   },
+   "6410017727692959093": {
+      "message": "Lloc"
+   },
+   "6419550114275715130": {
+      "message": "La música encara s'està reproduint."
+   },
+   "6425912931786223127": {
+      "message": "a. m."
+   },
+   "6426880811380367028": {
+      "message": "Atura $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6427041476637425542": {
+      "message": "Subíndex"
+   },
+   "6439365426343089851": {
+      "message": "General"
+   },
+   "6447846965513034625": {
+      "message": "Objectes"
+   },
+   "6448771309160517960": {
+      "message": "Comença gratis"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Gaudeix de llistes de reproducció creades pels nostres experts musicals$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "Myanmar"
+   },
+   "6455589326534311330": {
+      "message": "Aquest límit no s'aplica quan utilitzes $START_SPAN$Music Manager$END_SPAN$ per baixar tota la teva biblioteca a l'ordinador.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Explícit: inclou contingut que pot ser inadequat per als nens"
+   },
+   "6479183350424120199": {
+      "message": "Consulta tots els vídeos"
+   },
+   "6482036697464831271": {
+      "message": "Per penjar la teva música ràpidament, Google Play t'ofereix l'equivalent dels teus fitxers de música mitjançant còpies del nostre servidor. De tant en tant, pot ser que t'oferim una cançó incorrecta. Informa del problema aquí i les cançons es corregiran perquè es faci servir la teva còpia en lloc de la còpia coincident."
+   },
+   "6482815137654580311": {
+      "message": "Edita la informació"
+   },
+   "6484073284972331008": {
+      "message": "No s'ha pogut actualitzar el nombre de reproduccions"
+   },
+   "6485379744416240146": {
+      "message": "M'agrada"
+   },
+   "6488707262592852720": {
+      "message": "2. A la finestra de l'instal·lador, arrossega la icona de Music Manager fins a la icona de la carpeta Aplicacions."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Música: selecció de la carpeta per a les baixades"
+   },
+   "6504449653938065974": {
+      "message": "Llista de reproducció recomanada"
+   },
+   "6510962485068569110": {
+      "message": "Desfés"
+   },
+   "6513265996872955028": {
+      "message": "Afegeix a la música"
+   },
+   "6523257069333866790": {
+      "message": "Carpeta de música"
+   },
+   "6531109671848395983": {
+      "message": "Per afegir música, instal·la Google Play Música per a Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Més funcions"
+   },
+   "653219508056341533": {
+      "message": "Persones i emocions"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6555053572817998410": {
+      "message": "Posa en pausa"
+   },
+   "6562996658473327600": {
+      "message": "S'està reproduint de:"
+   },
+   "6568036879894576496": {
+      "message": "La música de les carpetes següents s'afegirà a Google Play Música"
+   },
+   "6568649140210842427": {
+      "message": "Desfés"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Cada cançó es pot baixar només una vegada al web.}other{ Cada cançó es pot baixar {DOWNLOAD_COUNT_MAX_2} vegades al web.}}"
+   },
+   "6591282200798732887": {
+      "message": "Quadratí curt"
+   },
+   "65984904390749158": {
+      "message": "Finalitza"
+   },
+   "66116513409922755": {
+      "message": "No"
+   },
+   "6612115524763399815": {
+      "message": "Devanagari"
+   },
+   "6634231960955145278": {
+      "message": "Cançó"
+   },
+   "6638274938129779637": {
+      "message": "Desfés M'agrada"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{S'ha suprimit 1 cançó}other{S'han suprimit # cançons}}"
+   },
+   "6650633628037596693": {
+      "message": "Torna-ho a provar"
+   },
+   "6650888720096194474": {
+      "message": "Per fer servir el minireproductor, cal que configuris Google Play Música a $START_SPAN$$EMAIL$$END_SPAN$.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normal"
+   },
+   "6652787256443519035": {
+      "message": "Sense etiqueta"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{S'ha afegit 1 cançó a Google Play.}other{S'han afegit {NUM_ADDED_2} cançons a Google Play.}}"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Gaudeix de la teva música en dispositius $START_SPAN_1$Android$END_SPAN$ i $START_SPAN_2$iOS$END_SPAN$ i al web.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Redueix el sagnat"
+   },
+   "6689623864271696040": {
+      "message": "Guió virtual"
+   },
+   "6703444928647322448": {
+      "message": "Nom"
+   },
+   "6704452266937792847": {
+      "message": "Afegeix a la música"
+   },
+   "6706494172112196654": {
+      "message": "Passa a un pla familiar per a un màxim de 6 membres"
+   },
+   "6711475260919070872": {
+      "message": "Persa antic"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Recomanacions personalitzades"
+   },
+   "6719382961812623394": {
+      "message": "S'ha produït un problema amb la configuració."
+   },
+   "6722174221321515493": {
+      "message": "Separador d'amplada nul·la"
+   },
+   "6724866564770579816": {
+      "message": "Maneres de reproduir música"
+   },
+   "6732797853205065184": {
+      "message": "Ignora"
+   },
+   "6742017901699269182": {
+      "message": "Va als teus àlbums"
+   },
+   "6747414430222084644": {
+      "message": "Durada de la cançó: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6750258767236131097": {
+      "message": "Scripts de l'Orient Mitjà"
+   },
+   "6768967544887679189": {
+      "message": "Guió ondulat"
+   },
+   "6774444826375904566": {
+      "message": "S'ha afegit la cançó {TRACK_TITLE} a la teva música."
+   },
+   "6790172339432877080": {
+      "message": "Aquesta marca en forma d'ela és una marca comercial registrada que indica que aquest contingut està proporcionat per companyies discogràfiques i productores de vídeo."
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "D’acord"
+   },
+   "6820635381009519748": {
+      "message": "Elimina de la cua"
+   },
+   "6821274223204126521": {
+      "message": "Musical"
+   },
+   "6830152735949448199": {
+      "message": "Els experiments de Google Play Música són un laboratori de proves per a funcions experimentals que encara no estan llestes per al públic. És possible que canviïn, que deixin de funcionar o que desapareguin en qualsevol moment. Gaudeix-ne!"
+   },
+   "6839273670547667172": {
+      "message": "Diversos"
+   },
+   "6840919594921167668": {
+      "message": "Consulta la carpeta Baixades de l'ordinador per veure les cançons que has baixat."
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. Quan s'obri l'instal·lador, segueix les instruccions per configurar Music Manager."
+   },
+   "686324708947275216": {
+      "message": "No s'ha pogut suprimir l'emissora. Torna-ho a provar."
+   },
+   "6887831882226099905": {
+      "message": "Estàs segur que vols desautoritzar aquest dispositiu perquè no pugui afegir música?"
+   },
+   "689233687170647171": {
+      "message": "Fes clic a la icona de llista de reproducció anterior o arrossega una cançó a la dreta per afegir-la a una llista de reproducció."
+   },
+   "6898179631823558149": {
+      "message": "No s'ha pogut convertir el fitxer en un format que es pugui utilitzar"
+   },
+   "6930531446322391145": {
+      "message": "Imatge"
+   },
+   "6932671848756303275": {
+      "message": "Baixa"
+   },
+   "6940170973585783277": {
+      "message": "Actualitza a un pla familiar"
+   },
+   "6941609127174167431": {
+      "message": "Retrocedeix 10 segons"
+   },
+   "6943941659433003765": {
+      "message": "Inicia el mix instantani"
+   },
+   "6958966284437922286": {
+      "message": "Vai"
+   },
+   "6962699013778688473": {
+      "message": "Continua"
+   },
+   "6990699195498598876": {
+      "message": "Per començar, baixa Music Manager, una aplicació senzilla que et permet afegir els fitxers de música de l'ordinador a Google Play."
+   },
+   "699971906528455934": {
+      "message": "Artista desconegut"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7002955679222677443": {
+      "message": "Més informació"
+   },
+   "7009828133009731416": {
+      "message": "Gratuït de Google"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7019115336138470191": {
+      "message": "Subscrit"
+   },
+   "7020161279392960480": {
+      "message": "Format"
+   },
+   "7022070615528435141": {
+      "message": "Suprimeix"
+   },
+   "7034479228356652023": {
+      "message": "Radicals d'1 traç han"
+   },
+   "7035822615949880851": {
+      "message": "La teva música no està disponible temporalment en aquest dispositiu. Torna-ho a provar més tard. Error 442."
+   },
+   "7043080825985118397": {
+      "message": "Recupera"
+   },
+   "7049182394855721704": {
+      "message": "Gòtic"
+   },
+   "7054091192371222228": {
+      "message": " de "
+   },
+   "7062695654404914711": {
+      "message": "Mixos instantanis"
+   },
+   "7067908984080925888": {
+      "message": "Més informació"
+   },
+   "7071666053441099517": {
+      "message": "1. A la part inferior esquerra de la finestra del navegador, obre MusicManager.dmg."
+   },
+   "7080245643233785574": {
+      "message": "S'ha produït un problema amb l'aplicació Google Play Música per a Chrome i cal que tornis a iniciar la sessió."
+   },
+   "7090368974279082159": {
+      "message": "Vaja"
+   },
+   "709740537382334098": {
+      "message": "Suprimeix tota la meva música, també la música comprada ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Caràcter d'emplenament hangul choseong"
+   },
+   "7100567566985297322": {
+      "message": "Espai llarg"
+   },
+   "7102126384411654213": {
+      "message": "No s'ha pogut afegir a la col·lecció. Torna-ho a provar."
+   },
+   "7104210472412766015": {
+      "message": "Separador d'anotació interlineal"
+   },
+   "7105416082849293719": {
+      "message": "Activitat recent"
+   },
+   "7111181959300196580": {
+      "message": "Augmenta el sagnat"
+   },
+   "7116872031464114568": {
+      "message": "Identificat a Sound Search"
+   },
+   "7127937208951634191": {
+      "message": "Símbol"
+   },
+   "7136816542440442290": {
+      "message": "S'ha produït un problema en carregar l'emissora de ràdio."
+   },
+   "7144198039114608569": {
+      "message": "Llista de reproducció automàtica"
+   },
+   "716550293954822096": {
+      "message": "Singalès"
+   },
+   "7182974689040833178": {
+      "message": "Reprèn"
+   },
+   "7192513315706728552": {
+      "message": "S'ha produït un error del servidor. Torna-ho a provar més tard."
+   },
+   "7194376132387780145": {
+      "message": "No es pot autoritzar aquest ordinador perquè ja tens deu dispositius."
+   },
+   "7200522943394315316": {
+      "message": "32 bit .rpm (per a Fedora/openSUSE)"
+   },
+   "7202681158267340446": {
+      "message": "Tipus de lletra"
+   },
+   "720381800527728702": {
+      "message": "Esports, celebracions i activitats"
+   },
+   "7212676589977202933": {
+      "message": "S'han afegit $NUM_TRANSFERRED_TRACKS$ cançons.",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "No s'ha pogut obrir la llista de reproducció. Torna-ho a provar."
+   },
+   "7228343081607279547": {
+      "message": "Sundanès"
+   },
+   "7229202390260081051": {
+      "message": "Enorme"
+   },
+   "7249560357803023328": {
+      "message": "Baixa la biblioteca"
+   },
+   "7262284142845767114": {
+      "message": "M'agrada"
+   },
+   "7277602889799602415": {
+      "message": "Suprimeix la meva música"
+   },
+   "7281847881697831326": {
+      "message": "S'ha produït un error en desfer la supressió."
+   },
+   "7282565673166392948": {
+      "message": "Descripció ideogràfica"
+   },
+   "7283215568776397157": {
+      "message": "Cançons penjades:"
+   },
+   "7287006426755387074": {
+      "message": "Augmenta el volum del reproductor"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minuts}=1{1 minut}other{# minuts}}"
+   },
+   "7292902857194439444": {
+      "message": "Dispositiu"
+   },
+   "7293921570163366209": {
+      "message": "Escolta cançons semblants a les de l'artista $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7293925053370285812": {
+      "message": "Repetir la cançó actual. Fes clic per canviar el mode de repetició."
+   },
+   "730022297859142476": {
+      "message": "Mix instantani"
+   },
+   "7305504256207181669": {
+      "message": "Llista de pics"
+   },
+   "7306812086707840437": {
+      "message": "Subscriu-te a Google Play Música i escolta aquesta emissora de ràdio i milions de cançons més. El primer mes és de franc."
+   },
+   "731429515932674572": {
+      "message": "Desactiva el so"
+   },
+   "7320133162875658022": {
+      "message": "Penja cançons noves ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7322373231564004139": {
+      "message": "Cerca"
+   },
+   "7331328794127852355": {
+      "message": "Emoji"
+   },
+   "7335080673788704461": {
+      "message": "Transport, mapes i senyalització"
+   },
+   "7354536653016090160": {
+      "message": "Top èxits"
+   },
+   "7354691783317064273": {
+      "message": "L'aplicació per a Chrome s'està connectant."
+   },
+   "7376787658603979700": {
+      "message": "Compra milions de cançons. També hi trobaràs centenars de cançons gratuïtes."
+   },
+   "7396303606473621591": {
+      "message": "Tots"
+   },
+   "7410432243549869948": {
+      "message": "Durada"
+   },
+   "7411932913365107274": {
+      "message": "Pots desautoritzar quatre dispositius per any."
+   },
+   "741454111929523251": {
+      "message": "Volies dir: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Selecciona carpetes..."
+   },
+   "7422152161839392092": {
+      "message": "Regala una subscripció a Google Play Música"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{d'aquí a # dies}=1{d'aquí a # dia}other{d'aquí a # dies}}"
+   },
+   "7437730399353044671": {
+      "message": "Subscriu-t'hi per obtenir tota la música a la carta, sense connexió i sense cap anunci"
+   },
+   "7437894509168051348": {
+      "message": "Radicals de 7 traços han"
+   },
+   "744665031629199878": {
+      "message": "Consulta tots els artistes relacionats amb $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7449358949677606364": {
+      "message": "35 milions de cançons a la carta"
+   },
+   "7467710920158412786": {
+      "message": "Una llista de reproducció privada només per a tu."
+   },
+   "747583939629659293": {
+      "message": "Afegeix un color"
+   },
+   "7475857386379593056": {
+      "message": "Reprodueix $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7480960100390206139": {
+      "message": "Altres"
+   },
+   "7502695447103329189": {
+      "message": "Maj &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Copia i enganxa aquest enllaç per compartir $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Selecciona els artistes que t'agradin"
+   },
+   "7529798479468856973": {
+      "message": "fa $NUM$ hores",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7535122927261158198": {
+      "message": "Afegides recentment"
+   },
+   "7536172317066333802": {
+      "message": "Insereix la imatge"
+   },
+   "7546873952682838388": {
+      "message": "Música d'aquest ordinador"
+   },
+   "7559266156388225108": {
+      "message": "Signe de número kaithi"
+   },
+   "756024699361489239": {
+      "message": "Reprodueix aleatòriament"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7570731911896608225": {
+      "message": "Separador de vocals del mongol"
+   },
+   "7572946295452220765": {
+      "message": "Instruccions d'instal·lació"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 reproduccions}=1{1 reproducció}other{{COUNT_2} reproduccions}}"
+   },
+   "7592349062857393820": {
+      "message": "g i després t"
+   },
+   "7596816553523902619": {
+      "message": "Avui"
+   },
+   "7598340248282243111": {
+      "message": "Consulta tota l'activitat recent"
+   },
+   "7599424290971072767": {
+      "message": "Gènere"
+   },
+   "7601688284754148415": {
+      "message": "Matemàtiques"
+   },
+   "7604883230326131491": {
+      "message": "Llista de reproducció $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "La baixada començarà aviat. Si no comença, $START_LINK$fes clic aquí$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7610552438938511934": {
+      "message": "S'ha afegit l'emissora {STATION_TITLE} a la teva música"
+   },
+   "7617664217221228040": {
+      "message": "Balinès"
+   },
+   "7619560701830330401": {
+      "message": "S'està carregant"
+   },
+   "762389150316771008": {
+      "message": "Ràdio Em sento afortunat"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{No has seleccionat cap cançó per baixar a l'equip.}=1{Ja has baixat la cançó seleccionada el nombre màxim de vegades.}other{Ja has baixat les cançons seleccionades el nombre màxim de vegades.}}"
+   },
+   "7631480327394084350": {
+      "message": "Imatges de control"
+   },
+   "7638759029296490900": {
+      "message": "Obre el tauler de llistes de reproducció per veure les teves."
+   },
+   "763998168115480566": {
+      "message": "Ja no pots saltar més cançons. Obtén accés sense connexió i a la carta a milions de cançons."
+   },
+   "7664246845088850317": {
+      "message": "S'ha produït un error en connectar amb el servidor; codi d'error: "
+   },
+   "7669291472367464463": {
+      "message": "Introdueix l'adreça electrònica amb @google.com"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7704516203792990151": {
+      "message": "Temps transcorregut"
+   },
+   "7708364972132250264": {
+      "message": "Couldn't clear cached songs, please try again later."
+   },
+   "7709119284546787990": {
+      "message": "De dreta a esquerra"
+   },
+   "7711713319832787051": {
+      "message": "Aparellat"
+   },
+   "7730109880037106848": {
+      "message": "Símbols"
+   },
+   "7736581252844206600": {
+      "message": "Grec"
+   },
+   "7737642252665507180": {
+      "message": "Entrada hexadecimal"
+   },
+   "7743528314734813641": {
+      "message": "S'ha produït un problema en carregar el mix instantani."
+   },
+   "7756401573104983978": {
+      "message": "Aplicació d'equip"
+   },
+   "7760426006262447033": {
+      "message": "No hi ha prou espai a la cua"
+   },
+   "776736242214904151": {
+      "message": "Torna a reproduir aquesta cançó i milions d'altres, en qualsevol moment"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{Cap cançó}=1{1 cançó}other{# cançons}}"
+   },
+   "7774266771623079214": {
+      "message": "Play Música"
+   },
+   "7776111286341041808": {
+      "message": "D'esquerra a dreta"
+   },
+   "7783345534551124847": {
+      "message": "Cançons"
+   },
+   "779262212811541732": {
+      "message": "Caràcters antics del sud d'Aràbia"
+   },
+   "7800122803571674150": {
+      "message": "Et donem la benvinguda a Google Play Música"
+   },
+   "7801884781403562273": {
+      "message": "Bescanvia"
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7819314041543176992": {
+      "message": "Tanca"
+   },
+   "7832954852370077811": {
+      "message": "Comença a escoltar música o fes clic a la icona $MENU_ICON$ d'un àlbum, una cançó o una llista de reproducció per afegir-los a la cua",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "S'està cancel·lant l'addició de música."
+   },
+   "7846689234809169417": {
+      "message": "Animals, plantes i alimentació"
+   },
+   "7848021326942321162": {
+      "message": "S'ha suprimit l'emissora {STATION_TITLE} de la teva música"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 hores}=1{1 hora}other{# hores}}"
+   },
+   "7878031641910175480": {
+      "message": "Seleccions recents:"
+   },
+   "7886189590148092330": {
+      "message": "Lloc: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7888286842234266048": {
+      "message": "Adjunt/puntejat"
+   },
+   "7898792314887900865": {
+      "message": "Xipriota"
+   },
+   "7927039504440585569": {
+      "message": "Llatí"
+   },
+   "7931527771588976000": {
+      "message": "Fonètica: AFI (alfabet fonètic internacional)"
+   },
+   "7933642402079881815": {
+      "message": "The explicit content filtering settings for this account have changed. Please reload for the changes to take effect."
+   },
+   "7941094066137301803": {
+      "message": "Actualitza a Google+ per començar a compartir contingut amb els teus amics."
+   },
+   "7943877664425892318": {
+      "message": "Obre el tauler de llistes de reproducció"
+   },
+   "7947294997516635657": {
+      "message": "La música està actualitzada"
+   },
+   "7954850519963017242": {
+      "message": "fa $NUM$ dia",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Signe àrab sanah"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 carpetes}=1{1 carpeta}other{# carpetes}}"
+   },
+   "7980428538910137664": {
+      "message": "Gratuïtes i comprades"
+   },
+   "7984622936663451936": {
+      "message": "Teclat i IU"
+   },
+   "7985393396166342590": {
+      "message": "S'està reprenent l'addició de música."
+   },
+   "7988520144814845441": {
+      "message": "Inicia la sessió per continuar"
+   },
+   "7996265599642887416": {
+      "message": "Suprimeix de la música"
+   },
+   "8001758142015238809": {
+      "message": "S'ha produït un error temporal. Es tornarà a provar la càrrega."
+   },
+   "8019982600883750632": {
+      "message": "Justifica"
+   },
+   "8020892463961333112": {
+      "message": "Símbol musical de final de lligadura d'expressió"
+   },
+   "8024675506077392847": {
+      "message": "No s'ha pogut carregar la cançó següent."
+   },
+   "8030037581414873660": {
+      "message": "Radicals de 2 traços han"
+   },
+   "803032414305825807": {
+      "message": "Mida de la lletra"
+   },
+   "803376120920513357": {
+      "message": "fa $NUM$ dies",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "No t'hem pogut subscriure a la llista de reproducció. Torna-ho a provar."
+   },
+   "8045052194324740729": {
+      "message": "No es poden reproduir les cançons de la paperera."
+   },
+   "8058956869215275454": {
+      "message": "Comparteix a Facebook"
+   },
+   "8066747296553908214": {
+      "message": "Guió oblic doble"
+   },
+   "8110367050267853536": {
+      "message": "Més opcions"
+   },
+   "8110717721846730575": {
+      "message": "Activa el so"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Cap cançó no ha superat el límit de baixades.}=1{\"{XXX_1}\" ja s'ha baixat {DOWNLOAD_COUNT_MAX} vegades i no es baixarà.}=2{\"{XXX_1}\" i \"{XXX_2}\" ja s'han baixat {DOWNLOAD_COUNT_MAX} vegades i no es baixaran.}=3{\"{XXX_1}\", \"{XXX_2}\" i \"{XXX_3}\" ja s'han baixat {DOWNLOAD_COUNT_MAX} vegades i no es baixaran.}=4{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i 1 altra cançó seleccionada ja s'han baixat {DOWNLOAD_COUNT_MAX} vegades i no es baixaran.}other{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" i {XXX_4} altres cançons seleccionades més ja s'han baixat {DOWNLOAD_COUNT_MAX} vegades i no es baixaran.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Vull rebre notícies i ofertes de Google Play Música"
+   },
+   "8144474297019493415": {
+      "message": "Afegides recentment"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dia}other{{TEXT} dies}}"
+   },
+   "8159976291123989327": {
+      "message": "Edició de l'enllaç"
+   },
+   "8164274980045228173": {
+      "message": "Format direccional POP"
+   },
+   "8164897103619368290": {
+      "message": "Llista numerada"
+   },
+   "8174689178967388837": {
+      "message": "Cançó núm."
+   },
+   "8191208612330635266": {
+      "message": "Tibetà"
+   },
+   "8192298658946835992": {
+      "message": "Espai de no separació d'amplada zero"
+   },
+   "8193509313274135818": {
+      "message": "Marcador de nota al peu de l'àrab"
+   },
+   "819996403327805209": {
+      "message": "Més informació"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ També pots {START_SPAN_1}baixar cançons directament{END_SPAN}, però només {START_SPAN_2}una vegada per cançó{END_SPAN}.}other{ També pots {START_SPAN_1}baixar cançons directament{END_SPAN}, però només {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} vegades per cançó{END_SPAN}.}}"
+   },
+   "8206726262986846319": {
+      "message": "Afegeix una descripció..."
+   },
+   "8216772648076666728": {
+      "message": "Permet les cançons explícites."
+   },
+   "8221494968176924260": {
+      "message": "La meva llista de reproducció"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ No s'ha pogut afegir 1 cançó.}other{ No s'han pogut afegir {NUM_FAILURES_2} cançons.}}"
+   },
+   "823405029831570152": {
+      "message": "Etiòpic"
+   },
+   "8235345176344531979": {
+      "message": "G i després A"
+   },
+   "8239380670132570074": {
+      "message": "El fitxer temporal no es pot obrir"
+   },
+   "8249329268828083858": {
+      "message": "Guionet doble del katakana-hiragana"
+   },
+   "8257187280628059022": {
+      "message": "S'ha aturat la música en aquest dispositiu perquè sembla que n'escoltes en un altre. $START_LINK$Més informació$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8265500184685762525": {
+      "message": "Entrades"
+   },
+   "8275689791574630480": {
+      "message": "Marca d'espai de l'ogham"
+   },
+   "8277279706638733641": {
+      "message": "Estrelles/Asteriscs"
+   },
+   "828700836558117968": {
+      "message": "Google Play Música"
+   },
+   "8300572760144032022": {
+      "message": "Permet crear una emissora de ràdio nova a partir de la cançó seleccionada"
+   },
+   "8302804816588048941": {
+      "message": "Amb aquesta acció també se suprimiran les llistes de reproducció, els mixos instantanis, les puntuacions i qualsevol informació relacionada amb el nombre de reproduccions."
+   },
+   "8325100368677049569": {
+      "message": "Explorar música nova"
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Vols afegir la cançó duplicada?}other{Vols afegir les cançons duplicades?}}"
+   },
+   "8338465287076872825": {
+      "message": "No es pot llegir música del fitxer"
+   },
+   "8358697777226306085": {
+      "message": "Jeroglífics d'Egipte"
+   },
+   "8363930857329550333": {
+      "message": "Georgià"
+   },
+   "838509699315651621": {
+      "message": "Aquesta cançó ja és a la llista de reproducció"
+   },
+   "8385464685117997940": {
+      "message": "Reproduït recentment"
+   },
+   "8386555666648700714": {
+      "message": "Top cançons"
+   },
+   "8395180429531273524": {
+      "message": "Per què el meu dispositiu no reuneix els requisits necessaris?"
+   },
+   "8396767881870375563": {
+      "message": "Consulta tots els resultats de la cerca d'activitats"
+   },
+   "8405156617531647050": {
+      "message": "Sembla que ja has provat Google Play Música."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Inicia la sessió"
+   },
+   "8412726756889279816": {
+      "message": "Chakma"
+   },
+   "8421838551605999158": {
+      "message": "1. Desa el fitxer musicmanagerinstaller.exe"
+   },
+   "8424326418312855409": {
+      "message": "Hi ha hagut un problema en configurar Google Play Música."
+   },
+   "842631328362018283": {
+      "message": "Gran"
+   },
+   "8437015452970026040": {
+      "message": "Has arribat el límit de la col·lecció. Suprimeix cançons si vols afegir-ne més."
+   },
+   "8439955599488894226": {
+      "message": "Política de privadesa"
+   },
+   "8440128775129354214": {
+      "message": "Privadesa"
+   },
+   "8454237498473122184": {
+      "message": "Signe menys"
+   },
+   "8455196866871985315": {
+      "message": "Consulta tots els top àlbums"
+   },
+   "8455204924704616723": {
+      "message": "Fitxer"
+   },
+   "8458476427655018512": {
+      "message": "Espai"
+   },
+   "8477224362193738096": {
+      "message": "Artista: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8482517151370142670": {
+      "message": "Altres"
+   },
+   "848933194605193751": {
+      "message": "Visualitzacions recents a YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Carià"
+   },
+   "851623407011365974": {
+      "message": "La música es reprendrà aviat"
+   },
+   "8524322739067915993": {
+      "message": "p. m."
+   },
+   "8527029831666633156": {
+      "message": "Inicia la sessió per continuar escoltant música de manera gratuïta"
+   },
+   "8534560073330554352": {
+      "message": "Nombre de reproduccions"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8564202903947049539": {
+      "message": "Reprodueix"
+   },
+   "8574053857298592408": {
+      "message": "Obre el tauler de navegació"
+   },
+   "858254219718239996": {
+      "message": "Drets d'autor &copy; $COPYRIGHT_LIST_JOINED$",
+      "placeholders": {
+         "COPYRIGHT_LIST_JOINED": {
+            "content": "$1"
+         }
+      }
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Mostra ajuda per suprimir Music Manager$END_LINK$ del meu ordinador.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Per poder penjar la música més ràpidament, Google Play cerca coincidències dels teus fitxers de música amb les còpies que en tenim als nostres servidors. De vegades pot passar que la coincidència sigui incorrecta. Informa'ns del problema aquí i es tornaran a penjar les cançons."
+   },
+   "8608281335099046628": {
+      "message": "S'està processant la música..."
+   },
+   "8619410898472620495": {
+      "message": "Accedeix a Google Play Música al web per reprendre la reproducció."
+   },
+   "862440714280873951": {
+      "message": "Conté podcasts"
+   },
+   "8624490471677691415": {
+      "message": "Mostra música per"
+   },
+   "8624618794349836904": {
+      "message": "Se suprimirà l'historial que es fa servir per oferir-te recomanacions personalitzades i crear-te una ràdio individual. Amb aquesta acció no se suprimiran les puntuacions de les pistes individuals ni els recomptes de reproduccions."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{d'aquí a # minuts}=1{d'aquí a # minut}other{d'aquí a # minuts}}"
+   },
+   "8628766851955432422": {
+      "message": "Suprimeix"
+   },
+   "8637643428005590282": {
+      "message": "Marques"
+   },
+   "8639048757911329468": {
+      "message": "Versió NaCl: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "No pots fer cerques mentre escoltes la ràdio"
+   },
+   "865328592283008990": {
+      "message": "Afegeix fins a 50.000 cançons de la teva col·lecció a Google Play de manera gratuïta."
+   },
+   "8674371043496677979": {
+      "message": "De l'àlbum $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Torna-ho a provar"
+   },
+   "8692453200617588996": {
+      "message": "Selecciona els gèneres que t'agradin"
+   },
+   "8700121026680200191": {
+      "message": "Esborra"
+   },
+   "8733921970136713647": {
+      "message": "Cancel·la la subscripció"
+   },
+   "8741366833297918126": {
+      "message": "Durada de la cançó"
+   },
+   "8763647985340267403": {
+      "message": "Peces del joc"
+   },
+   "8764339661945610128": {
+      "message": "Mostra més artistes"
+   },
+   "8768143964455071187": {
+      "message": "Ogham"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanwa"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{fa # hores}=1{fa # hora}other{fa # hores}}"
+   },
+   "8783871424196328846": {
+      "message": "128 kbps, adaptable"
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Experiments"
+   },
+   "8801527171487571079": {
+      "message": "Tai Tham"
+   },
+   "8801801881586334412": {
+      "message": "Top àlbums"
+   },
+   "880592275679936810": {
+      "message": "S'han afegit $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ cançons.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Avui"
+   },
+   "8819361322041128714": {
+      "message": "Ugarític"
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 llistes de reproducció}=1{1 llista de reproducció}other{# llistes de reproducció}}"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Vés amb compte.$POSTB$ Recorda que cada vegada que incloguis una adreça electrònica en una pàgina web, els emissors de contingut brossa també la poden trobar.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$, seleccionat. Fes clic per cancel·lar-ne la selecció.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Signe de nombre de l'àrab"
+   },
+   "8858058202463451164": {
+      "message": "Alinea a l'esquerra"
+   },
+   "8868784738343119594": {
+      "message": "fa $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Més cançons"
+   },
+   "8871219022895015530": {
+      "message": "Afegeix les cançons seleccionades a la cua"
+   },
+   "8890553633144307762": {
+      "message": "Enrere"
+   },
+   "8892247938951013000": {
+      "message": "No s'ha pogut afegir a la llista de reproducció. Torna-ho a provar."
+   },
+   "8892908795692466458": {
+      "message": "Comparteix"
+   },
+   "8896073810838561095": {
+      "message": "Radicals de 8 traços han"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8910998670732377227": {
+      "message": "Torna-ho a provar"
+   },
+   "8920100935192456970": {
+      "message": "Consulta tots els resultats de la cerca de gèneres"
+   },
+   "8928816882866356838": {
+      "message": "Públic"
+   },
+   "8931700495296520714": {
+      "message": "Tanca el minireproductor"
+   },
+   "8934299821763129489": {
+      "message": "Itàlic antic"
+   },
+   "8936704404804793618": {
+      "message": "Vídeos"
+   },
+   "8953033926734869941": {
+      "message": "Nom"
+   },
+   "8958381934236197373": {
+      "message": "Espai de xifra"
+   },
+   "8961985815150856927": {
+      "message": "Creat recentment"
+   },
+   "8967493310012272750": {
+      "message": "Ràdio $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969179774064404960": {
+      "message": "Volum"
+   },
+   "8969573585280830171": {
+      "message": "Quina música vols escoltar?"
+   },
+   "8971282019539581965": {
+      "message": "Tanca el diàleg d'informació"
+   },
+   "8979933913103486540": {
+      "message": "Guió/Connector"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ S'ha baixat 1 cançó.}other{ S'han baixat {NUM_TRANSFERRED_TRACKS_2} cançons.}}"
+   },
+   "8998527640999447691": {
+      "message": "Adjunció"
+   },
+   "9000028459946302905": {
+      "message": "Suprimeix tota la música que he penjat a La meva música ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Guió virtual mongol"
+   },
+   "9001309834415064766": {
+      "message": "Radicals de 10 traços han"
+   },
+   "901225307358856093": {
+      "message": "Guió sil·làbic canadenc"
+   },
+   "902300864627076683": {
+      "message": "Part inscripcional"
+   },
+   "9024489874326845912": {
+      "message": "Àlbum recomanat"
+   },
+   "903557305746845933": {
+      "message": "160 kbps, adaptable"
+   },
+   "9042260521669277115": {
+      "message": "Atura"
+   },
+   "9045338265172338590": {
+      "message": "Meitei Mayek"
+   },
+   "9049377337845973204": {
+      "message": "Reprodueix: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9053704575157030099": {
+      "message": "Cap"
+   },
+   "9059560719840598868": {
+      "message": "Envia suggeriments"
+   },
+   "9063659532473030063": {
+      "message": "Meteorologia i astrologia"
+   },
+   "908288323950111351": {
+      "message": "No es pot afegir a una llista de reproducció de subscripció."
+   },
+   "9084816336314899019": {
+      "message": "Continua"
+   },
+   "9092976405151508175": {
+      "message": "Refés"
+   },
+   "9098679347815545327": {
+      "message": "No s'ha pogut crear la llista de reproducció. Torna-ho a provar."
+   },
+   "9099290682020828903": {
+      "message": "T'has subscrit a la llista de reproducció {PLAYLIST_TITLE}"
+   },
+   "9104232341234454503": {
+      "message": "Música il·limitada"
+   },
+   "9111239821213364249": {
+      "message": "Prova la nostra música il·limitada. Els primers 30 dies són de franc."
+   },
+   "9128859482251917046": {
+      "message": "Obre o tanca la cua"
+   },
+   "9136743822509821032": {
+      "message": "Reprodueix $PLAYLIST_TITLE$",
+      "placeholders": {
+         "PLAYLIST_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9138683078793837147": {
+      "message": "Desfés No m'agrada"
+   },
+   "9143597363285105250": {
+      "message": "Artista de l'àlbum"
+   },
+   "9173411042808904308": {
+      "message": "Normal/serif"
+   },
+   "9179661003472285430": {
+      "message": "Baixa Music Manager"
+   },
+   "9184426509557869402": {
+      "message": "Espai ideogràfic"
+   },
+   "9193901371937110673": {
+      "message": "No hi ha cap dispositiu autoritzat."
+   },
+   "9197433560254928186": {
+      "message": "Àrab"
+   },
+   "9205544184671349450": {
+      "message": "Sembla que ja tens música en aquest ordinador."
+   },
+   "9209549883741368825": {
+      "message": "Subscriu-te a Google Play Música i escolta aquest àlbum i milions d'altres cançons. El primer mes és de franc."
+   },
+   "9214517335069385090": {
+      "message": "O bé, si ho prefereixes..."
+   },
+   "9218938714985695055": {
+      "message": "Símbol musical d'inici de lligadura d'expressió"
+   },
+   "933914956414602837": {
+      "message": "Per penjar la teva música ràpidament, Google Play t'ofereix l'equivalent dels teus fitxers de música mitjançant còpies del nostre servidor. De tant en tant, pot ser que t'oferim una cançó incorrecta. Informa del problema aquí i la cançó es corregirà perquè es faci servir la teva còpia en lloc de la còpia coincident."
+   },
+   "935985887697278449": {
+      "message": "Ja ets subscriptor"
+   },
+   "947591000172763449": {
+      "message": "Phags Pa"
+   },
+   "949327761578931377": {
+      "message": "Continua gaudint del servei per $OFFER_PRICE$ al mes.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Mostra-ho tot"
+   },
+   "95869773684474447": {
+      "message": "Error de reproducció"
+   },
+   "963232722931839477": {
+      "message": "La cua és buida"
+   },
+   "964983733596985457": {
+      "message": "Compatibilitat"
+   },
+   "97224266342934568": {
+      "message": "Superíndex"
+   },
+   "993762601773196496": {
+      "message": "Emet"
+   },
+   "997742287268027221": {
+      "message": "No s'ha pogut penjar el fitxer"
+   },
+   "997890303689941626": {
+      "message": "Consulta tots els resultats de la cerca de vídeos"
+   }
+}

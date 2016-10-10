@@ -1,0 +1,1553 @@
+{
+   "24hourMode": {
+      "message": "תצוגת זמן של 24 שעות "
+   },
+   "24hourModeTitle": {
+      "message": "הצג זמן בפורמט של 24 שעות, לדוגמה: 18:00"
+   },
+   "DND": {
+      "message": "DND"
+   },
+   "EOM": {
+      "message": "EOM"
+   },
+   "EOMToolTip": {
+      "message": "סוף ההודעה"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "NAME_says": {
+      "message": "$1 אומר/ת"
+   },
+   "XNewEmails": {
+      "message": "$1 דוא\"ל חדש"
+   },
+   "Xattachments": {
+      "message": "$1 קבצים מצורפים"
+   },
+   "Xday": {
+      "message": "יום"
+   },
+   "Xdays": {
+      "message": "$1 ימים"
+   },
+   "Xhour": {
+      "message": "שעה"
+   },
+   "Xhours": {
+      "message": "$1 שעות"
+   },
+   "Xline": {
+      "message": "שורה $1"
+   },
+   "Xlines": {
+      "message": "$1 שורות"
+   },
+   "Xminute": {
+      "message": "דקה $1"
+   },
+   "Xminutes": {
+      "message": "$1 דקות"
+   },
+   "Xseconds": {
+      "message": "$1 שניות"
+   },
+   "aboutMe": {
+      "message": "על אודות המפתח"
+   },
+   "account": {
+      "message": "חשבון"
+   },
+   "accounts": {
+      "message": "חשבונות"
+   },
+   "accountsAndLabels": {
+      "message": "חשבונות / תוויות"
+   },
+   "actionButtons": {
+      "message": "כפתורי פעולה עבור פופ-אפ עליון"
+   },
+   "addAccount": {
+      "message": "הוספת חשבון"
+   },
+   "addAccountsStaySignedIn": {
+      "message": "הוסף חשבונות והישאר מחובר"
+   },
+   "addEmailAlias": {
+      "message": "הוסף כינויים לכתובות הדוא\"ל שלך"
+   },
+   "addEmailAliasToolTip": {
+      "message": "הוסף כינוי בחלון הפופ-אפ של ההרחבה כמו \u003Cb>החשבון של ג'ייסון\u003C/b> במקום longboringemail@gmail.com"
+   },
+   "addSkinsOrThemes": {
+      "message": "הוסף סקינים (מעטפות) או ערכות נושא"
+   },
+   "addSpeechEngines": {
+      "message": "הוסף מנוע דיבור"
+   },
+   "addToGoogleCalendar": {
+      "message": "הוסף ליומן גוגל"
+   },
+   "added": {
+      "message": "נוספו"
+   },
+   "alias": {
+      "message": "כינוי"
+   },
+   "all": {
+      "message": "כל"
+   },
+   "allMail": {
+      "message": "כל הדוא\"ל"
+   },
+   "alreadyDonated": {
+      "message": "כבר תרמת?"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "תרום חד פעמית ופתח גם את התכונות הנוספות של ההרחבה $1 שלי"
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "Checker Plus עבור Google Calendar"
+   },
+   "alsoTryMy": {
+      "message": "נסה גם את"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "הצג תמיד תמונות חיצוניות"
+   },
+   "amount": {
+      "message": "כמות"
+   },
+   "archiveLink": {
+      "message": "העבר לארכיון"
+   },
+   "archiveLinkTitle": {
+      "message": "העבר דוא\"ל לארכיון"
+   },
+   "archive_read": {
+      "message": "העברה לארכיון תסמן את הדוא\"ל כנקרא"
+   },
+   "archive_readToolTip": {
+      "message": "מסמן הודעה כהודעה שנקראה בעת העברתה לארכיון"
+   },
+   "autoAdjust": {
+      "message": "התאם אוטומטית"
+   },
+   "autoAdjustAndImages": {
+      "message": "התאם אוטומטית + תמונות"
+   },
+   "autoAdvanceTo": {
+      "message": "מעבר אוטומטי לשיחה"
+   },
+   "autoDetectAccounts": {
+      "message": "יישום זה יזהה אוטומטית את החשבונות אליהם אתה מחובר."
+   },
+   "autoDetectAccountsStaySignedIn": {
+      "message": "זהה אוטומטית חשבונות מחוברים"
+   },
+   "available": {
+      "message": "זמינים"
+   },
+   "back": {
+      "message": "חזור"
+   },
+   "backToInbox": {
+      "message": "בחזרה ל-Inbox"
+   },
+   "backgroundColor": {
+      "message": "צבע רקע"
+   },
+   "blue": {
+      "message": "כחול"
+   },
+   "brightness": {
+      "message": "בהירות"
+   },
+   "button": {
+      "message": "כפתור"
+   },
+   "buttonClickAction": {
+      "message": "פעולה בעת לחיצה על הכפתור"
+   },
+   "by": {
+      "message": "על-ידי"
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "changeButtonClickActionToOpenGmail": {
+      "message": "תחת \"פעולה בעת לחיצה על הכפתור\" בחר ב-\"פתח את Gmail\""
+   },
+   "changeLabels": {
+      "message": "שנה תוויות"
+   },
+   "changeSummary": {
+      "message": "שנה את תבנית הסיכום"
+   },
+   "changeTheme": {
+      "message": "שנה ערכות נושא"
+   },
+   "changeThisDomain2": {
+      "message": "צא והיכנס כמשתמש אחר"
+   },
+   "changelog": {
+      "message": "רשימת שינויים (Changelog)"
+   },
+   "checkInboxByGmail": {
+      "message": "'פתח את Inbox by Gmail במקום Gmail'"
+   },
+   "checkPrimaryOrMore": {
+      "message": "סמן את תיבת הסימון של הכרטיסייה \"ראשי\" ו/או תוויות נוספות"
+   },
+   "checkerPlusPopupWindow": {
+      "message": "פופ-אפ ההרחבה Checker Plus"
+   },
+   "chime": {
+      "message": "פעמוני רוח"
+   },
+   "chooseEndColor": {
+      "message": "בחר את צבע הסיום"
+   },
+   "chooseNoUnreadEmail": {
+      "message": "בחר סמל עבור מצב \"אין דואר שלא נקרא\""
+   },
+   "choosePaymentMethod": {
+      "message": "בחר שיטת תשלום"
+   },
+   "chooseSignedOutIcon": {
+      "message": "בחר סמל עבור מצב \"לא מחובר\""
+   },
+   "chooseStartColor": {
+      "message": "בחר את צבע ההתחלה"
+   },
+   "chooseUnreadEmail": {
+      "message": "בחר סמל עבור מצב \"יש דואר שלא נקרא\""
+   },
+   "chromePlaced2ButtonLimit": {
+      "message": "Chrome מציב מגבלה של עד 2 אפשרויות בהתראה!"
+   },
+   "clickForMoreInfo": {
+      "message": "לחץ לפרטים נוספים"
+   },
+   "clickToPreviewEmail": {
+      "message": "לחץ בכדי לצפות בתצוגה מקדימה של הדוא\"ל"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": " ללחיצה במקום כלשהו על ההתראה"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "בעת לחיצה על לוגו ההרחבה"
+   },
+   "close": {
+      "message": "סגור"
+   },
+   "closeAfterX": {
+      "message": "סגור לאחר"
+   },
+   "closeAfterX_andThen": {
+      "message": "ולאחר מכן"
+   },
+   "closesPopupWindow": {
+      "message": "סגירת פופ-אפ ההרחבה"
+   },
+   "colorMessage": {
+      "message": "תרומה נדרשת כדי לשמור את הצבעים האלה!"
+   },
+   "colorSubject": {
+      "message": "דואר אלקטרוני לדוגמה במטרה לשחק עם הצבעים"
+   },
+   "colors": {
+      "message": "צבעים"
+   },
+   "comfortable": {
+      "message": "נוח"
+   },
+   "commaSeparatedEmails": {
+      "message": "כלומר: מופרדים באמצעות פסיקים."
+   },
+   "compact": {
+      "message": "קומפקטי"
+   },
+   "compose": {
+      "message": "כתוב"
+   },
+   "composeLinkTitle": {
+      "message": "כתוב דוא\"ל חדש"
+   },
+   "contacts": {
+      "message": "אנשי קשר"
+   },
+   "contactsHome": {
+      "message": "H"
+   },
+   "contactsMessage": {
+      "message": "העבר את העכבר מעל התמונות בכדי לבצע זום-אין"
+   },
+   "contactsMobile": {
+      "message": "M"
+   },
+   "contactsOther": {
+      "message": "O"
+   },
+   "contactsWork": {
+      "message": "W"
+   },
+   "continue": {
+      "message": "המשך"
+   },
+   "continueToOptions": {
+      "message": "המשך לאפשרויות"
+   },
+   "continueWithoutFeatures": {
+      "message": "המשך להשתמש בהרחבה זו עם תכונות רבות אך ללא תכונות נוספות אלו."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "המשך ללא אפשרויות נוספות."
+   },
+   "contrast": {
+      "message": "ניגודיות"
+   },
+   "contribute": {
+      "message": "תרומה"
+   },
+   "contributeToContinue": {
+      "message": "בצע תרומה"
+   },
+   "conversationList": {
+      "message": "רשימת השיחות"
+   },
+   "conversationView": {
+      "message": "צפייה כשיחה"
+   },
+   "conversationViewToolTip": {
+      "message": "קובע האם הודעות דוא\"ל באותו נושא מקובצות יחד"
+   },
+   "copyEmailAddress": {
+      "message": "העתק כתובת דוא\"ל"
+   },
+   "cozy": {
+      "message": "ידידותי"
+   },
+   "custom": {
+      "message": "מותאם אישית"
+   },
+   "customButtonsToolTip": {
+      "message": "הגדר צבע משלך"
+   },
+   "customToThisExtension": {
+      "message": "מותאם אישית להרחבה זו"
+   },
+   "dark": {
+      "message": "כהה"
+   },
+   "darkToolTip": {
+      "message": "ניגודיות כהה"
+   },
+   "dayAgo": {
+      "message": "לפני יום"
+   },
+   "daysAgo": {
+      "message": "לפני $1 ימים"
+   },
+   "default": {
+      "message": "ברירת מחדל"
+   },
+   "delete": {
+      "message": "מחק"
+   },
+   "deleteLink": {
+      "message": "מחק"
+   },
+   "deleteLinkTitle": {
+      "message": "מחק דוא\"ל"
+   },
+   "deletingMarksAsRead": {
+      "message": "מחיקה תסמן את הדוא\"ל כנקרא"
+   },
+   "deletingMarksAsReadToolTip": {
+      "message": "מסמן דוא\"ל כנקרא כשאתה מוחק אותו דרך ההרחבה"
+   },
+   "developingMore": {
+      "message": "ואני עובד קשה על הצעות נוספות שלכם..."
+   },
+   "differentSounds": {
+      "message": "צלילים עבור חשבונות דואר אלקטרוני שונים, תוויות או אנשים"
+   },
+   "differentSoundsToolTip": {
+      "message": "ביכולתך לבחור צליל עבור כל חשבונות דוא\"ל שלך, אבל אפשרות זו נותנת לך לבחור צליל שונה עבור כל חשבון, תווית או שולח ממנו אתה מקבל הודעות דוא\"ל."
+   },
+   "ding": {
+      "message": "דינג"
+   },
+   "dir": {
+      "message": "rtl"
+   },
+   "disableAll": {
+      "message": "בטל הכל"
+   },
+   "discoverMyApps": {
+      "message": "גלה את האפליקציות של המפתח"
+   },
+   "display": {
+      "message": "תצוגה"
+   },
+   "displayDensity": {
+      "message": "צפיפות תצוגה"
+   },
+   "displayImagesBelow": {
+      "message": "הצג תמונות מתחת"
+   },
+   "displaySenders_1": {
+      "message": "הצג את הפרטים הבאים של השולח"
+   },
+   "dndInFullscreenMode": {
+      "message": "נא לא להפריע במצב מסך מלא"
+   },
+   "doNotDisturb": {
+      "message": "נא לא להפריע (DND)"
+   },
+   "doNotDisturbForTodayToolTip": {
+      "message": "נא לא להפריע עד מחר בשעה 7 בבוקר"
+   },
+   "doNotDisturbIndefinitelyToolTip": {
+      "message": "הפעל את מצב \"נא לא להפריע\" עד לכיבוי ידני"
+   },
+   "doNotDisturbToolTip": {
+      "message": "ביטול צלילים, קול והתראות  על שולחן העבודה מהרחבה זו"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "אל תודיע לי על עדכונים"
+   },
+   "doNotShowNotificationIfGmailTabActive": {
+      "message": "אל תציג התראה אם אני נמצא בלשונית החשבון שלי ב-Gmail"
+   },
+   "doNotShowNotificationIfGmailTabActiveToolTip": {
+      "message": "שימושי אם אתה \"חי\" בלשונית ה-Gmail שלך :) וככל הנראה שאתה רואה את הדוא\"ל שלך באותו הזמן שבה אתה מקבל את ההתראה מההרחבה."
+   },
+   "doTheSameThing": {
+      "message": "עשה את אותו הדבר"
+   },
+   "donate": {
+      "message": "תרומה"
+   },
+   "donationRequired": {
+      "message": "נדרשת תרומה"
+   },
+   "done": {
+      "message": "בוצע"
+   },
+   "dropshadow": {
+      "message": "צל"
+   },
+   "duplicateLabelWarning": {
+      "message": "בחר רק 1 מהתוויות ה\u003Cb>ראשיות\u003C/b> (דואר נכנס, ראשי, חשוב, כל הדואר) או שיתקבל התראות כפולות!"
+   },
+   "email": {
+      "message": "דוא\"ל:"
+   },
+   "emailAccounts": {
+      "message": "חשבונות דואר אלקטרוני"
+   },
+   "emailFrom_NAME": {
+      "message": "דוא\"ל מ-$1"
+   },
+   "emailPreview": {
+      "message": "תצוגה מקדימה של הדוא\"ל"
+   },
+   "emailPreviewToolTip": {
+      "message": "אם אפשרות זו \u003Cb>מסומנת\u003C/b>, לחיצה בכל מקום על הודעת הדוא\"ל בחלון הפופ-אפ של ההרחבה (כלומר: התקציר), תפתח אזור תצוגה מקדימה גדול יותר. \u003Cbr>אם \u003Cb>לא מסומנת\u003C/b>, לחיצה בכל מקום על הודעת הדוא\"ל בחלון הפופ-אפ של ההרחבה תפתח את ההודעה בתוך דף האינטרנט של Gmail."
+   },
+   "emailSummary": {
+      "message": "סיכום דוא\"ל"
+   },
+   "emailSummaryToolTip": {
+      "message": "מקטע קטן של טקסט מתחת לכל דוא\"ל אשר מציג את השורות הראשונות שלו בפופ-אפ"
+   },
+   "email_from": {
+      "message": "שולח"
+   },
+   "email_message": {
+      "message": "הודעה"
+   },
+   "email_subject": {
+      "message": "נושא"
+   },
+   "enable": {
+      "message": "הפעל"
+   },
+   "enableLanguageDetection": {
+      "message": "אתר את השפה המופיעה בדוא\"ל"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "מדבר בשפה שמזוהה בדוא\"ל באמצעות שירות detectlanguage.com!"
+   },
+   "enableVoiceInputToolTip": {
+      "message": "מוסיף אפשרות של זיהוי קול (מיקרופון) בתחתית תיבת כתיבת דוא\"ל חדש או תגובה חדשה בעמוד ה-Gmail שלך"
+   },
+   "enter": {
+      "message": "Enter"
+   },
+   "enterAnAmount": {
+      "message": "עליך להזין סכום!"
+   },
+   "esc": {
+      "message": "Esc"
+   },
+   "example": {
+      "message": "דוגמה"
+   },
+   "exceptionsToChooseFrom": {
+      "message": "חריגים לבחירה"
+   },
+   "extensionUpdated": {
+      "message": "ההרחבה עודכנה!"
+   },
+   "extensionUpdates": {
+      "message": "עדכוני הרחבה"
+   },
+   "extraFeatures": {
+      "message": "תכונות נוספות"
+   },
+   "extraFeaturesClicked": {
+      "message": "ניסית להשתמש באחת האפשרויות הנוספות..."
+   },
+   "failureWithPayPalPurchase": {
+      "message": "העסקה בוטלה או שאירעה שגיאה. נסו 1$ במקום?"
+   },
+   "feedback": {
+      "message": "משוב"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "הגדר זאת לערך גבוה יותר אם יש לך אני קשר רבים או אינטרנט איטי."
+   },
+   "firstAndLastName": {
+      "message": "שם פרטי ושם משפחה"
+   },
+   "firstNameOnly": {
+      "message": "שם פרטי בלבד"
+   },
+   "followMe": {
+      "message": "עקבו אחר המפתח"
+   },
+   "forever": {
+      "message": "לנצח"
+   },
+   "forums": {
+      "message": "פורומים"
+   },
+   "from": {
+      "message": "מ"
+   },
+   "fullLinkTitle": {
+      "message": "הצג הודעה במלואה"
+   },
+   "general": {
+      "message": "כללי"
+   },
+   "grantAccess": {
+      "message": "הענק גישה"
+   },
+   "grantAccessAgain": {
+      "message": "הענק גישה שוב או לחשבון אחר"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "שימושי רק אם יש לך חשבונות מרובים מחוברים וברצונך להעניק הרשאה לכל אחד מהם על התמונות"
+   },
+   "grantedTo": {
+      "message": "הוענק ל"
+   },
+   "grayscale": {
+      "message": "גווני אפור"
+   },
+   "green": {
+      "message": "ירוק"
+   },
+   "greenToolTip": {
+      "message": "ערכת נושא המחזור שלי!"
+   },
+   "groupByLabels": {
+      "message": "קבץ דוא\"ל לפי תוויות"
+   },
+   "groupByLabelsToolTip": {
+      "message": "קבץ ומיין דוא\"ל שלא נקרא על-ידי התוויות שבחרת לנטר. אפשרות זו תוסיף כותרת עליונה קטנה עם התוויות מעל הדוא\"ל בפופ-אפ ההרחבה, כמו \"דואר נכנס\" וכדומה."
+   },
+   "guideForInboxByGmail": {
+      "message": "מדריך עבור משתמשי ה-Inbox by Gmail"
+   },
+   "guideForPrimaryCategory": {
+      "message": "מדריך לכרטיסייה ראשי"
+   },
+   "hearEmail": {
+      "message": "שמע את הדוא\"ל"
+   },
+   "hearEmailMessage": {
+      "message": "שמע את תוכן הודעת הדוא\"ל"
+   },
+   "hearEmailSubject": {
+      "message": "שמע את נושא הדוא\"ל"
+   },
+   "hearEmailToolTip": {
+      "message": "בחר אילו חלקים של הדוא\"ל ברצונך לשמוע... שם השולח, הנושא ו/או גוף ההודעה"
+   },
+   "height": {
+      "message": "גובה"
+   },
+   "help": {
+      "message": "עזרה"
+   },
+   "hideByJason": {
+      "message": "הסתר \"על-ידי ג'ייסון סייורד'\""
+   },
+   "hideByJasonToolTip": {
+      "message": "מסתיר את \u003Ci>על-ידי ג'ייסון סווארד\u003C/i> בפופ-אפ"
+   },
+   "hideMarkAsReadEmails": {
+      "message": "הסתר הודעות דוא\"ל שסומנו על-ידך כ-'סמן כנקרא'"
+   },
+   "hideMyName": {
+      "message": "הסתר את השם שלי 'על-ידי ג'ייסון סווארד'"
+   },
+   "hideReadEmails": {
+      "message": "הסתר דוא\"ל שנקרא"
+   },
+   "hideSentFrom": {
+      "message": "הסתר חתימות דוא\"ל מהסיכום כמו \"נשלח מהמכשיר שלי.\""
+   },
+   "hideSentFromToolTip": {
+      "message": "סמן אפשרות זו כדי להסתיר את חתימות הדואר האלקטרוני שנשלחו ממכשירים כמו 'נשלח מהאייפון או בלקברי שלי' וכדומה."
+   },
+   "hideUnreadCount": {
+      "message": "הסתר את מונה הדוא\"ל שלא נקרא"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "מסתיר את מספר הודעות הדו\"אל שלא נקראו מסמל ההרחבה בדפדפן"
+   },
+   "hourAgo": {
+      "message": "לפני שעה"
+   },
+   "hours": {
+      "message": "שעות"
+   },
+   "hoursAgo": {
+      "message": "לפני $1 שעות"
+   },
+   "icon": {
+      "message": "סמל"
+   },
+   "identifyEmailAccountsWithColors": {
+      "message": "בחר צבעים עבור חשבונות דוא\"ל שונים"
+   },
+   "ifNoUnreadMail": {
+      "message": "אם אין דואר אלקטרוני שלא נקרא"
+   },
+   "ignoreTheseAccounts": {
+      "message": "התעלם מחשבונות אלה"
+   },
+   "ignoreThisAccount": {
+      "message": "התעלם מחשבון זה"
+   },
+   "ignored": {
+      "message": ""
+   },
+   "imagesAreNotDisplayed": {
+      "message": "תמונות לא מוצגות."
+   },
+   "important": {
+      "message": "חשוב"
+   },
+   "importantMail": {
+      "message": "דוא\"ל חשוב"
+   },
+   "inbox": {
+      "message": "תיבת הדואר הנכנס"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "indefinitely": {
+      "message": "לזמן בלתי מוגבל"
+   },
+   "invert": {
+      "message": "היפוך"
+   },
+   "keyboardShortcuts": {
+      "message": "קיצורי מקשים"
+   },
+   "keys": {
+      "message": "מקשים"
+   },
+   "label": {
+      "message": "תווית"
+   },
+   "labels": {
+      "message": "תוויות"
+   },
+   "language": {
+      "message": "שפה"
+   },
+   "languageName": {
+      "message": "עברית"
+   },
+   "languageToolTip": {
+      "message": "משנה את שפת התצוגה וההתראות. הערה: ייתכן כי יופיעו מספר שפות בשל העובדה שהשפה טרם תורגמה במלואה ולכן ההרחבה תבצע חיפוש אוטומטי בשפת הדפדפן שלך, וכשלא תימצא תוצאה מתאימה התוכן יופיע בשפה האנגלית."
+   },
+   "licenseOnlyValidFor": {
+      "message": "הרישיון יהיה תקף עבור משתמשים שיתחברו לחשבון הגוגל שלהם עם"
+   },
+   "listenToYourEmail": {
+      "message": "הקשב לדוא\"ל שלך"
+   },
+   "loading": {
+      "message": "טוען..."
+   },
+   "loadingSettings": {
+      "message": "הגדרות טעינה"
+   },
+   "mailtoLinks": {
+      "message": "פתח קישורי \"mailto\" עם Gmail"
+   },
+   "mailtoLinksToolTip": {
+      "message": "לחיצה על קישורי \"mailto\" (בדרך כלל קישורי דואר אלקטרוני) ייפתחו ב-Gmail במקום בקליינט הדואר הרגיל שלך. הרשאות נוספות נדרשות לניתוח קישורים אלה באתרים בהם אתה מבקר."
+   },
+   "makeButtonOpenGmail": {
+      "message": "גרום לכפתור ההרחבה לפתוח את Gmail"
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "הפוך זאת לתרומה חודשית"
+   },
+   "man": {
+      "message": "גבר"
+   },
+   "markAllAsRead": {
+      "message": "סמן הכל כדואר שנקרא"
+   },
+   "markAllAsReadTitle": {
+      "message": "סמן הכל כדואר שנקרא"
+   },
+   "markAsReadInNotificationWindow": {
+      "message": "סמן דואר כנקרא בחלון ההתראה"
+   },
+   "maxEmailsToShowPerAccount": {
+      "message": "מספר מקסימלי של מיילים לתצוגה עבור כל חשבון"
+   },
+   "me": {
+      "message": "אני"
+   },
+   "meetMe": {
+      "message": "פגוש אותי"
+   },
+   "meetMeTitle": {
+      "message": "צפו בי בסרטון וידאו!"
+   },
+   "message": {
+      "message": "הודעה"
+   },
+   "mini": {
+      "message": "מיני"
+   },
+   "minimumAmount": {
+      "message": "יש לתרום לפחות $1"
+   },
+   "minutesAgo": {
+      "message": "לפני $1 דקות"
+   },
+   "monitor": {
+      "message": "ניטור"
+   },
+   "monitorThisLabel": {
+      "message": "מנטר תוויות אלו"
+   },
+   "monitorThisLabelToolTip": {
+      "message": "קובע לאילו תוויות תנטר ההרחבה דוא\"ל חדש"
+   },
+   "monthsArray": {
+      "message": "'דצמ',נוב',אוק',ספט',אוג',יולי,יוני,מאי,אפר',מרץ,פבר',ינו"
+   },
+   "more": {
+      "message": "עוד"
+   },
+   "moreInfo": {
+      "message": "מידע נוסף"
+   },
+   "morning": {
+      "message": "בוקר"
+   },
+   "moveLabel": {
+      "message": "העבר אל"
+   },
+   "multipleSelectionMac": {
+      "message": "החזק את לחצן הפקודה כדי לבחור באפשרויות מרובות"
+   },
+   "multipleSelectionWindows": {
+      "message": "החזק את כפתור הקונטרול (ctrl) כדי לבחור באפשרויות מרובות."
+   },
+   "multipleUserLicense": {
+      "message": "קבל רישיון רב משתמשים עבור הארגון שלך"
+   },
+   "mustSignInToPay": {
+      "message": "אתה חייב להיכנס ל-Gmail שלך ולחכות לטעינת ההרחבה!"
+   },
+   "muteVoice": {
+      "message": "השתק"
+   },
+   "muteVoiceForToday": {
+      "message": "השתק להיום"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "משתיק עד מחר בשעה 7 בבוקר"
+   },
+   "muteVoiceForXh": {
+      "message": "השתק עבור $1 שעות"
+   },
+   "muteVoiceForXm": {
+      "message": "השתק עבור $1 דקות"
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "לוח הזמנים של מצב \"נא לא להפריע\""
+   },
+   "muteVoiceWhileSleepingToolTip": {
+      "message": "עבור אלו שמשאירים את המחשב והקול שלהם דולקים בלילה... ניתן לסמן אפשרות זו בכדי להשתיק את צליל ההתראה, התראות קוליות והתראות על שולחן העבודה בין השעות הנבחרות."
+   },
+   "native": {
+      "message": "פשוט"
+   },
+   "never": {
+      "message": "מעולם לא"
+   },
+   "newEmail": {
+      "message": "דואר אלקטרוני חדש"
+   },
+   "newFeature": {
+      "message": "אפשרות חדשה!"
+   },
+   "newer": {
+      "message": "חדשה יותר"
+   },
+   "next": {
+      "message": "הבא"
+   },
+   "nickname": {
+      "message": "כינוי"
+   },
+   "night": {
+      "message": "לילה"
+   },
+   "noUnreadText": {
+      "message": "אין דוא\"ל חדש"
+   },
+   "noUpdateNotifications": {
+      "message": "ללא התראת עדכונים"
+   },
+   "notSignedIn": {
+      "message": "לא מחובר"
+   },
+   "notWorking": {
+      "message": "לא עובד?"
+   },
+   "notification": {
+      "message": "התראה"
+   },
+   "notificationButton1": {
+      "message": "אפשרות התראה #1"
+   },
+   "notificationButton2": {
+      "message": "אפשרות התראה #2"
+   },
+   "notificationSound": {
+      "message": "צליל ההתראות"
+   },
+   "notificationTextToSpeech": {
+      "message": "התראות קוליות"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "סמן לפחות הודעת דוא\"ל אחת כדואר שלא נקרא, לחץ כאן והמתן בכדי לראות את חלון ההתראה!"
+   },
+   "notifications": {
+      "message": "התראות"
+   },
+   "ok": {
+      "message": "אוקיי"
+   },
+   "older": {
+      "message": "ישנה יותר"
+   },
+   "oneUnreadText": {
+      "message": "דוא\"ל שלא נקרא"
+   },
+   "open": {
+      "message": "פתח"
+   },
+   "openComposeInTab": {
+      "message": "כתוב דוא\"ל חדש בלשונית"
+   },
+   "openComposeReplyAction": {
+      "message": "כפתורי \"כתוב\" ו\"השב\""
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "נפתחים בפופ-אפ חיצוני"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "נפתחים בלשונית"
+   },
+   "openEmailDisplayedInNotificationWindow": {
+      "message": "פתח דוא\"ל מוצג בחלון ההתראה"
+   },
+   "openGmailPopupWIndowToolTip": {
+      "message": "- תיבת הדואר הנכנס של Gmail עם ממשק מלא בתוך פופ-אפ ההרחבה\u003Cbr>- צפייה בכל התוויות\u003Cbr>- \u003Cb>לא\u003C/b> להתאים אישית\u003Cbr> -\u003Cb>לא\u003C/b> מומלץ עבור משתמשים מרובים\u003Cbr>\u003Cbr>\u003Ci>נסה את קישור ה-'מידע נוסף' למעלה\u003C/i>"
+   },
+   "openGmailPopupWindow": {
+      "message": "פתח את הדואר הנכנס בתוך פופ-אפ ההרחבה"
+   },
+   "openGmailTab": {
+      "message": "פתח את Gmail"
+   },
+   "openGmailTabToolTip": {
+      "message": "משבית את פופ-אפ ההרחבה (לא מומלץ) ופותח את Gmail ו/או בוחר את חשבון ה-Gmail הראשון עם דוא\"ל שלא נקרא"
+   },
+   "openHelp": {
+      "message": "פתח את עמוד העזרה"
+   },
+   "openInNewTab": {
+      "message": "פתח בלשונית חדשה"
+   },
+   "openInPopup": {
+      "message": "פתח בפופ-אפ ההרחבה"
+   },
+   "openLabel": {
+      "message": "פתח תווית"
+   },
+   "openLinkTitle": {
+      "message": "Gmail-פתח ב"
+   },
+   "openLinksToInboxByGmailWarning": {
+      "message": "האפשרות נמצאת בבטא.\u003Cbr>\u003Cbr>השתמש באפשרות זו \u003Cb>רק\u003C/b> אם הפעלת את חשבון ה-Inbox by Gmail שלך. בכדי לקרוא פרטים נוספים יש ללחוץ על \"מידע נוסף\" בתחתית חלון זה."
+   },
+   "openPopupPreview": {
+      "message": "פתח את Checker Plus בתוך הלשונית"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "צפה ובצע פעולה במהירות עבור דוא\"ל שלא נקרא \u003Cb>רק\u003C/b> מכל תווית שאתה החלטת להציג\u003Cbr>- מגוון אפשרויות להתאמה אישית\u003Cbr>- אופטימלי עבור מספר רב של חשבונות\u003Cbr>\u003Cbr>\u003Ci>נסה את קישור ה-'מידע נוסף' למעלה\u003C/i>"
+   },
+   "openReply": {
+      "message": "פתח (השב)"
+   },
+   "openThisLabel": {
+      "message": "פתח את תווית זו"
+   },
+   "openThisLabelToolTip": {
+      "message": "קובע להיכן המשתמש ינותב בעת לחיצה על סמל החשבון או ההרחבה"
+   },
+   "option": {
+      "message": "אפשרות"
+   },
+   "options": {
+      "message": "אפשרויות"
+   },
+   "or": {
+      "message": "או"
+   },
+   "original": {
+      "message": "מקורי"
+   },
+   "otherAmount": {
+      "message": "סכום אחר"
+   },
+   "paragraph": {
+      "message": "פסקה"
+   },
+   "password": {
+      "message": "סיסמה:"
+   },
+   "pitch": {
+      "message": "גובה הצליל"
+   },
+   "pollNow": {
+      "message": "עדכן כעת"
+   },
+   "pollingInterval": {
+      "message": "מרווח זמן לבדיקת דוא\"ל"
+   },
+   "pollingIntervalTooltip": {
+      "message": "מרווח הזמן שבו בודק הודעות דוא\"ל חדשות"
+   },
+   "popout": {
+      "message": "פופ-אפ ההרחבה בלשונית"
+   },
+   "popupText": {
+      "message": "!קיבלת דוא\"ל חדש"
+   },
+   "popupWindowZoom": {
+      "message": "זום פופ-אפ ההרחבה"
+   },
+   "popupWindowZoomToolTip": {
+      "message": "משנה את הזום הכללי של פופ-אפ ההרחבה (לא את התצוגה המקדימה של הדוא\"ל או ההתראה)"
+   },
+   "positionFromLeft": {
+      "message": "מיקום משמאל"
+   },
+   "positionFromTop": {
+      "message": "מיקום מלמעלה"
+   },
+   "preview": {
+      "message": "תצוגה מקדימה"
+   },
+   "previewingMarksAsRead": {
+      "message": "תצוגה מקדימה תסמן את הדוא\"ל כנקרא"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "מסמן דוא\"ל כדואר שנקרא בעת תצוגה מקדימה של הפופ-אפ דרך ההרחבה"
+   },
+   "previous": {
+      "message": "הקודם"
+   },
+   "primary": {
+      "message": "ראשי"
+   },
+   "primarySocialPromotionsEtc": {
+      "message": "כרטיסיות\"ראשי\", \"חברתי\", \"קידומי מכירות\" וכדומה."
+   },
+   "priorityInbox": {
+      "message": "עדיפות תיבת הדואר הנכנס"
+   },
+   "promotions": {
+      "message": "קידומי מכירות"
+   },
+   "purchases": {
+      "message": "רכישות"
+   },
+   "quickComposeEmail": {
+      "message": "קיצור לאיש קשר"
+   },
+   "rate": {
+      "message": "מהירות הצליל"
+   },
+   "rateTitle": {
+      "message": "מספר מילים בדקה (מהירות הדיבור)"
+   },
+   "read": {
+      "message": "קרא"
+   },
+   "readLink": {
+      "message": "סמן כדואר שנקרא"
+   },
+   "readLinkTitle": {
+      "message": "סמן כדואר שנקרא"
+   },
+   "readLinkTitleShort": {
+      "message": ""
+   },
+   "recommended": {
+      "message": "מומלץ"
+   },
+   "reducedDonationAd_notification": {
+      "message": "[לחץ לסגירה] חדשות טובות משתמש וותיק! תוספות הן בעבור $1 בלבד"
+   },
+   "reducedDonationAd_popup": {
+      "message": "חדשות טובות משתמש וותיק!\u003Cbr>קבל את עסקת ה-$1 עבור 50&cent; בלבד."
+   },
+   "referToAlreadyDonated": {
+      "message": "פונה ל-$1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "כבר תרמת"
+   },
+   "refresh": {
+      "message": "רענן"
+   },
+   "refreshLinkTitle": {
+      "message": "רענן את כל תיבות הדואר"
+   },
+   "rememeberReadEmails": {
+      "message": "זכור דוא\"ל שנקרא (ניסיוני)"
+   },
+   "rememeberReadEmailsToolTip": {
+      "message": "אפשרות להציג הודעות דואר אלקטרוני שלא נקראו ולקרוא אותן, אבל היא ניסיונית - אז נא לא לדרג את ההרחבה על תכונה זו עד שתצא מגרסת הבטא"
+   },
+   "removeAccount": {
+      "message": "הסרת חשבון"
+   },
+   "removeAccountIcon": {
+      "message": "הסר את סמל המשתמש"
+   },
+   "removeFromSystemTray": {
+      "message": "הסר מאזור ההודעות (מגש המערכת)"
+   },
+   "removeShareLinks": {
+      "message": "הסתר קישורי שיתוף"
+   },
+   "removeShareLinksTooltip": {
+      "message": "מסיר קישורי פייסבוק, טוויטר וכדומה."
+   },
+   "reply": {
+      "message": "השב"
+   },
+   "replyInPopup": {
+      "message": "השב בפופ-אפ"
+   },
+   "replyLinkTitle": {
+      "message": "השב לדוא\"ל"
+   },
+   "replyToAll": {
+      "message": "השב לכולם"
+   },
+   "replyingMarksAsRead": {
+      "message": "השב מסמן כנקרא"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "מסמן דוא\"ל כנקרא בעת לחיצה על \"השב\" דרך ההרחבה"
+   },
+   "revertAutoSizing": {
+      "message": "החזר את אפשרות הגודל האוטומטי"
+   },
+   "richNotification": {
+      "message": "התראה עשירת תוכן"
+   },
+   "richNotificationToolTip": {
+      "message": "פופ-אפ שמאפשר לבצע פעולות, אבל אחד שנעלם בכוחות עצמו לאחר מספר שניות אם לא תתבצע פעולה כלשהי. חשוב על התראות אלו כמו התראות בטלפון החכם: הן מספק מידע רלוונטי, בזמן אמת - אבל ניתן לבחור להתעלם מכל פעולה נוספת עד לרגע שתחליט לעשות דבר מה בנדון."
+   },
+   "runInBackground": {
+      "message": "הרץ ברקע כש-Google Chrome סגור"
+   },
+   "runInBackgroundToolTip": {
+      "message": "המשך לקבל הודעות דואר אלקטרוני חדשות גם כאשר הדפדפן סגור! אפשרות זו מומלצת עבור משתמשים מתקדמים בלבד."
+   },
+   "runInBackgroundWarning1": {
+      "message": "אנא קרא בקפידה על אודות $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "אפליקציות רקע"
+   },
+   "runInBackgroundWarning2": {
+      "message": "אם אתה מבטל את אפליקציות הרקע ב-Chrome, תוכל להפעיל אותן מחדש על-ידי קריאת $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "ניהול דפי רקע ואפליקציות רקע"
+   },
+   "runInBackgroundWarning3": {
+      "message": "ייתכן שיהיה עליך להשתמש באפשרות $1 מדף ההתחברות ב-Gmail"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "הישאר רשום"
+   },
+   "saturation": {
+      "message": "רוויה (סטורציה)"
+   },
+   "saving": {
+      "message": "שומר..."
+   },
+   "schedule": {
+      "message": "לוח זמנים"
+   },
+   "search": {
+      "message": "חיפוש"
+   },
+   "seeUpdates": {
+      "message": "צפה בשינויים"
+   },
+   "seeVideo": {
+      "message": "ראה וידאו"
+   },
+   "selectEmailAccount": {
+      "message": "בחר חשבון דואר אלקטרוני"
+   },
+   "selectQuickActionButtons": {
+      "message": "הצג או הסתר את כפתורי הפעולות"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "הערה: אפשרות זו לא תסתיר את הכפתורים בתצוגת הדוא\"ל המלאה!"
+   },
+   "send": {
+      "message": "שלח"
+   },
+   "sendPageLinkTitle": {
+      "message": "שלח דו\"אל עם קישור לעמוד זה"
+   },
+   "sending": {
+      "message": "שולח"
+   },
+   "sent": {
+      "message": "נשלח"
+   },
+   "sepia": {
+      "message": "ספיה"
+   },
+   "setAccountIcon": {
+      "message": "הגדר את סמל המשתמש"
+   },
+   "setPositionAndSize": {
+      "message": "הגדרת המיקום והגודל של הפופ-אפ החיצוני של ההרחבה"
+   },
+   "setPositionAndSizeToolTip": {
+      "message": "עוקף את ברירת המחדל של המערכת לגבי פופ-אפ חיצוניים, כמו: \"כתוב\" או \"השב\", ומגדיר את מיקום והגודל של החלון בפיקסלים."
+   },
+   "severalUnreadText": {
+      "message": "דוא\"ל שלא נקרא"
+   },
+   "share": {
+      "message": "שתף"
+   },
+   "shareIntro": {
+      "message": "נסו את ההרחבה המדהימה הזו ל-Google Chrome"
+   },
+   "shareTitle": {
+      "message": "הערה: הודעה זו תיעלם לאחר לחיצה כאן."
+   },
+   "shortcutKeysHeader": {
+      "message": "מקשים אלה חלים \u003Cb>רק\u003C/b> על הפופ-אפ העליון שנפתח על-ידי לחיצה על כפתור ההרחבה"
+   },
+   "showActionButtonsOnHover": {
+      "message": "הצג כפתורי פעולה רק בעת ריחוף העכבר מעל חלון ההתראה"
+   },
+   "showActionButtonsOnHoverToolTip": {
+      "message": "אני ממליץ להשאיר את אפשרות זו מסומנת, אבל, אם יש לך Mac, ייתכן שתרצה לבטל את הסימון בכדי שכפתורי הפעולה השונים יופיעו תמיד, כי לפעמים הריחוף עובד כאשר חלון ה-Chrome לא בפוקוס"
+   },
+   "showAllEmails": {
+      "message": "הצג את כל הדוא\"ל"
+   },
+   "showCheckerPlusButtonsOnlyOnHover": {
+      "message": "הצג לחצנים בעת מעבר עכבר בלבד"
+   },
+   "showCheckerPlusButtonsOnlyOnHoverToolTip": {
+      "message": "לא מומלץ בעת שימוש במכשיר עם מסך מגע ללא שימוש בעכבר"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "מיועד לטיפול בבאגים בלבד ועשוי להאט מעט את ההרחבה!"
+   },
+   "showContactPhoto": {
+      "message": "הצג תמונות אנשי קשר ופרטים בתוך פופ-אפ"
+   },
+   "showContactPhotoToolTip": {
+      "message": "אם לאיש הקשר שלך יש תמונה היא תוצג. באפשרותך גם להוסיף תמונות משלכם עבורם ברשימת אנשי הקשר שלך ב-Google Contacts, או פשוט להעביר את העכבר מעל התמונה הריקה שלהם ב-Gmail בכדי להוסיף תמונה. אם לא נמצאת תמונה, לוגו ברירת המחדל יופיע במקומה. הרשאות נוספות בכדי לקרוא את התמונות של אנשי הקשר שלך."
+   },
+   "showContactPhotos": {
+      "message": "הצג תמונות אנשי קשר"
+   },
+   "showContextMenuItem": {
+      "message": "הצג אפשרות לשלוח דו\"אל עם קישור לעמוד זה בעת הלחיצה על הלחצן הימני בעכבר"
+   },
+   "showDesktopNotifications": {
+      "message": "התראות על שולחן העבודה"
+   },
+   "showDetails": {
+      "message": "הצג פרטים"
+   },
+   "showEOM": {
+      "message": "הוספת סמן כדי לציין את סוף הסיכום של הדוא\"ל [EOM]"
+   },
+   "showEOMToolTip": {
+      "message": "EOM - End Of Message: שימושי כאשר מתקבל דוא\"ל רב, מהיר ובעל משקל קטן בכדי להימנע מהצורך ללחוץ על התקציר כדי לראות אם יש תוכן נוסף בתצוגה המקדימה."
+   },
+   "showHideEmailPreview": {
+      "message": "הצג/הסתר תצוגה מקדימה של דוא\"ל"
+   },
+   "showIconAnimation": {
+      "message": "הצג הנפשה של הסמל"
+   },
+   "showIconAnimationToolTip": {
+      "message": "מנפיש את הסמל כאשר יש דואר חדש"
+   },
+   "showLabelsTitle": {
+      "message": "הצג תוויות"
+   },
+   "showLeftColumnWhenPreviewingEmail": {
+      "message": "הצג את העמודה בצד שמאל בחלון ההרחבה בעת תצוגה מקדימה של דואר אלקטרוני"
+   },
+   "showLeftColumnWhenPreviewingEmailToolTip": {
+      "message": "הערה: ייתכן כי עמודה זו תהיה מוסתרת באופן אוטומטי אם הדוא\"ל רחב מדי וזקוק למרחב גדול יותר"
+   },
+   "showMarkAsReadEmails": {
+      "message": "המשך להציג דוא\"ל שסומנו על-ידך כ-'סמן כנקרא'"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "הצג תצוגה מקדימה של התמונה הראשונה בתוך הדוא\"ל"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "הצג התראות עבור דוא\"ל ישן יותר (שימושי עבור חשבונות POP3 בלבד)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "אם אפשרות זו \u003Cb>לא מסומנת\u003C/b>, פופ-אפ ההתראות יופיעו עבור הדוא\"ל החדש ביותר שלך (מומלץ לרוב), אבל לפעמים דוא\"ל שנשלח באמצעות POP3 יגיע לתיבת הדואר הנכנס לאחר הדוא\"ל החודש ביותר שלך ויופיעו באמצע הדואר הנכנס משום שנשלחו בזמן ישן יותר. אם \u003Cb>תסמן\u003C/b> אפשרות זו, דוא\"ל זה יופיע גם כן בפופ-אפ ההתראות שלך, אבל עד ל-20 הודעות דוא\"ל שלא נקרא בלבד בדואר הנכנס שלך. הערה: אם אתה מסמן דוא\"ל כלא נקרא, גם הוא יופיע בפופ-אפ ההתראות בשנית."
+   },
+   "showOptionsButton": {
+      "message": "הצג כפתור אפשרויות"
+   },
+   "showSendAndArchiveButton": {
+      "message": "הצג את כפתור \"שלח והעבר לארכיון\""
+   },
+   "showSendAndDeleteButton": {
+      "message": "הצג את כפתור \"שלח ומחק\""
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "הצג התראות עבור כל העדכונים ותיקוני באגים שונים"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "הצג התראות עבור עדכונים חשובים בלבד"
+   },
+   "signIn": {
+      "message": "התחבר"
+   },
+   "signInAsUserOfOrg": {
+      "message": "אתה חייב $1 עם הדוא\"ל של הארגון שלך"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "צא והיכנס עם ה-Gmail שלך"
+   },
+   "signInToYourAccount": {
+      "message": "תחילה היכנס אל החשבון(ות) שלך ולאחר מכן טען מחדש דף זה!"
+   },
+   "skin": {
+      "message": "סקין (מעטפת)"
+   },
+   "skins": {
+      "message": "סקינים (מעטפות)"
+   },
+   "social": {
+      "message": "חברתי"
+   },
+   "sound": {
+      "message": "צליל"
+   },
+   "spamLink": {
+      "message": "דווח על ספאם"
+   },
+   "spamLinkTitle": {
+      "message": "סמן כדואר זבל"
+   },
+   "speechEngine": {
+      "message": "מנוע דיבור"
+   },
+   "spokenWordsLimit": {
+      "message": "הגבלת המילים שנאמרות"
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "ניתן לעצור את הדיבור בכל עת על-ידי לחיצה על הכפתור או מעבר עם העכבר מעל חלון ההודעה. הערה: חלק ממנגנוני הדיבור עלולים להטיל מגבלות משלהם."
+   },
+   "standard": {
+      "message": "סטנדרטי"
+   },
+   "starAndArchive": {
+      "message": "סמן את הדוא\"ל בכוכב והעבר לארכיון"
+   },
+   "starLinkTitle": {
+      "message": "סמן דוא\"ל בכוכב"
+   },
+   "starringAppliesInboxLabel": {
+      "message": "סימון דוא\"ל בכוכב מחיל עליו גם את תווית \"דואר נכנס\""
+   },
+   "stayInTray": {
+      "message": "השאר באזור ההודעות (מגש המערכת)"
+   },
+   "subject": {
+      "message": "נושא"
+   },
+   "summary": {
+      "message": "סיכום"
+   },
+   "summaryLinkTitle": {
+      "message": "הצג סיכום"
+   },
+   "switchToCheckerPlus": {
+      "message": "החלף ל-Checker Plus"
+   },
+   "switchToInbox": {
+      "message": "החלף ל-Inbox"
+   },
+   "switchToInboxToolTip": {
+      "message": "לחץ על הלחצן הימני בעכבר למידע נוסף..."
+   },
+   "syncDND": {
+      "message": "סנכרן את הגדרות מצב \"נא לא להפריע\" עבר כל ההרחבות של המפתח"
+   },
+   "syncSignInOrder": {
+      "message": "סנכרן את סדר ההתחברות למשתמשים"
+   },
+   "syncSignInOrderToolTip": {
+      "message": "סדר התחברות המשתמשים לעמוד ה-Gmail בדפדפן עשוי להיות שונה מהסדר בו מוצגים החשבונות בתוסף, מה שיוביל לפעמים לכך שפתיחת קישורים דרך ההרחבה ייפתחו במשתמש הלא נכון. השתמש באפשרות זו לסנכרן מחדש את המשתמשים."
+   },
+   "tab": {
+      "message": "לשונית"
+   },
+   "tabToolTip": {
+      "message": "הוספת לשוניות בחלון הפופ-אפ של ההרחבה"
+   },
+   "testIt": {
+      "message": "בדוק את זה!"
+   },
+   "testOutPopupWindow": {
+      "message": "בדוק את אפשרות החלון הקופץ (פופ-אפ)!"
+   },
+   "textNotification": {
+      "message": "התראת טקסט"
+   },
+   "textNotificationToolTip": {
+      "message": "מתריע לך על הדואר האלקטרוני האחרון שלא נקרא."
+   },
+   "thankYouForYourContribution": {
+      "message": "התכונות כעת פתוחות לשימושך, תודה רבה לך על התרומה."
+   },
+   "thankYouForYourContribution2": {
+      "message": "סגרו את החלון הזה ותיהנו!"
+   },
+   "theme": {
+      "message": "ערכת נושא"
+   },
+   "to": {
+      "message": "ל"
+   },
+   "today": {
+      "message": "היום"
+   },
+   "toggleNotificationCheckboxes": {
+      "message": "סמן את תיבת הסימון תחת \"התראה\" בהתאם"
+   },
+   "tomorrow": {
+      "message": "מחר"
+   },
+   "tooManyUnread": {
+      "message": "מצטער, ניתן לסמן $1 או פחות הודעות דוא\"ל בו-זמנית. אנא השתמש באתר האינטרנט של Gmail במקום זאת."
+   },
+   "transparent": {
+      "message": "שקוף"
+   },
+   "tryCheckerPlusWindowFirst": {
+      "message": "נסה את פופ-אפ ההרחבה של התוסף למספר ימים, הוא בעל אפשרויות מרובות יותר :)"
+   },
+   "turnOff": {
+      "message": "כבה"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "בל בדיקת Gmail רגילה ובדוק חשבונות Google Apps בלבד"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "אפשרות זו תתעלם מחשבונות ה-@gmail.com שלך!"
+   },
+   "uncheckInboxLabel": {
+      "message": "בטל את הסימון בתיבת הסימון של תווית \"דואר נכנס\""
+   },
+   "undo": {
+      "message": "בטל"
+   },
+   "unknownSender": {
+      "message": "שולח לא ידוע"
+   },
+   "unlockFeatures": {
+      "message": "קבל את התכונות הללו כמו גם תכונות עתידיות נוספות עבור תרומה חד-פעמית של כל סכום והן יהיו זמינות עבורך באופן מיידי!"
+   },
+   "unlockHeader": {
+      "message": "קבל את התכונות הנוספות ותמוך במפתח"
+   },
+   "unmuteVoice": {
+      "message": "ביטול השתקה"
+   },
+   "unreadLink": {
+      "message": "לא נקרא"
+   },
+   "unreadLinkTitle": {
+      "message": "סמן כדואר שלא שנקרא"
+   },
+   "unreadLinkTitleShort": {
+      "message": "לא נקרא"
+   },
+   "unreadMail": {
+      "message": "דוא\"ל שלא נקרא"
+   },
+   "update": {
+      "message": "עדכן"
+   },
+   "updates": {
+      "message": "עדכונים"
+   },
+   "useBasicHTMLView": {
+      "message": "השתמש בתצוגת HTML בסיסית"
+   },
+   "useInboxByGmail": {
+      "message": "השתמש ב-Inbox by Gmail"
+   },
+   "useTheseColors": {
+      "message": "השתמש בצבעים אלה"
+   },
+   "useTheseColorsToolTip": {
+      "message": "שחק עם הצבעים השונים או הגדר את שני הצבעים לצבע זהה בכדי להשתמש בצבע אחד. נסה להתאים את ערכת הנושא של החשבון שלך או ללוגו החברה שלך. לאחר מכן, סמן את התיבה מתחת בכדי להפעיל את הצבעים החדשים. הדבר ישפיע על חלון הפופ-אפ של ההרחבה."
+   },
+   "voice": {
+      "message": "קול"
+   },
+   "voiceInput": {
+      "message": "קלט קולי"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "רק אם אתה לא ליד המחשב לפחות"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "השתמש באפשרות זו אם ברצונך לשמוע את הקול רק כשאינך משתמש במחשב או לא נמצא לידו וכדומה. המלצה שלי :)"
+   },
+   "voiceTest": {
+      "message": "הודעה לניסיון"
+   },
+   "volume": {
+      "message": "עוצמת שמע"
+   },
+   "voythasToolTip": {
+      "message": "הסמלים נוצרו על-ידי VoYtHAs"
+   },
+   "welcomeMessage": {
+      "message": "ברוכים הבאים, \u003Cbr>\u003Cbr>אני מזמין אותך ליהנות מהרחבה זו כעת או לקחת את הזמן שלך בכדי לחקור את האפשרויות הרבות שמציעה. \u003Cbr> \u003Cbr>אם נתקלת בבעיות, ניתן לפנות אליי באמצעות קישורי העזרה \u003Cu>לפני\u003C/u> כתיבת ביקורת \u003Cbr>אולי בעצם אוכל לעזור :)"
+   },
+   "wholeEmail": {
+      "message": "כל הדוא\"ל"
+   },
+   "whyContribute": {
+      "message": "מדוע כדאי לי לתרום?"
+   },
+   "whyContributeReason1": {
+      "message": "אני משקיע שעות רבות בעדכון ותמיכה $1 כל שבוע כתגובה להצעות שלכם"
+   },
+   "whyContributeReason1_1": {
+      "message": "כל ההרחבות שלי"
+   },
+   "whyContributeReason2": {
+      "message": "אני קורא ומספק מענה מהיר לתגובות, הסיקורים והביקורות שלכם"
+   },
+   "whyContributeReason3": {
+      "message": ". אתם יכולים לתרום כל סכום, אעריך זאת מאוד!"
+   },
+   "whyContributeReason4": {
+      "message": "הרחבה זו ממשיכה לקבל $1 מעולה, תודות לך!"
+   },
+   "whyContributeReason4_1": {
+      "message": "ביקורות"
+   },
+   "whyContributeReason5": {
+      "message": "מצאו מידע נוסף אודותיי ב-$1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "הפוך להיות משתמש גוגל פורה יותר - עבורך או העסק שלך."
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "הרבה יותר זול מאשר $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "מיקרוסופט אאוטלוק"
+   },
+   "width": {
+      "message": "רוחב"
+   },
+   "woman": {
+      "message": "אישה"
+   },
+   "yellow": {
+      "message": "צהוב"
+   },
+   "yesterday": {
+      "message": "אתמול"
+   },
+   "youMustChooseTheCheckerPlusPopupWindow": {
+      "message": "אתה חייב לעבור אל פופ-אפ ההרחבה של \u003Ci>Checker Plus\u003C/i> בכדי לראות אפשרויות אלה."
+   },
+   "zoom": {
+      "message": "זום"
+   }
+}

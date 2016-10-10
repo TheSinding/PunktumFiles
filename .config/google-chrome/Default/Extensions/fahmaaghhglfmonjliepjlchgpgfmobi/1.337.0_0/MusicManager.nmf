@@ -1,0 +1,273 @@
+{
+  "files": {
+    "libm.so.9b15f6a6": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libm.so.9b15f6a6"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libm.so.9b15f6a6"
+      }
+    },
+    "libmpg123.so.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libmpg123.so.0"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libmpg123.so.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libmpg123.so.0"
+      }
+    },
+    "libz.so.1": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libz.so.1"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libz.so.1"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libz.so.1"
+      }
+    },
+    "libgcc_s.so.1": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libgcc_s.so.1"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libgcc_s.so.1"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libgcc_s.so.1"
+      }
+    },
+    "liblame.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/liblame.so"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/liblame.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/liblame.so"
+      }
+    },
+    "libnacl_io.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libnacl_io.so"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libnacl_io.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libnacl_io.so"
+      }
+    },
+    "main.nexe": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/MusicManager_x86_64.nexe"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/MusicManager_arm.nexe"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/MusicManager_x86_32.nexe"
+      }
+    },
+    "libstdc++.so.6": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libstdc++.so.6"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libstdc++.so.6"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libstdc++.so.6"
+      }
+    },
+    "libcrypto.so.1.0.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libcrypto.so.1.0.0"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libcrypto.so.1.0.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libcrypto.so.1.0.0"
+      }
+    },
+    "libvorbis.so.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libvorbis.so.0"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libvorbis.so.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libvorbis.so.0"
+      }
+    },
+    "libminidump_generator.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libminidump_generator.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libminidump_generator.so"
+      }
+    },
+    "libc.so": {
+      "arm": {
+        "url": "_platform_specific/arm/libc.so"
+      }
+    },
+    "libpthread.so.9b15f6a6": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libpthread.so.9b15f6a6"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libpthread.so.9b15f6a6"
+      }
+    },
+    "libdl.so": {
+      "arm": {
+        "url": "_platform_specific/arm/libdl.so"
+      }
+    },
+    "libc.so.9b15f6a6": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libc.so.9b15f6a6"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libc.so.9b15f6a6"
+      }
+    },
+    "librt.so.9b15f6a6": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/librt.so.9b15f6a6"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/librt.so.9b15f6a6"
+      }
+    },
+    "libnacl_exception.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libnacl_exception.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libnacl_exception.so"
+      }
+    },
+    "libm.so": {
+      "arm": {
+        "url": "_platform_specific/arm/libm.so"
+      }
+    },
+    "libid3lib.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libid3lib.so"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libid3lib.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libid3lib.so"
+      }
+    },
+    "libFLAC.so.8": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libFLAC.so.8"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libFLAC.so.8"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libFLAC.so.8"
+      }
+    },
+    "libcurl.so.4": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libcurl.so.4"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libcurl.so.4"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libcurl.so.4"
+      }
+    },
+    "libogg.so.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libogg.so.0"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libogg.so.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libogg.so.0"
+      }
+    },
+    "libvorbisfile.so.3": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libvorbisfile.so.3"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libvorbisfile.so.3"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libvorbisfile.so.3"
+      }
+    },
+    "libppapi_cpp.so": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libppapi_cpp.so"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libppapi_cpp.so"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libppapi_cpp.so"
+      }
+    },
+    "libssl.so.1.0.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libssl.so.1.0.0"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libssl.so.1.0.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libssl.so.1.0.0"
+      }
+    },
+    "libdl.so.9b15f6a6": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libdl.so.9b15f6a6"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libdl.so.9b15f6a6"
+      }
+    },
+    "libfdk-aac.so.0": {
+      "x86-64": {
+        "url": "_platform_specific/x86-64/libfdk-aac.so.0"
+      },
+      "arm": {
+        "url": "_platform_specific/arm/libfdk-aac.so.0"
+      },
+      "x86-32": {
+        "url": "_platform_specific/x86-32/libfdk-aac.so.0"
+      }
+    }
+  },
+  "program": {
+    "x86-64": {
+      "url": "_platform_specific/x86-64/runnable-ld.so"
+    },
+    "arm": {
+      "url": "_platform_specific/arm/runnable-ld.so"
+    },
+    "x86-32": {
+      "url": "_platform_specific/x86-32/runnable-ld.so"
+    }
+  }
+}

@@ -1,0 +1,881 @@
+body{
+	font-family: 'Roboto', "Helvetica Neue", Helvetica, sans-serif;
+	margin: 0px;
+}
+	body.crx-popup,
+	body.crx-iframe{
+		width: 100%;
+	}
+	.vertical-align-helper{
+	    display: inline-block;
+	    height: 100%;
+	    vertical-align: middle;
+	}
+	.transition{
+		-moz-transition: all 0.2s;
+		-o-transition: all 0.2s;
+		-webkit-transition: all 0.2s;
+		transition: all 0.2s;
+	}
+	.phone-bg-wrapper {
+	    position: fixed;
+	    top: 0px;
+	    left: 0px;
+	    bottom: 0px;
+	    right: 0px;
+	    background-image: url("../img/s7_blk.png");
+	    background-size: auto 100%;
+	    background-repeat: no-repeat;
+	    background-position: center top;
+	}
+	.phone-tab-main-container{
+		position: relative;
+	    top: 40px;
+	    width: 272px;
+		height: 502px;
+		margin: 0px auto;
+		background-color: #333;
+	}
+	.notif-container-header{
+		
+	}
+		.pro-badge{
+			position: absolute;
+		    top: -8px;
+		    width: 28px;
+		    height: auto;
+		    right: -10px;
+			-webkit-transform:rotate(5deg);
+			-moz-transform:rotate(5deg);
+			-ms-transform:rotate(5deg);
+			-o-transform:rotate(5deg);
+			transform:rotate(5deg);
+		}
+		.notif-container-title{
+			font-size: 16px;
+			color: #333;
+			padding: 8px;
+		}
+			body.crx-popout .view-popout{
+				display: none;
+			}
+			.view-popout{
+				opacity: 0.6;
+				position: absolute;
+				right: 10px;
+				top: 10px;
+				z-index: 9999;
+			}
+				.view-popout:hover{
+					cursor: pointer;
+					opacity: 1;
+				}
+				.view-popout > img{
+					height: 18px;
+				}
+	.notif-main-container{
+		position: relative;
+	}
+	
+	.notif-list{
+		height: calc(100% - 94px);
+		height: -webkit-calc(100% - 94px);
+		height: -moz-calc(100% - 94px);
+		height: -o-calc(100% - 94px);
+		overflow-y: auto;
+		overflow-x: hidden;
+		background-color: #333;
+		border-bottom: 1px solid #ccc;
+	}
+	    .notif-list::-webkit-scrollbar {
+            background-color: transparent;
+        }                    
+        .notif-list::-webkit-scrollbar:vertical {
+            width: 4px;
+        }
+        .notif-list::-webkit-scrollbar-thumb {
+            border-radius: 2px;
+            background-color: rgba(255,255,255, .5);
+        }
+
+		.phone-notif {
+			box-sizing:border-box;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-o-box-sizing: border-box;
+			width: 264px;
+			position: relative;
+		    display: block;
+			padding: 12px;
+		    padding-right: 0px;
+		    padding-left: 8px;
+		    background-color: #fff;
+		    margin: 3px 2px;
+		    border-radius: 2px;
+		}
+			.phone-notif.dismissed{
+				display: none;
+			}
+			.phone-notif:first-of-type{
+/* 				margin-top: 0px; */
+			}
+			.phone-notif:last-of-type{
+				margin-bottom: 7px;
+			}
+			.phone-notif-wrapper{
+				-webkit-box-sizing: border-box;
+				-moz-box-sizing: border-box;
+				box-sizing: border-box;
+				display: inline-block;
+				vertical-align: middle;
+			}
+			#left-content{
+/*
+				width:48px;
+				height:48px;
+*/
+				width:36px;
+				height: 36px;
+				vertical-align: top;
+			}
+/*
+				.expanded #left-content{
+					vertical-align: top;
+				}
+*/
+	/*
+			#left-content,
+			#right-content{
+			}
+	*/
+				.phone-notif-app-icon-wrapper{
+					
+				}
+					.phone-notif-app-icon{
+						height: 100%;
+						width: auto;
+					}
+			#main-content{
+				position: relative;
+				color: #808080;
+				padding: 0px 10px;
+				padding-right: 6px;
+				min-height: 36px;
+				width: calc(100% - 36px);
+				width: -webkit-calc(100% - 36px);
+				width: -moz-calc(100% - 36px);
+				width: -o-calc(100% - 36px);
+			}		
+				.phone-notif-header{
+					position: relative;
+				}
+					.phone-notif-title {
+						color: #000;
+						width: calc(100% - 40px);
+						width: -webkit-calc(100% - 40px);
+						width: -moz-calc(100% - 40px);
+						width: -o-calc(100% - 40px);
+					    font-size: 12px;
+					    overflow: hidden;
+					    text-overflow: ellipsis;
+					    white-space: nowrap;
+					}
+					.notif_ts_post {
+						position: absolute;
+						bottom: 0px;
+						right: 0px;
+					}
+					.phone-notif-number,
+					.notif_ts_post{
+						font-size: 10px;
+					}
+					
+			.phone-notif-content,
+			.expanded-phone-notif-content,
+			.phone-notif-footer,
+			.expanded-phone-notif-footer{
+				font-size: 11px;
+			}
+				.phone-notif-content,
+				.expanded-phone-notif-content {
+					min-height: 16px;
+					word-wrap: break-word;
+					max-height: 140px;
+				}
+					.phone-notif-content{
+					    text-overflow: ellipsis;
+					    white-space: nowrap !important;
+					    overflow: hidden;
+				        max-width: calc(100% - 36px);
+				        max-width: -webkit-calc(100% - 36px);
+						max-width: -moz-calc(100% - 36px);
+						max-width: -o-calc(100% - 36px);
+					}
+					.expanded-phone-notif-content{
+						display: none;
+					}
+						.expanded .expanded-phone-notif-content+.phone-notif-content{
+/* 						.expanded .phone-notif-content{ */
+							display: none !important;/* need to make sure that the regular "summary content" of summary notifs are hidden */
+						}
+						.expanded .phone-notif-content,/* because of the rule above, the phone notif content will only be shown if there is an ellipsis*/
+						.expanded .expanded-phone-notif-content{
+							display: block;
+						    text-overflow: initial;
+						    white-space: normal !important;
+						    overflow: visible;
+						}
+						.expanded-content-line{
+							max-width: 100%;
+							overflow: hidden;
+							text-overflow: ellipsis;
+							white-space: nowrap;
+							padding-right: 4px;
+						}
+							.expanded-phone-notif-footer{
+								display:none;
+							    border-top: 1px solid #ccc;
+							    margin-top: 8px;
+							    padding-top: 8px;
+							}
+								.expanded .expanded-phone-notif-footer{
+									display: block;
+								}
+								.expanded-phone-notif-footer > .phone-notif-number{
+									float: right;
+									position: static;
+								}
+				.expanded .phone-notif-footer{
+					display: none;
+				}
+				.phone-notif-number{
+					position:absolute;
+					bottom: 4px;
+					right: 6px;
+					text-align: right;
+				}
+					.phone-notif.expandable .phone-notif-number{
+						bottom: 14px;
+					}
+				.expanded > #main-content > .phone-notif-footer > .phone-notif-number {
+					display: none;
+				}
+			.explanation-graphic-container{
+				height:100%;
+				background-color: #fff;
+			}
+				.mt-content-divider{
+					height: 8px;
+				}
+				.explanation-graphic-img-wrapper, 
+				.explanation-graphic-msg-wrapper {
+				    padding: 15px;
+				}
+				.explanation-graphic-img-wrapper{
+					background-color: #3eb8d2;
+					padding-right: 5px;
+					padding-left: 5px;
+				}
+					.explanation-graphic-img-wrapper > img{
+						width: 100%;
+						height: auto;
+					}
+				.explanation-graphic-msg-wrapper{
+
+				}
+					.explanation-graphic-msg-title {
+					    font-size: 16px;
+					    margin-bottom: 10px;
+					}
+					.explanation-graphic-msg-content {
+					    color: #9E9E9E;
+					}
+				.explanation-graphic-warning {
+				    background-color: #FFDBDB;
+				    color: #D20000;
+				    border: 1px solid #F29999;
+				    margin-top: 25px;
+				    padding: 7px;
+				    margin-right: -7px;
+				    margin-left: -7px;
+				}
+					.explanation-graphic-warning a{
+					    color: #B70202;
+					    text-decoration: underline;								
+					}
+						.explanation-graphic-warning a:hover{
+							cursor: pointer;
+							color: #920101;							
+						}
+			#right-content{
+				width:64px;
+				text-align: right;
+			}
+			.expand-content-btn{
+			    position: relative;
+				bottom: -3px;
+				width: 12px;
+				padding-right: 1px;/* seeing icon cut off in font awesome */
+			}	
+				.expanded .expand-content-btn{
+				}		
+				.expanded .expanded-content~.expand-content-btn {
+				}
+				.expand-content-btn.hidden{
+					display: none;
+				}
+			.dismiss-btn{
+				position: absolute;
+				top: 4px;
+				right: 4px;	
+			}
+				.dismiss-btn > i{
+					font-size: 10px;					
+				}
+			.notif-action{
+				color: #777;
+			}
+				.notif-action:hover{
+					cursor: pointer;
+					color: #333;					
+				}
+		.loading-spinner-wrapper {
+			display: none;
+		    position: absolute;
+		    top: 50%;
+		    left: 50%;
+		    margin-top: -12px;
+		    margin-left: -12px;
+		}
+			.loading-spinner{
+				color: #ccc;
+			}
+				#loading-icon{
+					height:24px;
+					width: auto;
+				}
+		.pending-overlay{
+			position: absolute;
+			top: 0px;
+			left: 0px;
+			bottom: 0px;
+			right: 0px;
+			background-color: rgba(255,255,255,0.85);
+		}
+			.pending-overlay.error{
+				background-color: rgba(230,60,60,0.8);
+			}
+			.single-dismiss-error{
+				font-size: 11px;
+			    color: #fff;
+			    height:100%;
+/* 			    padding: 10px; */
+			    padding: 4px;
+			}
+				.single-dismiss-error-content{
+					display: inline-block;
+					vertical-align: middle;
+					text-align: left;
+				}
+					.retry-dismiss{
+						text-decoration: underline;
+						color: #fff;
+					}
+						.retry-dismiss:hover{
+							cursor: pointer;
+							color: #fff;
+						}
+			.get-all-transaction-waiting-text{
+			    position: absolute;
+			    top: 50%;
+			    width: 100%;
+			    text-align: center;
+			    margin-top: -46px;
+			}
+		.num-notifs-suppressed {
+		    color: #808080;
+		    padding: 10px 0px;
+		    text-align: center;
+		    font-size: 13px;
+		}
+			.num-notifs-suppressed:hover{
+/*
+				color: #000;
+				cursor: pointer;
+*/
+			}
+			#suppressed-notif-exp{
+				
+			}
+				#suppressed-notif-exp:hover{
+					cursor: pointer;
+					color: #333;
+				}
+		.empty-notif-list{
+			font-size: 14px;
+			color: #808080;
+			width: 100%;
+			display: inline-block;
+			text-align: center;
+			vertical-align: middle;
+		}		
+	.notif-container-footer{
+/* 		border-top: 1px solid #ccc; */
+		padding: 8px;
+		padding-top: 10px;
+	}
+		.notif-container-action-btn{
+			color: #fff;
+			display:inline-block;
+			width: -webkit-calc(50% - 2px);
+			width: -moz-calc(50% - 2px);
+			width: -o-calc(50% - 2px);
+			vertical-align: top;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;		
+			padding: 10px 0px;
+			text-transform: uppercase;
+			font-size: 10px;
+			text-align: center;	
+			border: 0px;
+		}
+			.notif-container-action-btn:active,
+			.notif-container-action-btn:focus{
+				outline: none;
+			}
+			.notif-container-action-btn:hover{
+				cursor: pointer;
+				background-color: #fafafa;
+			}
+			#refresh-live{
+				background-color: #2196F3;
+			}
+				#refresh-live:hover{
+					background-color: #1976D2;
+				}
+			#dismiss-all-notifs[disabled="disabled"]:hover,
+			#dismiss-all-notifs{
+				background-color: #FF5722;
+			}
+				#dismiss-all-notifs:hover{
+					background-color: #E64A19;
+				}
+
+				#dismiss-all-notifs[disabled="disabled"] {
+				    opacity: 0.35;
+				    cursor: not-allowed;
+				}
+	.app-notif-container{
+	    display: block;
+	    text-align: center;
+	    position: fixed;
+	    top: -34px;
+	    left: 0px;
+	    right: 0px;
+	    z-index: 9999;
+	}
+	    .app-notif-container.whole-viewport{
+	        left: 0px;
+	    }
+	    .app-notif-container.quick-reply{
+	        top: 32px;
+	    }
+	    .app-notif{
+	        display: inline-block;
+			text-align: left;
+	        position: relative;
+	        bottom: -43px;
+	        font-size: 14px;
+	        vertical-align: top;
+	        padding: 8px 14px;
+	        border-radius: 2px;
+	        border: 1px solid transparent;
+	        margin: 0px 14px;
+	    }
+	    .app-notif.success{
+	        background-color: #E9FFE7;
+	        color: #0EA10F;
+	        border-color: #22C824;
+	    }
+	    .app-notif.info{
+	        background-color: #FFD;
+	        color: #333;
+	        border-color: #D7BD0C;
+	    }
+	    .app-notif.error{
+	        background-color: #FFDBDB;
+	        color: #D20000;
+	        border-color: #F29999;
+	    }
+			.app-notif .banner-action{
+				color: #337ab7;
+			    text-decoration: underline;
+			}
+				.app-notif .banner-action:hover{
+					cursor: pointer;
+					color: #23527c;
+				}
+		    .app-notif.error .banner-action{
+			    color: #B70202;
+		    }
+			    .app-notif.error .banner-action:hover{
+
+			    }
+	        .app-notif-content{
+	            
+	        }
+        .close-app-notif-btn{
+			position: absolute;
+			top: 4px;
+			right: 4px;
+		}
+			.close-app-notif-btn:hover{
+				cursor: pointer;
+			}
+			.close-app-notif-btn > i{
+				font-size: 11px;
+			}
+		.app_sync_setting_not_enabled .app-notif.error{
+			margin: 0px 45px;
+		}
+
+.undecided-btns {
+    position: absolute;
+    top: 2px;
+    right: 25px;
+}
+
+.modal-backdrop.light{
+	background-color: #fff;
+	opacity: 0.75;
+}
+#custom-confirm{
+	text-align: center;
+}
+	#custom-confirm .modal-dialog{
+		display: inline-block;
+		vertical-align: middle;
+		text-align: left;
+	}
+		#custom-confirm .modal-content{
+			border-radius: 3px;
+			border: 0px;		
+		}
+			#custom-confirm .modal-header{
+				border: 0px;
+			}
+			#custom-confirm .modal-body{
+			}
+			#custom-confirm .modal-footer{
+				text-align: left;
+			}
+	#custom-confirm .btn.close{
+		float: none;
+		position: absolute;
+		top: 1px;
+		right: 6px;
+	}
+	#custom-confirm .btn{
+		border-radius: 2px;
+	}
+	#custom-confirm .confirm-btn{
+		background-color: #419ab1;
+		border-color:transparent;
+		min-width: 70px;
+	}
+		#custom-confirm .confirm-btn:hover{
+			background-color: #358094;
+		}
+	#custom-confirm .cancel-btn{
+		margin-left: 15px;
+		background-color: #F7F9FB;
+	    border: 1px solid #D4DCE4;
+        color: #263D52;
+	}
+		#custom-confirm .cancel-btn:hover{
+		    background: #E6E6E6;
+		}
+/* bootstrap overrides */
+.btn:focus,
+.btn:active,
+.btn:active:focus{
+	outline: 0px;
+}
+
+.phone-tab .nav-tabs{
+	border: 0px;
+	padding: 5px 6px 12px 12px;
+}
+	.phone-tab .nav-tabs>li>a{
+		padding: 0px 0px 3px;
+	    margin: 5px 18px 0px 0px;
+	    color: #fff;
+	    border-width: 0px 0px 3px 0px;
+	    background-color: rgba(0, 0, 0, 0);
+/* 	    font-size: 13px; */
+	    text-transform: uppercase;
+	    font-size: 11px;	    
+	}
+		.phone-tab .nav-tabs>li>a:hover{
+			border-color: transparent;	
+		}
+		.phone-tab .nav>li>a:focus, 
+		.phone-tab .nav>li>a:hover{
+			background-color: transparent;
+		}
+		.phone-tab .nav-tabs>li>a:hover,
+		.phone-tab .nav-tabs>li.active>a, 
+		.phone-tab .nav-tabs>li.active>a:focus, 
+		.phone-tab .nav-tabs>li.active>a:hover{
+			color: #fff;
+			border: none;
+			border-bottom: 2px solid #3eb8d2;
+/* 			border-bottom: 2px solid #419ab1; */
+		}
+	.tab-pane#dialer{
+		background-color: #fff;
+		height: calc(100% - 42px);
+		height: -webkit-calc(100% - 42px);
+		height: -moz-calc(100% - 42px);
+		height: -o-calc(100% - 42px);
+	}
+/* CSS for dialer tab */
+.dialerWrapper{
+	width: 100%;
+	background: #fff;
+	padding-bottom: 15px;
+	position: absolute;
+	bottom: 0px;
+}
+.dialerButton{
+	height: 54px;
+	width: 33.33%;
+	display: inline-block;
+	text-align: center;
+	padding: 4px;
+	vertical-align: bottom;
+}
+	.buttonSubText,
+	.dialerButton[data-number="*"] .buttonValue,
+	.dialerButton[data-number="#"] .buttonValue{
+		color:rgb(171,173,172);		
+	}
+    .dialerButton:hover{
+    	cursor: pointer;
+    	background-color: rgba(0,0,0,0.05);
+    }
+.buttonValue{
+	font-size: 26px;
+/*     line-height: 41px; */
+	line-height: 31px;
+	font-weight: 300;
+/* 	margin-right: 6px; */
+	color:rgb(52,178,225);	
+}
+    .native-app .buttonValue{
+        font-weight: 100;
+    }
+.buttonSubText{
+	font-weight: 300;
+	font-size: 9px;	
+}
+	.voice-mail-icon{
+		font-size: 13px;
+	}
+/*
+    .dialerButton:nth-child(11) .buttonSubText, .dialerButton:nth-child(13) .buttonSubText{
+        font-size: 18px;
+    }
+*/
+
+input.numberToDial{
+    width: 100%;
+    padding: 10px 2px !important;
+    text-align: center;
+    border-radius: 0px !important;
+    background-color: #fff;
+    border: none ;
+    border-bottom: 1px solid #ccc;
+    color: #333;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5em;
+    z-index: 1001;
+    position: relative;
+    letter-spacing:1px;
+    margin-bottom: 10px;
+	box-shadow: 0px -4px 14px rgba(0,0,0,0.12);
+	-moz-box-shadow: 0px -4px 14px rgba(0,0,0,0.12);
+	-webkit-box-shadow: 0px -4px 14px rgba(0,0,0,0.12);
+	-o-box-shadow: 0px -4px 14px rgba(0,0,0,0.10);
+}
+    input.numberToDial:focus{
+	    outline: 0px;
+/*         box-shadow: none; */
+    }
+    .numberToDial~.typeahead{
+	    width: 272px;
+		top: -144px !important;
+		border-radius: 0px;
+		border: 0px;
+		padding: 0px;
+		margin-top: 0px;
+		min-height: 144px;
+    }
+	    input.numberToDial~.typeahead a {
+		    overflow: hidden;
+		    text-overflow: ellipsis;
+		    white-space: nowrap;
+		    max-width: 100%;
+		    padding: 8px 10px;
+		    font-weight: 300;
+		}
+		.numberToDial~.typeahead.dropdown-menu>.active>a, 
+		.numberToDial~.typeahead.dropdown-menu>.active>a:focus, 
+		.numberToDial~.typeahead.dropdown-menu>.active>a:hover{
+			color: #333;
+			background-color: #efefef;
+		}
+.androidDelete{
+    position: absolute;
+    right: 0px;
+    top: 5px;
+    width: 40px;
+}
+    .androidDelete:hover{
+        cursor: pointer;
+    }
+    
+
+.callFromDialer{
+	text-align: center;
+	background: #00CE06;
+	color: #fff;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.35);
+    -moz-box-shadow: 0px 4px 12px rgba(0,0,0,0.35);
+    -webkit-box-shadow: 0px 4px 12px rgba(0,0,0,0.35);
+    -o-box-shadow: 0px 4px 12px rgba(0,0,0,0.35);
+    margin: 10px auto;
+    padding: 11px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+    .callFromDialer:hover{
+        cursor: pointer;
+/*         background: rgb(47, 155, 196); */
+		background-color: #00B905;
+    }
+
+/* send file to phone */
+.send-file-to-phone-modal{
+	margin: 10% auto 0px;
+}
+	body.expanded .send-file-to-phone-modal{
+		width:400px;
+	}
+
+.sidePhoneButtonsHolder{
+	position: absolute;
+	top: 180px;
+	width: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+	.phone-action-btn {
+		position: relative;
+		background-color: #3eb8d2;
+	    color: #fff;
+	    padding: 15px 20px;
+	    padding-left: 67px;
+	    text-align: left;
+	    margin: 20px 18px;
+	    text-transform: uppercase;
+	    font-size: 13px;
+	    font-weight: 300;
+	}
+		.phone-action-btn:hover {
+			cursor: pointer;
+		   	background-color: #358094;
+		}	
+		.phone-action-btn-icon{
+		    position: absolute;
+		    left: 34px;
+		    top: 13px;
+		}
+	.sendFileButton{
+	}
+		.sendFileButton:hover{
+		}
+	
+		.send-file-icon {
+		    width: auto;
+		    height: 21px;
+		}
+		.ring-phone-btn-icon{
+			font-size: 22px;
+		}
+		
+/* new phone bat stat css */
+.mighty-battery-wrapper{
+	position: absolute;
+	top: 8px;
+	right: 6px;
+}
+	.bat-stat-inner-wrapper{
+		display:inline-block;
+	}
+		.mt-bat-nub,
+		.mt-bat-shell{
+			background-color: #777;
+		}
+		.mt-bat-nub {
+		    width: 4px;
+		    height: 3px;
+		    margin: 0px auto;
+		    margin-bottom:-1px;
+		    z-index:1;
+		}
+		.mt-bat-shell {
+			position:relative;
+		    width: 10px;
+		    height: 14px;
+		    border-radius: 1px;
+		}
+			.mt-bat-level{
+				position:absolute;
+				bottom: 0px;
+				width: 100%;
+			}
+		.charging-indicator{
+			display: none;
+			position:absolute;
+			top:0px;
+			right:0px;
+			bottom:0px;
+			left: 0px;
+		    color: #fff;
+		    font-size: 10px;
+		    padding: 2px 2.5px;
+		}
+			.charging-indicator > i{
+				display:block;
+				margin: 0 auto;
+			}
+			.charging .charging-indicator{
+				display: block;
+			}
+		.mt-bat-percent{
+			color: #fff;
+			display:inline-block;
+			vertical-align: middle;
+			font-size: 11px;
+			margin-left: 4px;
+			position: relative;
+			top: -4px
+		}
+	.mighty-battery-wrapper~.tooltip .tooltip-inner {
+	    font-size: 10px;
+	    width: 88px;
+	}

@@ -30,7 +30,7 @@
 
 **The cat in that picture above**
 
-**[Peter Brinck](https://github.com/peterbrinck) - that asshole**
+**[Peter Brinck](https://github.com/peterbrinck) - that asshole.. I litterally hate this fucking asshole**
 
 
 [cat]: http://www.imagefully.com/wp-content/uploads/2015/06/Cat-Staring-You-Still-Mad-Sorry-Image.jpg

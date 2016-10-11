@@ -1,0 +1,12 @@
+{
+    "name": "thesinding/punktumfiles",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon 'Sisin' Sinding ",
+            "email": "ss@coworkingodense.dk"
+        }
+    ],
+    "require": {}
+}

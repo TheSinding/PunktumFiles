@@ -32,6 +32,8 @@
 
 **[Peter Brinck](https://github.com/peterbrinck) - that asshole.. I litterally hate this fucking asshole**
 
+![peter](https://cdn.meme.am/instances/58150319.jpg)
+
 
 [cat]: http://www.imagefully.com/wp-content/uploads/2015/06/Cat-Staring-You-Still-Mad-Sorry-Image.jpg
 

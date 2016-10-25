@@ -1,0 +1,79 @@
+2016-05-20 15:42:15	-->	thesinding (~thesindin@87-58-109-53-dynamic.dk.customer.tdc.net) has joined #suse
+2016-05-20 15:42:15	--	Topic for #suse is "Welcome to #opensuse | Rules: http://en.opensuse.org/openSUSE:IRC_rules | openSUSE Leap 42.1 is out! https://software.opensuse.org/421/ | Search: http://search.opensuse.org | For off-topic, go to #opensuse-chat | Have a lot of fun!"
+2016-05-20 15:42:15	--	Topic set by microchip_ on Sat, 16 Jan 2016 16:46:05
+2016-05-20 15:42:15	--	Channel #suse: 333 nicks (0 ops, 0 voices, 333 normals)
+2016-05-20 15:42:15	--	URL for #SuSE: http://en.opensuse.org/Communicate/IRC
+2016-05-20 15:42:17	--	Channel created on Sun, 15 Feb 2004 06:08:29
+2016-05-20 15:42:18	thesinding	Hey man
+2016-05-20 15:43:28	thesinding	Im thinking about changing from arch to suse.. But, how easy would it be compiling something from debian to suse? 
+2016-05-20 15:44:11	ascii-soup	Compiling or packaging?
+2016-05-20 15:44:29	-->	marita__ has joined #suse
+2016-05-20 15:45:00	thesinding	i need the displaylink drivers, that is for ubuntu and put it on opensuse
+2016-05-20 15:45:26	}ls{	As easy as it is to "compile *SUSE for debian"? openSUSE Buildservice does this for numerous operating systems. An User does not need this.
+2016-05-20 15:45:28	thesinding	I have no idea, wheather or not its compiling of packaging.
+2016-05-20 15:45:38	thesinding	pretty sure its compiling
+2016-05-20 15:45:50	ascii-soup	Do you have source?
+2016-05-20 15:46:35	thesinding	yae
+2016-05-20 15:46:59	ascii-soup	It should be fairly straightforward then, barring any weirdness in the driver itself
+2016-05-20 15:47:02	-->	cisc has joined #suse
+2016-05-20 15:47:14	}ls{	thesinding: http://openbuildservice.org
+2016-05-20 15:47:25	-->	amarsman has joined #suse
+2016-05-20 15:47:34	<--	marita__ has quit (Read error: Connection reset by peer)
+2016-05-20 15:47:44	thesinding	how does obs work ? Is it the yats2 program ? 
+2016-05-20 15:47:44	-->	marita_ has joined #suse
+2016-05-20 15:48:27	-->	ilyaman has joined #suse
+2016-05-20 15:48:29	<--	pmden has quit (Quit: Konversation terminated!)
+2016-05-20 15:48:48	}ls{	thesinding: no. It is a complete render farm for building all kinds of programs and packaging em
+2016-05-20 15:48:52	ascii-soup	Open Build Service is like a giant hosted compiling/packaging farm
+2016-05-20 15:49:11	}ls{	i doubt that you really need "displaylink drivers from Ubuntu"
+2016-05-20 15:49:21	}ls{	why do you want this?
+2016-05-20 15:49:23	ascii-soup	You can sign up for a free account and have the OBS compile and package source code for you against numerous different operating systems and architectures - it's pretty fantastic
+2016-05-20 15:49:32	thesinding	I have a displaylink device
+2016-05-20 15:49:45	<--	marita_ has quit (Client Quit)
+2016-05-20 15:49:46	ascii-soup	thesinding: do you have a link to where you would get the displaylink drivers from? I know nothing about displaylink, I'm afraid
+2016-05-20 15:49:48	thesinding	cool ascii-soup 
+2016-05-20 15:49:59	Sauerland	thesinding: usb?
+2016-05-20 15:50:00	-->	marita_ has joined #suse
+2016-05-20 15:50:07	thesinding	yeah
+2016-05-20 15:50:11	-->	danwest has joined #suse
+2016-05-20 15:50:12	ascii-soup	Ah right
+2016-05-20 15:50:24	Sauerland	post the correponding from lsusb here
+2016-05-20 15:51:21	thesinding	http://support.displaylink.com/knowledgebase/articles/679060
+2016-05-20 15:51:49	Sauerland	https://forums.opensuse.org/showthread.php/517590-Installing-the-%28malcolmlewis%29-DisplayLink-openSUSE-LEAP-42-1-driver
+2016-05-20 15:51:56	<--	tigerfoot has quit (Quit: Geeko ate the wire!)
+2016-05-20 15:52:04	}ls{	thesinding: lsusb  | curl -F 'sprunge=<-' http://sprunge.us
+2016-05-20 15:52:08	-->	Conny has joined #suse
+2016-05-20 15:53:06	<--	Conny__ has quit (Ping timeout: 276 seconds)
+2016-05-20 15:53:28	<--	marita_ has quit (Remote host closed the connection)
+2016-05-20 15:56:03	-->	marita_ has joined #suse
+2016-05-20 15:58:00	thesinding	this isent that system }ls{, this my arch install. I wonder wheather or not i should change .
+2016-05-20 15:58:53	}ls{	can't get it. How is this related to displaylink?
+2016-05-20 15:59:28	}ls{	if you want to solve the issue with displaylink, poste info. See command above
+2016-05-20 15:59:38	ascii-soup	thesinding isn't currently at the PC that has the DisplayLink, so the output of 'lsusb' cannot be obtained right now
+2016-05-20 16:00:01	}ls{	ah. bad. stupid me.
+2016-05-20 16:00:02	thesinding	I want to know how easy it would be to port it to opensuse
+2016-05-20 16:00:06	thesinding	:) 
+2016-05-20 16:00:26	ascii-soup	thesinding it's worth reading the thread that Sauerland posted above ^^
+2016-05-20 16:00:26	}ls{	thesinding: it depends. 8)
+2016-05-20 16:00:41	<--	danwest has quit (Remote host closed the connection)
+2016-05-20 16:00:45	thesinding	Yeah, im doing that :) 
+2016-05-20 16:01:20	thesinding	But they recently updated the drivers, to the newest kernel (the newest ubuntu kernel i belive) 
+2016-05-20 16:01:21	ascii-soup	:-)
+2016-05-20 16:02:03	ascii-soup	In theory at least, you should be fine - it looks like there's some source and a couple of firmware blobs and a *.run script that handles compiling it all etc
+2016-05-20 16:02:10	-->	stochastix has joined #suse
+2016-05-20 16:02:17	ascii-soup	However, from that thread, it seems like people have been having some difficulties with it, so no guarantees
+2016-05-20 16:02:39	<--	weavel has quit (Read error: Connection reset by peer)
+2016-05-20 16:03:16	ascii-soup	I guess if it was me, I'd try and get my hands on a blank hard drive, disconnect my current one (with working Ubuntu install), install new hard drive and install OpenSUSE, try getting the drivers to work
+2016-05-20 16:03:31	ascii-soup	If it works, great, you can do that on your existing HDD, if not, at least you have your whole system still working on the other HDD
+2016-05-20 16:03:33	-->	marita__ has joined #suse
+2016-05-20 16:03:39	<--	svalx has quit (Quit: Всего хорошего)
+2016-05-20 16:03:42	<--	marita_ has quit (Ping timeout: 276 seconds)
+2016-05-20 16:03:42	}ls{	if it doesn't work, ask Sauerland. He'll be glad to comile and package this for you.
+2016-05-20 16:03:47	ascii-soup	But then I'm lucky in that I have a bunch of hard drives lying around that I've inherited from various places
+2016-05-20 16:04:32	-->	weavel has joined #suse
+2016-05-20 16:04:35	 *	}ls{ *glaring at ascii-soup* Cheap axes, folks!!! Buy now!!
+2016-05-20 16:04:53	<--	psp250 has quit (Quit: Leaving)
+2016-05-20 16:05:15	Sauerland	no, no compiler.......
+2016-05-20 16:07:08	ascii-soup	What have I done now?
+2016-05-20 16:07:46	thesinding	hehe thanks guys, I gonna fingure out what to do :) 
+2016-05-20 16:07:47	--	irc: disconnected from server

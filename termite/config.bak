@@ -1,0 +1,48 @@
+
+[options]
+# font = Meslo LG M DZ for Powerline Regular 9 
+font = Source Code Pro For Powerline Regular 9
+clickable_url    = true
+browser          = google-chrome
+allow_bold       = true
+allow_italic     = true
+visible_bell     = true
+mouse_autohide   = true
+audible_bell     = true
+padding          = 5
+cursor_blink     = true 
+
+[colors]
+# Base16 Gooey
+# Scheme: Alex Booker <alexbooker@fastmail.im>
+
+foreground      = #E7E8EB
+foreground_bold = #E7E8EB
+cursor          = #E7E8EB
+background      = #282A36 
+# 16 color space
+color0  = #101218
+color1  = #ee829f
+color2  = #a5ffe1
+color3  = #ffefcc
+color4  = #97bbf7
+color5  = #c0b7f9
+color6  = #97e0ff
+color7  = #d1d4e0
+color8  = #7780a1
+color9  = #ee829f
+color10 = #a5ffe1
+color11 = #ffefcc
+color12 = #97bbf7
+color13 = #c0b7f9
+color14 = #97e0ff
+color15 = #ffffff
+
+# 256 color space
+color16 = #f99170
+color17 = #fcc09e
+color18 = #1f222d
+color19 = #252936
+color20 = #C0C5CE
+color21 = #C9CCDB
+

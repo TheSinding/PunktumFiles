@@ -1,0 +1,89 @@
+2016-05-01 20:54:04	-->	TheSinding (~TheSindin@Rizon-1CB2E2F.dk.customer.tdc.net) has joined #linux
+2016-05-01 20:54:04	--	Topic for #linux is "Welcome to #linux ! | Ask your question(s) and be patient as it is different time(s) around the globe | http://chanstat.net/stats/rizon/%23linux"
+2016-05-01 20:54:04	--	Topic set by BlindSight (matt@hyperactive.puppy) on Sun, 04 Oct 2015 00:44:59
+2016-05-01 20:54:04	--	Channel #linux: 177 nicks (17 ops, 1 halfop, 2 voices, 157 normals)
+2016-05-01 20:54:05	--	PvNotice(PI): Welcome to #linux - Give access to your system(s) at your own risk.
+2016-05-01 20:54:06	--	Channel created on Sat, 01 Jan 2000 08:37:03
+2016-05-01 20:54:14	TheSinding	Hey guys.
+2016-05-01 20:54:28	&Caleb	yo
+2016-05-01 20:54:36	TheSinding	I have a problem .. i got got a new xps 15, and cant see to install arch
+2016-05-01 20:54:44	&Caleb	cant see what?
+2016-05-01 20:55:18	TheSinding	When i do bootctl install  i get File system "/boot" isent a FAT EFI System 
+2016-05-01 20:55:22	TheSinding	seem*
+2016-05-01 20:55:54	TheSinding	I tried looking through the arch wiki
+2016-05-01 20:56:03	&Caleb	TheSinding, ok if you want the help you need i strongly suggest joining archlinux on freenode
+2016-05-01 20:56:10	&Caleb	are you following the wiki?
+2016-05-01 20:56:16	TheSinding	I could do that..
+2016-05-01 20:56:18	&Caleb	because you follow it not skim it
+2016-05-01 20:57:32	TheSinding	I made a luks setup, but else, yeah i followed it 
+2016-05-01 20:57:44	TheSinding	Stuck at the UEFI part
+2016-05-01 20:57:56	&Caleb	look into grub2 i think
+2016-05-01 20:58:08	&Caleb	make sure youre using the right boot loader for uefi
+2016-05-01 20:58:56	TheSinding	Like grub? 
+2016-05-01 21:00:13	&Caleb	yes
+2016-05-01 21:00:59	TheSinding	I just cant install grub correctly thats the problem
+2016-05-01 21:01:57	Anubis169	nngh, uefi's caused nothing but trouble since it came in :/
+2016-05-01 21:02:44	TheSinding	What is the good thing about UEFI ? .. I could go back too legacy
+2016-05-01 21:05:20	TheSinding	Hrm
+2016-05-01 21:05:24	TheSinding	Maybe i did it
+2016-05-01 21:14:24	<--	Caleb has quit (Quit: Leaving)
+2016-05-01 21:30:16	-->	karasik has joined #linux
+2016-05-01 21:31:09	-->	Caleb has joined #linux
+2016-05-01 21:31:10	--	Mode #linux [+ao Caleb Caleb] by PI
+2016-05-01 21:31:28	<--	Stringer has quit (Ping timeout: 240 seconds)
+2016-05-01 21:33:11	TheSinding	7
+2016-05-01 21:37:51	-->	unit1 has joined #linux
+2016-05-01 21:45:27	-->	Stringer has joined #linux
+2016-05-01 21:48:08	-->	dinkster has joined #linux
+2016-05-01 21:48:18	dinkster	can somebody halp me?
+2016-05-01 21:48:21	dinkster	*help
+2016-05-01 21:48:31	&Dwarf	With?
+2016-05-01 21:48:36	dinkster	im using debian 8.3
+2016-05-01 21:48:47	dinkster	and im trying to install cool-retro-term
+2016-05-01 21:48:52	dinkster	I add the repo
+2016-05-01 21:48:56	dinkster	Run an update
+2016-05-01 21:49:05	dinkster	and run apt-get install cool-retro-term
+2016-05-01 21:49:14	dinkster	But it says package not found?
+2016-05-01 21:50:16	&Dwarf	apt-cache search
+2016-05-01 21:50:26	-->	QORRiE has joined #linux
+2016-05-01 21:50:35	dinkster	ok
+2016-05-01 21:51:03	dinkster	returns nothing
+2016-05-01 21:51:18	&Dwarf	What's the output of apt-get update
+2016-05-01 21:51:24	&Dwarf	Does it hit the repo at all
+2016-05-01 21:51:27	<--	Vector has quit
+2016-05-01 21:51:30	dinkster	I get an error saying some things couldnt be updated
+2016-05-01 21:51:38	dinkster	I think the repo stuff
+2016-05-01 21:51:43	&Dwarf	Most likely
+2016-05-01 21:52:01	dinkster	indeed
+2016-05-01 21:52:23	dinkster	E: Some index files failed to download. They have been ignored, or old ones used instead
+2016-05-01 21:52:27	dinkster	^this
+2016-05-01 21:53:12	&Dwarf	You sure the repo works?
+2016-05-01 21:53:25	dinkster	hm not really
+2016-05-01 21:53:31	dinkster	it sucessfully added it
+2016-05-01 21:54:50	dinkster	says it should work fine in ubuntu based distros
+2016-05-01 21:54:58	dinkster	but ubuntu is debian based
+2016-05-01 21:55:06	dinkster	so maybe thats why it doesnt work
+2016-05-01 22:00:05	<--	karasik has quit (Quit: Terminated (SIGTERM))
+2016-05-01 22:11:40	-->	weemsledeux has joined #linux
+2016-05-01 22:12:51	dinkster	nvm got it working
+2016-05-01 22:12:54	dinkster	thanks anyway
+2016-05-01 22:13:06	dinkster	Had to manually compile it
+2016-05-01 22:14:54	<--	QORRiE has quit (Quit: Exiting...)
+2016-05-01 22:18:15	dinkster	aaaand my computer cant handle it .-.
+2016-05-01 22:18:47	dinkster	great
+2016-05-01 22:19:09	dinkster	pentium d integrated GPU ftw
+2016-05-01 22:22:03	<--	dinkster has left #linux
+2016-05-01 22:30:16	-->	karasik has joined #linux
+2016-05-01 22:53:09	<--	karasik has quit (Ping timeout: 240 seconds)
+2016-05-01 23:01:52	<--	vinylfreak89 has left #linux
+2016-05-01 23:35:33	<--	unit1 has quit (Remote host closed the connection)
+2016-05-01 23:43:11	-->	Cano has joined #linux
+2016-05-01 23:43:11	--	Mode #linux [+h Cano] by PI
+2016-05-02 00:00:13	-->	karasik has joined #linux
+2016-05-02 00:07:11	<--	Phaenix has quit (Quit: Leaving)
+2016-05-02 00:12:18	<--	weemsledeux has quit (Quit: My Mac has gone to sleep. ZZZzzz?)
+2016-05-02 00:22:19	--	Compass is now known as Compass_Away
+2016-05-02 00:30:06	<--	karasik has quit (Quit: Terminated (SIGTERM))
+2016-05-02 00:43:32	-->	xerox123-Mobile has joined #linux
+2016-05-02 00:50:59	-->	weemsledeux has joined #linux
+2016-05-03 23:17:50	--	irc: disconnected from server

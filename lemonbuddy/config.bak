@@ -1,0 +1,207 @@
+[settings]
+; Limit the amount of events sent to lemonbar within a set timeframe:
+; - "Allow <throttle_limit> updates within <throttle_ms> of time"
+; Default values:
+throttle_limit =22 
+throttle_ms = 50
+
+[bar/example]
+;monitor = eDP1
+top = true
+dock = false
+
+width = 100%
+height = 50
+
+offset_x = 12
+offset_y = 40
+
+background = #E7E8EB
+foreground = #232323
+
+occupied_fg = #787878
+active_fg = #232323
+urgent_fg = #F85A72
+spacing = 1
+lineheight = 0
+
+padding_left = 0 
+padding_right = 0
+module_margin_left = 0
+module_margin_right = 0
+
+font-0 = San Francisco Display:size=12:weight=bold;
+font-1 = FontAwesome:size=12;0
+
+
+modules-left = bspwm
+modules-right =  wired-network volume battery date time lock shutdown
+
+[module/wired-network]
+type = internal/network
+interface = wlp2s0
+label-connected =    connected
+label-disconnected =  disconnected
+format-padding = 2
+
+[module/wireless-network]
+type = internal/network
+interface = wlp2s0
+
+[module/lock]
+type = custom/script
+exec = echo "|     "
+click-left = $HOME/scripts/lock $HOME/Pictures/lock.png
+format-padding = 1
+
+[module/updates]
+type = custom/script
+exec = python3 ~/.bin/num.py
+interval = 100
+
+[module/date]
+type = internal/date
+date = |     %a %d
+format-padding = 1
+
+[module/shutdown]
+type = custom/script
+exec = echo " |         "
+click-left = exec poweroff
+format-padding = 1
+
+[module/wifi]
+type = custom/script
+exec = sh wifi.sh
+format-padding = 1
+
+[module/time]
+type = internal/date
+date  =   %H:%M
+format-padding = 1
+
+[module/volume]
+type = internal/volume
+;speaker_mixer = Speaker
+;headphone_mixer = Headphone
+;headphone_control_numid = 9
+
+format-volume-padding = 1
+format-muted-padding = 1
+
+label-volume = |      %percentage%
+label-muted = 
+
+[module/bspwm]
+type = internal/bspwm
+
+; workspace_icon-[0-9]+ = label;icon
+  workspace_icon-0 = desktop; 
+  workspace_icon-1 = term; 
+  workspace_icon-2 = code; 
+  workspace_icon-3 = chrome; 
+  workspace_icon-4 = files; 
+  workspace_icon-5 = music; 
+  workspace_icon-6 = chat; 
+
+
+; Available tags:
+ ;   <label-state> (default) - gets replaced with <label-(active|urgent|occupied|empty)>
+ ;   <label-mode> - gets replaced with <label-(monocle|tiled|fullscreen|floating|locked|sticky|private)>
+ format = <label-state> <label-mode>
+
+ ; If any values for label-dimmed-N area defined, the workspace/mode colors will get overridden
+ ; with those values if the monitor is out of focus
+ label-dimmed-foreground = #555
+
+ ; Available tokens:
+ ;   %name%
+ ;   %icon%
+ ;   %index%
+ ; Default: %icon%  %name%
+ label-active = "%name% %icon%"
+ label-active-foreground = background
+ 
+ ; Available tokens:
+ ;   %name%
+ ;   %icon%
+ ;   %index%
+ ; Default: %icon%  %name%
+ label-occupied = %icon% %name%
+ label-occupied-foreground = #787878
+
+ ; Available tokens:
+ ;   %name%
+ ;   %icon%
+ ;   %index%
+ ; Default: %icon%  %name%
+ label-urgent = %icon%
+ label-urgent-foreground = urgent_fg
+
+ ; Available tokens:
+ ;   %name%
+ ;   %icon%
+ ;   %index%
+ ; Default: %icon%  %name%
+ label-empty = %icon%
+ label-empty-foreground = #8fa1b3
+
+
+[module/battery]
+type = internal/battery
+
+; This is useful in case the battery never reports 100% charge
+full_at = 99
+
+; Use the following command to list batteries and adapters:
+; $ ls -1 /sys/class/power_supply/
+battery = BAT0
+adapter = AC
+
+; Seconds between reading battery capacity.
+; If set to 0, polling will be disabled.
+;poll_interval = 3
+
+; Available tags:
+;   <label-charging> (default)
+;   <bar-capaity>
+;   <ramp-capacity>
+;   <animation-charging>
+format-charging = <animation-charging> <label-charging>
+
+; Available tags:
+;   <label-discharging> (default)
+;   <bar-capaity>
+;   <ramp-capacity>
+format-discharging = <ramp-capacity> <label-discharging>
+
+; Available tags:
+;   <label-full> (default)
+;   <bar-capaity>
+;   <ramp-capacity>
+;format-full = <ramp-capacity> <label-full>
+
+; Available tokens:
+;   %percentage% (default)
+label-charging =%percentage%
+
+; Available tokens:
+;   %percentage% (default)
+label-discharging =%percentage%
+
+; Available tokens:
+;   %percentage% (default)
+label-full =   full
+
+ramp-capacity-0 =  
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+;bar-capacity-width = 5
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-framerate_ms = 750

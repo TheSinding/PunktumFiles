@@ -1,0 +1,170 @@
+2016-04-15 01:31:01	--	irc: connecting to server irc.oftc.net/6667...
+2016-04-15 01:31:02	--	irc: connected to irc.oftc.net/6667 (81.18.73.124)
+2016-04-15 01:31:02	--	dacia.oftc.net: *** Looking up your hostname...
+2016-04-15 01:31:02	--	dacia.oftc.net: *** Checking Ident
+2016-04-15 01:31:02	--	dacia.oftc.net: *** Found your hostname
+2016-04-15 01:31:13	--	dacia.oftc.net: *** No Ident response
+2016-04-15 01:31:13	--	Welcome to the OFTC Internet Relay Chat Network thesinding
+2016-04-15 01:31:13	--	Your host is dacia.oftc.net[81.18.73.124/6667], running version hybrid-7.2.2+oftc1.6.19
+2016-04-15 01:31:13	--	This server was created Jun 19 2015 at 18:54:58
+2016-04-15 01:31:13	--	dacia.oftc.net hybrid-7.2.2+oftc1.6.19 CDGPRSabcdfgiklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2016-04-15 01:31:13	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=390 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2016-04-15 01:31:13	--	CHANLIMIT=#:70 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2016-04-15 01:31:13	--	58PAAC24P :your unique ID
+2016-04-15 01:31:13	--	There are 35 users and 10564 invisible on 18 servers
+2016-04-15 01:31:13	--	24 :IRC Operators online
+2016-04-15 01:31:13	--	27 :unknown connection(s)
+2016-04-15 01:31:13	--	2517 :channels formed
+2016-04-15 01:31:13	--	I have 1176 clients and 1 servers
+2016-04-15 01:31:13	--	Current local users: 1176  Max: 1330
+2016-04-15 01:31:13	--	Current global users: 10599  Max: 11302
+2016-04-15 01:31:13	--	Highest connection count: 1331 (1330 clients) (130696 connections received)
+2016-04-15 01:31:13	--	- dacia.oftc.net Message of the Day -
+2016-04-15 01:31:13	--	-   O
+2016-04-15 01:31:13	--	-    \   The Open and Free
+2016-04-15 01:31:13	--	-     O
+2016-04-15 01:31:13	--	-    /|  Technology Community
+2016-04-15 01:31:13	--	- O-O O
+2016-04-15 01:31:13	--	-
+2016-04-15 01:31:13	--	- Welcome to OFTC's IRC network.
+2016-04-15 01:31:13	--	-
+2016-04-15 01:31:13	--	- The Open and Free Technology Community was founded at the
+2016-04-15 01:31:13	--	- end of 2001 by a group of experienced members of the Open
+2016-04-15 01:31:13	--	- Source and Free Software communities; it is aimed at
+2016-04-15 01:31:13	--	- providing these communities with better communication,
+2016-04-15 01:31:13	--	- development, and support infrastructure. Our goal is to
+2016-04-15 01:31:13	--	- provide stable services to members of the community in any
+2016-04-15 01:31:13	--	- part of the world, while listening closely to their needs
+2016-04-15 01:31:13	--	- and desires.
+2016-04-15 01:31:13	--	-
+2016-04-15 01:31:13	--	- We are not a general purpose chat platform, but a topical
+2016-04-15 01:31:13	--	- network intent on providing the open source and free
+2016-04-15 01:31:13	--	- software communities a means to cooperate and communicate.
+2016-04-15 01:31:13	--	- As such, illegal and off-topic activity, such as warez
+2016-04-15 01:31:13	--	- trading, may result in being barred from access.
+2016-04-15 01:31:13	--	-
+2016-04-15 01:31:13	--	- For more information on OFTC, please visit http://www.oftc.net/.
+2016-04-15 01:31:13	--	-
+2016-04-15 01:31:13	--	- If you require assistance stop by in channel #oftc, or email
+2016-04-15 01:31:13	--	- support@oftc.net with details.
+2016-04-15 01:31:13	--	-
+2016-04-15 01:31:13	--	- Thanks and enjoy your stay,
+2016-04-15 01:31:13	--	-
+2016-04-15 01:31:13	--	-         The OFTC team
+2016-04-15 01:31:13	--	End of /MOTD command.
+2016-04-15 01:31:13	--	User mode [+i] by thesinding
+2016-04-15 01:31:24	--	awe :Illegal channel name
+2016-04-15 01:47:38	--	irc: disconnected from server
+2016-04-15 20:35:10	--	irc: connecting to server irc.oftc.net/6667...
+2016-04-15 20:35:11	--	irc: connected to irc.oftc.net/6667 (81.18.73.124)
+2016-04-15 20:35:11	--	dacia.oftc.net: *** Looking up your hostname...
+2016-04-15 20:35:11	--	dacia.oftc.net: *** Checking Ident
+2016-04-15 20:35:11	--	dacia.oftc.net: *** Found your hostname
+2016-04-15 20:35:22	--	dacia.oftc.net: *** No Ident response
+2016-04-15 20:35:22	--	Welcome to the OFTC Internet Relay Chat Network thesinding
+2016-04-15 20:35:22	--	Your host is dacia.oftc.net[81.18.73.124/6667], running version hybrid-7.2.2+oftc1.6.19
+2016-04-15 20:35:22	--	This server was created Jun 19 2015 at 18:54:58
+2016-04-15 20:35:22	--	dacia.oftc.net hybrid-7.2.2+oftc1.6.19 CDGPRSabcdfgiklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2016-04-15 20:35:22	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=390 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2016-04-15 20:35:22	--	CHANLIMIT=#:70 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2016-04-15 20:35:22	--	58PAAC3QX :your unique ID
+2016-04-15 20:35:22	--	There are 35 users and 10904 invisible on 18 servers
+2016-04-15 20:35:22	--	24 :IRC Operators online
+2016-04-15 20:35:22	--	28 :unknown connection(s)
+2016-04-15 20:35:22	--	2468 :channels formed
+2016-04-15 20:35:22	--	I have 1236 clients and 1 servers
+2016-04-15 20:35:22	--	Current local users: 1236  Max: 1330
+2016-04-15 20:35:22	--	Current global users: 10939  Max: 11302
+2016-04-15 20:35:22	--	Highest connection count: 1331 (1330 clients) (131496 connections received)
+2016-04-15 20:35:22	--	- dacia.oftc.net Message of the Day -
+2016-04-15 20:35:22	--	-   O
+2016-04-15 20:35:22	--	-    \   The Open and Free
+2016-04-15 20:35:22	--	-     O
+2016-04-15 20:35:22	--	-    /|  Technology Community
+2016-04-15 20:35:22	--	- O-O O
+2016-04-15 20:35:22	--	-
+2016-04-15 20:35:22	--	- Welcome to OFTC's IRC network.
+2016-04-15 20:35:22	--	-
+2016-04-15 20:35:22	--	- The Open and Free Technology Community was founded at the
+2016-04-15 20:35:22	--	- end of 2001 by a group of experienced members of the Open
+2016-04-15 20:35:22	--	- Source and Free Software communities; it is aimed at
+2016-04-15 20:35:22	--	- providing these communities with better communication,
+2016-04-15 20:35:22	--	- development, and support infrastructure. Our goal is to
+2016-04-15 20:35:22	--	- provide stable services to members of the community in any
+2016-04-15 20:35:22	--	- part of the world, while listening closely to their needs
+2016-04-15 20:35:22	--	- and desires.
+2016-04-15 20:35:22	--	-
+2016-04-15 20:35:22	--	- We are not a general purpose chat platform, but a topical
+2016-04-15 20:35:22	--	- network intent on providing the open source and free
+2016-04-15 20:35:22	--	- software communities a means to cooperate and communicate.
+2016-04-15 20:35:22	--	- As such, illegal and off-topic activity, such as warez
+2016-04-15 20:35:22	--	- trading, may result in being barred from access.
+2016-04-15 20:35:22	--	-
+2016-04-15 20:35:22	--	- For more information on OFTC, please visit http://www.oftc.net/.
+2016-04-15 20:35:22	--	-
+2016-04-15 20:35:22	--	- If you require assistance stop by in channel #oftc, or email
+2016-04-15 20:35:22	--	- support@oftc.net with details.
+2016-04-15 20:35:22	--	-
+2016-04-15 20:35:22	--	- Thanks and enjoy your stay,
+2016-04-15 20:35:22	--	-
+2016-04-15 20:35:22	--	-         The OFTC team
+2016-04-15 20:35:22	--	End of /MOTD command.
+2016-04-15 20:35:22	--	User mode [+i] by thesinding
+2016-04-19 23:16:26	--	irc: connecting to server irc.oftc.net/6667...
+2016-04-19 23:16:27	--	irc: connected to irc.oftc.net/6667 (109.169.7.194)
+2016-04-19 23:16:27	--	kinetic.oftc.net: *** Looking up your hostname...
+2016-04-19 23:16:27	--	kinetic.oftc.net: *** Checking Ident
+2016-04-19 23:16:27	--	kinetic.oftc.net: *** Found your hostname
+2016-04-19 23:16:38	--	kinetic.oftc.net: *** No Ident response
+2016-04-19 23:16:38	--	Welcome to the OFTC Internet Relay Chat Network thesinding
+2016-04-19 23:16:38	--	Your host is kinetic.oftc.net[109.169.7.194/6667], running version hybrid-7.2.2+oftc1.6.19
+2016-04-19 23:16:38	--	This server was created Apr  9 2016 at 10:29:27
+2016-04-19 23:16:38	--	kinetic.oftc.net hybrid-7.2.2+oftc1.6.19 CDGPRSabcdfgiklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2016-04-19 23:16:38	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=390 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2016-04-19 23:16:38	--	CHANLIMIT=#:70 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS KNOCK AWAYLEN=160 ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+2016-04-19 23:16:38	--	0M7AAAEBQ :your unique ID
+2016-04-19 23:16:38	--	There are 32 users and 10836 invisible on 18 servers
+2016-04-19 23:16:38	--	22 :IRC Operators online
+2016-04-19 23:16:38	--	27 :unknown connection(s)
+2016-04-19 23:16:38	--	2469 :channels formed
+2016-04-19 23:16:38	--	I have 441 clients and 1 servers
+2016-04-19 23:16:38	--	Current local users: 441  Max: 518
+2016-04-19 23:16:38	--	Current global users: 10868  Max: 11245
+2016-04-19 23:16:38	--	Highest connection count: 519 (518 clients) (5237 connections received)
+2016-04-19 23:16:38	--	- kinetic.oftc.net Message of the Day -
+2016-04-19 23:16:38	--	-   O
+2016-04-19 23:16:38	--	-    \   The Open and Free
+2016-04-19 23:16:38	--	-     O
+2016-04-19 23:16:38	--	-    /|  Technology Community
+2016-04-19 23:16:38	--	- O-O O
+2016-04-19 23:16:38	--	-
+2016-04-19 23:16:38	--	- Welcome to OFTC's IRC network.
+2016-04-19 23:16:38	--	-
+2016-04-19 23:16:38	--	- The Open and Free Technology Community was founded at the
+2016-04-19 23:16:38	--	- end of 2001 by a group of experienced members of the Open
+2016-04-19 23:16:38	--	- Source and Free Software communities; it is aimed at
+2016-04-19 23:16:38	--	- providing these communities with better communication,
+2016-04-19 23:16:38	--	- development, and support infrastructure. Our goal is to
+2016-04-19 23:16:38	--	- provide stable services to members of the community in any
+2016-04-19 23:16:38	--	- part of the world, while listening closely to their needs
+2016-04-19 23:16:38	--	- and desires.
+2016-04-19 23:16:38	--	-
+2016-04-19 23:16:38	--	- We are not a general purpose chat platform, but a topical
+2016-04-19 23:16:38	--	- network intent on providing the open source and free
+2016-04-19 23:16:38	--	- software communities a means to cooperate and communicate.
+2016-04-19 23:16:38	--	- As such, illegal and off-topic activity, such as warez
+2016-04-19 23:16:38	--	- trading, may result in being barred from access.
+2016-04-19 23:16:38	--	-
+2016-04-19 23:16:38	--	- For more information on OFTC, please visit http://www.oftc.net/.
+2016-04-19 23:16:38	--	-
+2016-04-19 23:16:38	--	- If you require assistance stop by in channel #oftc, or email
+2016-04-19 23:16:38	--	- support@oftc.net with details.
+2016-04-19 23:16:38	--	-
+2016-04-19 23:16:38	--	- Thanks and enjoy your stay,
+2016-04-19 23:16:38	--	-
+2016-04-19 23:16:38	--	-         The OFTC team
+2016-04-19 23:16:38	--	End of /MOTD command.
+2016-04-19 23:16:38	--	User mode [+i] by thesinding
+2016-04-20 00:57:01	--	irc: disconnected from server
+2016-04-20 00:57:03	=!=	irc: not connected to server "awe"!
+2016-04-20 02:15:49	--	irc: disconnected from server

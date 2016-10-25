@@ -1,0 +1,25 @@
+Xft.dpi: 160.0
+
+!! ------------------------------ ROFI ------------------------------- !!
+!! ----------------------------------------------------------------------
+!! ----------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.width: 900
+!rofi.height: 2160
+rofi.padding:800
+rofi.fullscreen: true
+!rofi.lines: 9
+!rofi.color-window: argb:aa181818, argb:aa181818, #1818181
+!rofi.color-normal: argb:0095C7AE, #8fa1b3, argb:0095C7AE, argb:55101218, #95C7AE
+!rofi.color-normal:                   #ffffff,#525d76,#f5f5f5,#5294e2,#ffffff
+!rofi.color-urgent:                   #ffffff,#dc322f,#f5f5f5,#5294e2,#dc322f
+!rofi.color-window:                   argb:#a0ffffff,#f5f5f5
+rofi.color-window: argb:a0ffffff, #f5f5f5, #000000
+!rofi.color-active: #fdf6e3, #268bd2, #eee8d5, #268bd2, #fdf6e3
+rofi.color-normal: argb:077dfd8, #232323, argb:0eee8d5, argb:aeffffffr, #268bd2
+rofi.color-active: argb:aeffffff, #268bd2, argb:0eee8d5, argb:0268bd2, #fdf6e3
+rofi.color-urgent: argb:0fdf6e3, #dc322f, argb:0eee8d5, argb:0dc322f, #fdf6e3
+rofi.separator-style: none
+!! ----------------------------------------------------------------------
+!! ----------------------------------------------------------------------
+rofi.font:	San Francisco Display Regular 26

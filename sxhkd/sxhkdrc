@@ -74,8 +74,12 @@ super + {t,shift + t,s,f}
 super + ctrl + {x,y,z}
 	bspc node -g {locked,sticky,private}
 
-super + u
-   /home/thesinding/scripts/sr
+Print
+	scrot $HOME/screenshots/'%d_%m_%Y_%H:%M:%S_$wx$h.png'
+super + Print
+	klibbert -f
+super + alt  + Print
+	klibbert -r
 #
 # focus/swap
 #

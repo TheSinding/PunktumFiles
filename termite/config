@@ -1,7 +1,7 @@
 
 [options]
-# font = Meslo LG M DZ for Powerline Regular 9 
-font = Source Code Pro For Powerline Regular 9
+# font = Meslo LG M DZ for Powerline Regular 9
+font = Source Code Pro For Powerline Regular 10
 clickable_url    = true
 browser          = google-chrome
 allow_bold       = true
@@ -10,47 +10,39 @@ visible_bell     = true
 mouse_autohide   = true
 audible_bell     = true
 padding          = 5
-cursor_blink     = true 
+cursor_blink     = true
 
 [colors]
-# Base16 Gooey
-# Scheme: Alex Booker <alexbooker@fastmail.im>
 
 foreground      = #E7E8EB
 foreground_bold = #E7E8EB
 cursor          = #E7E8EB
-background      = #282A36 
-[colors]
+background      = #2F333A
 
-# special
-foreground      = #ffffff
-foreground_bold = #ffffff
-cursor          = #ffffff
-background      = #1b1b1b
 
 # black
 color0  = #3d3d3d
 color8  = #4d4d4d
 
 # red
-color1  = #6673bf
-color9  = #899aff
+color1  = #ab624f
+color9  = #dd7e66
 
 # green
-color2  = #3ea290
-color10 = #52ad91
+color2  = #9ba785
+color10 = #c9d9ac
 
 # yellow
-color3  = #b0ead9
-color11 = #98c9bb
+color3  = #b77f4a
+color11 = #e9a15e
 
 # blue
-color4  = #31658c
-color12 = #477ab3
+color4  = #8799a7
+color12 = #afc6d9
 
 # magenta
-color5  = #596196
-color13 = #7882bf
+color5  = #aa7f7c
+color13 = #dca4a0
 
 # cyan
 color6  = #8292b2
@@ -59,4 +51,3 @@ color14 = #95a7cc
 # white
 color7  = #c8cacc
 color15 = #edeff2
-

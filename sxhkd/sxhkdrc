@@ -45,8 +45,8 @@ super + Escape
 	bspc node -{c,k}
 
 # Lock 
-super + Delete
-	$HOME/scripts/lockBlur
+super + Delete 
+	fancyLock
 
 # alternate between the tiled and monocle layout
 super + m
@@ -148,5 +148,5 @@ super + alt + shift + {h,j,k,l}
 super + ctrl + {h,j,k,l}
 	bspc node -m {Left,Down,Up,Right}
 # move a floating window
-#super + {Left,Down,Up,Right}
-#	bspc node -v {-20 0,0 20,0 -20,20 0}
+super + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}

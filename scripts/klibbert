@@ -1,0 +1,31 @@
+#!/bin/bash   
+# Written by Simon Sinding - 2016 Github.com/TheSinding/
+SCREENSHOT_DIR="$HOME/screenshots/"
+SCROT_FILE_OPTIONS="%Y-%m-%d_\$wx\$h_scrot.png"
+
+if [ ! -d $SCREENSHOT_DIR ]; then
+	echo "Info: $HOME/screenshots/ does not exists, creating it!"
+	mkdir $SCREENSHOT_DIR
+fi
+
+if [ $1 ]; then
+	if [ $1 = '-h' ]; then
+		echo "Written by Simon Sinding - 2016 - Github.com/TheSinding/"
+		echo "Usage: klibbert [OPTIONS]"
+		echo "	-h, 	Shows this help"
+		echo "	-f,		Fullscreen screenshot"
+		echo "	-r,		Region screenshot"
+	elif [ $1 = '-f' ]; then
+		url=$(scrot $SCREENSHOT_DIR$SCROT_FILE_OPTIONS -e 'pastey -f $f' 2>&1)
+	elif [ $1 = '-r' ]; then
+		url=$(scrot -s $SCREENSHOT_DIR$SCROT_FILE_OPTIONS -e 'pastey -f $f' 2>&1)
+	else
+		echo "$1 is an unknown parameter. See -h for help"
+	fi
+	if [ $url ]; then 
+		xdg-open $url
+	fi
+else
+	echo "You need to add parameters. See -h for help"
+fi
+

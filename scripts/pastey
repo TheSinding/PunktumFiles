@@ -1,0 +1,17 @@
+#!/bin/sh
+if [ $1 ]; then 
+	if [ $1 = '-h' ]; then
+		echo "Written by Simon Sinding - 2016 - github.com/TheSinding/"
+		echo "Usage: pastey [OPTION] [FILE]"
+		echo "	-h		Shows this help"
+		echo "	-f		Upload file"
+	elif [ $1 = '-f' ]; then
+		RETURN=$(curl -F c=@- https://ptpb.pw < $2 2>&1)
+		URL=$(echo "$RETURN" | sed -n -e 's/^\(url: \)\(.*\)$/\2/p' 2>&1)
+		echo $URL;
+	else 
+		echo "$1 is an unknown parameter. See -h for help"
+fi
+else
+	echo "No file specified. See -h for help"
+fi

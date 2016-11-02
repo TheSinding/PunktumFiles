@@ -1,0 +1,22 @@
+#!/bin/bash
+if [ $1 ]; # if there is an arguemnt.
+then 
+    url=$(pbpst -Sf $1 2>&1)  
+    array=(${url//:/ })
+    for i in "${!array[@]}"
+    do
+       if [[ ${array[i]} == "pbpst" ]];
+       then
+           echo "The paste did already exsist"
+           echo ${array[4]} ${array[5]} 
+           google-chrome-stable "http:${array[5]}"
+           exit
+       else
+            google-chrome-stable $url 
+        exit
+       fi
+       done
+else
+    echo "The argument has too be a path to a file"
+fi
+

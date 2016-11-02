@@ -1,0 +1,8 @@
+#!/bin/bash
+mv ~/code/havnegadeBooking/codecanyon-7460830-booki-a-booking-plugin-for-wordpress/assets/css/bootstrap.debug.min.css ~/code/havnegadeBooking/codecanyon-7460830-booki-a-booking-plugin-for-wordpress/assets/css/bootstrap.min.css
+ftp -n  <<EOF
+open ftp.havnegade4.dk
+user ss@havnegade4.dk Cwoismyhome2!
+put ~/code/havnegadeBooking/codecanyon-7460830-booki-a-booking-plugin-for-wordpress/assets/css/bootstrap.min.css /public_html/wp-content/plugins/codecanyon-7460830-booki-a-booking-plugin-for-wordpress/assets/css/bootstrap.min.css
+bye
+EOF

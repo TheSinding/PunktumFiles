@@ -1,0 +1,18 @@
+{
+  "name": "PunktumFiles",
+  "homepage": "https://github.com/thesinding/PunktumFiles",
+  "authors": [
+    "TheSinding <ss@coworkingodense.dk>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
